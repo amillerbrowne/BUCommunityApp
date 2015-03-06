@@ -1,0 +1,60 @@
+GRS ES 702: Quantitative Methods for Earth Sciences II: Analysis and Modeling of Geologic Processes
+		Quantitative techniques for deriving models of geologic processes from physical measurements. Applications include marine sediment composition, soil response to solar heating, seismic-wave propagation in the mantle, estuarine water quality, glacial and interglacial cycles, and olivine deformation.		
+
+GRS ES 719: Colloquium in Terrestrial Biogeoscience
+		Introduction to the field of Terrestrial Biogeoscience through weekly research presentations and discussions with GRS faculty and distinguished guests. Students also meet weekly with lead faculty member to discuss primary literature related to each presentation. Also offered as GRS BI 719 and GRS GE 719.		
+
+GRS ES 720: Practicum in Terrestrial Biogeoscience
+		Analysis and synthesis of the primary literature via in-depth case studies in terrestrial biogeoscience. Students meet weekly with faculty to read papers from the primary literature, synthesize results, and prepare a peer-review quality paper on the case study. Also offered as GRS BI 720 and GRS GE 720.		
+
+GRS ES 771: Isotope Earth Science
+		Stable and radiogenic isotope geochemistry; isotope geology of hydrogen, carbon, oxygen, nitrogen, chlorine, and sulphur; applications of isotope systematics to geochemical problems in hydrology, ocean biogeochemistry, and crustal genesis. (Offered alternate years.)		
+
+GRS ES 772: Trace Element Geochemistry
+           			Trace elements are used to understand the origin and evolution of igneous and metamorphic rocks and  this is applicable to low temperature environments. The course develops models for understanding the  partitioning of trace elements in these systems.		
+
+GRS ES 835: Advanced Topics in Marine Geosciences
+           			Develops skills in critical scientific thinking through readings and discussions of classic and current literature in marine geosciences.		
+
+GRS ES 911: Geomorphology and Hydrogeology
+			
+
+GRS ES 912: Geomorphology and Hydrogeology
+			
+
+GRS ES 921: Crystallography and Mineralogy
+			
+
+GRS ES 922: Crystallography and Mineralogy
+			
+
+GRS ES 925: Igneous and Metamorphic Petrology
+			
+
+GRS ES 926: Igneous and Metamorphic Petrology
+			
+
+GRS ES 927: Structural Geology and Tectonics
+			
+
+GRS ES 928: Structural Geology and Tectonics
+			
+
+GRS ES 931: Sedimentation and Stratigraphy
+			
+
+GRS ES 932: Sedimentation and Stratigraphy
+			
+
+GRS ES 941: Coastal and Marine Geology
+			
+
+GRS ES 942: Coastal and Marine Geology
+			
+
+GRS ES 961: Ds Geophysics
+			
+
+GRS ES 962: Ds Geophysics
+			
+

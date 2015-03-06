@@ -1,0 +1,60 @@
+GRS AR 906: Directed Research in Old World Prehistoric Archaeology
+	Graduate-level directed research in Old World prehistoric archaeology.		
+
+GRS AR 907: Directed Research in New World Prehistoric Archaeology
+	Graduate-level directed research in New World prehistoric archaeology.		
+
+GRS AR 908: Directed Research in New World Prehistoric Archaeology
+	Graduate-level directed research in New World prehistoric archaeology.		
+
+GRS AR 910: Practicum in Archaeological Heritage Management
+	Full-time internship in an appropriate public or private firm, agency, or other organization involved in the practice of public archaeology.		
+
+GRS AR 911: Practicum in Archaeological Heritage Management
+	Full-time internship in an appropriate public or private firm, agency, or other organization involved in the practice of public archaeology.		
+
+GRS AR 912: Dissertation Research in Archaeology
+			
+
+GRS AR 913: Directed Research in Archaeological Heritage Management
+	Directed research in archaeological heritage management.		
+
+GRS AR 914: Directed Research in Archaeological Heritage Management
+	Directed research in archaeological heritage management.		
+
+GRS AR 917: Directed Research in Geoarchaeology
+	Directed research in geoarchaeology.		
+
+GRS AR 918: Directed Research in Geoarchaeology
+	Directed research in geoarchaeology.		
+
+GRS AS 699: Teaching College Astronomy I
+	The goals, contents, and methods of instruction in astronomy. General teaching-learning issues. Required of all teaching fellows.		
+
+GRS AS 701: Introduction to Astrophysics
+	Introduction to astronomical and astrophysical nomenclature and concepts. Coordinate systems, celestial orbits, radiation, stars, stellar structure, stellar evolution, clusters of stars, galactic components, galactic structure, galaxy types, active galaxies, cosmology. 		
+
+GRS AS 703: Introduction to Space Physics
+	Survey of physical phenomena in the sun, solar wind, magnetospheres, ionospheres, and upper atmospheres of objects in the solar system. Introduction to the physical processes governing space plasmas, solar-terrestrial interactions, and ionized and neutral media surrounding the Earth and other solar system bodies. 		
+
+GRS AS 710: Observational Techniques
+	Telescopes, light detection, and analysis tools and techniques of experimental astronomy. Signal-to-noise calculations. Photometric and spectroscopic instrumentation and applications. Use of the observatory, CCD light detectors, modern software analysis tools, image processing. Proposal writing and science writing. 		
+
+GRS AS 712: Radiative Processes in Astrophysics
+	Generation, propagation, and transfer of electromagnetic radiation. Spectral energy distributions, continuum radiation, spectral lines. Interaction of radiation with matter, transfer of radiation through astrophysical media. Thermal and nonthermal radiative processes. 		
+
+GRS AS 713: Astronomical Spectroscopy
+	Spectroscopic processes in astrophysics. Energy levels in atoms and molecules. Atomic and molecular spectral lines. Excitation of atoms and molecules. Transfer of line radiation. Spectroscopic instruments. Derivation of physical parameters from spectroscopic observations.		
+
+GRS AS 725: Gravitational Astrophysics
+	Orbital theory: two-body and three-body problems. Gravitational encounters. N-body problem and star/galaxy clusters. Precession and nutation. Special and General relativity. Collapsed stellar objects and black holes. Gravitational lensing.		
+
+GRS AS 726: Cosmic Gas Dynamics
+	Gas dynamics as applied to astrophysical settings. Basic fluid mechanics. Ideal gases. One-dimensional gas flow. Supersonic flows and shock waves. Quasar jets and stellar winds. Fluid instabilities, turbulence, and convection. 		
+
+GRS AS 727: Plasma Physics
+	Physics of space and astrophysical plasmas. Individual particle drifts in fields, electrostatic and electromagnetic waves and instabilities, magnetohydrodynamics, kinetic theory of waves, instabilities, and Landau damping.		
+
+GRS AS 751: The Interstellar Medium
+		Interstellar medium components and phases. Neutral hydrogen clouds, 21 cm line, Zeeman effect. Ionized nebulae, free-free radiation, recombination lines, ionization balance, thermal balance. Molecular clouds, collisional and radiative excitation, line formation and propagation, rotational and vibrational energies. Interstellar chemistry.  		
+

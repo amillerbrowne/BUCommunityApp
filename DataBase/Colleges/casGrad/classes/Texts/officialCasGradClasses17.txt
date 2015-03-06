@@ -1,0 +1,60 @@
+GRS PH 658: Crime and Punishment: Philosophical Perspectives
+	Study of fundamental issues in criminal law, including the theory and definition of crime; economic,  utilitarian, and retributivist justifications of punishment; exculpating circumstances; the death penalty; and  the relationship between law and politics. 		
+
+GRS PH 659: Political and Legal Philosophy
+           			Examination of the individual's responsibilities under law, specifically of the idea that there is a general  moral obligation to obey the law, including unjust law, and the contrasting idea of civil disobedience-- the  possibility of morally justified resistance to law.		
+
+GRS PH 660: Epistemology
+	An examination of some of the central questions concerning the nature, scope, sources, and structure of knowledge.		
+
+GRS PH 661: Mathematical Logic
+           			The syntax and semantics of sentential and quantificational logic, culminating in the Godel Completeness   Theorem. The Godel Incompleteness Theorem and its ramifications for computability and philosophy.		
+
+GRS PH 662: Foundations of Mathematics
+		Axiomatic set theory as a foundation for, and field of, mathematics: Axiom of Choice, the Continuum  Hypothesis, and consistency results.		
+
+GRS PH 663: Philosophy of Language
+	The most representative problem areas in contemporary philosophy of language are discussed, criticized, and put into a new perspective. They include Frege's sense-reference theory, quantification and anaphora, theory of truth, the semantics of intentional and epistemic concepts, strategic aspects of language use, identification and individuation, metaphor, demonstratives and indexical, discourse and dialogue theory, and selected language disturbances (dyslexia, autism).		
+
+GRS PH 665: Philosophy of Cognitive Science
+	Can humans be thought of in analogy with machines? The course examines questions of natural and artificial intelligence in light of traditional theory and of recent research in computer science and artificial intelligence.		
+
+GRS PH 668: Philosophical Problems of Logic and Mathematics
+	Selected traditional metaphysical and epistemological problems in the light of modern logic and various studies in the foundations of mathematics, including the nature of axiomatic method, completeness in logic and mathematics, and the nature of mathematical truth. 		
+
+GRS PH 670: Philosophy of Physics
+	Philosophical problems concerning the interpretation of physical discoveries.  Elementary particles, the anomalies of quantum mechanics, some modern problems of space and time, and the problem of wholes and parts.		
+
+GRS PH 672: Philosophy of Biology
+	Conceptual problems in biology; unity or pluralism of science; hierarchy theory; biological explanation; evolutionary theory, teleology and causality, statistical explanation; the species problem; mind and the brain; and language in animals and humans. 		
+
+GRS PH 677: Philosophy of the Social Sciences
+			
+
+GRS PH 680: Topics in Ancient and Medieval Philosophy
+			
+
+GRS PH 682: Topics in Modern and Contemporary Philosophy
+		Topics vary from semester to semester; may be repeated for credit as topics change. Topic for Spring  2013: Heidegger. A careful reading of Heidegger's major work, Being and Time. The end of the course  looks at some of Heidegger's shorter works written later in his career, in order to consider some of the  directions of his famous "turn."		
+
+GRS PH 683: Topics in the Philosophy of Religion
+	Focus on a specific topic in the philosophy of religion. Topic for Fall 2010: Problem of Evil. A philosophical  and theological analysis of the problem of evil, as formulated in the Bible and other sacred texts, ancient  and modern philosophy, literature, and cinema. Also offered as GRS RN 743.		
+
+GRS PH 684: Topics in Speculative Philosophy
+		Topics for Fall 2007: A study of the metaphysics of being, God, time, eternity,nature and value through the works of Robert Neville (the instructor) and dialectical neighbors.		
+
+GRS PH 687: Topics in the Philosophy of Science
+	A discussion-based introduction to core issues in the philosophy of science, focusing on the topics of   scientific realism, theory change, reductionism, explanation, models, and natural kinds.		
+
+GRS PH 699: Teaching College Philosophy I
+	The goals, contents, and methods of instruction in philosophy. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS PH 801: Ancient Philosophy 1
+	An advanced study of works by either Plato or Aristotle.		
+
+GRS PH 802: Ancient Philosophy 2
+	An advanced study of works by either Plato or Aristotle..		
+
+GRS PH 827: Heidegger
+	An advanced study of the works of Heidegger.		
+

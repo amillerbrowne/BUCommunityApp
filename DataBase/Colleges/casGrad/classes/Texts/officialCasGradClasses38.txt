@@ -1,0 +1,60 @@
+GRS CL 967: Ds Anc Greek
+			
+
+GRS CL 968: Ds Anc Greek
+			
+
+GRS CL 991: Ds Classic Stdy
+			
+
+GRS CL 992: Ds Classic Stdy
+			
+
+GRS CN 730: Models of Visual Perception
+		Offers advanced survey of topics in the neural and computational modeling of psychophysical data in mammalian vision. Assignments include oral presentations on selected readings and a term paper containing a literature review and model development and analysis.		
+
+GRS CN 780: Topics in Computational Neuroscience
+		In this seminar, recent research papers and applications in computational neuroscience are reviewed. Topics covered include cortical modeling, analog VLSI, active perception, robotic control, stereo vision, and computer-aided neuroanatomy. 		
+
+GRS CS 640: Artificial Intelligence
+		Studies computer systems that exhibit intelligent behavior, in particular, perceptual and robotic systems.  Topics include human computer interfaces, computer vision, robotics, game playing, pattern recognition, knowledge representation, planning.   		
+
+GRS CS 651: Distributed Systems
+           			Programming-centric introduction to how networks of computers are structured to operate as coherent single systems. Introducing principles of architecture, processes, communications, naming, synchronization, consistency and replication, fault tolerance and security, and paradigms such as web-based, object-based, file system, and consistency-based.		
+
+GRS CS 655: Graduate Computer Networks
+           			Concepts underlying the design of high-performance computer networks and scalable  protocols. Topics include Internet design principles and methodology, TCP/IP  implementation, packet switching and routing algorithms, multicast, quality of service  considerations, error detection and correction, and performance evaluation.		
+
+GRS CS 660: Graduate Introduction to Database Systems
+           			Graduate introduction to database management systems. Examines entity-relationship,  relational, and object-oriented data models; commercial query languages: SQL,  relational algebra, relational calculus, and QBE; file organization, indexing and hashing,  query optimization, transaction processing, concurrency control and recovery, integrity,  and security.		
+
+GRS CS 680: Graduate Introduction to Computer Graphics
+           			Introduction to computer graphics algorithms, programming methods, and applications. Focus on fundamentals of two- and three-dimensional raster graphics: scan-conversion, clipping, geometric transformations, and camera modeling. Introduce concepts in computational geometry, computer-human interfaces, animation, and visual realism. 		
+
+GRS CS 697: Computer Science Graduate Initiation
+		Guidance for graduate students embarking on a research career in computer science. Topics include: research resources and methodologies, the research project development process, refereeing and reviewing, written and oral presentations, the dissertation, writing effective research proposals, ethics, and career planning. (Required of first-year doctoral candidates; open to interested CS Master's students.)		
+
+GRS CS 698: CS Teaching Fellow Training
+	Covers topics needed to be successful computer science teaching fellow. These include goals, content, and methods of instruction in computer science, and general teaching/learning issues. Required once of all teaching fellows.		
+
+GRS CS 699: Teaching College Computer Science I
+           			The goals, contents, and methods of instruction in computer science. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS CS 791: Advanced Topics in Computer Science
+           			Seminar restricted to graduate students; topics of mutual interest to faculty and students and not currently available in the graduate program.		
+
+GRS CS 910: Drs Systems
+			
+
+GRS CS 911: Drs Systems
+			
+
+GRS CS 920: Drs-Prog Lang
+			
+
+GRS CS 921: Drs-Prog Lang
+			
+
+GRS CS 930: Drs-Algor Info
+			
+

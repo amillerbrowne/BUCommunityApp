@@ -1,0 +1,60 @@
+GRS EN 744: Less Read Nineteenth Century British Novels
+	Studies in less often read major novels from the British nineteenth century, including "The Heart of  Midlothian," "Mary Barton," "Hard Times," "Villette," "Daniel Deronda," and "New Grub Street." Some  emphasis on cultural thickness and old sectarian groups versus modern populations.		
+
+GRS EN 745: Information Revolutions and Transatlantic Nineteenth-Century Literature
+	What happens to literature with the rise of mass print culture, quantitative science, bureaucracy, and facticity? Poe, Dickens, Melville, Thoreau, Whitman, Browning, Henry James, and Wilkie Collins. Historical methods, plus some information theory, philosophy of science, and digital humanities tools.		
+
+GRS EN 746: The South in Modern American Fiction
+	Exploration of how US South figured in imagining national modernity. Modernism as problematic with  Southern bent: Faulkner, Welty, Toomer, Erskine Caldwell, Hurston, R.P. Warren, Wright, O'Connor. Equal  attention to broad, systematic examination of scholarship on major topics in modernism.		
+
+GRS EN 776: Stevens and Auden: Rhetoric and Poetry
+	Modernism tried to forge a new unrhetorical language, but two radically different poets, Stevens and  Auden, both "return to rhetoric" as a condition of thought and language to be exploited and reformed.   Focus on public/private divide, poetry in war times.		
+
+GRS EN 778: Succession and Early Modern Tragedy
+	Early modern stagings of the logic and tragedy of succession. Readings include historical texts on Tudor- Stuart succession crises, several Shakespeare plays (incl. Lear, Macbeth), less canonical plays (Spanish  Tragedy, Massacre at Paris), and contemporary letters (Queen Elizabeth, Arbella Stuart).		
+
+GRS EN 786: Caribbean Provocations
+	Significant texts from the Anglophone Caribbean from 1912 to the present, challenging to read and to  theorize. Locally inspired innovations in form, language, and perspective across genres. Likely authors:  Naipaul, Harris, Kincaid, Walcott, Antoni, McKay, Goodison, Morris, Roach, Brathwaite, Johnson.		
+
+GRS EN 788: Transnational Modernism
+	This interdisciplinary course explores how globalization shaped the emergence of modernist styles in the  U.S. and the Caribbean.  Topics include transatlantic migration; the effects of mobilization and world war;  the rise of black internationalism; and modernist indebtedness to Asian cultures.		
+
+GRS EN 794: Professional Seminar
+           			Developing professional skills and preparing for advanced independent scholarship for English doctoral students in the last semester of coursework. Course includes preparation for comprehensive exam and dissertation prospectus; conference paper submission; publication; fellowship and job applications.		
+
+GRS EN 843: Modernist Gothic
+	Readings from Dorian Gray through Endgame, by such authors as Stoker, Conrad, Woolf, Barnes, Faulkner,  Capote, Ellison, and Morrison, in relation to nineteenth-century precursors, contemporary emanations,  monsters as myth, and conceptual framings from Arendt and Levi-Strauss through the posthuman.		
+
+GRS EN 855: Modern Exoticism: Transnational Exchanged, Collaborations,Appropriations
+	Modernism as a global phenomenon marked by longings for and fears of the exotic, but also by encounters, collaborations, and generic exchanges. Focusing on dramatic and poetic forms, with readings in translation, performance, and postcolonial theory, subaltern and gender studies. 		
+
+GRS EN 993: Directed Study in English
+			
+
+GRS EN 994: Directed Study in English
+			
+
+GRS ES 623: Ecosystem Biogeochemistry
+		Nutrient and biogeochemical cycles in terrestrial, freshwater, and marine ecosystems; global biogeochemistry. Topics include anthropogenic effects on ecosystem cycles and productivity, wetland ecology and biogeochemistry, ecosystem restoration, ocean productivity, climate change and temperate, tropical, and aquatic ecosystems, oceans and the global CO2  budget, marine sediment chemistry. (Offered alternate years.)		
+
+GRS ES 640: Marine Geology
+           			Examines the evolution of ocean basins and marginal seas, changes in structure and composition of ocean basin throughout the last billion years, and the contribution of oceanic geological processes to the chemistry and biochemistry of earth.		
+
+GRS ES 643: Terrestrial Biogeochemistry
+           			The patterns and processes controlling carbon and nutrient cycling in terrestrial ecosystems. Links between local and global scales are emphasized. Topics include net primary production, nutrient use efficiency, and biogeochemical transformation. Meets with GRS BI 643. 		
+
+GRS ES 660: Geodynamics I
+           			(Meets with CAS ES 360.)  Introduces basic physical principles of Earth's structure and dynamics.  Driving mechanisms and plate motion; reflection, refraction seismology, magnetism, gravity and the Geoid, heat flow, tomography, mantle convection.  Oceanic and continental lithosphere in active tectonic regions. 		
+
+GRS ES 671: Geochemistry
+           			(Meets with CAS ES 371.)  Chemical features of Earth and the solar system; geochemical cycles, reactions among solids, liquids, and gases; radioactivity and isotope fractionation; water chemistry; origins of ore deposits; applications of geochemistry to regional and global problems. 		
+
+GRS ES 683: Geodynamics II Fluids and Fluid Transport
+		Large- and small-scale phenomena in oceanic, atmospheric, and land-surface fluids. Properties of gases and liquids; surface body forces; statics; flow analysis; continuity and momentum conservation. Darcy's Law; potential, open channel and geostrophic flow; dimensional analysis; diffusion, turbulence. Offered alternate years.		
+
+GRS ES 699: Teaching College Earth Sciences I
+	The goals, contents, and methods of instruction in earth sciences. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS ES 701: Quantitative Methods for Earth Sciences 1: Mechanics of Earth Materials
+           			Characterization of the response of complex natural systems to forcing, using the methods of continuum mechanics. Applications include magma migration, the propagation of seismic waves, glacial flow, oceanic thermohaline circulation, and thermochemical convection in the Earth's mantle.		
+

@@ -1,0 +1,60 @@
+GRS BI 621: Biochemistry I
+	Introductory biochemistry. Protein structure and folding enzyme mechanisms, kinetics, and allostery; nucleic acid structure and chemistry; recombinant DNA; lipids and membrane structure; bioenergetics; vitamins and coenzymes; introduction to intermediary metabolism. Three hours lecture, one hour discussion, four hours laboratory, graduate project. 		
+
+GRS BI 622: Biochemistry II (CM)
+	Cell metabolism, with special emphasis on the uptake of food materials, the integration and regulation of catabolic, anabolic and anaplerotic routes, and the generation and utilization of energy. Lectures will include consideration of events in prokaryotic and eukaryotic organisms. Three hours lecture, four hours lab, 1 hour discussion. 		
+
+GRS BI 623: Marine Biogeochemistry
+	Oceanic nutrient and biogeochemical cycling in the context of the marine response to  global change. Links between local and global scales are emphasized. Topics include  oceanic productivity, iron limitation, oceanic glacial carbon dioxide budget, biogenic  particle fluxes, oceanic glacial-interglacial biogeochemistry.		
+
+GRS BI 643: Terrestrial Biogeochemistry
+           			The patterns and processes controlling carbon and nutrient cycling in terrestrial ecosystems.  Links between local and global scales are emphasized.  Topics include net primary production, nutrient use efficiency, and biogeochemical transformation. 		
+
+GRS BI 644: Neuroethology
+	Specialized natural behaviors reveal general principles of systems neuroscience. Examples include vocal  learning in songbirds, sensory-motor integration in bats, and pattern generators in lobsters. Three hours  lecture and literature discussion; three hours laboratory, including microchip programming and neural  recordings.		
+
+GRS BI 645: Cellular and Molecular Neurophysiology
+           			Cellular and molecular basis of neural excitability and synaptic transmission. The molecular understanding of ion channels is extrapolated to higher brain functions such as learning, memory, and sleep. Three hours lecture, three hours lab.		
+
+GRS BI 646: Biology of the Cell Cycle
+	Temporal organization and regulation of cellular function. Includes theory and analysis of methodologies applicable to cell proliferation kinetics, cell synchrony, and FACS sorting; molecular genetics, biochemistry, and physiology of cell cycle phses.  Emphasis is placed on the molecular regulation of growth and differentiation in eukaryotic organisms, from yeast to humans.  Readings in original research literature.  Three hours lecture, one hour discussion.		
+
+GRS BI 648: Biodiversity and Conservation Biology
+	The study of biological diversity and modern methods to protect endangered plant and animal species. The environment, population, genetic, and human factors which affect the survival of species examined for temperate and tropical communities, as well as terrestrial and aquatic habitats. Three hours lecture, one hour discussion. 		
+
+GRS BI 655: Developmental Neurobiology
+	Fundamental principles of developmental neurobiology.  Course stresses molecular mechanisms that underlie early neural development, differentiation, process outgrowth, and behavior.  Three hours lecture, one hour discussion. 		
+
+GRS BI 671: Survey of Ecology, Behavior, Evolution, and Marine Biology
+           			Introduces graduate students to current faculty and research in ecology, behavior, evolution, and marine  biology. Students and faculty share expertise and establish collaborations, helping the Department of  Biology to leverage its most important asset: intellectual capital.		
+
+GRS BI 675: Urban Ecology
+           			The biophysical environments and ecology of urban settlements. Key topics include the physical   environment, patterns in human population growth and development, ecosystem structure and function,   global change, urban environment pollution and management, and sustainable urban development. Also  offered as GRS GE 675.		
+
+GRS BI 681: Molecular Biology of the Neuron
+	The study of interactions between neurotransmitters and receptors in the nervous system.  Topics include electrical properties of neurons, a survey of neurotransmitters, molecular structure and function of receptors, synaptic transmission, intracellular signaling, and the molecular biology of sensory transduction.		
+
+GRS BI 697: A Bridge to Knowledge: A Practical Seminar for First-Year Graduate Students in Biology
+           			A seminar for first-year biology and MCBB graduate students. Basic pedagogical theory and professional  development topics are covered. The course is intended to help students become effective teachers and  members of the graduate community. Also offered as GRS MB 697.		
+
+GRS BI 699: Teaching College Biology I
+	The goals, contents, and methods of instruction in biology. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS BI 702: Graduate Readings in Biology
+		Library research on well-defined subjects determined in consultation with faculty member. 		
+
+GRS BI 719: Colloquium in Terrestrial Biogeoscience
+		Introduction to the field of Terrestrial Biogeoscience through weekly research presentations and discussions with GRS faculty and distinguished guests. Students also meet weekly with lead faculty  member to discuss primary literature related to each presentation. Also offered as GRS ES 719 and GRS GE 719.		
+
+GRS BI 720: Practicum in Terrestrial Biogeoscience
+		Analysis and synthesis of the primary literature via in-depth case studies in terrestrial biogeoscience. Students meet weekly with faculty to read papers from the primary literature, synthesize results, and  prepare a peer-review quality paper on the case study. Also offered as GRS ES 720 and GRS GE 720.		
+
+GRS BI 735: Advanced Cell Biology
+	Current understanding of essential topics and important problems in modern cell biology, with emphasis  on recent experimental findings, research strategies and approaches, and new techniques for investigating  how cells work.  Three hours lecture, one hour discussion.		
+
+GRS BI 753: Advanced Molecular Biology
+		In-depth analysis of current topics in molecular biology regarding the flow of information in the nucleus of  eukaryotic cells. Focus on primary literature. Includes genomic  flexibility, signal transduction to the  nucleus, chromatin structure, gene expression, cell  cycle checkpoints, health-related topics.		
+
+GRS BI 755: Cellular and Systems Neuroscience
+	Survey course in neurobiology. Topics covered include cell biology of the neuron, development of the  nervous system, synaptic plasticity, learning and behavior, and network modeling. Three hours lecture, one  hour discussion.		
+
