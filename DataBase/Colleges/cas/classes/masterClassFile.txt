@@ -351,7 +351,7 @@ CAS AM 376: Housing America
 	What do dwellings say about the diversity of American experience? For over four centuries and across a  continent, wealth and poverty, family and community, taste and technology have all shaped the meaning of  home. Illustrated lecturers supplemented by field trips. Also offered as CAS AH 376.		
 
 CAS AM 501: Special Topics in American Studies
-	Topic for Fall 2014: Reading Boston: Conversations about the Real and Imagined City. Team-taught by  English (Howell) and History of Art &amp; Architecture (Morgan) professors. Multidisciplinary examination of  Boston from Wampanoag settlement to the present. Explores how specific neighborhoods have developed  and how they have been presented in literature. Includes frequent site visits around Boston. Serves as AM  capstone.		
+	Topic for Fall 2014: Reading Boston: Conversations about the Real and Imagined City. Team-taught by  English (Howell) and History of Art & Architecture (Morgan) professors. Multidisciplinary examination of  Boston from Wampanoag settlement to the present. Explores how specific neighborhoods have developed  and how they have been presented in literature. Includes frequent site visits around Boston. Serves as AM  capstone.		
 
 CAS AM 502: Special Topics in American Studies
 	Topic for Spring 2015: American Baseball. This interdisciplinary research seminar examines the history, culture, and science of the game from its shadowy origins in the early days of the nineteenth century, explosive growth in popularity during the Jazz Age, to the controversy-ridden Steroid Era.		
@@ -614,7 +614,7 @@ CAS AR 215: The Contested Past
 CAS AR 222: Art and Architecture of Ancient America
 	Introduction to the cities, monuments, and major art styles of the Aztec, the Maya, the Inca, and their  predecessors in ancient Mesoamerica and the Andes from the first millennium BCE to the sixteenth  century. 		
 
-CAS AR 230: Introduction to Greek &amp; Roman Archaeology
+CAS AR 230: Introduction to Greek & Roman Archaeology
 	How material remains help us understand aspects of Ancient Greek and Roman cultures in their historical  development: religious and civic spaces; the culture of affluence; imperial identity; and the transformations  that mark the end of classical antiquity. Carries humanities divisional credit in CAS.		
 
 CAS AR 232: Archaeology of Ancient Egypt
@@ -757,7 +757,7 @@ CAS AR 556: Archaeological Field Research Experience
 CAS AR 570: Studies in Historical Archaeology
 	Topics vary. Intensive coverage of particular aspects of historical archaeology as selected by instructor. (Course fulfills department area or technical requirement.)		
 
-CAS AR 577: Pots and Pans: The Material Culture of Cookery &amp; Dining
+CAS AR 577: Pots and Pans: The Material Culture of Cookery & Dining
 	Exploration of food cultures and technologies through utensils for food preparation and consumption;  kitchens from prehistory to present; tradition and fashion in cooking and dining vessels; cooking  technology; utensils as metaphors and symbols. Ranges broadly across cultures, time, and space.		
 
 CAS AR 590: Life Is a Bowl: Ceramic Studies in Archaeology
@@ -1418,7 +1418,7 @@ CAS EN 380: Twentieth-Century African American Novel
 	Topic for Spring 2013: Transformations of Genre in the Twentieth-Century African American Novel. Major  works drawn from the Harlem Renaissance, Realism, Modernism, the Black Arts Movement, and the  contemporary period. Authors may include Jean Toomer, Nella Larsen, Wallace Thurman, Richard Wright,  Anne Petry, Ralph Ellison, Octavia Butler, John Wideman, Gloria Naylor, and Toni Morrison. Also offered as  AA 502.		
 
 CAS EN 389: Fictional Forms
-	Topic for Fall 2014: The Gothic: Monsters, Myths, History. Survey of Gothic as a narrative form (by contrast  with the realistic novel) with attention to history (as a Gothic narrative) and modern myths (Frankenstein's  monster, vampire, zombie, cyborg). Nineteenth &amp; twentieth-century fiction primarily, with an eye on today  throughout.		
+	Topic for Fall 2014: The Gothic: Monsters, Myths, History. Survey of Gothic as a narrative form (by contrast  with the realistic novel) with attention to history (as a Gothic narrative) and modern myths (Frankenstein's  monster, vampire, zombie, cyborg). Nineteenth & twentieth-century fiction primarily, with an eye on today  throughout.		
 
 CAS EN 401: Senior Independent Work
            					
@@ -1439,7 +1439,7 @@ CAS EN 463: Hamlet/Macbeth: Appropriation and Performance
 	Analysis of these plays through historical context, performance histories, and contemporary dramatic and  prose appropriations. Theoretical considerations of adaptation and appropriation, including such topics as  intertextuality, performance as interpretation, cultural politics, canon formation, and the global  marketplace of culture.		
 
 CAS EN 468: Critical Studies in British Literature
-	Topic for Fall 2014: Humanism &amp; Novel. Instead of following the history of the novel from the  eighteenth  century forward, this course looks backward, tracing the modern novel (Defoe, Haywood,  Fielding,  Richardson, Sterne, and Austen) back to Renaissance and early modern Humanism and the Deist   movement.		
+	Topic for Fall 2014: Humanism & Novel. Instead of following the history of the novel from the  eighteenth  century forward, this course looks backward, tracing the modern novel (Defoe, Haywood,  Fielding,  Richardson, Sterne, and Austen) back to Renaissance and early modern Humanism and the Deist   movement.		
 
 CAS EN 471: Critical Studies in American Literary Movements
 	Topic for Fall 2012: Modernity in the Atlantic World. An "Atlantic Studies" introduction focusing on the  historical conditions that unite Britain and America in a single, though internally various, culture. Readings  include Gilroy, Bailyn, Ellison, Roach, Defoe, Paine, Equiano, Douglass, Dickens, and James.		
@@ -1773,7 +1773,7 @@ CAS HI 215: The European Enlightenment
 CAS HI 216: The Second Sex in European History
 	Until recently, most people believed women a "second sex," inferior to men in mind and body. Exploring gender politics and women's lives from the Middle Ages to the present, this course charts a long struggle for equal rights and opportunities.   		
 
-CAS HI 221: Catastrophe &amp; Memory
+CAS HI 221: Catastrophe & Memory
 	Examines the ways in which catastrophes, both natural and social, enter into cultural memory. Goal is to    understand how events that seem to defy comprehension are represented in works of art and given a place    in the memory of a culture. This course cannot be taken for credit in addition to the course with the title "Catastrophe and Cultural Memory" that was previously numbered CAS HI 248. Also offered as CAS PO 394.		
 
 CAS HI 225: Communications Revolutions from Language to Cyberspace
@@ -1849,7 +1849,7 @@ CAS HI 291: Politics of the American Environment
 	When have Americans addressed declining resources and ecological deterioration? Why hasn't every  environmental problem provoked a policy response? This course examines how debates over  environmental rights and risks shaped U.S. political history from the country's beginning to the present.  This course cannot be taken for credit in addition to the course with the same title that was  previously  numbered CAS HI 360.		
 
 CAS HI 292: Capitalism in America: Economic History of the US
-	Surveys the history of corporations and private enterprise since the Civil War, disentangling the evolving  relationships between business and government and tracing the influence of money, markets, and their  managers in American communities from factories to the frontiers. This course cannot be taken for credit  in addition to the course with the title "Money, Markets &amp; Managers: Economic History of the United States"  that was previously numbered CAS HI 377.		
+	Surveys the history of corporations and private enterprise since the Civil War, disentangling the evolving  relationships between business and government and tracing the influence of money, markets, and their  managers in American communities from factories to the frontiers. This course cannot be taken for credit  in addition to the course with the title "Money, Markets & Managers: Economic History of the United States"  that was previously numbered CAS HI 377.		
 
 CAS HI 294: American Evangelicalism
 	Major trends in American Evangelicalism, from the colonial awakenings and religious reform to the  contemporary Christian Right. Focus on how evangelicals have negotiated and shaped central tenets of  American culture, including understandings of gender, race, performance, nation, sexuality, and  economics. Also offered as CAS RN 368.		
@@ -2300,7 +2300,7 @@ CAS IR 465: The United States and the Cold War
 	Examination of American Cold War foreign policy from its origins at the end of World War  II through its conduct--Marshall Plan, Detente, Cold War II--to the collapse of the Berlin  Wall and the Soviet Union. Reading seminar. Also offered as CAS HI 465.		
 
 CAS IR 500: Topics in International Relations
-	Examines various aspects of International Relations. Topics vary from semester to semester. Five topics    are offered Fall 2014. Students may take any number of sections for credit. Section A1: Principles of   International Negotiation. Focuses on the process of international negotiations using simulations,   exercises and games. Special emphasis on negotiation analysis, dynamics, strategy and tactics in the   international setting and in both bilateral and multilateral contexts. Issues of power, culture and   implementation also discussed. Section B1: Comparative Immigration and Racial Politics. Examines   immigration policies and domestic racial hierarchies across world regions and regime-types.   Investigates the role of immigration and racial hierarchy in economic development, state formation,   nationalism and electoral politics. Case studies include the US, Brazil, Britain, France, the UAE and Japan.   Section C1: Rise of BRICS &amp; the Global Economy. Why have some developing countries grown richer and   others poorer? What does the rise of countries like China mean for the economic fortunes of high-  income countries? Addresses these questions through developmental successes and disasters   throughout the world. Section D1: Cyber Conflict &amp; internet Freedom. (Meets with CAS CS 591 E1.)  Examines the problems confronting the world in addressing network and computer insecurity while  upholding privacy and civil liberties. While the U.S. has championed the "freedom-to-connect" as a  human right, it has also established a new military command for cyberspace. Section E1: Nuclear  Strategy. From the sling shot to the submarine, new weapons have given those deploying them critical  military advantage. But the destructive power and proliferation of nuclear weapons has challenged  mankind to seek ways of controlling them before it is too late.		
+	Examines various aspects of International Relations. Topics vary from semester to semester. Five topics    are offered Fall 2014. Students may take any number of sections for credit. Section A1: Principles of   International Negotiation. Focuses on the process of international negotiations using simulations,   exercises and games. Special emphasis on negotiation analysis, dynamics, strategy and tactics in the   international setting and in both bilateral and multilateral contexts. Issues of power, culture and   implementation also discussed. Section B1: Comparative Immigration and Racial Politics. Examines   immigration policies and domestic racial hierarchies across world regions and regime-types.   Investigates the role of immigration and racial hierarchy in economic development, state formation,   nationalism and electoral politics. Case studies include the US, Brazil, Britain, France, the UAE and Japan.   Section C1: Rise of BRICS & the Global Economy. Why have some developing countries grown richer and   others poorer? What does the rise of countries like China mean for the economic fortunes of high-  income countries? Addresses these questions through developmental successes and disasters   throughout the world. Section D1: Cyber Conflict & internet Freedom. (Meets with CAS CS 591 E1.)  Examines the problems confronting the world in addressing network and computer insecurity while  upholding privacy and civil liberties. While the U.S. has championed the "freedom-to-connect" as a  human right, it has also established a new military command for cyberspace. Section E1: Nuclear  Strategy. From the sling shot to the submarine, new weapons have given those deploying them critical  military advantage. But the destructive power and proliferation of nuclear weapons has challenged  mankind to seek ways of controlling them before it is too late.		
 
 CAS IR 501: Conflict and Cooperation in Asia
            			Meets with CAS PO 554. Investigates patterns of conflict and cooperation in South and East Asia   surrounding issues ranging from water resources and health to borders and war. Analyzes how  such issues  contribute to instability in the region, as well as methods of cooperation.		
@@ -3640,19 +3640,19 @@ CAS NS 322: Maritime History and Culture
 CAS NS 323: Marine Environmental History
            			Employs methods and sources of historians and social scientists. Examines the role of human societies in  coastal and open ocean environmental change. Issues include resource conservation, overfishing,  pollution, invasive species, and climate change.		
 
-CAS NS 326: The Ocean &amp; Global Change
+CAS NS 326: The Ocean & Global Change
            			Ocean ecosystem change in the anthropocene: warming, acidification, fisheries depletion, and pollution.  Reviews principles of circulation, seawater chemistry, nutrient dynamics, and biological production to  understand causes and consequences of change. Field measurements for contribution to time‐series  datasets are conducted.		
 
 CAS NS 327: Cultural Landscapes and Seascapes: A Sense of Place
            			Field‐intensive analysis and documentation of dynamic relationships between nature and culture in specific  coastal, island, and ocean places. Cultural landscape and related interdisciplinary bio‐cultural approaches  are applied to place‐based environmental studies.		
 
-CAS NS 328: Toward a Sustainable Ocean: Conservation &amp; Management
+CAS NS 328: Toward a Sustainable Ocean: Conservation & Management
            			Comparative and issue‐driven introduction to managing human uses and conserving coastal and ocean  places and resources. Explores concepts of technology, governance, sector and ecosystem management,  and marine protected areas through expert content lectures, topical seminars, and field trips.		
 
 CAS NS 329: Leadership in a Dynamic Environment
            			How to be an effective leader while leveraging the individual strengths of a team. Uses leadership theory  and case studies to understand how decisions affect outcomes. Students participate as an active member  of a ship's crew, progressively assuming full leadership roles.		
 
-CAS NS 330: Data Communication &amp; Visualization
+CAS NS 330: Data Communication & Visualization
 CAS NS 450: Advanced Topics in Biological Oceanography
            			In-depth treatment of a single topic in biological oceanography. Extensive review of classical and  contemporary literature. Introduction and practice of current laboratory techniques. Oral presentation and research paper required. Topics may include marine plankton ecology, biodiversity, and satellite oceanography.		
 
@@ -4023,7 +4023,7 @@ CAS PO 392: Modern Political Theory
 CAS PO 393: The European Enlightenment
 	Survey of the intellectual and social transformation of Europe from the 1680s to the French Revolution.   Readings draw on both eighteenth-century sources (including Voltaire, Diderot, Condorcet, Lessing, Smith,  and Hume) and recent work by historians. Also offered as CAS HI 215. This course cannot be taken for  credit in addition to the course with the same title that was previously numbered CAS PO 395.		
 
-CAS PO 394: Catastrophe &amp; Memory
+CAS PO 394: Catastrophe & Memory
 	Examines the ways in which catastrophes, both natural and social, enter into cultural memory. Goal is to   understand how events that seem to defy comprehension are represented in works of art and given a place in the memory of a culture. Also offered as CAS HI 221. This course cannot be taken for credit in addition  to the course with the same title that was previously numbered CAS PO 397.		
 
 CAS PO 396: Philosophy of Gender and Sexuality
@@ -4497,7 +4497,7 @@ CAS RN 220: Holy City: Jerusalem in Time, Space, and Imagination
 CAS RN 224: Women and Religion
 	Explores the roles, images, and experiences of women across a range of religious traditions. Topics key to the study of religion and gender are considered, including religious experience, the gendering of the body, and sources of religious authority.		
 
-CAS RN 241: Topics in Religion &amp; Evil
+CAS RN 241: Topics in Religion & Evil
 	Topics vary; may be repeated for credit. Topic for Fall 2014: Evil and Suffering in World Literature. Explores  the philosophical, theological, and ethical issues raised by suffering and evil in Jewish, Buddhist, Hindu,  and Christian literature. Topics include the perils of perfection and the problem of original sin.		
 
 CAS RN 242: Magic, Science, and Religion
@@ -4668,7 +4668,7 @@ CAS RN 468: Symbol, Myth, and Rite
 CAS RN 470: Topics in Medieval Religious Culture
            			Topic for Fall 2013: Christian, Muslim, and Jew: Religion, Community, and Culture in Medieval Spain. Interactions between Muslims, Christians, and Jews in medieval Europe's most religiously diverse region - from the establishment of an Islamic al-Andalus in 711 CE to the final Christian "reconquest" of the  peninsula and expulsion of the Jews in 1492 CE. Also offered as CAS HI 407.		
 
-CAS RN 494: Magical Texts: Literature &amp; Practice
+CAS RN 494: Magical Texts: Literature & Practice
            			An advanced course in the interpretation of ancient magical texts, emphasizing the use of theoretical models (Malinowksi, Tambiah, J.Z. Smith) for understanding a selection of ritual manuals, amulets, binding tablets, and mystical ascent texts from Greco-Roman, Jewish, and Christian antiquity. Also offered as CAS CL 406 B1.		
 
 CAS RN 504: Topics in Religion and the Visual Arts

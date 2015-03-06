@@ -1,0 +1,60 @@
+CAS LZ 311: Advanced Persian 1
+           			Advanced Persian, concentrating on all four communicative skills, diverse registers, and idioms. Work with  literature, media, other realms of Persian culture.		
+
+CAS LZ 380: Persian (Farsi) Epic and Romance (in English translation)
+	Introduction to classical Persian narrative literature. Topic for Fall 2014: Literature in Iran and Afghanistan.  Readings are premodern and modern texts, as well as film viewings, with the aim of understanding how  the two nations have received a shared literary heritage. What modern cultural concerns are reflected in the  different views of the Persian past? Also offered as CAS XL 470 A1. Carries humanities divisional credit in  CAS.		
+
+CAS LZ 381: Rumi and Persian Sufi Poetry (in English translation)
+	Introduction to the Persian Sufi poet Rumi's narrative and lyric writings. Focus on Islamic mysticism, the  innovative aspects of Rumi's poetry, and the problem of profane vs. sacred love. All readings in English  translation. Carries humanities divisional credit in CAS. Also offered as CAS RN 348.		
+
+CAS LZ 491: Directed Study: Persian (Farsi)
+           			Application form available in department.		
+
+CAS LZ 492: Ds Persian
+			
+
+CAS MA 107: Mathematical Reasoning in the Elementary Grades: Number Systems
+	Required for undergraduates seeking licensure in elementary education, special education, or deaf studies. Focuses on number systems, operations including mental mathematics, proportionality, number theory, and probability. Non-SED students by signed permission only. Does not satisfy CAS Divisional Studies or Math/Stat major.		
+
+CAS MA 108: Mathematical Reasoning in the Elementary Grades: Algebra, Geometry, and Statistics
+           			Required for undergraduates seeking licensure in elementary education, special education, or deaf studies. Focuses on topics in algebra, geometry, measurement, and statistics.  Non-SED students by signed permission only. Does not satisfy CAS Divisional Studies or Math/Stat major.		
+
+CAS MA 109: The Art and Science of Quantitative Reasoning
+	Buying music on-line, making phone calls, predicting the weather, or controlling disease outbreaks would be impossible without mathematics, statistics, and computer science.  Focuses on methods of reasoning common to these disciplines, and how they enable the modern world. Also offered as CAS CS 109. Carries MCS divisional credit in CAS. 		
+
+CAS MA 113: Elementary Statistics
+	MA 113 may not be taken for credit by any student who has completed any MA course numbered 300 or higher. Students may receive credit for not more than one of the following courses: CAS MA 113, MA 115, or MA 213. Basic concepts of estimation and tests of hypotheses, ideas from probability; one-, two-, and multiple-sample problems. Applications in social sciences. Primarily for students in the social sciences who require a one-semester introduction to statistics; others should consider CAS MA 115 or MA 213. Carries MCS divisional credit in CAS.  		
+
+CAS MA 115: Statistics I
+	MA 115 may not be taken for credit by any student who has completed any MA course numbered 300 or higher. Students may receive credit for not more than one of the following courses: CAS MA 113, MA 115, or MA 213. Numerical and graphical summaries of univariate and bivariate data. Basic probability, random variables, binomial distribution, normal distribution. One-sample statistical inference for normal means and binomial probabilities. Primarily for students in the social sciences with limited mathematics preparation.Carries MCS divisional credit in CAS. 		
+
+CAS MA 116: Statistics II
+           			MA 116 may not be taken for credit by any student who has completed any MA course numbered 300 or higher. Students may receive credit for not more than one of the following courses: CAS MA 116, MA 214, or MA 614. One- or two-sample inference for normal means and binomial probabilities, analysis of variance, simple linear regression, multiple regression, analysis of categorical data. Introduction to survey design and design of experiments. Primarily for students in the social sciences with limited mathematics preparation. Carries MCS divisional credit in CAS. 		
+
+CAS MA 118: College Algebra and Trigonometry
+	MA 118 may not be taken for credit by any student who has completed any MA course numbered 121 or higher. Functions and graphs. Linear and quadratic equations. Exponents; logarithms. Right and oblique triangles; trigonometric functions. Optimization. Specifically intended to prepare students with insufficient background in mathematics for the study of calculus. This course may not be used in fulfillment of the divisional studies requirement. Satisfies the mathematics requirement in the College program.		
+
+CAS MA 120: Applied Mathematics for Social and Management Sciences
+	MA 120 may not be taken for credit by any student who has completed any MA course numbered 124 or higher. Linear equations, systems of linear equations, matrix algebra, exponential functions and logarithms, elements of differential calculus, optimization, probability. Applications in economics, finance, and management. Satisfies both mathematics requirement and divisional studies requirement. Carries MCS divisional credit in CAS. 		
+
+CAS MA 121: Calculus for the Life and Social Sciences I
+	Students may receive credit for either CAS MA 121 or 123, but not both. Differentiation and integration of functions of one variable. Same topics as CAS MA 123, but with less emphasis on mathematical generality and more on application. Especially suitable for students concentrating in the biological and social sciences. Carries MCS divisional credit in CAS. 		
+
+CAS MA 122: Calculus for the Life and Social Sciences II
+           			Students may receive credit for not more than one of the following courses: CAS MA 122, MA 124, MA  127 or MA 129. Continuation of CAS MA 121. Review of univariate calculus, calculus of the elementary  transcendental functions, elementary differential equations, elementary multivariate calculus. Applications  to exponential growth, optimization, equilibrium, and dynamic modeling problems. Carries MCS divisional credit in CAS. 		
+
+CAS MA 123: Calculus I
+	Students may receive credit for either CAS MA 121 or 123, but not both. Limits; derivatives; differentiation of algebraic functions. Applications to maxima, minima, and convexity of functions. The definite integral; the fundamental theorem of integral calculus; applications of integration. Carries MCS divisional credit in CAS. 		
+
+CAS MA 124: Calculus II
+           			Students may receive credit for not more than one of the following courses: CAS MA 122, MA 124, MA 127, or MA 129. Logarithmic, exponential, and trigonometric functions. Sequences and series; Taylor's series with the remainder. Methods of integration. Calculus I and II together constitute an introduction to calculus of a function of a single real variable. Carries MCS divisional credit in CAS. 		
+
+CAS MA 127: Enriched Calculus
+           			Students may receive credit for not more than one of the following courses: CAS MA 122, MA 124, MA 127, or MA 129. For students with prior experience in calculus. Emphasizes material from the end of Calculus 2 (sequences, Taylor series), reviews more challenging problems from Calculus 1. Carries MCS divisional credit in CAS. 		
+
+CAS MA 129: Honors Calculus
+           			Students may receive credit for not more than one of the following courses: CAS MA 122, MA 124, MA 127, or MA 129. Alternative to CAS MA 127 for advanced students with a deep interest in mathematics. Continuity, degrees of differentiability, integrability. Transcendental functions. Techniques of differentiation and integration. Sequences, series, summability, uniform convergence. Complex numbers, Taylor series. Application to mechanics, probability. Carries MCS divisional credit in CAS. 		
+
+CAS MA 142: Introduction to Linear Algebra
+	Systems of linear equations; matrices. Vector spaces and linear transformations. Determinants. Eigenvalues  and eigenvectors. Applications. Cannot be taken for credit in addition to CAS MA 242, MA 442, or ENG EK  102.		
+

@@ -1,0 +1,54 @@
+CAS CS 107: Computing in Machines and Nature
+	What is computing? Where can it take place?  How can we recognize computing occurring in nature? This   course looks beyond traditional electronic computers to present a modern view of computation, its   limitations, and its realization in varying settings.  (Does not count for CS major credit.) Carries MCS divisional credit in CAS. 		
+
+CAS CS 108: Introduction to Applications Programming
+	Introduction to programming suitable for students not majoring in computer science. Topics include:  application decomposition and abstraction; data manipulation and programming with databases; graphical  user interfaces; debugging. Assignments include applications in science, commerce, games, the Web, and  social networking. (Does not count for CS major credit.) Carries MCS divisional credit in CAS.		
+
+CAS CS 109: The Art and Science of Quantitative Reasoning
+	Buying music on-line, making phone calls, predicting the weather, or controlling disease outbreaks would  be impossible without mathematics, statistics, and computer science.  Focuses on methods of reasoning  common to these disciplines, and how they enable the modern world. (Does not count for CS major  credit.) Also offered as CAS MA 109. Carries MCS divisional credit in CAS. 		
+
+CAS CS 111: Introduction to Computer Science 1
+	The first course for computer science majors and anyone seeking a rigorous introduction. Develops  computational problem-solving skills by programming in the Python language, and exposes students to  variety of other topics from computer science and its applications. Carries MCS divisional credit in CAS. 		
+
+CAS CS 112: Introduction to Computer Science 2
+           			Covers advanced programming techniques and data structures. Topics include recursion, algorithm   analysis, linked lists, stacks, queues, trees, graphs, tables, searching, and sorting. Carries MCS divisional  credit in CAS. 		
+
+CAS CS 131: Combinatoric Stuctures
+	Representation, analysis, techniques, and principles for manipulation of basic combinatoric structures used in computer science. Rigorous reasoning is emphasized.		
+
+CAS CS 132: Geometric Algorithms
+           			Basic concepts, data structures, and algorithms for geometric objects. Examples of topics: Cartesian   geometry, transformations and their representation, queries and sampling, triangulations. Emphasis on   rigorous reasoning and analysis, advancing algorithmic maturity and expertise in its application. 		
+
+CAS CS 210: Computer Systems
+           			Fundamental concepts of computer systems and systems programming. Hardware fundamentals including   digital logic, memory systems, processor design, buses, I/O subsystems, data representations, computer   arithmetic, and instruction-set architecture. Software concepts including assembly language programming,   operating systems, assemblers, linkers, and systems programming in C.		
+
+CAS CS 211: Object-Oriented Programming Paradigms
+           			Intensive study of object-oriented generic programming paradigms, including   inheritance, templates,  generic patterns, and the Standard Template Library. Students   design, implement, and test large-scale  C++/C# programs involving file systems, databases, and graphical interfaces using integrated  development platforms. (Does not count for CS major credit.)		
+
+CAS CS 235: Algebraic Algorithms
+	Basic concepts and algorithms for manipulation of algebraic objects, such as residues, matrices,   polynomials; and applications to various CS  areas, such as cryptography and fault-tolerance. Emphasis on   rigorous  reasoning and analysis.		
+
+CAS CS 237: Probability in Computing
+           			Introduction to basic probabilistic concepts and methods used in computer science. Develops an   understanding of the crucial role played by randomness in computing, both as a powerful tool and as a   challenge to confront and analyze. Emphasis on rigorous reasoning, analysis, and algorithmic thinking.		
+
+CAS CS 320: Concepts of Programming Languages
+           			Concepts involved in the design of programming languages. Bindings, argument transmission, and control structures. Environments: compile-time, load-time, and run-time. Interpreters. 		
+
+CAS CS 330: Introduction to Analysis of Algorithms
+           			Examines the basic principles of algorithm analysis; techniques of efficient programming; analysis of sorting and searching; graph algorithms; string-matching algorithms; matrix algorithms; integer and  polynomial arithmetic; the fast Fourier transform; and NP-hard and NP-complete problems.		
+
+CAS CS 332: Elements of the Theory of Computation
+           			The basic concepts of the theory of computation are studied. Topics include models of computation, polynomial time, Church's thesis; universal algorithms, undecidability and intractability; time and space complexity, nondeterminism, probabilistic computation and reductions of computational problems. 		
+
+CAS CS 350: Fundamentals of Computing Systems
+           			Rigorous treatment of invariant concepts, algorithms, and performance evaluation methods underlying computing systems design. Topics include modeling and analysis of concurrent processing, computational  resource scheduling and consumption, and performance evaluation techniques. 		
+
+CAS CS 401: Senior Independent Work
+           					
+
+CAS CS 402: Senior Independent Work
+           					
+
+CAS CS 410: Advanced Software Systems
+           			Systems programming including such topics as project management, tools, I/O networking, multiprocessing, exception handling, and system services. Other topics are explored using C and Perl under the UNIX operating system. Requires a working knowledge of the C programming language and experience with UNIX as a user, or equivalent. 		
+

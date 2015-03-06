@@ -1,0 +1,48 @@
+CAS LX 492: Directed Study: Linguistics
+           			Application form available in department.		
+
+CAS LX 500: Topics in Linguistics
+           			Three sections, each covering a different topic, are offered 2014/15. Students may register for more   than one section of CAS LX 500 (with different topics) for credit. Topic for Fall 2014: Variation in English Dialects. Exploration of how dialects of English differ from each other, focusing on grammatical   variation in the US, with occasional forays into British dialects. Students come to appreciate how linguists investigate grammatical diversity scientifically, revealing the complex structure of non-standard dialects. Topics for Spring 2015: Section A1. Melodies of English (and some other languages). (The prerequisite for this section is CAS LX 510 or consent of the instructor.) Exploration and analysis of   English melodic patterns. Students transcribe and even gather prosodic data (intonation, grouping, and   prominence), using computer software and the ToBI framework. Comparisons of the English intonational system to systems of other languages of the world. Section B1. "Having" and "Being" across Languages. Languages differ startlingly in how they express the apparently basic concepts of "possession" and "essence". Students explore this variety and its implications, addressing fundamental questions about linguistic relativism, language universals, and the relationship between structure and meaning.		
+
+CAS LX 501: Linguistic Field Methods
+           			An in-depth investigation of the phonology, morphology, syntax, and discourse/pragmatics of an African or other non-Indo-European language. Weekly sessions with language consultant.		
+
+CAS LX 502: Semantics I
+           			Introduction to the study of linguistic meaning, with the goal of improving understanding of the ways in  which native speakers produce and interpret language. Emphasis on the interaction of meaning with other  components of grammar and cognitive systems. Carries humanities divisional studies credit in CAS. 		
+
+CAS LX 503: Semantics II
+           			Systematic development of a semantic theory of natural language, using the tools of model-theoretic semantics.  In-depth study of the relation between meaning and grammar, and the relation between meaning and context.		
+
+CAS LX 504: Topics in Pragmatics
+           			Covers the main areas of linguistic pragmatics, the study of language use and the relation between meaning and context. Study of pragmatic phenomena such as presuppositions, implicatures, anaphora, and focus, from the perspective of linguistic semantics. 		
+
+CAS LX 507: The Sounds of Spanish
+           			Introduction to Spanish phonetics and phonology. Covers articulatory, acoustic, and auditory phonetics,    focusing on techniques for visualizing speech sounds. Examines the phonemic inventory and phonological    organization of Spanish from several perspectives, including generative and articulatory phonology as well    as sociolinguistics. Conducted in Spanish. Also offered as CAS LS 507.		
+
+CAS LX 508: The Structure of Spanish
+           			Introduction to Spanish morphology and syntax. Explores the structure of Spanish words, phrases, and   sentences from multiple perspectives with a focus on natural language data. Examines Generative, Usage-  Based, and Lexical-Functional approaches to the analysis of grammatical structure. Conducted in Spanish.  Also offered as CAS LS  508.		
+
+CAS LX 510: Phonetics
+           			Introduction to articulatory and acoustic phonetics. Investigation of the production and perception of the   sounds of the world's languages. Development of practical skills, including IPA transcription, description of   sound systems, and basic acoustic analysis. Focus on cross-linguistic typology. Carries humanities  divisional studies credit in CAS. 		
+
+CAS LX 513: Introduction to Phonology
+           			Introduction to phonological theory and analysis. Focus on major cross-linguistic patterns in phonological  systems. Topics covered include distinctive feature analysis, phonological rules and constraints,  phonological opacity, tone, syllables and syllable weight, metrical stress theory, and interactions with  morphology and syntax.		
+
+CAS LX 515: Languages in Contact: The High Stakes of Grammatical Border-Crossing
+           			Examines the mechanisms and outcomes of language contact by surveying cases around the globe from the past and present. Topics include lexical-borrowing, code-switching, pidgins and creoles, language  death, and the emergence of entirely new language systems.		
+
+CAS LX 521: Morphology
+           			Morphology, the study of the internal structure and the shapes of words across languages, straddles the  boundary between syntax and phonology. Introduction to major issues in the study of morphology,  emphasizing links to other components of grammar. Carries humanities divisional credit in CAS. 		
+
+CAS LX 522: Syntax I
+           			Part one of a two-semester sequence. Introduction to the logical structure and organization of language,  and to generative theory. Application of principles of syntactic analysis to students' own and other  languages through data-oriented problems from different language types. Carries humanities divisional   studies credit in CAS. 		
+
+CAS LX 523: Syntax II
+           			Part two of a two-semester sequence. Recent developments in syntax, including the principles and  parameters framework of generative grammar (the Minimalist Program, Antisymmetry) and certain other  generative approaches (including Optimality Theory). Introduction to current issues in the field and  proposals from the current theoretical linguistics literature.		
+
+CAS LX 525: Prosody
+           			Exploration of the melodic and rhythmic aspects of the languages of the world. Emphasis on theoretical and experimental approaches to cross-linguistic typology. Specific topics include syllables and syllable- weight, rhythm and speech timing; stress and metrics; tone and intonation.		
+
+CAS LX 533: The Structure of Creole Languages
+           			Overview of pidginization and Creolization. Evolution, typology, and area characteristics of Creole languages. Role of contact languages and other linguistic substrata. Field and classroom research with Creole language speakers. 		
+

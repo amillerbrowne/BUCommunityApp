@@ -1,0 +1,48 @@
+CAS GE 401: Senior Independent Work
+           			Senior Independent Work		
+
+CAS GE 402: Senior Independent Work
+           			Senior Independent Work		
+
+CAS GE 420: Methods of Environmental Policy Analysis
+           			Introduction to the analysis of environmental policy, the implications of environmental problems for public decision making, the tools available to decision-makers, and their effectiveness, advantages, and disadvantages.		
+
+CAS GE 425: United States Environmental Policy
+           			Survey and historical overview of key environmental policies and regulations in the United States. Emphasis on policy development, including formulation and implementation of federal pollution control regulations since the National Environmental Policy Act of 1970. Considers possible future policy needs.		
+
+CAS GE 440: Digital Image Processing ? Remote Sensing
+           			Pursues both the algorithms involved in processing remotely sensed images and their application. Topics include spectral and spatial enhancement, image classification and clustering, spatial analysis, and linear transforms.		
+
+CAS GE 445: Physical Models in Remote Sensing
+           			Devoted to understanding the physical processes involved in remote sensing. Emphasis on topics of radiative transfer in the atmosphere, at the surface, and in sensors. Reflectance modeling, advanced sensor systems, and geometric effects.		
+
+CAS GE 456: Terrestrial Ecosystems and the Carbon Cycle
+           			Explores the past, present, and possible future dynamics of the terrestrial carbon cycle. Key topics include the physical climate system, variability, ecosystem processes, land use issues, and impacts of global change on society.		
+
+CAS GE 460: Resource Economics and Policy
+           			Economic analysis of environmental resources and policies for their management. Introduces dynamic optimization as a tool for understanding and anlayzing both resource scarcity and the management of energy, fishery, and forestry resources for sustainability.		
+
+CAS GE 475: Urban Ecology
+           			The biophysical environments and ecology of urban settlements. Key topics include the physical   environment, patterns in human population growth and development, ecosystem structure and function,   global change, urban environment pollution and management, and sustainable urban development. Also  offered as CAS BI 475.		
+
+CAS GE 491: Directed Study
+           			Directed Study		
+
+CAS GE 492: Directed Study
+           			Directed Study.		
+
+CAS GE 501: Advanced Topics in Remote Sensing
+           			Examines advanced concepts in radiative transfer and information extraction relevant to remote sensing. Emphasis on applications of digital image processing to remote sensing problems.		
+
+CAS GE 502: Field Measurements for Remote Sensing
+           			Field measurements to support remote sensing activities. Theory and measurement of upwelling and downwelling flux fields with field radiometers and spectrometers; forest canopy leaf area using specialized instruments; hemispherical canopy photography; GPS field location and surveying techniques; simple forest mensuration.		
+
+CAS GE 503: Micrometeorology: Energy and Mass Transfer at the Earth's Surface
+           			Modern theories and techniques for measurement and analysis of physical processes occuring at the Earth's surface: radiation regimes; energy and mass exchange; agricultural and forest micrometeorology: remote sensing and modeling of land surface properties and processes.		
+
+CAS GE 505: Geographic Information Systems (GIS)
+           			Provides a theoretical and practical introduction to Geographic Information Systems (GIS). Introduces the essentials in GIS, methods of data capture and sources of data, nature and characteristics of spatial data and objects, data structures, modeling surfaces, volumes and time, and data uncertainty. Emphasis is on applications. Laboratory exercises included.		
+
+CAS GE 507: Dynamical Oceanography
+           			Introduction to the physical ocean system. Physical properties of seawater; essential ocean dynamics; mixing and stirring in the ocean; simple waves; observed current systems and water masses; and coupled atmosphere-ocean variability. Also offered as CAS ES 507.		
+

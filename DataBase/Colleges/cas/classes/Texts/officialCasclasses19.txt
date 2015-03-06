@@ -1,0 +1,48 @@
+CAS CG 356: The Modern Greek Novel
+           			A study of representative modern Greek novels with analysis relating the author's work to the rest of his life and the situation in Greece. Cannot be taken for credit in addition to CAS CL 356.		
+
+CAS CH 101: General Chemistry 1
+           			For science majors and minors who require a two-semester general chemistry course. Topics include:  atoms and molecules; molecular connectivity, infrared spectroscopy, and mass spectrometry;  stoichiometry and introduction to reactions in aqueous solutions; thermochemistry and the first law of  thermodynamics; quantum aspects of light and matter; and bonding in diatomic and polyatomic  molecules. Laboratory exercises include: the size of an atom, qualitative analysis, thermochemistry, and  quantum aspects of light and matter. Students must register for the following four course components:  lecture, discussion, pre-lab lecture and laboratory. Carries natural science divisional credit (with lab) in  CAS. 		
+
+CAS CH 102: General Chemistry 2
+           			For science majors and minors who require a two-semester general chemistry course. Topics include:  properties of gases; solutions and solubility; equilibrium; acids, bases, and buffers; electrochemistry;  spontaneity, free energy and the second law of thermodynamics; and chemical kinetics. Students must  have completed CAS CH 101 prior to enrolling in CAS CH 102. Students must register for the following  four course components: lecture, discussion, pre-lab lecture, and laboratory. Carries natural science  divisional credit (with lab) in CAS.		
+
+CAS CH 109: General and Quantitative Analytical Chemistry
+           			First of two-semester sequence for students concentrating in the sciences. Stoichiometry, acids, bases,  liquids, solids, solutions, equilibria, thermodynamics, kinetics, electrochemistry, atomic structure,  bonding, and selected chemical systems. Correlated laboratory experiments emphasizing quantitative  analysis. Three hours lecture, one hour discussion, one hour lab lecture, four hours lab. Carries natural  science divisional credit (with lab) in CAS.		
+
+CAS CH 110: General and Quantitative Analytical Chemistry
+           			Second of two-semester sequence for students concentrating in the sciences. Stoichiometry, acids, bases,  liquids, solids, solutions, equilibria, thermodynamics, kinetics, electrochemistry, atomic structure,  bonding, and selected chemical systems. Correlated laboratory experiments emphasizing quantitative  analysis. Three hours lecture, one hour discussion, one hour lab lecture, four hours lab. Carries natural  science divisional credit (with lab) in CAS.		
+
+CAS CH 111: Intensive General and Quantitative Analytical Chemistry
+           			First semester of intensive two-semester sequence for well-prepared students concentrating in chemistry or other sciences. Priority given to chemistry concentrators. Brief review of stoichiometry, gas laws; extensive consideration of equilibrium, thermodynamics, atomic and molecular structure, kinetics; application of principles to selected elements and compounds. Correlated laboratory experiments emphasizing applications of quantitative analysis. Three hours lecture, one hour discussion, four hours lab. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS CH 131: General Chemistry for the Engineering Sciences
+	A one-semester, terminal general chemistry course for students who do not require a two-semester  sequence. Stoichiometry, atomic and molecular structure, bonding, chemistry of solid state, chemical  thermodynamics, and equilibrium. Three hours lecture, one hour discussion, three and a half hours lab. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS CH 171: Principles of General Chemistry
+	Introduction to chemistry: separation and purification of matter, atomic theory, structure of atoms,  molecules and chemical bonding, chemical formulas, equations, stoichiometry; water, solutions,  concentration, acids, bases, pH and buffers; gases; reaction kinetics and equilibrium, and radioactivity.  Three hours lecture, one hour discussion, one hour prelab lecture, and three hours lab. Carries natural  science divisional credit (with lab) in CAS. 		
+
+CAS CH 172: Principles of Organic and Biochemistry
+           			Organic chemistry: structure, stereochemistry, and reactions of carbon compounds; emphasis on  compounds of biochemical interest: polysaccharides, lipids, nucleic acids, and proteins.  Biochemistry:  structure and function of molecules of biological importance; metabolism of carbohydrates, lipids, and  amino acids. Three hours lecture, one hour discussion, one hour prelab lecture, and three hours lab.  Carries natural science divisional credit (with lab) in CAS. CAS CH 171 combined with CAS CH 172 is  intended as a terminal sequence.		
+
+CAS CH 174: Principles of Organic Chemistry
+           			Structure, stereochemistry, functional groups, and reactions of carbon-containing compounds;  spectroscopic techniques; emphasis on compounds and molecules of biochemical interest.  Three hours  lecture, one hour discussion, one hour prelab lecture, and three hours lab.		
+
+CAS CH 181: Intensive General and Physical Chemistry 1
+           			Brief review of stoichiometry, gas laws; extensive consideration of equilibrium, thermodynamics, atomic   and molecular structure, kinetics; application of principles to selected elements and compounds.   Correlated laboratory experiments emphasizing applications of quantitative analysis. Meets with CAS CH   111. Three hours lecture, one hour discussion, four hours lab.		
+
+CAS CH 182: Intensive General and Physical Chemistry 2
+           			Brief review of stoichiometry, gas laws; extensive consideration of equilibrium, thermodynamics, atomic   and molecular structure, kinetics; application of principles to selected elements and compounds.   Correlated laboratory experiments emphasizing applications of quantitative analysis. Meets with CAS CH   112. Three hours lecture, one hour discussion, four hours lab.  		
+
+CAS CH 191: Undergraduate Research in Chemistry I
+           			Experimental or theoretical investigation of problems including the use of the literature. Attendance at weekly research seminars and the writing of a report at the end of each semester required. Application must be made through the Department of Chemistry office during the first two weeks of the semester.		
+
+CAS CH 192: Undergraduate Research in Chemistry I
+           			Experimental or theoretical investigation of problems including the use of the literature. Attendance at weekly research seminars and the writing of a report at the end of each semester required. Application must be made through the Department of Chemistry office during the first two weeks of the semester.		
+
+CAS CH 195: Freshman Seminar for Chemistry Majors
+           			One-credit seminar for first-semester freshmen planning to major in chemistry. Explores special topics in  chemistry that are of current public interest and relevance. Introduction to  research and career  opportunities; discussion of professional ethics and other characteristics of a good  scientist. 		
+
+CAS CH 201: Quantitative Analytical Chemistry Laboratory
+           			Principles of quantitative analysis and instrumental analysis. Introduction to error analysis, basic statistics,   quantitative lab skills, chromatography, and spectroscopy (UV, AAS). Lab exercises apply concepts in redox   chemistry, acid/base reactions, transition metal chemistry, and other general chemistry topics. Skills and   topics covered are similar to the laboratory portion of the CAS CH 111/112 course sequence. One hour  lecture, four hours lab. Offered in fall and summer, annually.		
+

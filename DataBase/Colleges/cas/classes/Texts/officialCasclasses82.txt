@@ -1,0 +1,54 @@
+CAS PY 541: Statistical Mechanics I
+		Probability theory. Ensembles. Steepest descent methods. Paramagnetism, ideal gas, Einstein model, adsorption isotherms. Thermodynamics, Maxwell relations, heat capacity. Bose and Fermi gases. Electrons in metals, white dwarf stars, black-body radiation, phonons, Bose-Einstein condensation. Interacting systems, virial expansion, Van der Waals gas. Phase transitions: mean-field theories, spin systems. 		
+
+CAS PY 542: Statistical Mechanics II
+		Continuation of CAS PY 541; emphasis on applications. Phase transitions: thermodynamic theory of phase transitions, mean field theories (Landau theory). Fluctuations: equilibrium fluctuations, instabilities, fluctuation dissipation theories. Elementary kinetic theory: mean free path approach, Boltzmann equation. Stochastic mathematics: probability theory, Markoff processes, Gaussian processes. Brownian motion: Langevin equations, Fokker-Planck equation. 		
+
+CAS PY 543: Introduction to Solid State Physics
+		An introduction to crystal structure; lattice vibrations; electronic energy bands and Fermi surfaces; semiconductors, conductors, and insulators; superconductivity and magnetism. 		
+
+CAS PY 551: Introduction to Particle Physics
+		Fundamental particles and their symmetries. Isospin and flavor. Discrete symmetries. Phenomenology of weak and strong interactions. Introduction to detector techniques.		
+
+CAS PY 571: Introduction to Biological Physics
+           			Introduction to biomolecular forces, energy flow, information and thermodynamics in biological systems. Nucleic acid, protein, and biomembrane structure. Mechanisms of transport and signaling in biological membranes. Biophysical techniques including spectroscopy. Emphasis on the physical principles  underlying biological structure and function.		
+
+CAS PY 581: Advanced Laboratory
+           			Classical experiments in atomic and nuclear physics, development of new experiments, basic research projects. Experiments include magnetic resonance, nuclear-decay studies, Zeeman effect, holography, black-body radiation, X-ray diffraction, Mössbauer studies, and flux quantization, positron annihilation.		
+
+CAS PY 681: Electronics for Scientists
+		A survey of practical electronics for all science students who wish to gain a working knowledge of electronic instrumentation and, in particular, its construction. Two four-hour laboratory-lecture sessions per week. 		
+
+CAS RN 100: Introduction to Religion
+	Religion matters. It makes meaning and provides structure to life, addressing fundamental questions  about body, spirit, community, and time. But what is it? How does it work in our world? This course  explores religion in ritual, philosophical, experiential, and ethical dimensions. Carries humanities divisional credit in CAS. 		
+
+CAS RN 101: The Bible
+	Introductory study of Jewish and Christian scriptures; connections between biblical and related ancient  cultures; biblical genres (epic narrative, law, prophecy, poetry, historiography, gospels, letters, apocalypse)  and their literary character, major classical and modern strategies of reading. Carries humanities divisional credit in CAS. 		
+
+CAS RN 102: Sacred Journeys
+	An introduction to the comparative study of religion through the theme of the sacred journey/religious  quest in Buddhist, Christian, Hindu, and popular literature. Topics include heroic, romantic, and/or  mystical quests; voyages to the underworld; apocalyptic and post-apocalyptic journeys. Carries humanities divisional credit in CAS. 		
+
+CAS RN 103: Religions of the World: Eastern
+	Study of Hinduism, Buddhism, Taoism, Confucianism, and Shinto. Focus on the world view of each tradition and the historical development of that world view. Carries humanities divisional credit in CAS. 		
+
+CAS RN 104: Religions of the World: Western
+	Islam, Christianity, and Judaism in historical and cultural context, origins to the present. Examines diversity  of practices, belief systems, and social structures within these religions. Also addresses debates within and  between communities as well as contemporary concerns.Carries humanities divisional credit in CAS.		
+
+CAS RN 106: Death and Immortality
+	Examines death as religious traditions have attempted to accept, defeat, deny, or transcend it. Do we have souls? Do they reincarnate? Other topics include cremation, ancestor worship, apocalypse, alchemy, AIDS, near-death experiences, otherworld cosmologies. 		
+
+CAS RN 111: Multireligious America
+	Introduction to American religions, including Christianity, Judaism, Islam, Hinduism, and Buddhism, with an emphasis on developments after 1965, when new legislation opened up immigration and dramatically altered the American religious landscape.  Exploration of interreligious interactions: conflict, cooperation, and creolization. 		
+
+CAS RN 121: Religion in America
+	Religion in American history from early European encounters with indigenous peoples to the pluralistic  present. Focus on interrelationship of religious beliefs and practices with intellectual, social, political, and  cultural life in America. Readings may include Jefferson, Vivekananda, Heschel, King, Daly.		
+
+CAS RN 200: Theoretical Approaches to the Study of Religion
+           			Origins and history of the academic study of religion. Different constructions of religion as an object of  study and the methods that arise from them. The role of the humanities and social sciences in  understanding religion's place in history and contemporary experience.		
+
+CAS RN 202: From Jesus to Christ: The Origins of Christianity
+	Places Jesus of Nazareth in his contemporary religious and social context of Second Temple Judaism; and accounts for the origins and growth of Christian life, belief, and spirituality up to the second century, as reflected in the writings of that period. Carries humanities divisional credit in CAS.   		
+
+CAS RN 203: Religion and Film
+	How do visual media influence spiritual sentiments, social prejudices, erotic boundaries, faith, and  secularism? How does religion regulate the impact of film? This course considers religion on the Hollywood big screen and in video games, animation, and student cinema.		
+

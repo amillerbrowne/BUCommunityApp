@@ -1,0 +1,52 @@
+CAS MA 148: Investigations in Number Theory
+	An immersion experience in mathematical thinking and mathematical habits of mind. Students investigate topics in number theory, starting from elementary notions of primes and divisibility and culminating in examples of number rings in which unique factorization does not hold.		
+
+CAS MA 150: Investigations in Geometry
+	An immersion experience in mathematical thinking and mathematical habits of mind. Students investigate  topics in Euclidean and non-Euclidean geometry starting from basic elementary material and leading to an  overview of current research topics. Does not satisfy MCS Divisional requirement. Does satisfy CAS WR 150  requirement.		
+
+CAS MA 193: Discrete Mathematics for Engineering
+	Propositional logic, set theory, relations, combinatorics, graphs. Topics are treated with particular emphasis on applications to the engineering discipline. (Cannot be taken for credit in addition to CAS MA 293.)		
+
+CAS MA 196: Introductory Quantitative Biology
+           			An introduction to the application of mathematics to problems in biology, with particular emphasis on questions arising from ecology, physiology, neuroscience, and genetics. Major focus on building  mathematical models for biological problems and analysis with graphical and mathematical techniques. Also offered as CAS BI 196.		
+
+CAS MA 213: Basic Statistics and Probability
+           			Students may receive credit for not more than one of the following courses: CAS MA 113, MA 115, or MA 213. Elementary treatment of probability densities, means, variances, correlation, independence, the binomial distribution, the central limit theorem. Stresses understanding and theoretical manipulation of statistical concepts. Carries MCS divisional credit in CAS. 		
+
+CAS MA 214: Applied Statistics
+           			Students may receive credit for not more than one of the following courses: CAS MA 116, MA 214, or MA 614. Inference about proportions, goodness of fit, student's t-distribution, tests for normality; two-sample comparisons, regression and correlation, tests for linearity and outliers, residual analysis, contingency tables, analysis of variance. Carries MCS divisional credit in CAS. 		
+
+CAS MA 225: Multivariate Calculus
+           			Vectors, lines, planes. Multiple integration, cylindrical and spherical coordinates. Partial derivatives,  directional derivatives, scalar and vector fields, the gradient, potentials, approximation, multivariate  minimization, Stokes's and related theorems. (Cannot be taken for credit in addition to CAS MA 230.) 		
+
+CAS MA 226: Differential Equations
+           			First-order linear and separable equations. Second-order equations and first-order systems. Linear equations and linearization. Numerical and qualitative analysis. Laplace transforms. Applications and modeling of real phenomena throughout. (Cannot be taken for credit in addition to CAS MA 231.)		
+
+CAS MA 230: Honors-Level Vector Calculus
+           			Linear algebra: linear transformations and matrices, inner products, cross products. Differentiation: tangent spaces, directional derivatives, gradients, vector fields and flow, divergence, curl. Integration: multiple integrals, line integrals, Green's theorem, surface integrals, Stokes's theorem, the divergence theorem.  (Cannot be taken for credit in addition to CAS MA 225.)		
+
+CAS MA 231: Honors-Level Differential Equations
+           			Ordinary differential equations with applications to mechanics, biology, and physics. First- and second-order equations, linear and nonlinear systems, Sturm-Louisville problems, vibrating strings, special functions, power series solutions, regular singular points, Laplace transforms, calculus of variations, isoperimetric problems, and Hamilton's principle. (Cannot be taken for credit in addition to CAS MA 226.)		
+
+CAS MA 242: Linear Algebra
+	Matrix algebra, solution of linear systems, determinants, Gaussian elimination, fundamental theory, row-echelon form. Vector spaces, bases, norms. Computer methods. Eigenvalues and eigenvectors, canonical decomposition. Applications. (Cannot be taken for credit in addition to CAS MA 142, MA 442, or ENG EK 102.)		
+
+CAS MA 293: Discrete Mathematics
+           			Propositional logic, set theory. Elementary probability theory. Number theory. Combinatorics with applications.		
+
+CAS MA 294: Applied Abstract Algebra
+           			Abstract algebra and its applications to combinatorics. A first exposure to groups, rings, and fields via  significant combinatorial applications. Students who have already received credit for MA 541 or MA 542  may not subsequently receive credit for MA 294.		
+
+CAS MA 341: Introduction to Number Theory
+           			Study of integers and basic results of number theory. Topics include Linear Diophantine equations, prime numbers and factorization, congruences, and quadratic reciprocity. 		
+
+CAS MA 411: Advanced Calculus
+           			Extends concepts and techniques of calculus and develops further applications. Topics include higher dimensional calculus, applications of vector analysis, uniform convergence of series, complex series, improper integrals, gamma and beta functions, Stirling's formula, Fourier series and transform. 		
+
+CAS MA 412: Complex Variables
+           			Basic concepts, results, and applications of complex analysis. Emphasis on computation and applications. Complex plane and functions, differentiability, Cauchy-Riemann conditions, contour integrals, Cauchy formulas, complex series, residue calculus, applications. Extends the concepts of the calculus to the complex setting. 		
+
+CAS MA 416: Analysis of Variance
+           			Fundamental concepts and analytical skills in analysis of variance, including crossed and nested designs, as well as fixed- and random- effect models. Trend analysis for repeated measures, expected mean squares, and non-parametric techniques. SAS is used throughout the course.		
+
+CAS MA 442: Honors Level Linear Algebra

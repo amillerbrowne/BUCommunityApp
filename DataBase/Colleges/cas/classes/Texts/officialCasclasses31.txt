@@ -1,0 +1,49 @@
+CAS GE 519: Energy, Society, and the Environment
+           			Focus on applied political economy and the intersection of policy, energy systems, and environmental  systems. Project based learning, with an emphasis on energy technology and obstacles to deployment.		
+
+CAS GE 520: Topics in Energy and Environmental Policy
+           			Topics vary from year to year. Topic for Spring 2014: Lead Poisoning Prevention Analysis. Analysis and  follow up of a 2013 study that received responses from more than 40 states about lead poisoning  prevention efforts about unsafe work in child-occupied buildings. Students identify and consult experts  and learn about lead poisoning prevention.		
+
+CAS GE 521: Environmental Law and Policy
+	Survey of the major features of environmental law and relevant procedural and  constitutional issues. Comparison of practical realities (political, economic,  social, geographic, biological) with the ideal context for what should be.  Projects include legal research and mock advocacy.		
+
+CAS GE 522: Environmental Policy and Decision-Making
+	In-depth look at environmental policy and decision-making: how society addresses environmental problems. Includes discussion of the environmental movement, law, science, technology, economics, and international relations. Examines new issues facing environmental professionals and approaches to creating a sustainable world.		
+
+CAS GE 523: Marine Urban Ecology
+           			Marine Urban Ecology is an emerging, interdisciplinary field that aims to understand how human and   ecological processes can coexist in human-dominated systems. Topics, ecosystems, and organisms   associated with urbanization in the Greater Boston area. Part of the Marine Semester. Also offered as CAS  GE 523.		
+
+CAS GE 525: Plant Physiological Ecology
+           			In-depth treatment of eco-physiological responses of plants and communities to environmental factors and climate change, as well as plant and community level impacts on the environment as manifested primarily in hydrologic, energy, and carbon cycles.		
+
+CAS GE 529: Modeling and Monitoring Terrestrial Ecosystems Processes
+           			Analyzes the interface of ecosystem process modeling and remote sensing, modeling terrestrial primary  production, and potential of remote sensing for collecting biotic and abiotic data in ecosystem process  studies.		
+
+CAS GE 530: Forest Ecology
+           			The major biotic and abiotic factors influencing forest ecosystem composition, structure and function. Role of solar radiation, hydrology, soils, succession, and management of forest ecosystems. Includes New England case study. Three hours lecture plus discussion. Also meets with CAS BI 530.		
+
+CAS GE 533: Risk Assessment
+           			Investigates the science behind regulation designed to protect people from environmental hazards, through a practical focus on chemical hazards. Students develop a working knowledge of the risk assessment process and perform simple risk assessments for chemicals in the environment.  		
+
+CAS GE 536: European Environmental Policy
+           			Focuses on key concepts, actors, and issues related to European integration, environmental policy  making, and sustainable development. Also examines transatlantic environmental relations and the role of the European Union in global environmental governance. Also offered as CAS IR 536.		
+
+CAS GE 550: Modeling Environmental and Social Systems
+           			Techniques of organizing energy, environmental, or social systems into mathematical computer models. Includes the theory underlying different modeling techniques, programming skills, and a hands-on research project in which students develop their own models.		
+
+CAS GE 555: World Oil Markets
+           			The world oil market is explained using the notion of supply chain. Each stage is described in terms of relevant theories from geology, economics, and politics, and how they interact to generate real-world behavior.		
+
+CAS GE 560: Energy Transitions
+           			Survey of energy transitions including animal power to wood to coal to petroleum to electricity; analysis of  socioeconomic, political, technological, and environmental causes of energy transitions, and future energy  transitions resulting from fossil fuel depletion, climate change, and sustainable development.		
+
+CAS GE 578: Marine Geographic Information Science
+           			Introduction to marine geographic information systems and spatial analysis for conservation, management, and marine landscape ecology. Comparative examples from Gulf of Maine and tropics. Solve problems in coastal zoning and marine park design, whale and coral reef conservation. Also offered as CAS BI 578. 		
+
+CAS GE 585: Ecological Forecasting and Informatics
+           			The statistics and informatics of model-data fusion and forecasting: data management, workflows, Bayesian  statistics, uncertainty analysis, fusing multiple data sources, assessing model performance, scenario  development, decision analysis, and data assimilation. Case studies highlight ecological forecasting across a range of subdisciplines.		
+
+CAS GE 594: Global Environmental Negotiation and Policy
+           			Key concepts, actors, concerns, and issues related to the process of negotiating global environmental policies. Overview of the international system and environmental problems; an international negotiation simulation; case studies of global agreements on ozone depletion, climate change, desertification, and biodiversity, among others. Meets with CAS IR 594.    		
+
+CAS GE 597: Development and Environment in Latin America

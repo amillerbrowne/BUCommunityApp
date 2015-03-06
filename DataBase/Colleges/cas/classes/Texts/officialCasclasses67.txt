@@ -1,0 +1,49 @@
+CAS NE 545: Neurobiology of Motivated Behavior
+           			Molecular and neuroendocrine mechanisms controlling reproductive and parental behaviors, ingestive  behaviors and metabolism, and circadian rhythms, pain perception, and reward in vertebrates. Three hours  lecture plus student-led discussions of relevant research papers. Also offered as CAS BI 545.		
+
+CAS NE 554: Neuroendocrinology
+           			Studies how the two major integrative organ systems of animals, the endocrine and the nervous systems,  interact to control physiological and behavioral aspects of reproduction, development, growth, biological  rhythms, and homeostasis. Three hours lecture, one hour discussion. Also offered as CAS BI 554.		
+
+CAS NS 101: Integrated Science I
+	Laboratory-discussion course.  Elementary kinematics and dynamics, conservation laws, introductory electricity and magnetism, properties of light, atoms and molecules, the chemistry and properties of materials.  Course work is closely tied to laboratory experiments. Laboratories include computer-based laboratory instruction and computer simulations.		
+
+CAS NS 102: Integrated Science II
+           			Laboratory-discussion course. Introduction to the evolution of stars, the universe, and planetary systems.  Physical description of the planet Earth.  Introduction to ecology, environmental science, evolution of life, organisms, and genetics. Students engage in laboratory experiments, group work, and computer simulations.      		
+
+CAS NS 221: Oceanography
+           			Explores how interconnected ocean characteristics (bathymetry, seawater chemistry, biological diversity)  and processes (plate tectonics, surface and deep‐water circulation, biological production) shape global  patterns across multiple scales. Discussion of destination‐specific environmental issues and hot topics in  marine research.		
+
+CAS NS 222: Maritime Studies
+           			Relationship between humans and the sea. History, literature and art of our maritime heritage. Ships as  agents of change. Political and economic challenges of contemporary marine affairs. Destination‐specific  focus.		
+
+CAS NS 223: Nautical Science
+           			The fundamentals of sailing ship operation, in preparation for direct application at sea. Navigation  (piloting, celestial, and electronic), weather, engineering systems, safety, and sail theory. Participation as  an active member of the ship's crew on an offshore voyage.		
+
+CAS NS 224: Practical Oceanographic Research
+           			Provides students with knowledge of the equipment and methodology used in the study of the oceans.  Each student collects and analyzes data in support of a research project in a selected aspect of  oceanography aboard the SEA sailing research vessels.		
+
+CAS NS 320: Ocean Science and Public Policy
+           			Culture, history, political systems, and science can shape ocean policy. Students practice current strategies  to build, analyze, and communicate about diverse policy issues. Examines the power, use, and limitations  of science and the scientist's voice in determining ocean policy.		
+
+CAS NS 321: Oceans in the Global Carbon Cycle
+           			Ocean as carbon source and sink. Examines global‐scale flux patterns and carbon storage mechanisms,  from solubility/biological pumps to geo‐engineering. Explores buffering capacity and mitigation strategies  in the face of anthropogenic carbon cycle perturbations. Oral presentation and written research proposal  required.		
+
+CAS NS 322: Maritime History and Culture
+           			Explores impacts of European maritime ventures on the societies they contacted in the Atlantic or Pacific,  with focus on the resulting social, political, economic, and cultural changes. Investigates responses  documented in the post‐Colonial literature of indigenous people.		
+
+CAS NS 323: Marine Environmental History
+           			Employs methods and sources of historians and social scientists. Examines the role of human societies in  coastal and open ocean environmental change. Issues include resource conservation, overfishing,  pollution, invasive species, and climate change.		
+
+CAS NS 326: The Ocean &amp; Global Change
+           			Ocean ecosystem change in the anthropocene: warming, acidification, fisheries depletion, and pollution.  Reviews principles of circulation, seawater chemistry, nutrient dynamics, and biological production to  understand causes and consequences of change. Field measurements for contribution to time‐series  datasets are conducted.		
+
+CAS NS 327: Cultural Landscapes and Seascapes: A Sense of Place
+           			Field‐intensive analysis and documentation of dynamic relationships between nature and culture in specific  coastal, island, and ocean places. Cultural landscape and related interdisciplinary bio‐cultural approaches  are applied to place‐based environmental studies.		
+
+CAS NS 328: Toward a Sustainable Ocean: Conservation &amp; Management
+           			Comparative and issue‐driven introduction to managing human uses and conserving coastal and ocean  places and resources. Explores concepts of technology, governance, sector and ecosystem management,  and marine protected areas through expert content lectures, topical seminars, and field trips.		
+
+CAS NS 329: Leadership in a Dynamic Environment
+           			How to be an effective leader while leveraging the individual strengths of a team. Uses leadership theory  and case studies to understand how decisions affect outcomes. Students participate as an active member  of a ship's crew, progressively assuming full leadership roles.		
+
+CAS NS 330: Data Communication &amp; Visualization
