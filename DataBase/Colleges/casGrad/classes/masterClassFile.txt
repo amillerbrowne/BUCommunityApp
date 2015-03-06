@@ -1,0 +1,2352 @@
+GRS SO 804: Seminar: The Family
+	Explores the rise of "modern" families and the plurality of contemporary family forms and processes  including gay and lesbian families and new  reproductive technologies.  Particular attention to social and  economic inequalities and their implications for family life.		
+
+GRS SO 808: Seminar: Ethnic, Race, and Minority Relations
+	Formation and position of ethnic minorities in the United States, including cross-group comparisons from England, Africa, and other parts of the world. Readings and field experience. 		
+
+GRS SO 811: Seminar: Sociology of the Nonprofit Sector
+	Introduction to sociological research on that part of society known as the nonprofit sector,  including nonprofit organizations, community-based organizations, voluntary  associations, and social movements. Focus on some of the literatureÂs major themes:  civil society, social capital, and nongovernmental organizations.		
+
+GRS SO 812: Seminar:  Religion and Social Identity
+	This seminar will explore a variety of theoretical perspectives on the social formation of modern persons, asking how those insights inform an understanding of individual and collective religious identity.  Students will also participate in field research foxused on the intersection of religious and social identities.		
+
+GRS SO 818: Medical Sociology
+	Sociological factors in physical and mental illness as they operate in the community, hospitals, and interpersonal relations. Current research on selected topics in medical sociology; contributions to sociological theory and their practical application. 		
+
+GRS SO 820: Graduate Study in Women and Social Change in the Developing World
+	Studies women in nonindustrial countries of Asia, Africa, and Latin America. Stresses empirical research, theory, and methodology. Comparisons among regions and with industrial countries important. Focus on sex segregation, female labor force participation, migration, fertility, family roles, and women and political power. 		
+
+GRS SO 822: Advanced Seminar in Religion and Social Change
+	This seminar examines the tools sociology brings to understanding the relationship between religious ideas and practices and the processes of micro and macro social change. It will cover both major theoretical perspectives and relevant research literature, with focused attention on a variety of historical and contemporary cases. 		
+
+GRS SO 834: Seminar: Mental Illness
+	Sociology and social psychology in study of incidence and prevalence of mental illness, organization of treatment institutions, doctor-patient relationships, and community psychiatry. 		
+
+GRS SO 837: Seminar: Sociology of Culture
+	Sociology of culture in the twenty-first century. Focuses on the connection between the mind and culture.  Examines the interdependence between culture, society, and individuals, and how belief, faith, knowledge,  symbol, ritual, and the like both produce and are products of social organization.		
+
+GRS SO 838: Seminar on International Migration
+		Explores the social dynamics of contemporary international migration, ranging from the development of transnational migrant communities to the impact of state policies that strive to regulate migrant labor flows.		
+
+GRS SO 839: Seminar: State Building and Failure in the Developing World
+	Considers the political significance of failed and fragile states in the developing world in the post-9/11  era. Students analyze historical patterns of state formation and its relevance in contemporary society.		
+
+GRS SO 840: Seminar: Political Sociology
+	Explores the "deep cultural" level behind the daily conduct of politics. A theoretical framework relying upon  Tocqueville and Weber is developed and then applied to unveil the political cultures of the United States,  Germany, England, Russia, China, Japan, and Mexico. 		
+
+GRS SO 844: Seminar: Sociology of Education
+			
+
+GRS SO 847: Seminar: Global Sociology
+	(Meets with GRS IR 748.) Examines different sociological perspectives on global social dynamics and  processes.		
+
+GRS SO 848: Culture, Markets, and Inequality
+	This seminar examines commerce as a cultural process, focusing on cultural production and consumption practices in fields like fashion, music, and bodily goods and services. Traces the cultural construction and  maintenance of gender, race, and class inequalities in markets.		
+
+GRS SO 850: Seminar: Technology and Society
+	Technologies in the four areas of knowledge, work, transportation, and biology are discussed in terms of   their historical development and social implications. Benefits and costs of technology are examined with   reference to current conflicts over use and misuse.		
+
+GRS SO 852: Contemporary Debates in Sexualities Research
+	Engages debates about sexual identities, practices, and communities, conceptualizing sexuality as both a social construct and an institution. Students consider how sexualities operate across social contexts, their  effects on systems of inequalities, and their intersections with race, class, and gender.		
+
+GRS SO 862: Seminar: Great Theorists
+	This seminar examines the ideas of Montesquieu, Saint-Simon, Wollstonecraft, Tocqueville, Martineau, Spencer, Pareto, Veblen, Simmel, and Du Bois through critiques of these seminal concepts: "relative deprivation," "the survival of the fittest," "conspicuous consumption," "the circulation of elites," and "double  consciousness."		
+
+GRS SO 947: Dr Field Conc
+			
+
+GRS SO 948: Dr Field Conc
+			
+
+GRS AS 757: High-Energy Astrophysics
+		Physics of interactions between high-energy particles and photons. Compton scattering; nuclear collisions; acceleration and energy losses of high-energy particles; neutrino production; physics of cosmic rays; pulsars; accretion onto compact objects; active galactic nuclei and other high-energy phenomena.		
+
+GRS AS 759: Cosmology
+		Modern physical cosmology. The Friedmann equation, expansion of the universe and the Cosmic  Microwave Background Radiation. Determination of fundamental cosmological parameters. Large-scale  structure, galaxy formation, active galaxies, and quasars. Dark matter and dark energy in the universe. The  inflation era.		
+
+GRS AS 781: Planetary Atmospheres
+		Planetary and cometary atmospheres; atmospheric vertical mixing; radiative processes; catalytic ozone destruction; aurorae and airglow; planetary ionospheres; energy budgets. Planetary evolution: solar nebula, outgassing, water loss on Venus and Mars, escape of light gases, greenhouse effect, isotope fractionation, impact theory. 		
+
+GRS AS 786: The Sun and Heliosphere
+		Fundamentals of solar and heliospheric physics, including observational methods and theory from the  sun's interior through interplanetary space and into the local interstellar medium. The sun as a star.  Relation of our heliosphere to astrospheres surrounding other stars.		
+
+GRS AS 791: Special Topics in Astrophysics
+	Lecture course examining special topics of current interest in astrophysics. Offered as a 2- or 4-credit course, depending on the topic.		
+
+GRS AS 793: Special Topics in Space Physics
+	Lecture course examining special topics of current interest in solar system space physics.  Offered as a 2- or 4-credit course, depending on the topic.		
+
+GRS AS 802: Graduate Research and Scholarship
+	An introduction to the methods of research and scholarship required for successful graduate study and the associated ethical issues. Topics include choosing a research advisor, the research topic, the research record, scholarly writing and publishing, intellectual property, and research funding. 		
+
+GRS AS 803: Research Methods in Astronomical Data Analysis
+	Computer programming skills, elementary image and data processing, visualization techniques for astronomical datasets. Flat fielding, bias removal, sky subtraction, median filtering, CLEAN algorithm, point-source extraction. Fitting functions to data, solving linear and nonlinear equations numerically, approximating solutions of differential equations.		
+
+GRS AS 850: Astrophysics Seminar
+	Weekly seminar offering graduate students and advanced undergraduates discussions of current research topics in astrophysics with staff and visiting scientists.		
+
+GRS AS 851: Astrophysics Seminar
+	Weekly seminar offering graduate students and advanced undergraduates discussions of current research topics in astrophysics with staff and visiting scientists.		
+
+GRS AS 865: Space Physics Seminar
+	Weekly seminar offering graduate students and advanced undergraduates discussions of current research topics in space physics with staff and visiting scientists.		
+
+GRS AS 866: Space Physics Seminar
+	Weekly seminar offering graduate students and advanced undergraduates discussions of current research topics in space physics with staff and visiting scientists.		
+
+GRS AS 901: Research in Astronomy
+			
+
+GRS AS 902: Research in Astronomy
+			
+
+GRS AS 911: Directed Study in Astronomy
+			
+
+GRS AS 912: Directed Study in Astronomy
+			
+
+GRS BI 607: Animal Behavior
+	Ethological approach to animal behavior. Physiological, ontogenic, and phylogenic causes and adaptive significance of behavior are examined within an evolutionary framework, minimally including humans. Three hours lecture, three hours laboratory. 		
+
+GRS BI 610: Developmental Biology
+	Comtemporary aspects of development, drawing from current literature. Emphasis on the use of  experimental approaches to address topics such as polarity in the egg, body axis specification, embryonic  patterning and organogenesis. Three hours lecture, one hour discussion.		
+
+GRS BI 614: Ornithology
+	Examines the behavior, ecology, and morphology, physiology, classification, and evolution of birds.  Flight, navigation, migration, territorial courtship, nesting, and parental behavior.  Field trips.  Three hours lecture, one hour discussion and demonstrations.  (Offered alternate years.)		
+
+GRS BI 616: Herpetology
+	Examines the diversity, life history, physiology, behavior, ecology, and evolution of amphibians and  reptiles. Three hours lecture, three hours lab. Field trips (including required Spring Recess trip to Florida).		
+
+GRS EN 744: Less Read Nineteenth Century British Novels
+	Studies in less often read major novels from the British nineteenth century, including "The Heart of  Midlothian," "Mary Barton," "Hard Times," "Villette," "Daniel Deronda," and "New Grub Street." Some  emphasis on cultural thickness and old sectarian groups versus modern populations.		
+
+GRS EN 745: Information Revolutions and Transatlantic Nineteenth-Century Literature
+	What happens to literature with the rise of mass print culture, quantitative science, bureaucracy, and facticity? Poe, Dickens, Melville, Thoreau, Whitman, Browning, Henry James, and Wilkie Collins. Historical methods, plus some information theory, philosophy of science, and digital humanities tools.		
+
+GRS EN 746: The South in Modern American Fiction
+	Exploration of how US South figured in imagining national modernity. Modernism as problematic with  Southern bent: Faulkner, Welty, Toomer, Erskine Caldwell, Hurston, R.P. Warren, Wright, O'Connor. Equal  attention to broad, systematic examination of scholarship on major topics in modernism.		
+
+GRS EN 776: Stevens and Auden: Rhetoric and Poetry
+	Modernism tried to forge a new unrhetorical language, but two radically different poets, Stevens and  Auden, both "return to rhetoric" as a condition of thought and language to be exploited and reformed.   Focus on public/private divide, poetry in war times.		
+
+GRS EN 778: Succession and Early Modern Tragedy
+	Early modern stagings of the logic and tragedy of succession. Readings include historical texts on Tudor- Stuart succession crises, several Shakespeare plays (incl. Lear, Macbeth), less canonical plays (Spanish  Tragedy, Massacre at Paris), and contemporary letters (Queen Elizabeth, Arbella Stuart).		
+
+GRS EN 786: Caribbean Provocations
+	Significant texts from the Anglophone Caribbean from 1912 to the present, challenging to read and to  theorize. Locally inspired innovations in form, language, and perspective across genres. Likely authors:  Naipaul, Harris, Kincaid, Walcott, Antoni, McKay, Goodison, Morris, Roach, Brathwaite, Johnson.		
+
+GRS EN 788: Transnational Modernism
+	This interdisciplinary course explores how globalization shaped the emergence of modernist styles in the  U.S. and the Caribbean.  Topics include transatlantic migration; the effects of mobilization and world war;  the rise of black internationalism; and modernist indebtedness to Asian cultures.		
+
+GRS EN 794: Professional Seminar
+           			Developing professional skills and preparing for advanced independent scholarship for English doctoral students in the last semester of coursework. Course includes preparation for comprehensive exam and dissertation prospectus; conference paper submission; publication; fellowship and job applications.		
+
+GRS EN 843: Modernist Gothic
+	Readings from Dorian Gray through Endgame, by such authors as Stoker, Conrad, Woolf, Barnes, Faulkner,  Capote, Ellison, and Morrison, in relation to nineteenth-century precursors, contemporary emanations,  monsters as myth, and conceptual framings from Arendt and Levi-Strauss through the posthuman.		
+
+GRS EN 855: Modern Exoticism: Transnational Exchanged, Collaborations,Appropriations
+	Modernism as a global phenomenon marked by longings for and fears of the exotic, but also by encounters, collaborations, and generic exchanges. Focusing on dramatic and poetic forms, with readings in translation, performance, and postcolonial theory, subaltern and gender studies. 		
+
+GRS EN 993: Directed Study in English
+			
+
+GRS EN 994: Directed Study in English
+			
+
+GRS ES 623: Ecosystem Biogeochemistry
+		Nutrient and biogeochemical cycles in terrestrial, freshwater, and marine ecosystems; global biogeochemistry. Topics include anthropogenic effects on ecosystem cycles and productivity, wetland ecology and biogeochemistry, ecosystem restoration, ocean productivity, climate change and temperate, tropical, and aquatic ecosystems, oceans and the global CO2  budget, marine sediment chemistry. (Offered alternate years.)		
+
+GRS ES 640: Marine Geology
+           			Examines the evolution of ocean basins and marginal seas, changes in structure and composition of ocean basin throughout the last billion years, and the contribution of oceanic geological processes to the chemistry and biochemistry of earth.		
+
+GRS ES 643: Terrestrial Biogeochemistry
+           			The patterns and processes controlling carbon and nutrient cycling in terrestrial ecosystems. Links between local and global scales are emphasized. Topics include net primary production, nutrient use efficiency, and biogeochemical transformation. Meets with GRS BI 643. 		
+
+GRS ES 660: Geodynamics I
+           			(Meets with CAS ES 360.)  Introduces basic physical principles of Earth's structure and dynamics.  Driving mechanisms and plate motion; reflection, refraction seismology, magnetism, gravity and the Geoid, heat flow, tomography, mantle convection.  Oceanic and continental lithosphere in active tectonic regions. 		
+
+GRS ES 671: Geochemistry
+           			(Meets with CAS ES 371.)  Chemical features of Earth and the solar system; geochemical cycles, reactions among solids, liquids, and gases; radioactivity and isotope fractionation; water chemistry; origins of ore deposits; applications of geochemistry to regional and global problems. 		
+
+GRS ES 683: Geodynamics II Fluids and Fluid Transport
+		Large- and small-scale phenomena in oceanic, atmospheric, and land-surface fluids. Properties of gases and liquids; surface body forces; statics; flow analysis; continuity and momentum conservation. Darcy's Law; potential, open channel and geostrophic flow; dimensional analysis; diffusion, turbulence. Offered alternate years.		
+
+GRS ES 699: Teaching College Earth Sciences I
+	The goals, contents, and methods of instruction in earth sciences. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS ES 701: Quantitative Methods for Earth Sciences 1: Mechanics of Earth Materials
+           			Characterization of the response of complex natural systems to forcing, using the methods of continuum mechanics. Applications include magma migration, the propagation of seismic waves, glacial flow, oceanic thermohaline circulation, and thermochemical convection in the Earth's mantle.		
+
+GRS HI 749: History of Religion in Precolonial Africa
+	The study of the development of religious traditions in Africa during the period prior to European  colonialism. An emphasis on both indigenous religions and the growth and spread of Judaism, Christianity, and Islam in the continent as a whole. Also offered as GRS AA 882 and GRS RN 682.		
+
+GRS HI 750: History of the Atlantic World
+		Examines the various interactions that shaped the Atlantic World, connecting Europe, Africa, and the  Americas between 1400 and 1800. Begins by defining the political interaction, then emphasizes cultural  exchange, religious conversion, and the revolutionary era. Also offered as GRS AA 885. This course cannot  be taken for credit in addition to the course with the same title that was previously numbered GRS HI 885.		
+
+GRS HI 751: Environmental History of Africa
+	Focus on the African environment and ecological systems over the past 150 years. Topics include climatic  change, hydrography, agriculture, deforestation, soil erosion, disease, conservation, famine, and the role  of colonialism and government policy in environmental change. This course cannot be taken for credit in addition to the course with the same title that was previously numbered GRS HI 894.		
+
+GRS HI 761: Black Radical Thought
+	Black radical thought in America, Europe, and Africa since the eighteenth century through writings of  abolitionists, leaders of revolutions and liberation movements, Black nationalists, and Black socialists. Emphasizes the global nature of the "Black World" and its role in world history. Also offered as GRS AA 888.  This course cannot be taken for credit in addition to the course with the same title that was previously numbered GRS HI 888.		
+
+GRS HI 800: European Historiography
+	Examines historical writing about Europe through changing trends in method and approach. This course  cannot be taken for credit in addition to the course with the same title that was  previously numbered GRS  HI 700.		
+
+GRS HI 801: The Historian's Craft
+	Intensive training in the best practices of historical research, writing, publication, and oral presentation. Culminates in the production of a publishable journal article. This course cannot be taken for credit in addition to the course with the same title that was previously numbered GRS HI 701.		
+
+GRS HI 843: Problems in Twentieth-Century History
+	An international and comparative approach to major problems of the twentieth century. Readings on such topics as modernization, urbanization, revolution, and war and its consequences. Topics change annually. This course cannot be taken for credit in addition to the course with the same title that was previously numbered GRS HI 743.		
+
+GRS HI 849: United States History 1830 to 1900
+	Historiographic investigation of various central themes in nineteenth century US history, covering the years  1830-1900.  Introduces students to scholarship on such issues as plantation slavery; abolition; Civil War;  Reconstruction; and race relations after the Civil War. This course cannot be taken for credit in addition to  the course with the same title that was previously numbered GRS HI 749.		
+
+GRS HI 850: American Historiography
+	Examines the methodological and professional development of American historians since the 1880s,  changes in the field since the founding period, and new directions in U.S. history. This course cannot be  taken for credit in addition to the course with the same title that was previously numbered GRS HI 750.		
+
+GRS HI 852: Readings in American History
+	Introduces graduate students to new and recent work in United States history. Readings are tailored to  students' particular needs and special emphasis is placed on strategies to prepare for oral exams. This  course cannot be taken for credit in addition to the course entitled "Readings in American Political History"  that was previously numbered GRS HI 752.		
+
+GRS HI 859: The United States as a World Power
+	Meets with CAS PO 578. The course material is organized along a debate format. Although the course is primarily concerned with twentieth-century U.S. foreign policy, attention is also given to eighteenth- and   nineteenth-century issues. This course cannot be taken for credit in addition to the course with the same   title that was previously numbered GRS HI 759.		
+
+GRS HI 863: Topics in American Intellectual History
+	Introduces graduate students to major methods and themes in the field of U.S. intellectual history. This  course cannot be taken for credit in addition to the course with the same title that was previously numbered GRS HI 763.		
+
+GRS HI 870: African Historiography
+	Examines historical writing about the African continent through key trends in the study of themes and regional historiographies.  Also highlights recent works in the field. This course cannot be taken for credit in addition to the course with the same title that was previously numbered GRS HI 770.		
+
+GRS HI 877: Problems in African History
+	A research seminar in comparative urban history which focuses on, but will not be limited to, cities in Africa. Each student is our resident expert on the history of a city of his or her choice. This course cannot be  taken for credit in addition to the course with the same title that was previously numbered GRS HI 777.		
+
+GRS HI 900: Dissertation Writing
+		A workshop designed for students writing a dissertation that provides them with critical responses to their work and addresses important issues associated with becoming a professional historian.		
+
+GRS HI 901: Directed Study: American History
+	Directed Study on a topic in American History. 		
+
+GRS HI 902: Directed Study: European History
+	Directed study on a topic in European History 		
+
+GRS HI 903: Directed Study: African History
+	Directed study on a topic in African history. 		
+
+GRS HI 904: Latin American History
+	Directed Study on a topic in Latin American history. 		
+
+GRS HI 905: Directed Study: Middle Eastern History
+	Directed study on a topic in Middle Eastern history.  		
+
+GRS BI 940: Research in Neurobiology
+			
+
+GRS BI 941: Research in Evolution
+			
+
+GRS BI 942: Research in Evolution
+			
+
+GRS BI 943: Research in Pharmacology
+			
+
+GRS CH 621: Biochemistry I
+           			Introductory biochemistry. Protein structure and folding enzyme mechanisms, kinetics, and allostery; nucleic acid structure; lipids and membrane structure; bioenergetics; vitamins and coenzymes; introduction to intermediary metabolism. Three hours lecture, four hours laboratory, one hour discussion. Same as GRS BI 621.  Lecture and laboratory meet with CAS BI/CH 421.		
+
+GRS CH 622: Biochemistry II
+		Polysaccharides, energy storage and recognition; intermediary metabolism; lipid and isoprene metabolism; nitrogen metabolism; nucleotide metabolism; macromolecular biosynthesis with emphasis on  specificity and fidelity in the mechanisms of RNA, DNA, and proteins synthesis. Three hours lecture, four hours laboratory, one hour discussion. Same as GRS BI 622.   Lecture and laboratory meet with CAS BI/CH 422		
+
+GRS CH 625: Enzymology: Mechanisms of Enzymatic Reactions
+           			Covers enzyme structure-function relationships. A tool-box of methods is presented, including kinetics (steady state and pre-steady state methods), isotope effects, stereo-chemical methods, site-directed mutagenesis, methods to replace natural with unnatural amino acids, mechanism based inhibitors.		
+
+GRS CH 626: Epigenetics
+           			Surveys protein post-translational modifications and DNA/RNA processing, including mechanistic enzymology of protein and DNA modifications, signal transduction induced by the modifications, and related practical applications.		
+
+GRS CH 627: RNA Structure and Function
+           			Chemical and structural biology of natural RNA molecules, including ribosomal RNA, catalytic RNA (ribozymes), siRNA (small interfering RNA), and other small transcribed RNA molecules. Some attention to biological function, but main focus is not RNA cell and molecular biology.		
+
+GRS CH 629: DNA Nanotechnology
+           			Structural biology of DNA. Synthetic DNA objects, DNA templated synthesis, DNAzymes. While biological  function is mentioned, the main focus is DNA in nanotechnology, not the involvement of DNA in cell and  molecular biology.		
+
+GRS CH 631: Advanced Coordination Chemistry I: Structure and Bonding
+           			The interdependence of chemical bonding, spectroscopic characteristics, and reactivity properties of  coordination compounds and complexes are described and formalized using the fundamental concept of  symmetry, as applied to inorganic coordination complexes.		
+
+GRS CH 632: Advanced Coordination Chemistry II: Inorganic Reaction Mechanisms
+           			The mechanistic study of ligand substitution and electron transfer processes in  coordination compounds  are discussed in the context of basic molecular orbital theory. The connections between small molecule  inorganic and biological macromolecular metal-catalyzed processes are presented.		
+
+GRS CH 633: Physical Methods for Inorganic and Bioinorganic Chemistry
+           			A discussion of the physical techniques for the study of structural, magnetic, and redox-active properties  of transitional metal complexes. Techniques discussed include x-ray crystallography; x-ray absorption;  vibrational, NMR, EPR, and Mossbauer spectroscopies; and electrochemistry.		
+
+GRS CH 634: Metallobiochemistry
+           			The roles of transition metals in biology are assessed by review of the structural, spectroscopic, and genetic aspects of metallobiochemistry. Metal import and trafficking; cofactor biogenesis; biocatalytic transformations in biochemistry; reactive oxygen species; the inorganic  basis of life.		
+
+GRS CH 641: Physical Organic Chemistry
+		Physical fundamentals of organic chemistry. Thermodynamics, kinetics, molecular orbital theory, and  theory of concerted reactions. Isotope effects, aromaticity, linear free energy relationships, acidity  functions, photo- and free-radical chemistry.		
+
+GRS CH 642: Organic Reaction Mechanisms
+		Fundamentals of organic reaction mechanisms. Techniques used to study reaction mechanisms. Reactive  intermediates: carbonium ions, radicals, carbenes, and nitrenes. Acid/base catalysis, reactions for the  carbonyl group, cycloaddition, nucleophilic displacement reactions, and redox chemistry.		
+
+GRS CH 643: Synthetic Methods of Organic Chemistry
+		Organic synthesis strategies for total synthesis. Various approaches for organic molecules whose synthesis  constitutes major contributions to organic chemistry.		
+
+GRS CH 644: Medicinal Chemistry
+		Synthetic organic chemistry and pharmacology as applied to development, testing, and production of  medically useful agents. Lectures and discussions by research chemists affiliated with leading pharmaceutical companies. A research paper is required.		
+
+GRS CH 651: Molecular Quantum Mechanics I
+           			Postulates of quantum mechanics with emphasis on chemical applications; application to model systems: particle in a box, harmonic oscillator, rigid rotor, hydrogen atom; tunneling; angular momentum theory, spin; ladder operators, computational methods.  		
+
+GRS CH 652: Molecular Quantum Mechanics II
+		The chemical bond; Huckel, molecular orbital, and valence bond theories; ab initio methods, density functional theory; Born-Oppenheimer approximation/breakdown; time-dependent processes; Fermi's golden rule; non-adiabaticity; time-dependent perturbation theory; computational methods.  		
+
+GRS ES 963: Ds Seismology
+			
+
+GRS ES 964: Ds Seismology
+			
+
+GRS ES 971: Geochemistry
+			
+
+GRS ES 972: Geochemistry
+			
+
+GRS GE 600: Environment and Development: A Political Ecology Approach
+	Theory and practice of development with an explicit focus on environmental issues. Introduces history of   development and the environment; explores select themes in development and environmental studies (e.g.   rural livelihoods, conservation, urbanization, and climate change); and considers alternative development   paradigms.		
+
+GRS GE 620: Methods of Environmental Policy Analysis
+		Introduction to the analysis of environmental policy, the implications of environmental problems for public decision making, the tools available to decision-makers, and their effectiveness, advantages, and disadvantages.		
+
+GRS GE 625: United States Environmental Policy
+	Survey and historical overview of key environmental policies and regulations in the United States. Emphasis  on policy development, including formulation and implementation of federal pollution control regulations  since the National Environmental Policy Act of 1970. Considers possible future policy needs.		
+
+GRS GE 640: Digital Image Processing - Remote Sensing
+		At least introductory statistics (and preferable multivariate statistics) recommended.  This course pursues both the algorithms involved in processing remote sensing images and their application.  Topics include preprocessing, image transformations, image classification and segmentation, spectral mixture analysis, and change detection.  Examples cover a wide range of environmental applications of remote sensing.  Students do a project		
+
+GRS GE 645: Physical Models in Remote Sensing
+		Devoted to understanding the physical processes involved in remote sensing.  Emphasis based on topics of radiative transfer in the atmosphere, at the surface, and in sensors.  Reflectance modeling, advanced sensor systems, and geometric effects.  A short research paper is required.		
+
+GRS GE 656: Terrestrial Ecosystems and the Carbon Cycle
+           			Explores the past, present, and possible future dynamics of the terrestrial carbon cycle. Key topics include the physical climate system, variability, ecosystem processes, land use issues, and impacts of global change on society.		
+
+GRS GE 660: Resource Economics and Policy
+		Economic analysis of environmental resources and policies for their management. Introduces dynamic optimization as a tool for understanding and analyzing both resource scarcity and the management of energy, fishery, and forestry resources for sustainability.		
+
+GRS GE 675: Urban Ecology
+           			The biophysical environments and ecology of urban settlements. Key topics include the physical   environment, patterns in human population growth and development, ecosystem structure and function,   global change, urban environment pollution and management, and sustainable urban development. Also  offered as GRS BI 675.		
+
+GRS GE 683: Geodynamics II: Fluids and Fluid Transport
+		Large and small scale phenomena in oceanic, atmospheric, and land surface fluids.  Properties of gases  and liquids; surface body forces; statics; flow analysis; continuity and momentum conservation. Darcy's  Law; potential, open channel geostraphic flow; dimensional analysis; diffusic turbulence.		
+
+GRS GE 699: Teachng Coll Gg
+			
+
+GRS GE 700: Research Methods in Human-Environment Interactions
+	Introduces qualitative methods used to study human-environment interactions. Stimulates critical thinking   about the research process and the particular issues of human-environment relations:  how we "know,"   matching methods and questions, ethical issues, and dissemination of results. Also offered as GRS AN 700.		
+
+GRS GE 712: Reg Enrgy Model
+			
+
+GRS GE 715: Global Change Initiative: Education and Research
+           			Interdisciplinary perspectives on global change issues, combined with focus on how to develop effective classroom lessons to address these issues. GLACIER fellows are assigned readings from various disciplines and perspectives on global change and required to develop lesson plans.		
+
+GRS GE 719: Colloquium in Terrestrial Biogeoscience
+		Introduction to the field of Terrestrial Biogeoscience through weekly research presentations and  discussions with GRS faculty and distinguished guests. Students also meet weekly with lead faculty member to discuss primary literature related to each presentation. Also offered as GRS BI 719 and GRS ES 719.		
+
+GRS GE 720: Practicum in Terrestrial Biogeoscience
+		Analysis and synthesis of the primary literature via in-depth case studies in terrestrial biogeoscience. Students meet weekly with faculty to read papers from the primary literature, synthesize results, and  prepare a peer-review quality paper on the case study. Also offered as GRS BI 720 and GRS ES 720.		
+
+GRS GE 794: Current Issues in Environmental Affairs
+	Explores key concepts related to regimes and environmental diplomacy with a focus on a selected set of contemporary issues in international affairs.  Fosters research on the negotiation and implementation of environmental treaties.		
+
+GRS AR 906: Directed Research in Old World Prehistoric Archaeology
+	Graduate-level directed research in Old World prehistoric archaeology.		
+
+GRS AR 907: Directed Research in New World Prehistoric Archaeology
+	Graduate-level directed research in New World prehistoric archaeology.		
+
+GRS AR 908: Directed Research in New World Prehistoric Archaeology
+	Graduate-level directed research in New World prehistoric archaeology.		
+
+GRS AR 910: Practicum in Archaeological Heritage Management
+	Full-time internship in an appropriate public or private firm, agency, or other organization involved in the practice of public archaeology.		
+
+GRS AR 911: Practicum in Archaeological Heritage Management
+	Full-time internship in an appropriate public or private firm, agency, or other organization involved in the practice of public archaeology.		
+
+GRS AR 912: Dissertation Research in Archaeology
+			
+
+GRS AR 913: Directed Research in Archaeological Heritage Management
+	Directed research in archaeological heritage management.		
+
+GRS AR 914: Directed Research in Archaeological Heritage Management
+	Directed research in archaeological heritage management.		
+
+GRS AR 917: Directed Research in Geoarchaeology
+	Directed research in geoarchaeology.		
+
+GRS AR 918: Directed Research in Geoarchaeology
+	Directed research in geoarchaeology.		
+
+GRS AS 699: Teaching College Astronomy I
+	The goals, contents, and methods of instruction in astronomy. General teaching-learning issues. Required of all teaching fellows.		
+
+GRS AS 701: Introduction to Astrophysics
+	Introduction to astronomical and astrophysical nomenclature and concepts. Coordinate systems, celestial orbits, radiation, stars, stellar structure, stellar evolution, clusters of stars, galactic components, galactic structure, galaxy types, active galaxies, cosmology. 		
+
+GRS AS 703: Introduction to Space Physics
+	Survey of physical phenomena in the sun, solar wind, magnetospheres, ionospheres, and upper atmospheres of objects in the solar system. Introduction to the physical processes governing space plasmas, solar-terrestrial interactions, and ionized and neutral media surrounding the Earth and other solar system bodies. 		
+
+GRS AS 710: Observational Techniques
+	Telescopes, light detection, and analysis tools and techniques of experimental astronomy. Signal-to-noise calculations. Photometric and spectroscopic instrumentation and applications. Use of the observatory, CCD light detectors, modern software analysis tools, image processing. Proposal writing and science writing. 		
+
+GRS AS 712: Radiative Processes in Astrophysics
+	Generation, propagation, and transfer of electromagnetic radiation. Spectral energy distributions, continuum radiation, spectral lines. Interaction of radiation with matter, transfer of radiation through astrophysical media. Thermal and nonthermal radiative processes. 		
+
+GRS AS 713: Astronomical Spectroscopy
+	Spectroscopic processes in astrophysics. Energy levels in atoms and molecules. Atomic and molecular spectral lines. Excitation of atoms and molecules. Transfer of line radiation. Spectroscopic instruments. Derivation of physical parameters from spectroscopic observations.		
+
+GRS AS 725: Gravitational Astrophysics
+	Orbital theory: two-body and three-body problems. Gravitational encounters. N-body problem and star/galaxy clusters. Precession and nutation. Special and General relativity. Collapsed stellar objects and black holes. Gravitational lensing.		
+
+GRS AS 726: Cosmic Gas Dynamics
+	Gas dynamics as applied to astrophysical settings. Basic fluid mechanics. Ideal gases. One-dimensional gas flow. Supersonic flows and shock waves. Quasar jets and stellar winds. Fluid instabilities, turbulence, and convection. 		
+
+GRS AS 727: Plasma Physics
+	Physics of space and astrophysical plasmas. Individual particle drifts in fields, electrostatic and electromagnetic waves and instabilities, magnetohydrodynamics, kinetic theory of waves, instabilities, and Landau damping.		
+
+GRS AS 751: The Interstellar Medium
+		Interstellar medium components and phases. Neutral hydrogen clouds, 21 cm line, Zeeman effect. Ionized nebulae, free-free radiation, recombination lines, ionization balance, thermal balance. Molecular clouds, collisional and radiative excitation, line formation and propagation, rotational and vibrational energies. Interstellar chemistry.  		
+
+GRS PH 828: Sem Phil of Rel
+			
+
+GRS PH 854: Seminar in Political Philosophy
+			
+
+GRS PH 858: Aesthetics
+			
+
+GRS PH 871: Philosophy of Science
+	The aim of the course is to clarify the credentials and implications of each position (thus provide students a solid ground for participating in wider cultural debates on rationality and relativism), and to have a better understanding of the recent history and current status of philosophy of science (which is part of necessary training for professional philosophers), through a careful examination of the structure of the arguments adopted by each position in dealing with various issues.		
+
+GRS PH 880: Topics in Philosophy I
+	This is a doctoral seminar on the philosophy of ultimacy and the conditions for finite existence. The main texts are in the genre of philosophical theology, and they include explorations of the concepts of persons, primordial consciousness, and spontaneous emergence, based on cross cultural comparative studies. The course deals in detail with Christian symbols and theories of God, in comparison with other traditions. Seminar presentations and a term paper required.		
+
+GRS PH 881: Proseminar for First-Year Graduate Students
+           			This seminar is open only to first-year PhD students in philosophy, all of whom are required to enroll. The  seminar is designed to help incoming graduate students hone several invaluable philosophical skills,  including those needed for effective presentation and defense of one's ideas. Topics vary by semester.		
+
+GRS PH 882: Topics in Philosophy of Imagination
+			
+
+GRS PH 883: Topics in Philosophy
+			
+
+GRS PH 901: Directed Research on Thesis
+				
+
+GRS PH 902: Directed Research on Thesis
+				
+
+GRS PH 905: Directed Study in Problems in Philosophy
+				
+
+GRS PH 906: Directed Study in Problems in Philosophy
+				
+
+GRS PH 991: Directed Research on Dissertation
+				
+
+GRS PH 993: Philosophy Proseminar 1
+		A workshop seminar offering advanced graduate students the opportunity to present and discuss work-in- progress (dissertation chapters, papers for job applications, journal submissions). A serious commitment  to regular and continuing attendance is expected.		
+
+GRS PH 994: Philosophy Proseminar 2
+		A continuation of GRS PH 993. A workshop seminar offering advanced graduate students the opportunity  to present and discuss work-in-progress (dissertation chapters, papers for job applications, journal  submissions). A serious commitment to regular and continuing attendance is expected.		
+
+GRS PO 699: Teaching College Political Science I
+	The goals, contents, and methods of instruction in Political Science. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS PO 702: Professional Development for PhD Candidates in Political Science
+           			For political science PhD students who have finished coursework and are preparing for comprehensive  exams or are working on a PhD prospectus. Addresses core issues in numerous fields and is taught by  members of the GFPS.		
+
+GRS PO 711: Approaches to the Study of American Politics
+	Graduate core course. Introduces students to major theoretical, substantive, and methodological problems in the study of American politics by examining two sets of literature: scholarly debates and discussion of theory and research, and the concrete research of leading Americanists. 		
+
+GRS PO 741: Public Policy Analysis
+	Seminar in analytical concepts and rational policymaking models applied to each of several issue areas: education, welfare, health care, economy, and the environment in the United States and Europe. 		
+
+GRS PO 750: Political Reform in the Middle East
+			
+
+GRS PH 613: Kant
+	A study of Kant's critical philosophy, focusing on one or more of his works.		
+
+GRS PH 615: Nineteenth-Century Philosophy
+	Study of the important themes in the philosophy of Hegel, Marx, Kierkegaard, and Nietzsche. 		
+
+GRS PH 618: Marx and Marxism
+	Philosophical foundation of Marxism and its development. Critical study of Marx's writings stressing questions of philosophy, political economy, science, and history. Emphasis on Marx's theory of relation of praxis to consciousness. Later (including contemporary) Marxists and critics. 		
+
+GRS PH 619: Nietzsche
+	A study of Nietzsche's philosophy, focusing on one or more of his works.		
+
+GRS PH 622: Analytic Philosophy
+	A survey of the basic works of twentieth-century analytical philosophy.		
+
+GRS PH 624: Wittgenstein
+	An intensive (line by line) study of Wittgenstein's Philosophical Investigations.		
+
+GRS PH 626: Phenomenology
+	Rigorous examination of the foundations of philosophical phenomenology in Husserl and Heidegger.		
+
+GRS PH 627: Heidegger and Existential Philosophy
+	A study of the main topics of Heidegger's philosophy against the background of his interpretation of Husserl's phenomenology, Kant's transcendental philosophy, and ancient Greek philosophy, with an emphasis on the concepts of being, time, and truth. 		
+
+GRS PH 633: Symbolic Logic
+	Study of methods characteristic of modern deductive logic including use of truth tables, Boolean normal forms, models, and indirect and conditional proofs within the theory of truth-functions and quantifiers.		
+
+GRS PH 636: Gender, Race, and Science
+	Examines issues in feminist philosophy, philosophy of race, and philosophy of science. Is "race" a genuine scientific category or a social construct? How have views about gender and race changed? Why are there still so few women and minority scientists?		
+
+GRS PH 640: Metaphysics
+	A survey of basic questions in contemporary metaphysics that may include reality, time, change, free will,  personal identity, and causation.		
+
+GRS PH 641: Philosophical Idealism (Hegel)
+	The course covers the development of German idealism in the mature Hegel.  Close analysis and discussion of Hegel's Differenzschrift.		
+
+GRS PH 643: Philosophy of Mind
+	The topic is sentience, embodiment, and the brain. The aim is to develop a "neurophenomenological" approach to consciousness and embodied experience in cognitive science and the philosophy of mind. 		
+
+GRS PH 646: Philosophy of Religion
+	An examination of the principal issues and topics in the philosophy of religion in the following two stages:  first, an historical overview of the  philosophy of religion as a discipline or subdiscipline of philosophy and theology; and, second, attention to the  problems and challenges facing this discipline in the context of the comparative study of religions.		
+
+GRS PH 650: Types of Ethical Theory
+           			A survey of basic ethical theories including those in the Kantian, utilitarian, and virtue-ethics traditions.  		
+
+GRS PH 651: Contemporary Ethical Theory
+	An examination of twentieth-century English and American moral theories including those of Moore, Foot,  Williams, MacIntyre, and Rawls.		
+
+GRS PH 652: Ethics of Health Care
+	Medicine and health care offer a unique opportunity to explore the nature of humanity and the world and to ask fundamental questions concerning the nature of birth, life, and death, and what it is to be a person. Readings from both classical and contemporary writings in ethics, medicine, law, and public health policy. 		
+
+GRS PH 655: Legal Philosophy
+	A critical examination of ideas about the nature of law, duties of obedience and resistance, and legal  interpretation, with an emphasis on modern theories. Because this course meets with a Law School course,  its schedule follows the Law School's standard academic calendar.		
+
+GRS PH 656: Topics in Philosophy and Religion
+	Topic for Fall 2014: Philosophy and the Future of Religion. Examines key questions in the contemporary  philosophy of religion, including the possibility of religion without God, "naturalized" or scientific views of  religion, religious pluralism, and inter-religious tolerance. Featuring visiting lecturers in fall Institute for  Philosophy and Religion lecture series. Also offered as GRS RN 697.		
+
+GRS PH 657: Action, Interpretation, and Narrative
+	What is the relationship between understanding behavior and understanding texts? What is the role of narrative in interpretation? Using philosophical reflections on narrative from Plato to MacIntyre, the course studies philosophy and tragedy as two--perhaps antithetical--traditions of interpretation. 		
+
+GRS RN 727: Topics in American Religion
+		Topic for Fall 2014: American Spiritual Autobiography. Exploration of the art of portraying the self in the  light of the divine in U.S. history with an emphasis on contemporary work. Possible authors include:  Thomas Merton, Swami Yogananda, Malcolm X, Ann Lamott, Richard Rodriguez, Elie Wiesel, Jarena Lee.		
+
+GRS RN 729: Religion and Politics in South Asia
+	Meets with GRS RN 729. Explores the relationship between religion and politics in pre-colonial, colonial,  and post-colonial South  Asia through readings of primary texts as well as debates on religious  reform/revival, nationalism, caste, and partition.		
+
+GRS RN 730: Topics in East Asian Religion
+		Topic for Fall 2014: Buddhism, the State, and Politics in East Asia. Analyzes models of the ideal Buddhist  ruler in China, Korea, and Japan and their behaviors both historically and in the present. Topics include  state patronage and persecution of Buddhism as well as Buddhist rebellions and resistance to state control.		
+
+GRS RN 735: Women, Gender,and Islam
+		Investigates the way Muslim religious discourse, norms, and practices create and sustain gender and hierarchy in religious, social, and familial life. Looks at historical and contemporary challenges posed to these structures.		
+
+GRS RN 739: Jewish Bioethics
+	Exploration of Jewish perspectives on life, death and dying, abortion, the new reproductive technologies, organ transplantation and genetic engineering. Examination of the impact of the Nazi doctors, racial hygiene, euthanasia, and genocide on contemporary bioethics.		
+
+GRS RN 752: Topics in Religious Thought
+	Topics vary from year to year. Topic for Fall 2014: Happiness, East and West. What is happiness? How can  we achieve a balanced, healthy, fulfilling life? Classical thinkers such as Aristotle, Plato, Chuang Tzu;  Buddhist, Confucian, Epicurean, and Stoic paths; comparison with contemporary studies of happiness.		
+
+GRS RN 766: Religion and the Problem of Tolerance
+	Explores the religious roots of tolerance as an alternative to secular, more liberal foundations for pluralism. Grapples with the challenge of tolerance to the revealed religions and the ways different societies have met or failed to meet this challenge.		
+
+GRS RN 768: Symbol, Myth, and Rite
+	Historical overview of ritual behavior, the role of symbolism in the study of culture, and the narrative quality of worldview and belief. Emphasis on verbal performance and public display events in specific cultural contexts		
+
+GRS RN 770: Topics in Medieval Religious Culture
+		Topic for Fall 2013: Christian, Muslim, and Jew: Religion, Community, and Culture in Medieval Spain.  Interactions between Muslims, Christians, and Jews in medieval Europe's most religiously diverse region -  from the establishment of an Islamic al-Andalus in 711 CE to the final Christian "reconquest" of the  peninsula and expulsion of the Jews in 1492 CE. Also offered as GRS HI 807.		
+
+GRS RN 794: Magical Texts: Literature &amp; Practice
+	An advanced course in the interpretation of ancient magical texts, emphasizing the use of theoretical models (Malinowksi, Tambiah, J.Z. Smith) for understanding a selection of ritual manuals, amulets, binding tablets, and mystical ascent texts from Greco-Roman, Jewish, and Christian antiquity.		
+
+GRS RN 795: Humanities Approaches to Religion
+	Introduces major theoretical questions in the humanistic study of religion. Examines the nature and origin of religion as well as definitions and critiques of religion from comparative, historical, sociological, literary standpoints as well as postmodern and gender studies approaches.		
+
+GRS RN 796: Social Science Approaches to Religion
+	Introduces major theoretical questions in the social scientific study of religion. Examines approaches of Marx, Durkheim, and Freud among others.		
+
+GRS RN 797: Philosophical and Theological Approaches to Religion
+	An introduction to philosophical and theological approaches to the study of religion(s) as distinct from  other humanities-based and social-scientific approaches. Provides a common vocabulary for students pursuing historical, constructive, or interdisciplinary projects related to religious thought.		
+
+GRS SO 699: Teaching College Sociology I
+	The goals, contents, and methods of instruction in sociology. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS SO 701: Advanced Sociological Theory (Classical)
+	Primarily for first-year graduate students. Required for master's degree in sociology. Advanced survey and  review of classical sociological theory and theorists.		
+
+GRS SO 702: Proseminar: Sociological Methods
+	Designed primarily for first-year graduate students. Review of major sociological methods.		
+
+GRS SO 708: Contemporary Sociological Theory
+	Covers the basic elements of the major theoretical paradigms in modern sociology, covering topics and problems in the philosophy of social science and current controversies in the field. 		
+
+GRS SO 712: Qualitative Methods
+	Introduces qualitative methods in sociology, highlighting ethnography and interviews. Strengthens  students' evaluation skills, enhances understanding of the logic of qualitative design, and allows students  to employ qualitative methods and develop a research proposal.		
+
+GRS SO 765: The Sociology of Religion
+	Explores the relationship between religion and society, considering religious language, symbols,  communities and practices as social phenomena and the social processes at work in congregations and  denominations, new religious movements and conversion, religious communal identity and ethnic conflict.		
+
+GRS SO 803: Seminar: Gender Stratification
+	This course will allow students to further their understanding  of the persistence of inequality between women and men in the workforce.  What has changed and what has remained the same?  We will examine the nature and causes of inequality in post/industrial societies, especially in the United sttes.  Students will have the  opportunity to engage in independent scholarship in the seminar, exploring their own questions about gender and work in greater depth.		
+
+GRS MA 977: Directed Study: Partial Differential Equations
+			
+
+GRS MA 978: Directed Study: Partial Differential Equations
+			
+
+GRS MA 979: Directed Study: Probability
+			
+
+GRS MA 980: Directed Study: Probability
+			
+
+GRS MB 697: A Bridge to Knowledge: A Practical Seminar for First-Year Graduate Students in Biology
+           			A seminar for first-year biology and MCBB graduate students. Basic pedagogical theory and professional  development topics are covered. The course is intended to help students become effective teachers and  members of the graduate community. Also offered as GRS BI 697.		
+
+GRS MB 721: Grad Biochem
+			
+
+GRS MB 722: Adv Biochem
+			
+
+GRS MB 907: Mcbb Research
+			
+
+GRS MB 908: Mcbb Research
+			
+
+GRS NE 800: Methods in Neuroscience
+	Research experiences directed by GPN faculty for first-year graduate students. Mentors who have funded research projects provide students with a large number of potential laboratories from which to choose where they will conduct their thesis research.		
+
+GRS NE 801: Methods in Neuroscience
+	Research experiences directed by GPN faculty for first-year graduate students. Mentors who have funded research projects provide students with a large number of potential laboratories from which to choose where they will conduct their thesis research.		
+
+GRS NE 901: Directed Study in Neuroscience
+           			For doctoral students in the Program in Neuroscience. Dissertation research under the guidance of a Neuroscience faculty member.  		
+
+GRS NE 902: Directed Study in Neuroscience
+           			For doctoral students in the Program in Neuroscience. Dissertation research under the guidance of a Neuroscience faculty member.  		
+
+GRS PH 603: Plato I
+	A careful study of one or several Platonic dialogues. Emphasizes both close reading of the text(s) and discussion of the deep philosophical issues raised by them. Frequent references to other Platonic dialogues as relevant. Knowledge of Greek is helpful but not required. Familiarity with Greek philosophy is helpful.		
+
+GRS PH 605: Aristotle I
+	A careful study of Aristotle's theoretical philosophy conducted through a close reading of selections from  the Categories, Posterior Analytics, Physics, On the Soul, and the Metaphysics.		
+
+GRS PH 606: Aristotle II
+	A close reading of Aristotle's writings on practical philosophy (i.e., the Nicomachean Ethics and the Politics)  and of his philosophy of art in the Poetics, focusing on the nature of human happiness and the good life,  the question of the best form of political government, and the function of art for life.		
+
+GRS PH 609: Maimonides
+	A study of major aspects of the thought of Maimonides. Primary focus on the Guide of the Perplexed, with attention to its modern reception in works by Baruch Spinoza, Hermann Cohen, Leo Strauss, and others. Also offered as GRS RN 720.		
+
+GRS PH 610: Continental Rationalism
+	A critical study of major texts of seventeenth-century philosophy.		
+
+GRS PH 611: British Empiricism
+	A critical study of major texts of British Empiricists, with emphasis on Locke and Hume. 		
+
+GRS PH 612: Philosophy of the Enlightenment
+	A critical examination of that family of philosophical and political movements that called itself "the  Enlightenment." Students analyze key texts by Descartes, Hobbes, Locke, Smith, Rousseau, Voltaire,  Diderot, Jefferson, Madison, Kant, and Hegel.		
+
+GRS AN 705: Graduate Proseminar in Anthropology:  the Biological and Historical Past
+	Examination of major contributions and debates in biological anthropology focusing on humanity's place in the natural world.  Topics include evolutionary theory, fossil and living primates, human evolution, historical demography, human life histories, and the relationship between biology and culture.		
+
+GRS AN 707: Turkey &amp; Middle East Perspective (Area)
+	Social and cultural diversity of the modern Middle East with particular attention to Turkey.  Focus on the interplay of traditions and socio-economic changes that have occurred during the 20th century and their implications for the future.		
+
+GRS AN 708: Food, Culture, and Society
+	Study of foodways, culinary social history, diet and food ecology with special attention to Asian societies and Boston's food culture. Examines the use of food and cuisine as a focus for identity, national development, and social change. 		
+
+GRS AN 709: Boston: An Ethnographic Approach
+	An anthropological study of Boston using the city as a site of recovery and discovery as students develop  ethnographic skills and an understanding of the interplay between geography, history, and demography in  the social mapping of urban spaces.		
+
+GRS AN 710: Studies in North American Ethnography
+		A survey including an appreciation of the traditional background and heritage of native North Americans,  an analysis of the history and contact with Europeans and governmental policies, and an examination and  evaluation of the contemporary situation.		
+
+GRS AN 711: Civil Society and the State
+	Focuses on the civil society-state nexus. Features an interdisciplinary critical analysis of  the civil society contruct, including its value for understanding democratization and  liberalization in developing areas, as well as its role in mature democracies. 		
+
+GRS AN 716: Contemporary European Ethnography
+           			Approaches Europe and European societies through an exploration of significant social shifts: the creation  of the European Union, the decline of the national welfare state, the rise of regionalist movements, and the  socio-political transformation of post-socialist states.		
+
+GRS AN 717: Power and Society in the Middle East
+		Peoples and cultures of the Middle East from Afghanistan to Morocco and from the Caucasus to Yemen. Focuses on social organization, family structure, the relationship between the sexes, and the development and maintenance of authority		
+
+GRS AN 718: Southeast Asia: Tradition and Development
+	Provides an in-depth introduction to the cultural traditions and contemporary development of Southeast Asia. Examines the contemporary society and culture through the optic of political and cultural history, so as to understand the "imaginative revolutions" that have shaped this region and are transforming it still today. 		
+
+GRS AN 719: Anthropology of Muslim Cultures and Politics
+           			Muslim societies are today being buffeted by a struggle over the forms and meanings of Muslim culture   and politics. This course examines this struggle, and its implications for religious authority, gender ideals,   and new notions of citizenship, civil society, and democracy.		
+
+GRS AN 720: Women in the Muslim World
+	A cross-cultural approach to the diversity and complexity of women's lives in the Muslim world, including  the United States.  Looks at issues such as gender equality, civil society and democracy, sex segregation  and sexual politics, kinship and marriage, and veiling.		
+
+GRS AN 731: Human Origins
+	Introduction  to human paleontology and methods for reconstructing the ancestry, structure, diet and behavior of fossil primates  and humans.  Survey of primate and hominid fossils, priimate comparative anatomy, radioactive dating, modlecular and structural phylogenies, climactic  analyses, and comparative behavioral ecology.		
+
+GRS AN 735: The Ape Within: Chimpanzees and the Evolution of Human Behavior
+		Introduction to primate social behavior, focusing on the apes. Examines how  chimpanzee behavior can be used to understand human behavior. What is unique about humans, and how did we evolve? Topics include diet, social relationships, sexual behavior, aggression, culture, cognition.		
+
+GRS AN 739: Primate Biomechanics
+           			An introduction to the physical principles and anatomies underlying primate behavior, especially  locomotion. Topics include mechanics, skeletal anatomy, primate locomotion, and the primate fossil  record. Emphasis on bone biology and human bipedalism.		
+
+GRS AN 744: Modern Japanese Society:  Family, School, and Workplace (Area)
+	Meets with AN 344.  Approaches contemporary japanese society through a focus on family, school and workplace.  the readings and lectures treat these institutions historically and in terms of the contexts they provide for the individual.		
+
+GRS AN 745: Moving Experiences: Cultures of Tourism and Travel
+		The movement of people across national boundaries as a cultural, economic and  political phenomenon. Examines voluntary border-crossing in its various cultural and  historical meanings as well as in the representations of journals and contemporary  accounts.		
+
+GRS AN 747: Afghanistan
+	Ethnographic and historical examination of Afghanistan's traditional social and political organization, ecology and economy, and relationship among ethnic groups. Civil wars and foreign interventions over the last thirty years, the current situation in Afghanistan, and prospects for the country's future.		
+
+GRS AN 751: Graduate Study in Language, Culture, and Society
+		Introduction to basic concepts, problems, and methods used by anthropologists in the investigation of relationships among language, culture, and society. Topics include language and conceptual systems, language and role, language and social context, and language and thought. 		
+
+GRS AN 755: Religious Fundamentalism in Anthropological Perspective
+	 Anthropological study of the global phenomenon of religious fundamentalism. A product of the modern world, fundamentalism is perceived as counter-cultural and anti-nationalist. Cases drawn from North America and Islamic Middle East, with special attention to women's interpretation of religion. 4 cr.,  2nd sem.		
+
+GRS AN 771:  Political Anthropology of the Modern World
+	Examines the concepts of political anthropology and applies them to the analysis of the origins and development of the modern political world.  Special attention to nations and nationalism, the state and modern development, comparative political culture, and urban and agrarian political change.		
+
+GRS IR 794: Current Issues in International Environmental Affairs
+	Seminar explores key concepts related to regimes and environmental diplomacy and focuses on a selected set of contemporary issues in international environmental affairs. Seeks to foster research and writing on the negotiation and implementation of environmental treaties.  Meets with EE794		
+
+GRS IR 798: Global Development Capstone
+		(Meets with GRS EC 798 and GE798.) Capstone course for MA students in Global Development Policy and Global Development Economics. Students, working in groups, design and carry out an interdisciplinary policy analysis comparable to those performed for a government or nonprofit agency.		
+
+GRS IR 799: MAIA Paper Workshop
+	Provides structure and support to MAIA Paper writers. Goals include formulating researchable questions,  creating viable research and writing strategies, and critiquing intermediate efforts. Focuses on creating an  environment of peer feedback. Normally taken twice, in two consecutive semesters, by MAIA students.  Cannot be taken more than twice for credit.		
+
+GRS IR 825: Seminar: Women and Social Change in the Developing World
+	(Meets with GRS SO 820.) Studies women in nonindustrial countries of Asia, Africa, and Latin America, stressing empirical research, theory, and methodology. Comparisons between regions and with industrial countries. Focus on sex segregation, female labor force participation, migration, fertility, family roles, and women and political power.		
+
+GRS LF 621: Reading French for Graduate Students
+	Designed for graduate degree candidates preparing for language reading examinations. Develops skills in interpreting written French with minimal phonological or cultural references. Practice in translating passages relating to the sciences and humanities. No previous knowledge of French required. Students will not receive graduate credit for this course and there is no tuition charge.		
+
+GRS LF 850: Topics in French Literature
+	Satisfies departmental theory requirement. Topic for Fall 2014: The Golden  Age of Theory. An examination  of the vicissitudes of a series of speculative readings, mostly French, of a  number of texts, mostly  Germanic, as they converged to form the literary tradition known as "theory."   Readings from Saussure,  Derrida, Laplanche, Deleuze, Lacan, and Foucault.		
+
+GRS LF 860: Seminar: Topics in French Literature
+	Two topics are offered 2014/2015. Students may take one or both for credit. Topic for Fall 2014:  Rebellious Women: Engendering Texts and Films in French. Close reading of selected texts and films by  major 20th-21st-century women writers and filmmakers. Attention to gender, postcolonial, and  transnational cultural studies, and to the politics of form. Topic for Spring 2015: TBA.		
+
+GRS LF 951: Directed Study: French Language and Literature
+	Hours arranged. Consent of instructor and department.		
+
+GRS LF 952: Directed Study: French Language and Literature
+	Hours arranged. Consent of instructor and department.		
+
+GRS LG 621: Reading German for Graduate Students
+	Designed to prepare graduate students for the German reading exam. Develops a knowledge of the fundamentals of German grammar. Practice in translating passages. No previous knowledge of German required. Students will not receive graduate credit for this course and there is no tuition charge.		
+
+GRS LG 951: Directed Study in German Language and Literature
+				
+
+GRS LG 952: Directed Study in German Language and Literature
+		Hours arranged.		
+
+GRS LI 621: Reading Italian for Graduate Students
+           			Designed for graduate degree candidates preparing for language reading examinations. Develops skills in interpreting written Italian with minimal phonological or cultural references. Practice in translating passages relating to the sciences and humanities. No  previous knowledge of Italian required. Students will not receive graduate credit for this  course and there is no tuition charge.		
+
+GRS LI 951: Directed Study in Italian Language and Literature
+		Hours arranged.		
+
+GRS LI 952: Directed Study in Italian Language and Literature
+		Hours arranged.		
+
+GRS LL 690: Proficiency-Based Language Teaching 1
+           			Introduces students to current language teaching methodologies and effective proficiency- and standards- based instruction. Students develop their own pedagogy projects with appropriate assessment parameters  addressing all four language skills.		
+
+GRS LL 691: Proficiency-Based Language Teaching 2
+           			Fosters professional outlook on language teaching and learning. Students deepen their  knowledge of  instructional technologies, further develop proficiency-based pedagogy projects for their own courses, and  prepare teaching philosophies, conference presentations, and other portfolio  materials.		
+
+GRS LL 699: Teaching College Languages I
+	The goals, contents, and methods of instruction in languages. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS LP 951: Directed Study: Portuguese
+           			Hours arranged. Consent of instructor and department.		
+
+GRS LP 952: Directed Study: Portuguese
+           			Hours arranged. Consent of instructor and department.		
+
+GRS EC 705: Introduction to Mathematical Economics
+           			Matrix algebra, differential calculus up to and including partial differentials of functions of several variables, and maximization under constraint. Introduction to linear programming, difference, and differential equations. 		
+
+GRS EC 707: Advanced Statistics for Economists
+           			Application of statistical tools, covering properties of estimators, covariance matrix and correlation,  analysis of variance, hypothesis testing, likelihood functions, and likelihood ratio tests. Intended as  preparation for GRS EC 708. 		
+
+GRS EC 708: Advanced Econometrics 1
+           			Basic course of econometric theory for MAPE/PhD students. Covers the theory and applications of the LS  and ML estimators of the linear single equations models. OLS, GLS, and Gauss-Markov theorem,  autocorrelation, heteroskedasticity, non-linear estimators, distributed lags, errors in variables,  instrumental variable estimators, choice models. Introduction to simultaneous equation models.		
+
+GRS EC 709: Advanced Econometrics 2
+           			Advanced course for second-year PhD candidates who have a solid knowledge of basic econometric  methods. Covers estimation and simulation of simultaneous equation models and some selected topics in  multivariate analysis.		
+
+GRS EC 711: Advanced Topics in Econometrics
+           			Discusses, in an abstract fashion, approaches to estimation and inference that are most often used in econometrics, including maximum likelihood and method of moments; recent developments in econometrics that allow one to overcome some of the shortcomings in using the standard approaches to estimation. Main emphasis on cross-sectional applications with some mention of time series applications and further discussion of specification analysis and testing. 		
+
+GRS EC 712: Time Series Econometrics
+           			Presents standard theory of stationary processes: models, estimation in the time and frequency domain,  spectral analysis, asymptotic distribution, Kalman filter; VAR models. Also deals with non-stationary  processes and discusses topics such as: functional central limit theorem, asymptotic results with unit roots, tests for unit roots, estimation and test in cointegrated systems and models with structural changes.		
+
+GRS EC 716: Game Theory
+           			Introduction to noncooperative and cooperative games with applications in the social sciences.		
+
+GRS EC 717: Advanced Topics in Microeconomic Theory I
+           			Topics in advanced microeconomic theory to be selected by course instructors.  Critical analysis of key papers in the literature.		
+
+GRS EC 718: Advanced Topics in Microeconomic Theory II
+           			Topics in advanced microeconomic theory to be selected by course instructors.  Critical analysis of key papers in the literature.		
+
+GRS EC 721: Topics in Development Economics
+           			Examines the economic development of nations from the perspectives of their relationship with the global economy, to identify issues that are central to economic development in the world economy, and to provide analytical methods for analyzing these issues and formulating policy. Evidence on these issues from Africa, Asia, and Latin America are examined. Some topics to be covered: the role of international trade in economic growth; trade between developed and developing countries; public and private foreign capital; research and development and technology transfer; exchange rate regimes and capital flight. 		
+
+GRS EC 722: Topics in Economic Development II
+           			This course covers a range of topics on failures of markets and governance in developing countries.  Recent research papers including both theoretical and empirical analysis are discussed, including class presentations by students.  Topics include credit and insurance market imperfections; implications for investment, inequality and growth; social networks and social learning.  Models of political economy and government accountability, with applications to land reform, decentralization, education, tax policy, and role of the media.		
+
+GRS EC 731: Market Organization and Public Policy
+           			Analytical foundations of public policy toward market organization. Theoretical emphasis on imperfect competition, theory of the firm, and markets with incomplete information. Implications for policy in developed and less-developed countries. 		
+
+GRS EC 732: Topics in Industrial Organization
+           			Topics vary from year to year and may include the economics of contracting and the firm, the economics of regulation, and dynamic models of oligopoly. 		
+
+GRS EC 733: Empirical Industrial Organization
+           			This course studies the frontiers of research in industrial organization, and emphasizes connections  between theoretical and empirical topics. Two major areas are covered: advanced topics in auction markets  and static demand estimation.		
+
+GRS EC 741: Topics in Macroeconomics and Monetary Theory
+		Alternative views of demand and supply of money and financial assets. Analytical theories of monetary policy. Problems in the exercise of monetary policy.		
+
+GRS EC 742: Applied Macroeconomics
+	Empirical specification of macroeconomic functions including measuring variables, lag structures, and functional forms; estimation and simulation of multiple equation macro models; and use of models for optimal policy design and positive policy prognosis. 		
+
+GRS EC 744: Economic Dynamics
+           			Introduces the theory and application of dynamicoptimization and equilibrium analysis, with emphasis on computational methods and techniques. Covers discrete and continuous time models in both deterministic and stochastic environments.		
+
+GRS EC 745: Macroeconomics and Financial Markets
+           			For second- and third-year PhD students. Topics and approaches combine macroeconomics and finance, with an emphasis on developing and testing theories that involve linkages between financial markets and the macro economy.		
+
+GRS EC 751: Topics in Labor Economics 1
+           			A survey course that combines an examination of all the major fields in labor market analysis with a  comprehensive treatment of methodological topics. Designed to provide the tools necessary to begin a  thesis in the field. Topics covered in depth include unemployment, wage setting models, human capital  models, and labor mobility.		
+
+GRS EC 752: Topics in Labor Economics 2
+           			Considers models that explain the origins and persistence of differences in incomes between individuals,  groups, and regions. Draws on literatures in applied microeconomic theory, labor economics, development  economics, public finance, and social choice theory. Discusses topics at the juncture of economics and  sociology that bear on the theme of inequality.		
+
+GRS PO 751: Approaches to the Study of Comparative Politics
+			
+
+GRS PO 756: The Political Economy of the European Union
+	Meets with GRS IR 760. Investigates major issues of European economic integration, including the Single  Market and European Monetary Union. Explores the theoretical and practical problems of integration.   Considers the crisis of the Euro and its consequences for European member-state economies and  democracies.		
+
+GRS PO 760: Problems and Issues of Contemporary Africa
+	Topic for Fall 2012: Religion and Politics in Africa. The politics of indigenous African religions, Islam, and  Christianity. Topics include Islamist and Christian fundamentalist movements, religion and social conflict,  and religious engagement on democracy, women's rights, and gay rights. 		
+
+GRS PO 768: Contemporary Issues in Latin America
+	Meets with GRS IR 766. Review and analysis of contemporary developments in Latin America from major print and on-line news sources and journals. Focuses on breaking issues and develops capacity for critical analysis. Required for LASMA students. 		
+
+GRS PO 771: Approaches to the Study of International Relations
+	Graduate core course. Focuses on approaches and theories of international relations rather than international events. Compares historical, descriptive, normative, and scientific approaches. Surveys a variety of theories of international conflict (e.g., war, arms races), and theories of international integration (e.g., alliances, trade). 		
+
+GRS PO 785: Comparative Political Economy of China and India
+	(Meets with GRS IR 758.) Compares China and India's economic reform, focusing on their reform policies and government-business relationships. Examines their political development (or lack thereof) during their economic reform. Discusses China and India's rise and implications for the global system.		
+
+GRS PO 789: The United States and the International Relations of the Asia-Pacific
+	Focuses on contemporary issues in U.S. relations with Japan, China, Taiwan, North and South Korea, and Russian involvement in East Asia. The implications of social economic, political, strategic changes in East Asia for U.S. policy and the management of international affairs are highlighted.		
+
+GRS PO 791: Approaches to the Study of Political Theory
+	Graduate core course. An overview of some of the more significant opinions for the study of political theory today, with attention to both substantive and methodological issues. 		
+
+GRS PO 796: Ethics and the Use of Force
+		Acquaints students with the great debates in the ethics and law of war, and examines  how the resort to and conduct of war is, or is not, circumscribed by normative concerns.		
+
+GRS PO 840: Political Analysis
+	An introduction to methodological issues faced in empirical work across the social sciences, with primary  reference to political science. Addresses issues using different empirical approaches -- qualitative or  quantitative, experimental or observational -- to any sort of theory.		
+
+GRS PO 841: Quantitative Research Methods
+           			An introduction to probability, descriptive statistics, hypothesis testing, and ordinary least squares  regression analysis as used in the social sciences. Emphasizes both theory and applications. 		
+
+GRS PO 843: Techniques in Political Analysis: Maximum Likelihood Estimation
+           			An applied course in quantitative empirical analysis on maximum likelihood models of inference. Topics  may include hypothesis testing, linear regression, binary response models, ordered response models, and  event count models.		
+
+GRS PS 699: Teaching of Psychology I
+	Goals, contents, and methods of instruction in psychology. General teaching-learning issues. Required of all new teaching fellows. Yearlong course. 		
+
+GRS PS 704: Contemporary Trends in Psychology
+	MA and PhD proseminar. Topics vary. Descriptions available in the main office of the Psychology  Department.		
+
+GRS PS 711: Statistics in Psychology I
+	General linear models including multiple regression and logistic regression; multilevel models; survival analysis; interaction effects.  		
+
+GRS PS 712: Statistics in Psychology II
+		Statistical analysis with latent variables including exploratory factor analysis, confirmatory factor analysis, structural equation models, latent growth models, psychometrics.		
+
+GRS PS 716: Psychological Research Methods
+	The methodological foundations of psychological research, including issues in general scientific practice, research design, measurement, methods of data collection, and practical and ethical problems arising in the conduct of psychological research.		
+
+GRS PS 721: General Experimental, I
+		Experimental and theoretical issues in operant and classical conditioning and in verbal learning. Schedules of reinforcement, discrimination, avoidance, punishment, emotional reflexes, memory, and motivation. Selected lab demonstrations. 		
+
+GRS PS 730: Major Perspectives in Psychology: History and Systems
+           			Provides exposure to the history of major perspectives in psychology, increases understanding of  contemporary literature on fundamental issues in psychology, and promotes an integrated understanding  of the link between psychological theories and applied psychological principles.		
+
+GRS PS 732: Behavioral Medicine
+           			Examines applications from the social and behavioral sciences and the allied health professions as they are integrated within the practice of traditional medicine. Examples of interventional strategies, treatments, and procedures, including biofeedback and hypnosis. 		
+
+GRS MA 945: Directed Study: Algebraic Geometry
+			
+
+GRS MA 946: Directed Study: Algebraic Geometry
+			
+
+GRS MA 951: Directed Study: Numerical Analysis
+			
+
+GRS MA 952: Directed Study: Numerical Analysis
+			
+
+GRS MA 955: Directed Study: Theory of Computation
+			
+
+GRS MA 956: Directed Study: Theory of Computation
+			
+
+GRS MA 959: Ds Riemann Sur
+			
+
+GRS MA 960: Ds Riemann Sur
+			
+
+GRS MA 962: Directed Study: Partial Differential Equations
+			
+
+GRS MA 963: Directed Study: Applied Analysis
+			
+
+GRS MA 964: Directed Study: Applied Analysis
+			
+
+GRS MA 965: Directed Study in Topology
+	Directed study in topology.		
+
+GRS MA 967: Directed Study: Differential Geometry
+			
+
+GRS MA 968: Directed Study: Differential Geometry
+			
+
+GRS MA 969: Directed Study: Operations Research
+			
+
+GRS MA 970: Directed Study: Operations Research
+			
+
+GRS MA 971: Directed Study: Ordinary Differential Equations
+			
+
+GRS MA 972: Directed Study: Ordinary Differential Equations
+			
+
+GRS MA 975: Directed Study: Dynamical Systems
+			
+
+GRS MA 976: Directed Study: Dynamical Systems
+			
+
+GRS EC 761: Public Finance
+           			The theory of excess burden; optimal taxation; static, dynamic, and interegional tax incidence; public goods; externalities; corporate taxation; dynamic fiscal policy; and cost-benefit analysis. Extensive use of calculus. 		
+
+GRS EC 762: Topics in Applied Public Finance
+           			Theory and practice of benefit-cost analysis and other similar techniques for evaluating investment projects. Emphasis on sources of divergence between public and private investment decisions through the estimation of shadow prices in a context of market distortions and disequilibrium. Case studies applying theoretical approach.		
+
+GRS EC 764: Topics in Economic History I
+           			First half of two-semester PhD sequence. Focus is on microeconomic topics: agriculture, manufacturing,  transportation, health and mortality, labor mobility, education, inequality, and business organization.		
+
+GRS EC 765: Topics in Economic History II
+           			Second half of two-semester PhD sequence. Focus is on macroeconomic topics: long run growth, the Industrial Revolution, demographic change, institutions, urbanization, trade, financial markets, the growth of government, and macroeconomic volatility.		
+
+GRS EC 781: Health Economics
+           			Concepts of health economics to both developed and developing countries. Topics include: effect of health on the economy, effect of applicable health care on health, hospital behavior, health manpower supply, demand for health care. 		
+
+GRS EC 782: Health Economics in Developing Countries
+           			Issues in allocation of resources to and within the health sector in a developing country. Economics  analysis of rural primary health care, hospital care, drug supply, public health and nutrition programs.  Student projects on specific developing country topic of their choice.		
+
+GRS EC 791: International Trade
+           			Pure theory of international trade. Analysis of various models that determine comparative advantage. Welfare effects of trade. Emphasis is placed on the use of formal models to analyze tariffs, quotas, and subsidies. Analysis of trade under various competitive frameworks. 		
+
+GRS EC 792: International Finance
+           			Extension of important topics introduced in GRS EC 791; gains from trade and balance-of-payment adjustment approach to the balance of payment; theorems in the pure theory of trade.		
+
+GRS EC 794: Financial Econometrics
+           			For PhD students working in the area of econometrics, finance, and applied macroeconomics. Topics include prediction of asset returns, financial volatility, asset allocation, value at risk, and high frequency data analysis.		
+
+GRS EC 798: Global Development Capstone
+		(Meets with GRS GE 798 and IR 798.) Capstone course for MA students in Global Development Policy and  Global Development Economics. Students, working in groups, design and carry out an interdisciplinary  policy analysis comparable to those performed for a government or nonprofit agency.		
+
+GRS EC 901: Dissertation Workshop in Macro and Monetary Economics
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 902: Dissertation Workshop in Macro and Monetary Economics
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 903: Dissertation Workshop in Applied Microeconomics
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 904: Dissertation Workshop in Applied Microeconomics
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 911: Dissertation Workshop in Econometrics 1
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 912: Dissertation Workshop in Econometrics 2
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 915: Dissertation Workshop in Economic Theory 1
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 916: Dissertation Workshop in Economic Theory 2
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 951: Dissertation Workshop in Empirical Microeconomics 1
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS EC 952: Dissertation Workshop in Empirical Microeconomics 2
+           			Presentation and discussion of dissertation topics and work in progress.		
+
+GRS PH 658: Crime and Punishment: Philosophical Perspectives
+	Study of fundamental issues in criminal law, including the theory and definition of crime; economic,  utilitarian, and retributivist justifications of punishment; exculpating circumstances; the death penalty; and  the relationship between law and politics. 		
+
+GRS PH 659: Political and Legal Philosophy
+           			Examination of the individual's responsibilities under law, specifically of the idea that there is a general  moral obligation to obey the law, including unjust law, and the contrasting idea of civil disobedience-- the  possibility of morally justified resistance to law.		
+
+GRS PH 660: Epistemology
+	An examination of some of the central questions concerning the nature, scope, sources, and structure of knowledge.		
+
+GRS PH 661: Mathematical Logic
+           			The syntax and semantics of sentential and quantificational logic, culminating in the Godel Completeness   Theorem. The Godel Incompleteness Theorem and its ramifications for computability and philosophy.		
+
+GRS PH 662: Foundations of Mathematics
+		Axiomatic set theory as a foundation for, and field of, mathematics: Axiom of Choice, the Continuum  Hypothesis, and consistency results.		
+
+GRS PH 663: Philosophy of Language
+	The most representative problem areas in contemporary philosophy of language are discussed, criticized, and put into a new perspective. They include Frege's sense-reference theory, quantification and anaphora, theory of truth, the semantics of intentional and epistemic concepts, strategic aspects of language use, identification and individuation, metaphor, demonstratives and indexical, discourse and dialogue theory, and selected language disturbances (dyslexia, autism).		
+
+GRS PH 665: Philosophy of Cognitive Science
+	Can humans be thought of in analogy with machines? The course examines questions of natural and artificial intelligence in light of traditional theory and of recent research in computer science and artificial intelligence.		
+
+GRS PH 668: Philosophical Problems of Logic and Mathematics
+	Selected traditional metaphysical and epistemological problems in the light of modern logic and various studies in the foundations of mathematics, including the nature of axiomatic method, completeness in logic and mathematics, and the nature of mathematical truth. 		
+
+GRS PH 670: Philosophy of Physics
+	Philosophical problems concerning the interpretation of physical discoveries.  Elementary particles, the anomalies of quantum mechanics, some modern problems of space and time, and the problem of wholes and parts.		
+
+GRS PH 672: Philosophy of Biology
+	Conceptual problems in biology; unity or pluralism of science; hierarchy theory; biological explanation; evolutionary theory, teleology and causality, statistical explanation; the species problem; mind and the brain; and language in animals and humans. 		
+
+GRS PH 677: Philosophy of the Social Sciences
+			
+
+GRS PH 680: Topics in Ancient and Medieval Philosophy
+			
+
+GRS PH 682: Topics in Modern and Contemporary Philosophy
+		Topics vary from semester to semester; may be repeated for credit as topics change. Topic for Spring  2013: Heidegger. A careful reading of Heidegger's major work, Being and Time. The end of the course  looks at some of Heidegger's shorter works written later in his career, in order to consider some of the  directions of his famous "turn."		
+
+GRS PH 683: Topics in the Philosophy of Religion
+	Focus on a specific topic in the philosophy of religion. Topic for Fall 2010: Problem of Evil. A philosophical  and theological analysis of the problem of evil, as formulated in the Bible and other sacred texts, ancient  and modern philosophy, literature, and cinema. Also offered as GRS RN 743.		
+
+GRS PH 684: Topics in Speculative Philosophy
+		Topics for Fall 2007: A study of the metaphysics of being, God, time, eternity,nature and value through the works of Robert Neville (the instructor) and dialectical neighbors.		
+
+GRS PH 687: Topics in the Philosophy of Science
+	A discussion-based introduction to core issues in the philosophy of science, focusing on the topics of   scientific realism, theory change, reductionism, explanation, models, and natural kinds.		
+
+GRS PH 699: Teaching College Philosophy I
+	The goals, contents, and methods of instruction in philosophy. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS PH 801: Ancient Philosophy 1
+	An advanced study of works by either Plato or Aristotle.		
+
+GRS PH 802: Ancient Philosophy 2
+	An advanced study of works by either Plato or Aristotle..		
+
+GRS PH 827: Heidegger
+	An advanced study of the works of Heidegger.		
+
+GRS CH 655: Statistical Mechanics I
+           			Introduction to statistical mechanical fundamentals; ensemble theory, Fermi-Dirac, Bose-Einstein, Gibbs-Boltzmann statistics; computational methods, Monte Carlo, Molecular Dynamics, many-body quantum mechanical simulations, normal mode analysis; ergodic hypothesis, modern theories of liquids and biomolecules, thermodynamic perturbation theory, integral equations, Debye-Huckel theory.		
+
+GRS CH 658: Chemical Kinetics and Dynamics
+           			Chemical kinetics and reaction dynamics. Rate theory. Theoretical models of reaction dynamics: transition state theory, collision theory, statistical methods. Transport theory. Modern experimental approaches. Photochemical and photophysical dynamics, energy transfer, condensed phase and atmospheric reaction processes. 		
+
+GRS CH 677: An Introduction to Evidence-Based Undergraduate STEM Teaching
+	Online course with in-person faculty-led sessions. Participants learn about effective teaching strategies  and the research that supports them, and apply approaches to lesson design and assignments for future  teaching opportunities. Also offered as GRS BI 677 and GRS PY 677.		
+
+GRS CH 699: Teaching College Chemistry I
+	The goals, contents, and methods of instruction in chemistry. General teaching-learning issues. Required of all teaching fellows.		
+
+GRS CH 722: Protein Chemistry
+		Methods for determining the structure of noncrystalline proteins, including protein sequence analysis,  chemical modification, NMR spectroscopy and site-specific mutagenesis; case studies of the structure and  function of selected proteins.		
+
+GRS CH 724: Special Topics in Biochmeistry
+		Detailed analysis of special topics of research in biochemistry. Topics are determined by the instructor depending on interest and expertise. Subjects covered include protein analysis, mechanistic enzymology,  nucleic acid research, protein/nucleic acid interactions, and spectroscopic methods.		
+
+GRS CH 741: Organic Spectroscopy and Structure Determination
+		Spectroscopic methods in organic structure determination, with main emphasis on nuclear magnetic resonance. 		
+
+GRS CH 744: Current Topics in Organic Chemistry
+           			Instructors cover topics related to their research. Topic for Spring 2014: Contemporary Drug Discovery.  Familiarizes students with the process of drug discovery as it is practiced in industry, and discusses in  depth the key considerations, ideas, technologies and limitations that define the cutting edge of our  current capabilities.		
+
+GRS CH 751: Advanced Topics in Physical Chemistry
+		Current topics of research in physical chemistry. The course content varies with instructor.		
+
+GRS CH 801: Graduate Research Methods and Scholarly Writing 1
+           			Introduces beginning graduate students to the fundamental methods of research, presentation, and  scholarship necessary for a successful career as a graduate student, a teacher, and an independent  research scientist. Includes RCR (responsible conduct of research) training.		
+
+GRS CH 802: Graduate Research Methods and Scholarly Writing 2
+		Continues subject material of GRS CH 801 with more emphasis on writing.		
+
+GRS CH 901: PhD Research in Chemistry
+			
+
+GRS CH 902: PhD Research in Chemistry
+			
+
+GRS CH 903: MA Research in Chemistry
+	A written report at the end of each semester is required.		
+
+GRS CH 904: MA Research in Chemistry
+	A written report at the end of each semester is required.		
+
+GRS CL 699: Teaching College Classical Studies I
+	The goals, contents, and methods of instruction in classical studies. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS CL 720: Latin Seminar
+	Extensive readings in Latin authors. Specific topics may change. Topic for Fall 2014: Writing the Empire,  Writing the Self: Tacitus in His Early Imperial Context. Examines the primary texts and current research on  the formation of concepts related to imperial rule and selfhood in the early Roman empire.		
+
+GRS CL 791: Greek Seminar
+	Topic for Spring 2015: TBA.		
+
+GRS CL 957: Dir Study Latin
+			
+
+GRS CL 958: Dir Study Latin
+			
+
+GRS GE 798: Global Development Capstone
+		Capstone course for MA students in Global Development Policy and Global  Development Economics. Students, working in groups, design and carry out an  interdisciplinary policy analysis comparable to those performed for a government  or nonprofit agency. Also offered as GRS EC 798 and IR 798.		
+
+GRS GE 805: Spatial Analysis Using Geographic Information Systems (GIS)
+	Covers advanced research topics in GIS dealing with the measurement, storage, retrieval, and analysis of  spatial information. Topics include fuzzy sets, fractals, and spatial statistics. Completion of project is  required.		
+
+GRS GE 902: Student Intern
+			
+
+GRS GE 933: Problems in Gis
+			
+
+GRS GE 934: Problems in Gis
+			
+
+GRS GE 937: Prb Remote Snsg
+			
+
+GRS GE 938: Prb Remote Snsg
+			
+
+GRS GE 947: Prob in Energy
+			
+
+GRS GE 948: Prob in Energy
+			
+
+GRS GE 995: Prob in Environ
+			
+
+GRS GE 996: Prob in Environ
+			
+
+GRS HI 608: Renaissance Europe
+	The main political, socioeconomic, intellectual and artistic currents in Italy (c. 1350--1530) and  northwestern Europe (c. 1500-1560); emphasis on leading thinkers (Petrarch, Bruni, Machiavelli, Erasmus,  More, Montaigne) as creators of the modern Western mind. This course cannot be taken for credit in  addition to the course with the same title that was previously numbered GRS HI 811. 		
+
+GRS HI 674: Issues in Modern Russian and Soviet History, 1861Â1956
+	Modern Russia in the imperial and Soviet eras: from the Great Reforms of Alexander II through the end of  Stalin's reign. Examines Russia's political, socioeconomic, and cultural transformation from the traditional  society into the first Communist state. This course cannot be taken for credit in addition to the course with  the same title that was previously numbered GRS HI 847.		
+
+GRS HI 698: African American History
+	The history of African Americans from African origins to present time; consideration of slavery,  reconstruction, and ethnic relations from the colonial era to our own time. This course cannot be taken for  credit in addition to the course with the same title that was previously numbered GRS HI 871.		
+
+GRS HI 699: Teaching College History
+	The goals, contents, and methods of instruction in history. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS HI 705: American Thought and Culture, 1776 to 1900
+	Examines how intellectuals constructed an "exceptional" American identity by adjusting provincial Protestant and Enlightenment traditions to the challenges of transnational democratic, Romantic, and secular thought. Topics include Transcendentalism, pro- and anti-slavery movements, philosophical idealism, literary realism, and Darwinian theories. This course cannot be taken for credit in addition to the course with the same  title that was previously numbered GRS HI 873.		
+
+GRS HI 706: Intellectual History of the United States, 1900 to the Present
+	Investigates how American thinkers brought about an intellectual revolution in three challenging moments: the naturalist revolt in pragmatic philosophy and modern art; progressive liberals' confrontations with radicalism and new conservatisms; and poststructuralists' uncertain leap beyond modernist science, religion, and humanities. This course cannot be taken for credit in addition to the course with  the same title that was previously numbered GRS HI 874.		
+
+GRS HI 710: Religion, Community, and Culture in Medieval Spain
+	Interactions between Muslims, Christians, and Jews in medieval Europe's most religiously diverse region --  from the establishment of an Islamic al-Andalus in 711 CE to the final Christian "reconquest" of the  peninsula and expulsion of the Jews in 1492 CE. Also offered as GRS RN 710.		
+
+GRS HI 721: The American Revolution, 1750-1800
+	The political, economic, and ideological causes of the American War for Independence; the construction of  a new political system amid the passions of a revolutionary upheaval; and the gradual emergence of a new  economic and cultural order in the United States. This course cannot be taken for credit in addition to the  course with the same title that was previously numbered GRS HI 856.		
+
+GRS HI 746: History of International Human Rights
+	History of international human rights since the eighteenth century. Examines political, social, economic  rights, the UN Charter, the Universal Declaration of Human Rights, and related international conventions,  enforcement, regionalism, globalization, and NGOs. Analyzes tensions between national sovereignty and  human rights.		
+
+GRS MA 905: Directed Study: History of Mathematics
+			
+
+GRS MA 906: Directed Study: History of Mathematics
+			
+
+GRS MA 911: Directed Study: Real Analysis
+			
+
+GRS MA 912: Directed Study: Real Analysis
+			
+
+GRS MA 913: Directed Study: Complex Analysis
+			
+
+GRS MA 914: Directed Study: Complex Analysis
+			
+
+GRS MA 917: Directed Study: Functional Analysis
+			
+
+GRS MA 918: Directed Study: Functional Analysis
+			
+
+GRS MA 921: Directed Study: Differential Topology
+			
+
+GRS MA 922: Directed Study: Differential Topology
+			
+
+GRS MA 925: Directed Study: Differential Geometry
+			
+
+GRS MA 926: Directed Study: Differential Geometry
+			
+
+GRS MA 927: Directed Study: Algebraic Topology
+			
+
+GRS MA 928: Directed Study: Algebraic Topology
+			
+
+GRS MA 931: Directed Study: Logic and Theoretical Computer Science
+			
+
+GRS MA 932: Directed Study: Logic and Theoretical Computer Science
+			
+
+GRS MA 941: Directed Study: Algebra
+			
+
+GRS MA 942: Directed Study: Algebra
+			
+
+GRS MA 943: Directed Study: Number Theory
+			
+
+GRS MA 944: Directed Study: Number Theory
+			
+
+GRS PY 910: Directed Study in Physics
+			
+
+GRS PY 961: Scholarly Methods in Physics 1
+		Introduction to scholarly methods in physics teaching and research: effective STEM instructional  techniques; successful oral and written presentations; reading and reporting scientific literature; ethical  obligations in physics teaching and research; career paths in physics. Required of first-semester doctoral  students.		
+
+GRS RN 601: Varieties of Early Christianity
+           			Surveys the many different and often competing forms of Christianity that arose and  flourished in the second to the seventh Century, from the "apostolic period" to the Arab  conquest in the Middle East.		
+
+GRS RN 608: The Open Heaven: Apocalyptic Literature in Early Judaism and Christianity
+		Examines literary and historical roots of "apocalypticism" in early Judaism and Christianity. Attention to  literary genre, symbolism, metaphor, heaven, hell, angelology, demonology, attitudes toward the end of  the world. Examines relationship of apocalypticism to shamanism, mysticism, magic, magic, gnosticism, liturgy.		
+
+GRS RN 612: Buddhism in America
+	The transplantation and transformation of Buddhism in the United States. Time period ranges from the 18th century to the present, but the emphasis is on contemporary developments, including the new Asian immigration, Jewish Buddhism, feminization, and engaged Buddhism. 		
+
+GRS RN 616: Modern Islam
+		Focuses on formations of Islam in colonial and postcolonial periods. How modernist and Islamist thinkers  have negotiated the encounter between tradition and modernity. 		
+
+GRS RN 622: History of Judaism
+	Major trends in postbiblical Judaism; academy and synagogue; Mishna and Talmud; Babylonian diaspora; medieval poetry, philosophy, and mysticism; codes of law; organization of the Jewish community "in exile"; land of Israel; Judaism and Islamic and Christian civilization. 		
+
+GRS RN 623: Classical Jewish Thought
+	Basic human and religious issues as they have been understood within the classical Jewish framework of  God, the people of Israel, and Torah: good and evil, creation, the relationship of human beings to God and  to one another.		
+
+GRS RN 624: Introduction to Rabbinic Literature
+	Chronological exploration of rabbinic Judaism's major documents, using a modern scholarly anthology. The Mishnah; legal and legendary selections from the midrashim and both the Jerusalem and Palestinian Talmuds. Themes: monotheism, sin and atonement, heaven and hell, conceptions of gender, the impact of rabbinic texts on medieval and modern Judaism.      		
+
+GRS RN 625: Seminar: Early Jewish Mysticism
+	Analysis of the development of Jewish mysticism from the biblical to the early medieval  era. Emphasis on the forms of mysticism--and the texts in which they are embedded--  from the rabbinic era. No knowledge of Hebrew is required.		
+
+GRS RN 626: Jewish Mystical Movements and Modernization, 1492Â2000
+	Mysticism, spiritual, and social influences. Early modern, modern periods. Focus on "conservative" and "revolutionary" tendencies. 1492 and Iberian, German, Polish Jewry; leadership of "third generation" of survivors; Christian and Islamic influences; Kulturkampf precipitated by popularization of Kabbala,   antinomianism, Hasidism, magic, science.		
+
+GRS RN 629: Modern Jewish Thought
+	Reading Jewish thinkers from the radical Enlightenment to twentieth century existentialism and Zionism,  this course introduces some of the great philosophical debates on religion and secularism, revelation and  scientific reason, and ethnic particularism and universal ethics.		
+
+GRS RN 630: American Jewish Experiences
+	Traces the achievements and reputations of Jews, shaped by stereotypes of wealth, power, intellect and  sexuality. Students examine film, literature, art, popular music, attitudes towards Israel, religious practices,  and intermarriage rates for evidence of changing trends.		
+
+GRS RN 634: Dead Sea Scrolls
+	Examination of the ancient Hebrew documents discovered in the Judean desert. Their authorship; the theological significance of the Scrolls; their relations to Ancient Judaism and early Christianity; the controversy over their release and publication. 		
+
+GRS RN 637: Gender and Judaism
+	Explores the role of gender and sexuality in Judaism and Jewish experience, historically and in the present. Subjects include constructions of masculinity and femininity, attitudes toward (and uses of) the body and  sexuality, gendered nature of religious practice and authority.		
+
+GRS RN 638: Mysticism and Philosophy: Jewish and Islamic Perspectives
+	Thematic introduction to mysticism and philosophy, with a focus on dynamics of religious experience.  Readings from medieval Jewish and Islamic philosophy; Sufi mysticism and philosophy; Kabbalah, Biblical  interpretation, Sufi poetry, Hebrew poetry from the Golden Age of Muslim Spain.		
+
+GRS RN 639: The Modern Jew
+	Explores Jewish modernity through attitudes toward place (migration, diaspora, land of Israel) and history  (utopian, pragmatic, secular, religious), as well as individual and collective modes of Jewish self- expression, including literature, art, music, and film.		
+
+GRS RN 640: The Quran
+	The emergence of the Quran as a major religious text, its structure and literary features, its principle themes and places within the religious and intellectual life of the Muslim community. 		
+
+GRS RN 641: Islamic Mysticism: Sufism
+	Rise and development of the mystical movement in early Islam; analysis of the thought of leading Sufi brotherhoods, their organization, liturgy, and religious life; the impact of Sufism on classical and postclassical Islam. 		
+
+GRS RN 645: Islamic Law
+	A survey of major trends in Islamic jurisprudence from the 7th century to the present;  the structure of Islamic law, its regulative principles, its place in Islamic society, and the mechanisms by which it is elaborated and applied.   		
+
+GRS PS 860: Child Therapy
+	Child therapy cases and processes are explored from a multitheoretical perspective including systems, analytic, and cognitive-behavioral theories. Empirical research on therapies for specific disorders (e.g., conduct disorders, eating disorders, etc.) are also discussed. 		
+
+GRS PS 874: Seminar: Psychotherapy
+	Basic clinical concepts of psychotherapy and their application in the treatment of personality and behavior disorders. Case materials from the students' and instructor's therapeutic work used to illustrate special problems.		
+
+GRS PS 875: Advanced Psychopathology
+		This seminar presents an introductory overview to specific clinical disorders and syndromes. Neurobiological, psychoanalytic, behavioral, and social perspectives are emphasized. It is recommended that students have some preparation in physiological psychology. 		
+
+GRS PS 879: The Scientist Practitioner
+		To acquaint first year doctoral students in clinical psychology with the role of the scientist-practitioner as a guiding philosophical underpinning to the practice of clinical psychology. A focus will be on the crucial role of the scientist-practitioner in our emerging behavioral healthcare system.		
+
+GRS PS 880: Empirically Supported Treatments of Psychological Disorders
+	The goal of this seminar is to become familiar with the efficacy and effectiveness of some of the most important state-of-the-art treatments for various psychological problems. Each participant is expected to present a paper discussing the theory, efficacy, and clinical utility of the selected psychosocial interventions. 		
+
+GRS PS 882: Empirically Supported Child and Family Treatments
+		Explores the status of individual- and family-based psychological treatments for  childhood psychopathology that are empirically supported (i.e., whose efficacy has received at least preliminary scientific support). Rationale and controversies are  discussed, and specific treatment models are illustrated through case examples.		
+
+GRS PS 901: Directed Study in Psychology
+	Doctoral candidates are encouraged to undertake special projects.		
+
+GRS PS 902: Directed Study in Psychology
+	Doctoral candidates are encouraged to undertake special projects.		
+
+GRS PS 909: Professional Issues in Psychological Science 1
+           			Prepares advanced doctoral students in psychology for the next stages of their career. Issues covered  include conducting research; writing papers; reviewing for journals; ethical issues in conducting research;  time management; teaching; mentoring; grant writing; presenting research at conferences; and career  planning.		
+
+GRS PS 910: Professional Issues in Psychological Science 2
+           			Prepares advanced doctoral students in psychology for the next stages of their career. Issues covered  include conducting research; writing papers; reviewing for journals; ethical issues in conducting research;  time management; teaching; mentoring; grant writing; presenting research at conferences; and career  planning.		
+
+GRS PS 951: Special Topics in Clinical Psychology
+	Clinical or laboratory research of clinical faculty and invited speakers, ethical isues in research and clinical practice, professional responsibilities and concerns.		
+
+GRS PS 973: Clinical Practicum
+	Open to advanced candidates in clinical psychology, behavioral medicine, nursing, education, and health sciences. Students participate in psychological programs of approved practicum centers, reporting and evaluating their experiences in seminar conferences. Work is directed toward increasing competence in the duties expected in clinical behavioral medicine. 		
+
+GRS PS 974: Clinical Practicum
+	Open to advanced candidates in clinical psychology, behavioral medicine, nursing, education, and health sciences. Students participate in psychological programs of approved practicum centers, reporting and evaluating their experiences in seminar conferences. Work is directed toward increasing competence in the duties expected in clinical behavioral medicine. 		
+
+GRS PS 978: Laboratory and Research Practicum
+	Open to advanced doctoral candidates in psychology. A review of contemporary research in selected areas. Issues of experimental design, execution, and data analysis are examined in the context of pursuing dissertation research. 		
+
+GRS PS 979: Clinical Internship
+           			For clinical doctoral students only. Students complete a one-year clinical internship as part of the requirements for the Ph.D. degree in clinical psychology. 		
+
+GRS PS 980: Clinical Internship
+           			For clinical doctoral students only. Students complete a one-year clinical internship as part of the requirements for the Ph.D. degree in clinical psychology. 		
+
+GRS PS 993: Clinical Supervision of Psychotherapy
+		For senior graduate level students. Training in the research, theory, and practice of supervision. Students present case material and, under the supervision of a licensed clinician, supervise a novice clinician.		
+
+GRS PS 994: Clinical Supervision of Psychotherapy - Practicum
+		Provides clinical training in supervision of psychotherapy skills. Students present actual case material, and, under the supervision of a licensed clinician, supervise a novice clinician.		
+
+GRS PY 677: An Introduction to Evidence-Based Undergraduate STEM Teaching
+	Online course with in-person faculty-led sessions. Participants learn about effective teaching strategies  and the research that supports them, and apply approaches to lesson design and assignments for future  teaching opportunities. Also offered as GRS BI 677 and GRS CH 677.		
+
+GRS PY 699: Teaching College Physics I
+	The goals, contents, and methods of instruction in physics. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS MA 751: Advanced Statistical Methods II
+		Second course in a two-semester PhD sequence on post-classical statistical methods and their applications. Selection from topics in statistical learning, such as regularized basis methods, kernel methods, boosting, neural networks, support vector machines, and graphical models.		
+
+GRS MA 770: Mathematical and Statistical Methods of Bioinformatics
+		Mathematical and statistical bases of bioinformatics methods and their applications. Hidden Markov models, kernel methods, mathematics of machine learning approaches, probabilistic sequence alignment, Markov chain Monte Carlo and Gibbs sampling, mathematics of phylogenetic trees, and statistical methods in microarray analysis.		
+
+GRS MA 771: Introduction to Dynamical Systems
+	Diffeomorphisms and flows; periodic points, nonwandering points, and recurrent points; hyperbolicity, topological conjugacy, and structural stability; stable manifold theorem; symbolic dynamics; Axiom A and chaotic systems. 		
+
+GRS MA 775: Ordinary Differential Equations
+	Stable and center manifolds theorem, linearization of vector fields, variational equations, Floquet theory and Poincare; maps for periodic orbits, bifurcation of rest points, averaging theory, topics from singular perturbations, Hamiltonian systems, non-linear oscillations, normal forms, and applications. 		
+
+GRS MA 776: Partial Differential Equations
+		Hyperbolic, elliptic, and parabolic equations. Characteristics and separation of variables. Eigenvalue problems, Fourier techniques, Sobolev spaces, and potential theory. Introduction to pseudodifferential operators.		
+
+GRS MA 779: Probability Theory I
+		Introduction to probability with measure theoretic foundations. Fundamentals of measure theory. Probability space. Measurable functions and random variables. Expectation and conditional expectation. Zero-one laws and Borel-Cantelli lemmas. Chracteristic functions. Modes of convergence. Uniform integrability. Skorokhod representation theorem. Basic limit theorems.		
+
+GRS MA 780: Probability Theory II
+		Probability topics important in applications and research. Laws of large numbers.  Three series theorem. Central limit theorems for independent and non-identically distributed random variables. Speed of convergence. Large deviations. Laws of the iterated logarithm. Stable and infinitely divisible distributions. Discrete time martingales and applications.		
+
+GRS MA 781: Estimation Theory
+		Review of probability, populations, samples, sampling distributions, and delta theorems. Parametric point estimation. Rao-Cramer inequality, sufficient statistics, Rao-Blackwell theorem, maximum likelihood estimation, least squares estimation, and general linear model of full rank. Confidence intervals. Bayesian analysis and decision theory. 		
+
+GRS MA 782: Hypothesis Testing
+		Parametric hypothesis testing, uniformly and locally the most powerful tests, similar tests, invariant tests, likelihood ratio tests, linear model testing, asymptotic theory of likelihood ratio, and chi-squared test. Logit and log-lin analysis of contingency tables. 		
+
+GRS MA 783: Advanced Stochastic Processes
+           			Proof-based approach to stochastic processes. Brownian motion. Continuous martingales. Stochastic  integration. Ito formula. Girsanov's Theorem. Stochastic differential equations. Feynman-Kac formula.  Markov Processes. Local times. Levy processes. Semimartingales and the general stochastic integral. Stable    processes. Fractional Brownian motion.		
+
+GRS MA 791: Recent Advances in Probability and Statistics I
+		Participants discuss ongoing research, as well as important results that have recently appeared in the literature. 		
+
+GRS MA 822: Topics in Geometry and Topology
+		Advanced seminar in topics in differential geometry, topology and mathematical physics of current research interest. 		
+
+GRS MA 841: Seminar: Algebra
+			
+
+GRS MA 842: Seminar: Algebra
+			
+
+GRS MA 843: Topics in Number Theory I
+		Advanced number theory, focusing on such topics as modular forms, special values in L-series, p-adic L-functions, and p-adic variation.		
+
+GRS MA 844: Topics in Number Theory II
+		Advanced number theory, focusing on such topics as Selmer groups, Iwasawa theory, Euler systems, and main conjectures.		
+
+GRS MA 871: Seminar: Dynamical Systems
+			
+
+GRS MA 876: Seminar: Partial Differential Equations
+			
+
+GRS MA 881: Seminar: Statistics
+		Real problems in experimental design and data analysis presented by clients from various other departments. The art of statistical consulting in a variety of applied areas.		
+
+GRS MA 882: Seminar: Statistics
+		Real problems in experimental design and data analysis presented by clients from various other departments. The art of statistical consulting in a variety of applied areas.		
+
+GRS EI 699: Teachng Coll Ei
+			
+
+GRS EI 701: The Theory and Practice of Literary Editing
+	An introduction to the theory, practice, and principles of editorial decisions, such as questions of  modernization, revision, and annotation. Featuring a dozen visiting speakers and attending to notable  editorial achievements.		
+
+GRS EI 703: Annotation
+		Studies in allusions, sources, dating, topical contexts, annotation as a part of the work itself, and marginal  glosses, among other topics.		
+
+GRS EI 704: Editions
+		A consideration of the major editions of an author or authors. Subject varies. 		
+
+GRS EI 802: Advanced Topics in Editing:  Word and Image
+           			An historical and critical description of the relation between printed text and forms of illustration in selected works dating from 1500 to the present day.		
+
+GRS EI 901: Dir Stdy
+			
+
+GRS EI 902: Directed Study
+			
+
+GRS EN 699: Teaching College English I
+	The goals, contents, and methods of instruction in English. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS EN 705: Seminar: The Writing of Plays 1
+		A workshop in the writing of plays. Manuscripts are read using professional actors from the Boston  community, and plays are discussed in class. Individual conferences. Limited enrollment.		
+
+GRS EN 706: Seminar: The Writing of Plays 2
+		A workshop in the writing of plays. Manuscripts are read using professional actors from the Boston  community, and plays are discussed in class. Individual conferences. Limited enrollment.		
+
+GRS EN 722: Medieval Performance
+	Introduction to performance culture in the four centuries before Shakespeare. Reads liturgical and  sacramental ritual, guild and court drama, civic and royal pageant, heresy trials, lyric poetry and song,  through terms developed by contemporary language and performance theory.		
+
+GRS EN 724: Old Age in Early Modern Literature
+	An introduction to the discipline and practice of "literary gerontology" or age studies through a survey of  Elizabethan and Jacobean representations of late life. Attention to relevant classical and continental  resources as well as modern critical contexts.		
+
+GRS EN 725: English Secular Lyric of the Seventeenth Century
+	Faced with authorial challenges posed by ascendant female writers, how did male poets in seventeenth- century England defensively conceive, construct, and maintain a "masculine line" in secular lyrics? Hetero-  and homosocial relations in Donne, Jonson, Drayton, Carew, Herrick, Marvell, Rochester, others.		
+
+GRS EN 727: Restoration and Eighteenth-Century Poetry
+	Major concentration on Dryden, Pope, Swift, Johnson. Students may choose other poets from a list  including Davenant, Marvell, Cowley, Philips, Behn, Wilmot, Killigrew, Prior, Finch, Montagu, Addison, Gray,  Collins, Smart, Seward.		
+
+GRS EN 728: Hist/Thry Novel
+	This course description is currently under construction.		
+
+GRS EN 729: The Shelley-Byron Circle
+	The "Satanic School": The works of Percy and Mary Shelley and Lord Byron, focusing on their association in  Switzerland and Italy, 1816-22. Works include Percy's Prometheus Unbound and The Cenci, Mary's  Frankenstein, and Byron's Childe Harold's Pilgrimage and Don Juan.		
+
+GRS EN 730: Modern Long Poem
+	The long poem as sequence, notebook, atypical research, non-novel, nearly genreless book: excerpts  and  sometimes whole works by Crane, Williams, Stein, Pound, Loy, Auden, Prince, Zukofsky, Olson, Hill, Howe,  and others, American and British.		
+
+GRS EN 732: The Literature of Atlantic Modernity, 1700-1900
+	A theoretical and historical examination of transatlantic literature, with a focus on capitalism, aesthetics,  and print culture.  Readings in Marx, Weber, Raymond Williams, Benedict Anderson, Paul Gilroy, Defoe,  Franklin, Wheatley, Equiano, Wordsworth, Austen, Irving, Bronte, Melville, and James.		
+
+GRS EN 734: Social Difference and the Rise of Corporate Capitalism in American Literature
+	Against the backdrop of recent scholarship, the course examines how Cahan, Howells, James, Wharton,  Dreiser, and Dunbar indexed materialism, philanthropy, literary marketplace, and cultural capital in terms  of race, ethnicity, class, gender, sexuality, and political ideology.		
+
+GRS EN 742: Knowing and Judging
+	What is the status of aesthetic and interpretive claims? Are they rational, cognitive, or calculative? Are they  expressions of preference, emotion, ideology, wisdom? Readings in aesthetics from Kant onwards,  including Cavell, Fried, Gadamer, Sontag, Jameson, affect theory, Digital Humanities.		
+
+GRS LS 621: Reading Spanish for Graduate Students
+	Designed to prepare graduate students for the Spanish reading exam. Develops a knowledge of the fundamentals of Spanish grammar. Practice in translating passages. No previous knowledge of Spanish required.		
+
+GRS LS 850: Seminar: Topics in Hispanic Literature
+	Four topics are offered 2014/2015. Students may take one, two, three, or four for credit. Fall 2014 Section A1: Africa and the Avant-garde. African art and religions influenced defining figures of Western culture from visual arts to  literature and music, producing a phenomenon that touches diverse fields of  knowledge such as history, anthropology, political science, cinema, philosophy, urbanism, literary  criticism, ethnomusicology, and folklore. Fall 2014 Section B1: Sentimental Romance and Celestina.  Explores the development of a new narrative  form, the Sentimental Romance, which was one of the  most innovative genres of the late Middle Ages. A study also of its parody in one of Spain's  masterpieces, La Celestina. Spring 2015 Section A1: TBA. Spring 2015 Section B1: TBA.		
+
+GRS LS 951: Directed Study in Hispanic Language and Literatures
+		Hours arranged.		
+
+GRS LS 952: Directed Study in Hispanic Language and Literatures
+		Hours arranged.		
+
+GRS LX 699: Teachng Coll Lx
+			
+
+GRS LX 951: Directed Study: Linguistics
+		Directed study in linguistics. Hours arranged.		
+
+GRS LX 952: Directed Study: Linguistics
+		Directed study in linguistics. Hours arranged.		
+
+GRS LY 613: Advanced Arabic for Graduate Students
+           			Students are assigned to an Arabic language advisor who supervises placement in an Arabic language course of an appropriate level. May be repeated for credit. 		
+
+GRS LY 614: Advanced Arabic for Graduate Students 2
+           			Graduate students are assigned to an Arabic language advisor who supervises their placement in an Arabic  language course at the appropriate level. 		
+
+GRS LY 650: Introduction to Arabic Literature
+	Selection of Arabic poetry, short stories, novels, and drama.  Focus on development and refinement of Arabic reading strategies, literary analysis of short passages, and writing and speaking skills. Readings and assignments in Arabic and English.		
+
+GRS LY 720: Media Arabic
+           			An advanced Arabic language course that builds skills in reading, listening, discussion, presentation, and  composition while familiarizing students with a broad range of Arab online media and their coverage of  current socio-political and cultural issues.		
+
+GRS LY 741: 1001 Nights in the World Literary Imagination
+           			What is The Thousand and One Nights? How has this ever-expanding collection appealed to its diverse audiences? Focus on Nights structure and themes, notable translations and offshoots in western literature and art, and later appropriations by Arab and Muslim writers.		
+
+GRS LY 770: Topics in Arabic Literature
+	May be taken multiple times for credit as topics change. Readings and assignments in English; readings  also available in Arabic.Topic for Fall 2014: Russia in the Middle East: Literary Encounters. How have  Russian writers imagined the Muslim world? How have Arab writers imagined Russia and the USSR? What  happened when these fantasies collided during real-life encounters (diplomacy, study abroad, war, exile)?  Knowledge of Arabic or Russian useful but not necessary.		
+
+GRS LY 771: Topics in Arab Culture and Arabic Language
+	May be taken multiple times for credit as topics change. Topic for Spring 2015: Arab Culture and Identity  (in English translation). Explores Arab culture primarily through media and the arts. Develops an  understanding of Arab culture focusing on media, film, the arts, language and the Arab Spring in the  context of religious, socio-cultural and political identity.		
+
+GRS MA 614: Statistical Methods 2
+           			Second course in statistics, embodying basic statistical methods used in educational and social science  research. Reviews all basic concepts covered in a first statistics course (e.g., CAS MA 613) and presents,  in detail, more advanced topics such as analysis of variance, covariance, experimental design,  correlation, regression, and selected nonparametric techniques. A  problem-solving course; students  carry out analysis of data taken from educational and other social science sources. This course cannot  be taken for credit in addition to the course entitled "Statistical Methods II" that was previously  numbered CAS MA 614.		
+
+GRS MA 647: Research Methods in Mathematics I
+           			Methods of mathematical research via prolonged study of one selected mathematical topic. Topics are usually chosen from number theory or combinatorics. Written and oral research presentations.  		
+
+GRS MA 648: Research Methods in Mathematics II
+           			Methods of mathematical reserach via prolonged, directed study of one selected mathematical topic, distinct from that chosen for GRS MA 647.  Topics are usually chosen from geometry, number theory, or combinatorics, and may involve open problems. Written and oral research presentation.  		
+
+GRS MA 665: Introduction to Modeling and Data Analysis in Neuroscience
+           			An introduction to the basic techniques of quantifying neural data and developing mathematical models of  neural activity. Major focus on computational methods using computer software and graphical methods for model analysis.		
+
+GRS MA 666: Advanced Modeling and Data Analysis in Neuroscience
+           			Advanced techniques to characterize neural voltage data and analyze mathematical models of neural activity. Major focus on computational methods using computer software and graphical methods for model analysis.		
+
+GRS MA 671: Chaotic Dynamical Systems
+           			For graduate students in disciplines outside of mathematics. Iterations of functions of one or several  variables. Periodicity, stability, chaos, fractals, bifurcations. Julia sets and the Mandelbrot set. Students are  required to perform several experiments on personal computers.		
+
+GRS CS 931: Drs-Algor Info
+			
+
+GRS CS 932: Drs-Algorithms
+			
+
+GRS CS 933: Drs-Algorithms
+			
+
+GRS CS 935: Drs-Complexity
+			
+
+GRS CS 936: Drs-Complexity
+			
+
+GRS CS 937: Drs-Cryptograph
+			
+
+GRS CS 940: Drs-A/I
+			
+
+GRS CS 941: Drs-A/I
+			
+
+GRS CS 950: Drs-Comp Arch
+			
+
+GRS CS 952: Drs-Op Systems
+			
+
+GRS CS 953: Drs-Op Systems
+			
+
+GRS CS 960: Drs-Database
+			
+
+GRS CS 961: Drs-Database
+			
+
+GRS CS 979: Drs-Img/Vid COM
+			
+
+GRS CS 980: Drs-Graphics
+			
+
+GRS CS 995: Ds Computer Sci
+			
+
+GRS EC 701: Microeconomic Theory
+           			Neoclassical general equilibrium theory. Topics covered include consumption, production, existence of competitive equilibrium, fundamental welfare theorems, externalities, and uncertainty. 		
+
+GRS EC 702: Macroeconomic Theory
+           			Basic Keynesian model: consumption, investment, and money demand functions. Extension to the open economy. Determinants of money supply. Effectiveness of monetary and fiscal policy. Inflation and income policy. Elementary growth models. 		
+
+GRS EC 703: Advanced Microeconomic Theory I
+           			Walrasian equilibrium:  existence, uniqueness and core equivalence. Uncertainty:  Arrow Debreu contigent commodities, Radner equilibrium, incomplete markets.   Economics of information: rational expectations, adverse selection, signaling and screening.  The principal-agent problem.		
+
+GRS EC 704: Advanced Macroeconomic Theory I
+           			Consumption theory and evidence; investment theory and evidence; monetary theory; micro foundations of macro systems; theory of rational expectations; models of fiscal and monetary macroeconomic policy; and employment theory and policy.		
+
+GRS AN 772: Psychological Anthropology
+	Introduces students to some key theoretical perspectives and controversies in the cross-cultural study of  psychology. Readings from classic texts and cross-cultural studies of emotion, sexuality, concepts of the  person, national character, consciousness, authority, and religion.		
+
+GRS AN 775: Culture, Society, and Religion in South Asia
+	Ethnographic and historical introduction to the Indian subcontinent with a focus on the impact of religion  on cultural practices and social institutions.		
+
+GRS AN 784: Anthropology of Religion
+	Myth, ritual, and religious experience across cultures. Special attention to the problem of religious  symbolism and meaning, religious conversion and revitalization, contrasts between traditional and world  religions, and the relation of religious knowledge to science, magic, and ideology. Also offered as GRS RN  687.		
+
+GRS AN 797: Anthropological Film and Photography
+	Considers the history and development of anthropological, ethnographic, and transcultural filmmaking. In-depth examination of important anthropological films in terms of methodologies, techniques, and strategies of expression; story, editing, narration, themes, style, content, art, and aesthetics.		
+
+GRS AN 901: Directed Study in Anthropology
+			
+
+GRS AN 902: Directed Study in Anthropology
+			
+
+GRS AR 699: Teaching College Archaeology I
+	The goals, contents, and methods of instruction in archaeology. General teaching-learning issues. Required of all teaching fellows.		
+
+GRS AR 701: The Intellectual History of Archaeology
+		The historical development of archaeological methods and theory from the Renaissance to the present day, including comparison of major developments in Western Europe and the Americas with developments in other regions. Basic concepts in archaeological record and society. 		
+
+GRS AR 702: Contemporary Theory in Archaeology
+		Explores aspects of contemporary theory in archaeology, including post-modern critiques of contemporary practice, new approaches to archaeology of ritual, personhood, identity, and the body; indigenous and public archaeology; and politics and archaeology.   		
+
+GRS AR 703: Seminar: Materials in Ancient Society
+	Topic to be announced. Offered through the Center for Materials Research in Archaeology and Ethnology.		
+
+GRS AR 704: Seminar: Materials in Ancient Society
+	Topic to be announced. Offered through the Center for Materials Research in Archaeology and Ethnology.		
+
+GRS AR 705: Pre-urban Development
+		Cultural development from the origins of humankind through the establishment of food production, with emphasis on models for reconstructing successive changes in adaptation among early populations. 		
+
+GRS AR 706: Archaeology of Complex Societies
+		Core concepts of archaeological research on the formation, cultural development, and decay of complex  societies, as well as focused study of specific aspects such as gender and identity. 		
+
+GRS AR 707: Scientific Applications In Archaeology
+	This seminar explores new ways of addressing archaeological questions through the application of  scientific techniques, focusing on cutting-edge methodologies and the most recent literature in the field.  Students pursue questions of individual interest through readings, discussions, presentations, and  research papers.		
+
+GRS AR 708: Processes in the formation of Archaeological Sites.
+	Considers in detail geological, biological and anthropogenic depositional and post-depositional processes that result in formation  of archaeological sites.  Initial focus on basic principles/processes, then their application to site-evaluation in New and Old World.  Field trips in area.		
+
+GRS AR 712: Seminar in Old World Prehistory
+	Selected problems or topics in prehistoric archaeology of the Old World.		
+
+GRS AR 730: Seminar: Old World Historical Archaeology
+	Selected problems or topics in the archaeology of the classical world.		
+
+GRS AR 735: Topics in the Materiality of Ancient Mediterranean Religions
+           			Investigates material traces and contexts of religion in the Greco-Roman world, including iconic,  architectural, votive, magical, and other archaeological remains; and draws on theories of space, image,  and ritual performance. Topics vary. Also offered as GRS RN 790.		
+
+GRS AR 741: Seminar: Archaeology of Mesopotamia
+	Detailed survey of the ancient Near East, from the introduction of agriculture to the Hellenistic era.  Examines the genesis of the first urban society and its transformation under the Sumerians, Babylonians,  Assyrians, and Persians. 		
+
+GRS AR 742: Archaeology in the Holy Land
+	In Israel, archaeology is part of current events. We study material remains from the Israelite to the Muslim  conquests (c. 1200 BCE -- 640 CE) to learn how physical evidence is created and still plays a role in a  larger historical drama. Also offered as GRS RN 690.		
+
+GRS RN 648: Rumi and Persian Sufi Poetry
+	Introduction to the Persian Sufi poet Rumi's narrative and lyric writings. Beginning with an introduction to Islamic mysticism, studies the innovative aspects of Rumi's poetry and the problem of profane vs. sacred love. All readings in English translation. 		
+
+GRS RN 660: Daoist Religion
+	A historical survey of the Daoist traditions in China. The philosophy of Lao-tzu and Chuang-tzu and Han dynasty religion. Early Daoist movements, as well as the heyday of the religion in the Six Dynasties and the Tang. Modern Daoism as it was first formed in the Tang dynasty is also discussed.		
+
+GRS RN 661: Confucian Religion
+	Religious aspects of Confucianism, with attention to the Analects. Topics include ceremony, song and  poetry, morality and sagehood, ancestral sacrifice; establishment of Confucianism as state religion; role of  women; and modernity.		
+
+GRS RN 663: Zen Buddhism
+	A study of Zen teachings and practices as a sect of Chinese and Japanese Buddhism, as a philosophic system, and as a pattern of culture. 		
+
+GRS RN 664: Buddhist Literature
+	Focuses on Buddhist sutras and other literature to explore key issues of doctrine, philosophy, and praxis in the Theravada and Mahayana traditions of Buddhism. Topics include the Buddha's life, practicing the path, emptiness, and interdependence.		
+
+GRS RN 668: American Evangelicalism
+	Major trends in American Evangelicalism, from the colonial awakenings and religious reform to the  contemporary Christian Right. Focus on how evangelicals have negotiated and shaped central tenets of  American culture, including understandings of gender, race, performance, nation, sexuality, and  economics.		
+
+GRS RN 675: Culture, Society and Religion in South Asia
+	An ethographic and historical introduction to the Indian subcontinent with a focus on the impact of religion  on cultural practices and social institutions.  Topics to be covered include kinship, gender, geography, linguistic diversity, ethnicity, ritual, agriculture, economics and politics, expressive tradition, colonialism and nationalism and communal violence.		
+
+GRS RN 682: History of Religion in Pre-Colonial Africa
+	The study of the development of religious traditions in Africa during the period prior to European  colonialism. An emphasis on both indigenous religions and the growth and spread of Judaism, Christianity,  and Islam in the continent as a whole. Also offered as GRS AA 882 and GRS HI 749.		
+
+GRS RN 684: The Holocaust
+	Background of German (and European) anti-Semitism. Rise of Nazism and early oppression, initial Jewish reaction, mechanics of destruction, ghettos, camps, world response and nonresponse, literature of the Holocaust, and religious implications. 		
+
+GRS RN 685: Representations of the Holocaust in Literature and Film
+	Questions of representation in literature and film about the Holocaust, including testimonial and fictive  works by Wiesel and Levi, Ozick, and others; films include documentaries and feature films. Discussions of  the Holocaust as historical reality, metaphor, and generative force in literature.		
+
+GRS RN 687: Anthropology of Religion
+	Myth, ritual, and religious experience across cultures. Special attention to the problem of religious  symbolism and meaning, religious conversion and revitalization, contrasts between traditional and world  religions, and the relation of religious knowledge to science, magic, and ideology. Also offered as GRS AN  784.		
+
+GRS RN 690: Archaeology in the Holy Land
+		In Israel, archaeology is part of current events. We study material remains from the Israelite to the Muslim  conquests (c. 1200 BCE -- 640 CE) to learn how physical evidence is created and still plays a role in a  larger historical drama. Also offered as GRS AR 742.		
+
+GRS RN 696: Philosophy of Religion
+	Critical survey of the manner in which philosophers over the centuries have evaluated the truth and value claims of various religions. Focus on Hegel and  the nineteenth-century emergence of "philosophy of  religion" as a subdiscipline of philosophy and theology.  		
+
+GRS RN 697: Topics in Philosophy and Religion
+	Topic for Fall 2014: Philosophy and the Future of Religion. Examines key questions in the contemporary  philosophy of religion, including the possibility of religion without God, "naturalized" or scientific views of  religion, religious pluralism, and inter-religious tolerance. Featuring visiting lecturers in fall Institute for  Philosophy and Religion lecture series. Also offered as GRS PH 656.		
+
+GRS RN 710: Religion, Community, and Culture in Medieval Spain
+	Interactions between Muslims, Christians, and Jews in medieval Europe's most religiously diverse region --  from the establishment of an Islamic al-Andalus in 711 CE to the final Christian "reconquest" of the  peninsula and expulsion of the Jews in 1492 CE. Also offered as GRS HI 710.		
+
+GRS RN 712: Theology of Christian Mysticism
+	A concentrated venture in philosophical theology. This lecture, reading, and discussion course centers on the thought, not the praxis, of selected major mystics in the Christian tradition. Overviews Greek philosophical backgrounds then moves to a close examination of Eckhart, Nicolas of Cusa, Boehme, and William Blake. 		
+
+GRS RN 720: Maimonides
+	A study of major aspects of the thought of Maimonides. Primary focus on the Guide of the Perplexed, with attention to its modern reception in works by Baruch Spinoza, Hermann Cohen, Leo Strauss, and others.		
+
+GRS RN 723: Core Texts and Motifs of World Religions: West
+		An intensive seminar in primary texts and key ideas of theology and religious philosophy as developed in representative world religions: Judaism, Christianity, Islam. First course in a year-long sequence. Each semester may be taken independently. Also offered as STH TT 901.		
+
+GRS RN 724: Core Texts and Motifs of World Religions: East
+		An intensive seminar in primary texts and key ideas of theology and religious philosophy as developed in representative world religions: Hinduism, Buddhism, Daoism, Confucianism. Second course in a year-long sequence. Each semester may be taken independently. Also offered as STH TT 902.		
+
+GRS RN 725: Topics in South Asian Religion
+	Specific aspects of South Asian religions within a historical or comparative/phenomenological framework.  Topic for Fall 2014: Lived Islam. South Asian religions can be studied as textual traditions or as contextual  ones. This  seminar explores how Islam is lived on a daily basis by Muslims of the Indian Subcontinent.  Emphasis on orthopraxy over orthodoxy.		
+
+GRS ES 702: Quantitative Methods for Earth Sciences II: Analysis and Modeling of Geologic Processes
+		Quantitative techniques for deriving models of geologic processes from physical measurements. Applications include marine sediment composition, soil response to solar heating, seismic-wave propagation in the mantle, estuarine water quality, glacial and interglacial cycles, and olivine deformation.		
+
+GRS ES 719: Colloquium in Terrestrial Biogeoscience
+		Introduction to the field of Terrestrial Biogeoscience through weekly research presentations and discussions with GRS faculty and distinguished guests. Students also meet weekly with lead faculty member to discuss primary literature related to each presentation. Also offered as GRS BI 719 and GRS GE 719.		
+
+GRS ES 720: Practicum in Terrestrial Biogeoscience
+		Analysis and synthesis of the primary literature via in-depth case studies in terrestrial biogeoscience. Students meet weekly with faculty to read papers from the primary literature, synthesize results, and prepare a peer-review quality paper on the case study. Also offered as GRS BI 720 and GRS GE 720.		
+
+GRS ES 771: Isotope Earth Science
+		Stable and radiogenic isotope geochemistry; isotope geology of hydrogen, carbon, oxygen, nitrogen, chlorine, and sulphur; applications of isotope systematics to geochemical problems in hydrology, ocean biogeochemistry, and crustal genesis. (Offered alternate years.)		
+
+GRS ES 772: Trace Element Geochemistry
+           			Trace elements are used to understand the origin and evolution of igneous and metamorphic rocks and  this is applicable to low temperature environments. The course develops models for understanding the  partitioning of trace elements in these systems.		
+
+GRS ES 835: Advanced Topics in Marine Geosciences
+           			Develops skills in critical scientific thinking through readings and discussions of classic and current literature in marine geosciences.		
+
+GRS ES 911: Geomorphology and Hydrogeology
+			
+
+GRS ES 912: Geomorphology and Hydrogeology
+			
+
+GRS ES 921: Crystallography and Mineralogy
+			
+
+GRS ES 922: Crystallography and Mineralogy
+			
+
+GRS ES 925: Igneous and Metamorphic Petrology
+			
+
+GRS ES 926: Igneous and Metamorphic Petrology
+			
+
+GRS ES 927: Structural Geology and Tectonics
+			
+
+GRS ES 928: Structural Geology and Tectonics
+			
+
+GRS ES 931: Sedimentation and Stratigraphy
+			
+
+GRS ES 932: Sedimentation and Stratigraphy
+			
+
+GRS ES 941: Coastal and Marine Geology
+			
+
+GRS ES 942: Coastal and Marine Geology
+			
+
+GRS ES 961: Ds Geophysics
+			
+
+GRS ES 962: Ds Geophysics
+			
+
+GRS PY 713: Quantum Field Theory I
+		Provides an introduction to the techniques of quantum field theory with applications to high-energy and condensed-matter physics. Topics include field equations and quantization of many-body systems; Green function and linear response theory; S-matrix and scattering theory; path integration; perturbation expansions and the Feynman rules; renormalization and effective field theories; expansion and critical exponents.		
+
+GRS PY 714: Quantum Field Theory II
+		A continutation of GRS PY 713 for particle physicists. Topics include relativistic fields; LSZ formalism; the Lorentz group; quantum electrodynamics; nonabelian gauge symmetry; spontaneous symmetry breaking; Goldstone's theorem; the Higgs mechanism; the Glashow-Weinberg-Salam model.		
+
+GRS PY 731: Theory of Relativity
+		An introduction to general relativity:  the principle of equivalence; Riemannian geometry; Einstein's field  equation; the Schwarzschild solution; the Newtonian limit; experimental tests; black holes; cosmology.		
+
+GRS PY 741: Solid-State Physics I
+		One particle band structure. Electrons: Hartree-Fock and density functional frameworks; Green function,  pseudopotentials and tight binding methods. Linear response, optical properties and optical transitions.  Phonons: lattice dynamics and phenomenological methods. Many-body formalism and second  quantization. Electron-phonon interactions and related phenomena.		
+
+GRS PY 742: Solid-State Physics II
+		Many-body Green function formalism, perturbation theory and Feynman diagrams. Quantum transport  theory and Kubo formula. Fermi liquids; Luttinger liquids and bosonization. Fermi liquid instabilities:  superconductivity, itinerant magnetism, spin-density waves. Magnetic impurities, Anderson model, Kondo  effect. Quantum magnetism and spin-wave theory.		
+
+GRS PY 744: Polymer Physics
+		Introduction to polymer physics, focusing on the structure, phase behavior, and dynamics of isolated chains, polymer solutions, and gels. Development of underlying theoretical formalism and comparison with experimental results. Discussion of applications to novel polymeric materials. 		
+
+GRS PY 745: Experimental Surface Physics and Chemistry
+           			Introduction to the principles and experimental techniques of surface and interface physics and chemistry. Electronic, structural, vibrational, and magnetic properties of solid surfaces and interfaces. Emphasis on how these properties are measured. Also vacuum technology and x-ray generation.		
+
+GRS PY 747: Advanced Statistical Mechanics
+		Advanced topics in statistical physics including non-equilibrium phenomena, randomness, phase transitions. and their applications to materials, biological systems, and social systems. Applications vary with interests of the instructor and students as well as the state of current research.   		
+
+GRS PY 751: High-Energy Physics 1
+		Yearlong course (with GRS PY 752) on phenomenological aspects of modern high-energy physics. Principal  topics are the standard model of strong and electro-weak interactions and the physics of electro-weak  symmetry breaking. Intended for both theoretical and experimental students; emphasis on current  calculational techniques.		
+
+GRS PY 752: High-Energy Physics 2
+		Yearlong course (with GRS PY 751) on phenomenological aspects of modern high-energy physics. Principal  topics are the  standard model of strong and electro-weak interactions and the physics of electro-weak  symmetry  breaking. Intended for both theoretical and experimental students; emphasis on current  calculational techniques.		
+
+GRS PY 771: Systems Biology for Physical Scientists and Engineers
+		Focus is modern work on modeling biochemical networks. Core material includes signaling, genetic  switches, biological oscillators and development. Begins with chemical kinetics in the context of molecular  biology. Simple yet informative models based on physics approaches are emphasized.		
+
+GRS PY 782: Advanced Materials Characterization
+           			Introduction to the principles and applications of advanced materials characterization including study of  atomic structure, electronic structure, defects, mechanical properties, transport properties, and carrier  dynamics.		
+
+GRS PY 811: Advanced Quantum Field Theory
+		Covers advanced methods in quantum field theory. Topics vary with interests of the instructor and  students as well as the state of current research.		
+
+GRS PY 841: Symmetry in Solid-State Physics
+		Theory of finite groups, crystalline point groups, crystal double groups, crystal field theory, selection rules,  perturbation theory, Kramer's theorem, applications to solid-state physics.		
+
+GRS PY 895: Seminar: Special Topics in Theoretical Physics
+		Theoretical research topics include general relativity, quantum field theory, high energy and particle physics, phase transitions, renormalization group, laser physics, kinetic equations, biophysics, computational physics, and selected topics in mathematical physics. 		
+
+GRS PY 896: Seminar: Special Topics in Theoretical Physics
+		Theoretical research topics include general relativity, quantum field theory, high energy and particle physics, phase transitions, renormalization group, laser physics, kinetic equations, biophysics, computational physics, and selected topics in mathematical physics. 		
+
+GRS PY 897: Seminar: Special Topics in Experimental Physics
+	Surface physics; intermediate energy nuclear physics experiments; low temperature techniques; liquid and  solid helium; and magnetism at low temperatures. Raman effect, gels, and biophysics. High-energy  physics experimental techniques.		
+
+GRS PY 901: Research in Physics
+			
+
+GRS PY 902: Research in Physics
+			
+
+GRS PY 909: Directed Study in Physics
+			
+
+GRS AA 716: African Diaspora Arts in the Americas
+		Study of the transmission of African artistry in the Caribbean, South America, and the  United States from  the period of slavery to the present. Topics include Kongo and Yoruba  arts and their influence on the arts  of Santeria, Vodun, and carnival. Also offered as GRS AH 716.		
+
+GRS AA 808: Seminar:  Ethnic, Race, and Minority Relations
+           			Formation and position of ethnic minorities in the United States, including cross-group comparisons from England, Africa, and other parts of the world.  Readings and field experience. Also offered as GRS SO 808. 		
+
+GRS AA 871: African American History
+           			The history of African Americans from African origins to the present; consideration of slavery, reconstruction, and ethnic relations from the colonial era to our own time.  Also offered as GRS HI 871. 		
+
+GRS AA 882: History of Religion in Pre-Colonial Africa
+	The study of the development of religious traditions in Africa during the period prior to European  colonialism. An emphasis on both indigenous religions and the growth and spread of Judaism, Christianity,  and Islam in the continent as a whole. Also offered as GRS HI 749 and GRS RN 682.		
+
+GRS AA 885: Atlantic History
+	Examines the various interactions that shaped the Atlantic World, connecting Europe, Africa, and the  Americas between 1400 and 1800. Begins by defining the political interaction, then emphasizes cultural  exchange, religious conversion, and the revolutionary era. Also offered as GRS HI 750. 		
+
+GRS AA 888: Black Radical Thought
+	Black radical thought in America, Europe, and Africa since the eighteenth century through writings of abolitionists, leaders of revolutions and liberation movements, Black nationalists, and Black socialists. Emphasizes the global nature of the "Black World" and its role in world history. Also offered as GRS HI 761.		
+
+GRS AA 901: Directed Study in African American Studies
+				
+
+GRS AA 902: Directed Study in African American Studies
+				
+
+GRS AH 713: Imperial Reflections: Early Modern Islamic Art and Architecture
+	Architecture, manuscripts, textiles, metalwork, and ceramics of the Mughal, Ottoman, and Safavid Empires. Focus on the formation of imperial styles, intersections between art and politics, and the importance of the arts in dynastic legitimization.		
+
+GRS AH 716: African Diaspora Arts in the Americas
+		Study of the transmission of African artistry in the Caribbean, South America, and the  United States from  the period of slavery to the present. Topics include Kongo and Yoruba  arts and their influence on the arts  of Santeria, Vodun, and carnival. Also offered as GRS AA 716.		
+
+GRS AH 726: Colloquium in Japanese Art
+	The arts of Japan from prehistory through the twentieth century. Painting, calligraphy, sculpture, and architecture (including landscape architecture) are emphasized, but attention is also paid to wood block prints, ceramics, lacquer, and metalwork. 		
+
+GRS AH 731: Arts of Archaic Greece
+	This colloquium (paired with CAS AH 331) considers special topics in Greek Archaic art.		
+
+GRS AH 742: Colloquium in Latin American Art
+	Case studies designed to explore the main aesthetic, social, and historical discourses surrounding image  production in Latin America while familiarizing students with main scholars in the field and their  methodologies.		
+
+GRS AH 777: Housing America
+	What do dwellings say about the diversity of American experience? For over four centuries and across a  continent, wealth and poverty, family and community, taste and technology have all shaped the meaning of  home. Illustrated lecturers supplemented by field trips. Also offered as GRS AM 776.		
+
+GRS AH 782: Colloquium in Nineteenth-Century Architecture in Europe and America
+	Dilemma of style in nineteenth-century architecture; study of the relationship of architectural theory to the changing philosophy and aesthetic theory of the period. Development of functionalist theory.		
+
+GRS AH 786: Colloquium in Twentieth-Century American Painting
+	The colloquium, which accompanies the lecture course for CAS AH 386, focuses on critical and theoretical readings that relate to twentieth-century American painting, photography, sculpture, installation and performance art, and criticism.		
+
+GRS AH 798: Colloquium in Twentieth-Century Architecture
+	In conjunction with the CAS AH 398 lecture course, this colloquium focuses on main figures, events, artifacts of twentieth-century architectural history.		
+
+GRS AH 812: Seminar: Portraiture
+	Topic for Fall 2012: Portraiture from 1300-1600. Topics include the influence of ancient art and literature,  tropes of animation (especially the "speaking portrait"), the visualization of identity, and the relationship  between biography and art history.		
+
+GRS AH 820: Seminar: Asian Art
+           			Topic for Fall 2014: Kyoto: Art, Architecture, and Urbanism. This seminar explores the art, architecture,  and urbanism of Kyoto, the Japanese imperial capital from the late eighth century to the mid-nineteenth  century. Analyzes major artistic and architectural projects sponsored by generations of emperors,  aristocrats and warriors.		
+
+GRS AH 822: Seminar: African Art
+		In-depth discussion of special topics in the study of African art and architecture. Topic for Fall 2013: Post- Colonial Theory and Visual Culture in Northwestern Africa. This seminar underscores the continuing  importance of post-colonial theory to understanding the history of African art, concentrating on historic  and contemporary visual culture in Morocco, Algeria, Senegal, Mali, and Niger. 		
+
+GRS WS 801: Theories and Methods in WomenÂs, Gender, &amp; Sexuality Studies
+	Exploring the variety of theories and methods in the interdisciplinary fields of women's, gender, and  sexuality studies, this seminar is required for the WGS Graduate Certificate. Readings from the humanities,  social sciences, and natural sciences address questions of identity and epistemology.		
+
+GRS XL 742: Travel Writing and the Muslim World
+	How have Muslim travelers past and present written about places and people they saw abroad, and how  have Western travelers in the Muslim lands described their travels in "the East"? Readings include Nasir  Khusraw, Ibn Battuta, Eliza Fay, and Robert Byron.		
+
+GRS XL 951: Ds Comp Lit
+           			This course description is currently under construction.		
+
+GRS XL 952: Ds Comp Lit
+           			This course description is currently under construction.		
+
+GRS PS 734: Psychopharmacology for the Behavioral Scientist
+	Basic principles of pharmacology, drugs used in treatment of mental illness, drugs having abuse potential. Current issues in psychopharmacology. 		
+
+GRS PS 735: Concepts of Motivation
+	Major theories of human motivation (including biological, psychoanalytic, and cognitive) are compared and related to empirical research on important human goals and activities such as achievement, power, and intimacy. Students identify a research focus and design an empirical study. 		
+
+GRS PS 737: Memory Systems of the Brain
+	Survey of investigations into the brain systems and neurobiological mechanisms of memory. Includes experimental studies of amnesia associated with brain damage in humans, experimental models of amnesia in animals, and neurophysiological studies of brain activity that encodes memories in animals and humans. Focus on evidence for multiple forms of memory and distinct brain systems that mediate them. 		
+
+GRS PS 747: Infant Development
+		The origins of human cognition, specifically, how infants come to perceive a unified, stable, and meaningful world despite the ever-changing and fragmentary nature of sensory input. A number of topics bearing on social and nonsocial cognition are examined in the light of major theories of cognitive development		
+
+GRS PS 751: Personality Theory
+		Examines the major contemporary approaches to personality and clinical psychology.  Through a mixture of classic and current research and theory, addresses psychodynamic, cognitive-social, trait, biological, humanistic/existential and cultural approaches.		
+
+GRS PS 754: Forensic Psychology
+		Examines scope, empirical foundations, and ethicl issues of forensic psychology.  Topics include eyewitness testimony; use of hypnosis, polygraphs, and criminal profiling; scientific jury selection; risk assessment; child abuse evaluations; and determinations of insanity, competency, and child custody.		
+
+GRS PS 761: Major Issues in Social Psychology
+	Empirical and theoretical approaches to selected areas of social psychology.  Includes interpersonal behavior, attitude formation and change, social comparison processes, and group behavior.		
+
+GRS PS 770: Ethics in Psychology
+	Designed for graduate students in psychology and related fields who plan to be engaged in some form of the practice of psychology. Topics include ethics of clinical and consulting practice, of teaching, and of psychological research. 		
+
+GRS PS 772: Clinical Psychological Assessment of Adults
+	Theoretical and empirical bases for diagnostic and structured interviews, standardized cognitive tests, psychopathology rating scales, projective methods, and tools for evaluating community systems and epidemiology. Administration, scoring, and general principles of clinical interpretation of representative measures (WAIS, MMPI, Social Networks Inventory, Rorschach).		
+
+GRS PS 773: Clinical Psychological Assessment of Children and Families
+	Clinical applications of and theoretical and empirical bases for structured diagnostic and play interviews, standardized cognitive and personality tests, and projective methods.  Administration and clinical interpretation of representative measures (e.g.WISC-R, Rorschach and Family genograms). 		
+
+GRS PS 774: Clinical Psychological Assessment of Adults Practicum
+	Note: Must co-register for GRS PS 772. This course is the applied practicum course for Clinical Psychological Assessment of Adults (PS 772). It is designed to provide a comprehensive, applied experience in psychological assessment report writing and the administration, scoring, cognitive/intellectual and personality functioning. 		
+
+GRS PS 790: Family Theory and Research
+	Basic and applied issues in family studies. Psychological theory and research are reviewed; problems in studying the family historically and cross-culturally are considered. Applied psychological issues include gender roles, identity and intimacy, and family interaction. 		
+
+GRS PS 791: Psychology of Social Oppression
+		Primary focus on academic research and theoretical models as applied to people of color. The psychologist in minority settings, program development, cross-cultural research issues; alternative models of traditional psychological theories. 		
+
+GRS PS 822: Visual Perception
+	Theory and data relating to contemporary problems in visual perception.		
+
+GRS PS 824: Cognitive Psychology
+	This class provides an in-depth introduction to major contemporary issues related to cognitive psychology and human information processing, including acquisition of information from stimuli, feature integration, and top-down effects on perception and recognition. 		
+
+GRS PS 825: Early Social Cognition
+		This seminar focuses on how infants and young children understand the social world. Topics include recent research on social evaluation (moral babies); theory of mind; actions, intentions, and goals; and social categories. Implications for traditional theories of social development. 		
+
+GRS PS 829: Principles of Neuropsychology
+	Central nervous system processes underlying memory, language, cognition, emotion, sensory functioning, and motor function in normal and pathological conditions. Theory, experimental findings, and reference to clinical cases. 		
+
+GRS PS 840: Developmental Behavioral Genetics
+	This course provides an overview of human behavioral genetic theory, methods, and research as they relate to behavioral development and other psychological issues. Current research examining genetic and environmental contributions to individual differences in behavior will be discussed and critically evaluated. 		
+
+GRS PS 843: Life Span Development
+	Examines human development throughout the life span and focuses on numerous domains of physical,  cognitive, and psychosocial development in order to gain a better understanding of the multifaceted  constructs and transitions between developmental stages that characterize human development.		
+
+GRS PS 844: Theories of Development
+	Comparative examination of theories of psychological development and their usefulness in interpreting behavioral phenomena.  Major consideration  to theories of Freud, Piaget, and Werner.		
+
+GRS AH 846: Seminar: Romanesque and Gothic Art
+	Detailed study of the castles, cathedrals, and works of art produced in Anglo-Norman England. Topics include contemporary attitudes toward images, monastic art, allegory, nostalgia, symbolism, parody, the grotesque, building techniques, and patronage. Among the works studied are Canterbury Cathedral, Durham Cathedral, the Tower of London, and the Bayeux Tapestry.		
+
+GRS AH 853: Seminar: Renaissance Art and Architecture
+	Topic for Fall 2014: The Pastoral Landscape. The re-emergence of the pastoral as a pictorial and poetic  mode in the Renaissance.		
+
+GRS AH 863: Seminar: Baroque Art and Architecture
+	Topic for Fall 2014: Vermeer. This seminar explores Vermeer's art and career through various perspectives  and methods of art history, and attempts to situate his astonishingly small production of about 35  paintings within the cultural and social worlds for which they were created. 		
+
+GRS AH 867: Material Culture
+	Introduction to the theory and practice of the interdisciplinary study of material culture, which includes everything we make and use, from food and clothing to art and buildings. Explores contemporary scholarship from a range of disciplines. Also offered as GRS AM 867.		
+
+GRS AH 884: Seminar: Nineteenth-Century Architecture
+	Topic for Spring 2010: Inside the Institution. This research seminar examines institutional architecture  from the seventeenth century to the present. Recent scholarship on power relationships, gender ordering,  spatial politics, and the histories of science, medicine, and religion is applied to these building complexes.		
+
+GRS AH 886: Seminar: American Painting
+	Topic for Spring 2014: Visual Culture of Slavery and the Civil War. Focuses on the visual culture of  American slavery and the Civil War. Sources to be investigated include paintings, sculpture, book  illustration, graphics in the illustrated weeklies, photography, exhibitions, and organized urban spectacles.		
+
+GRS AH 891: Seminar: Photography
+	Historical, archival, and theoretical examinations of photography, with emphasis on its role both as    document and as art. Topic for Fall 2013: The Photographic Book. This seminar examines the photographic  book throughout the years from 1839 to the present.		
+
+GRS AH 892: Approaches to Architectural History
+	The aim of the course is to analyze the nature of writings on architecture, to identify their origins, and to discuss the reasons for their success and the consequences of their circulation.		
+
+GRS AH 895: Seminar: Twentieth-Century Art
+	Topic for Fall 2014: Paris. This seminar explores the representation of Paris  in a variety of media, from the  Exposition Universelle in 1900 to World War II.  Although literature,  painting, photography, and film  construct different Paris images, common concerns are studied throughout the semester.		
+
+GRS AL 901: Directed Study in Applied Linguistics
+		Directed study in linguistics. Hours arranged.		
+
+GRS AL 902: Directed Study in Applied Linguistics
+		Directed study in applied linguistics.		
+
+GRS AM 735: Studies in American Culture
+		Introduction to handling of primary materials from a number of disciplines in order to develop an American   Studies perspective. Required of all American Studies PhD students.		
+
+GRS AM 736: The Literature of American Studies
+		Introduction to classic problems in the interpretation of American society and culture. Required of all  American Studies PhD students.		
+
+GRS AM 747: Historic Building Conservation
+		Theory and practicalities involved in conservation of historic buildings.  This course will cover the history and theory of building conservation architectural investigations of building, including documentary, constructional, and finish materials to materials for conservation. 		
+
+GRS AM 755: Preservation Planning Colloquium
+		A comprehensive preservation planning and advocacy course in which students in the Preservation Studies Program prepare a planning document under contract with a community.		
+
+GRS AM 776: Housing America
+	What do dwellings say about the diversity of American experience? For over four centuries and across a  continent, wealth and poverty, family and community, taste and technology have all shaped the meaning of  home. Illustrated lecturers supplemented by field trips. Also offered as GRS AH 777.		
+
+GRS AM 780: Problems in Historic Preservation
+		A research seminar to explore, in depth, changing themes or current issues in historic preservation. 		
+
+GRS AN 699: Teaching College Anthropology I
+	The goals, contents, and methods of instruction in anthropology. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS AN 703: Proseminar: Ethnography and the History of Social Theory in Anthropology
+	Intensive introduction focusing on classic works of ethnography, social theory, and the history of the discipline from the mid-19th to the mid-20th century. Required of first-year graduate students and open to students in related disciplines with the consent of the instructor. 		
+
+GRS AN 704: Proseminar: Contemporary Anthropological Theory
+		Examination of major theoretical trends and debates in anthropological theory from the 1960s to present.		
+
+GRS BI 621: Biochemistry I
+	Introductory biochemistry. Protein structure and folding enzyme mechanisms, kinetics, and allostery; nucleic acid structure and chemistry; recombinant DNA; lipids and membrane structure; bioenergetics; vitamins and coenzymes; introduction to intermediary metabolism. Three hours lecture, one hour discussion, four hours laboratory, graduate project. 		
+
+GRS BI 622: Biochemistry II (CM)
+	Cell metabolism, with special emphasis on the uptake of food materials, the integration and regulation of catabolic, anabolic and anaplerotic routes, and the generation and utilization of energy. Lectures will include consideration of events in prokaryotic and eukaryotic organisms. Three hours lecture, four hours lab, 1 hour discussion. 		
+
+GRS BI 623: Marine Biogeochemistry
+	Oceanic nutrient and biogeochemical cycling in the context of the marine response to  global change. Links between local and global scales are emphasized. Topics include  oceanic productivity, iron limitation, oceanic glacial carbon dioxide budget, biogenic  particle fluxes, oceanic glacial-interglacial biogeochemistry.		
+
+GRS BI 643: Terrestrial Biogeochemistry
+           			The patterns and processes controlling carbon and nutrient cycling in terrestrial ecosystems.  Links between local and global scales are emphasized.  Topics include net primary production, nutrient use efficiency, and biogeochemical transformation. 		
+
+GRS BI 644: Neuroethology
+	Specialized natural behaviors reveal general principles of systems neuroscience. Examples include vocal  learning in songbirds, sensory-motor integration in bats, and pattern generators in lobsters. Three hours  lecture and literature discussion; three hours laboratory, including microchip programming and neural  recordings.		
+
+GRS BI 645: Cellular and Molecular Neurophysiology
+           			Cellular and molecular basis of neural excitability and synaptic transmission. The molecular understanding of ion channels is extrapolated to higher brain functions such as learning, memory, and sleep. Three hours lecture, three hours lab.		
+
+GRS BI 646: Biology of the Cell Cycle
+	Temporal organization and regulation of cellular function. Includes theory and analysis of methodologies applicable to cell proliferation kinetics, cell synchrony, and FACS sorting; molecular genetics, biochemistry, and physiology of cell cycle phses.  Emphasis is placed on the molecular regulation of growth and differentiation in eukaryotic organisms, from yeast to humans.  Readings in original research literature.  Three hours lecture, one hour discussion.		
+
+GRS BI 648: Biodiversity and Conservation Biology
+	The study of biological diversity and modern methods to protect endangered plant and animal species. The environment, population, genetic, and human factors which affect the survival of species examined for temperate and tropical communities, as well as terrestrial and aquatic habitats. Three hours lecture, one hour discussion. 		
+
+GRS BI 655: Developmental Neurobiology
+	Fundamental principles of developmental neurobiology.  Course stresses molecular mechanisms that underlie early neural development, differentiation, process outgrowth, and behavior.  Three hours lecture, one hour discussion. 		
+
+GRS BI 671: Survey of Ecology, Behavior, Evolution, and Marine Biology
+           			Introduces graduate students to current faculty and research in ecology, behavior, evolution, and marine  biology. Students and faculty share expertise and establish collaborations, helping the Department of  Biology to leverage its most important asset: intellectual capital.		
+
+GRS BI 675: Urban Ecology
+           			The biophysical environments and ecology of urban settlements. Key topics include the physical   environment, patterns in human population growth and development, ecosystem structure and function,   global change, urban environment pollution and management, and sustainable urban development. Also  offered as GRS GE 675.		
+
+GRS BI 681: Molecular Biology of the Neuron
+	The study of interactions between neurotransmitters and receptors in the nervous system.  Topics include electrical properties of neurons, a survey of neurotransmitters, molecular structure and function of receptors, synaptic transmission, intracellular signaling, and the molecular biology of sensory transduction.		
+
+GRS BI 697: A Bridge to Knowledge: A Practical Seminar for First-Year Graduate Students in Biology
+           			A seminar for first-year biology and MCBB graduate students. Basic pedagogical theory and professional  development topics are covered. The course is intended to help students become effective teachers and  members of the graduate community. Also offered as GRS MB 697.		
+
+GRS BI 699: Teaching College Biology I
+	The goals, contents, and methods of instruction in biology. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS BI 702: Graduate Readings in Biology
+		Library research on well-defined subjects determined in consultation with faculty member. 		
+
+GRS BI 719: Colloquium in Terrestrial Biogeoscience
+		Introduction to the field of Terrestrial Biogeoscience through weekly research presentations and discussions with GRS faculty and distinguished guests. Students also meet weekly with lead faculty  member to discuss primary literature related to each presentation. Also offered as GRS ES 719 and GRS GE 719.		
+
+GRS BI 720: Practicum in Terrestrial Biogeoscience
+		Analysis and synthesis of the primary literature via in-depth case studies in terrestrial biogeoscience. Students meet weekly with faculty to read papers from the primary literature, synthesize results, and  prepare a peer-review quality paper on the case study. Also offered as GRS ES 720 and GRS GE 720.		
+
+GRS BI 735: Advanced Cell Biology
+	Current understanding of essential topics and important problems in modern cell biology, with emphasis  on recent experimental findings, research strategies and approaches, and new techniques for investigating  how cells work.  Three hours lecture, one hour discussion.		
+
+GRS BI 753: Advanced Molecular Biology
+		In-depth analysis of current topics in molecular biology regarding the flow of information in the nucleus of  eukaryotic cells. Focus on primary literature. Includes genomic  flexibility, signal transduction to the  nucleus, chromatin structure, gene expression, cell  cycle checkpoints, health-related topics.		
+
+GRS BI 755: Cellular and Systems Neuroscience
+	Survey course in neurobiology. Topics covered include cell biology of the neuron, development of the  nervous system, synaptic plasticity, learning and behavior, and network modeling. Three hours lecture, one  hour discussion.		
+
+GRS AR 743: Anatolian Archaeology
+	An historically oriented survey of the material remains of the ancient cultures of Turkey and northwest Iran from the Neolithic to the Hellenistic period.  Emphasis is on the Hittite Empire and civilizations that succeeded it in the first millennium.		
+
+GRS AR 746: Seminar: The Archaeology of Ancient Egypt
+           			Examines the prehistoric and early historical origins of ancient Egyptian civilization, major institutions of the culture, and culture changes through time. Topics studied include changing socio-political organization, demography and the economic system, and beliefs/religion.		
+
+GRS AR 747: Egypt and Northeast Africa: Early States in Egypt, Nubia, and Eritrea/Ethiopia
+	Comparative analyses of early states in Egypt and northeast Africa, with a focus on socioeconomic  institutions, kingship, burial practices, and religions, utilizing archaeological as well as textual evidence.		
+
+GRS AR 751: Seminar: Mesoamerican Archaeology
+		Advanced seminar covering major events and processes of the Mesoamerican culture region. Topics vary   by semester, but may include issues such as early villages, urbanization, state formation, households,   religion, economy and exchange, and the Spanish conquest and early colonialism.		
+
+GRS AR 770: New World Historical Arachaeology:  Colonial America
+	Seminar.  Material culture of the people who colonized North America.  Architecture, artifacts, and a variety of sites - domestic, military, commercial, sepulchral - are studied.  Uses of achival evidence as factual and ethnographic documentation for archaeological interpretation are discussed.		
+
+GRS AR 771: New World Historical Archaeology: Postcolonial America
+	Seminar.  The archaeological study of America since the Revolution.  Focus is on the archaeological and artifactual evidence for the development of plantation systems and slavery, induustrial and urban centers, ethnicity, and modern popular culture.		
+
+GRS AR 780: Archaeological Ethics and Law
+	In this course students examine archaeology and professional ethics; archaeology as a public interest; legal organization of archaeology; international approaches to heritage management; looting, collecting, and the antiquities market; maritime law and underwater archaeology; cultural resource management in the United States. 		
+
+GRS AR 782: Zooarchaeology
+	Introduction to archaeological analysis of animal bones. Provides a basis for the use of faunal remains in  the investigation of paleoecology, analysis of archaeological formation histories, and techniques for  interpreting human subsistence activities.		
+
+GRS AR 790: The Archaeology of Southeast Asia
+	Examines the prehistoric and historic cultures of Southeast Asia, including the first arrival of humans, regional neolithic and Bronze Age communities, early states, maritime trading networks, as well as political motivations in archaeology and the illicit antiquities trade.		
+
+GRS AR 795: Politics, Nationalism, and Archaeology
+           			Explores how archaeology is shaped by and manipulated for political purposes. Case studies from Asia and around the world trace the development of archaeology during colonial empire-building and post-colonial nationalism, and the importance of archaeological heritage in regional politics.		
+
+GRS AR 805: U.S. Archaeological Heritage Management
+	Introduction to the practice of public archaeology in the United States. Historical and legal background; state and federal programs; conducting archaeological investigations; archaeology as business; the public interest; controversies, problems, and prospects in archaeological heritage management. 		
+
+GRS AR 808: Survey and Landscape Archaeology
+	Seminar tracing the development of survey and landscape archaeology and their impact on understandings of the social, political, economic, and religious environments of ancients cultures. Weekly discussions and presentations cover a sample of methodological and interpretive approaches.		
+
+GRS AR 810: International Heritage Management
+           			Investigation of issues in archaeological heritage management at the international level. Concepts, approaches, challenges, and solutions to problems in the identification, evaluation, conservation, management, and interpretation of cultural resources. Focus on global and regional issues (e.g., legislation, destruction, restoration, and maintenance of heritage).		
+
+GRS AR 815: Plunder and Preservation: Cutural Heritage in Wartime
+	Topics include safeguarding of cultural sites, monuments, and objects during armed conflict; history of cultural seizures as spoils of war; destruction of cultural heritage in war; development of legal protections; contemporary approaches to preservation of heritage at risk from war.		
+
+GRS AR 830: The End of Days: Analyzing Collapse in Complex Societies
+	Seminar on the archaeology, anthropology, mythology, and history of collapse in complex societies.  Provides students with an in-depth understanding of major issues and challenges in studying the  dissolution and reformulation of complex societies in the ancient world.		
+
+GRS AR 901: Directed Research in Classical Archaeology
+	Graduate-level directed research in classical archaeology.		
+
+GRS AR 902: Directed Research in Classical Archaeology
+	Graduate-level directed research in classical archaeology.		
+
+GRS AR 903: Directed Research in New World Historical Archaeology
+           			Graduate-level directed research in New World Archaeology.		
+
+GRS AR 904: Directed Research in American Historical Archaeology
+			
+
+GRS AR 905: Directed Research in Old World Prehistoric Archaeology
+	Graduate-level directed research in Old World prehistoric archaeology.		
+
+GRS CL 967: Ds Anc Greek
+			
+
+GRS CL 968: Ds Anc Greek
+			
+
+GRS CL 991: Ds Classic Stdy
+			
+
+GRS CL 992: Ds Classic Stdy
+			
+
+GRS CN 730: Models of Visual Perception
+		Offers advanced survey of topics in the neural and computational modeling of psychophysical data in mammalian vision. Assignments include oral presentations on selected readings and a term paper containing a literature review and model development and analysis.		
+
+GRS CN 780: Topics in Computational Neuroscience
+		In this seminar, recent research papers and applications in computational neuroscience are reviewed. Topics covered include cortical modeling, analog VLSI, active perception, robotic control, stereo vision, and computer-aided neuroanatomy. 		
+
+GRS CS 640: Artificial Intelligence
+		Studies computer systems that exhibit intelligent behavior, in particular, perceptual and robotic systems.  Topics include human computer interfaces, computer vision, robotics, game playing, pattern recognition, knowledge representation, planning.   		
+
+GRS CS 651: Distributed Systems
+           			Programming-centric introduction to how networks of computers are structured to operate as coherent single systems. Introducing principles of architecture, processes, communications, naming, synchronization, consistency and replication, fault tolerance and security, and paradigms such as web-based, object-based, file system, and consistency-based.		
+
+GRS CS 655: Graduate Computer Networks
+           			Concepts underlying the design of high-performance computer networks and scalable  protocols. Topics include Internet design principles and methodology, TCP/IP  implementation, packet switching and routing algorithms, multicast, quality of service  considerations, error detection and correction, and performance evaluation.		
+
+GRS CS 660: Graduate Introduction to Database Systems
+           			Graduate introduction to database management systems. Examines entity-relationship,  relational, and object-oriented data models; commercial query languages: SQL,  relational algebra, relational calculus, and QBE; file organization, indexing and hashing,  query optimization, transaction processing, concurrency control and recovery, integrity,  and security.		
+
+GRS CS 680: Graduate Introduction to Computer Graphics
+           			Introduction to computer graphics algorithms, programming methods, and applications. Focus on fundamentals of two- and three-dimensional raster graphics: scan-conversion, clipping, geometric transformations, and camera modeling. Introduce concepts in computational geometry, computer-human interfaces, animation, and visual realism. 		
+
+GRS CS 697: Computer Science Graduate Initiation
+		Guidance for graduate students embarking on a research career in computer science. Topics include: research resources and methodologies, the research project development process, refereeing and reviewing, written and oral presentations, the dissertation, writing effective research proposals, ethics, and career planning. (Required of first-year doctoral candidates; open to interested CS Master's students.)		
+
+GRS CS 698: CS Teaching Fellow Training
+	Covers topics needed to be successful computer science teaching fellow. These include goals, content, and methods of instruction in computer science, and general teaching/learning issues. Required once of all teaching fellows.		
+
+GRS CS 699: Teaching College Computer Science I
+           			The goals, contents, and methods of instruction in computer science. General teaching-learning issues. Required of all teaching fellows. 		
+
+GRS CS 791: Advanced Topics in Computer Science
+           			Seminar restricted to graduate students; topics of mutual interest to faculty and students and not currently available in the graduate program.		
+
+GRS CS 910: Drs Systems
+			
+
+GRS CS 911: Drs Systems
+			
+
+GRS CS 920: Drs-Prog Lang
+			
+
+GRS CS 921: Drs-Prog Lang
+			
+
+GRS CS 930: Drs-Algor Info
+			
+
+GRS IR 610: The Political Economy of National Security
+	(Meets with CAS PO 557.) A seminar considering the relationship between economics and national security.  The principal theme is the way economic factors fundamentally influence the national security of states,  and the way those factors shape and constrain the strategies chosen to pursue that security.		
+
+GRS IR 701: Fundamentals of International Relations
+	Offers a rigorous introduction to the basic concepts of international relations, including analytical  approaches, state system and non-state actors, international legal principles, diplomatic practice, and  international ethics. Emphasizes history, case study, and practical application.		
+
+GRS IR 702: Research Methods for International Relations Practitioners
+	Provides tools for designing and implementing rigorous research and policy papers. Reviews formulation of research questions and choice of research methods. Introduces methodologies including case study, archival research, and basic quantitative analysis.		
+
+GRS IR 703: International Security
+	Introduces core concepts of international security, including deterrence, balance of power theory, alliance politics, arms races, asymmetric warfare, and non-traditional security concerns such as terrorism. Topics are considered from both a theoretical basis and in historical and contemporary context.		
+
+GRS IR 704: Global Economic and Development Policy
+	Intermediate level survey of the contemporary politics, economics and policy questions in the international economy: theories of international political economy and international economics; politics of international economic institutions; analyses of industrial development, foreign investment, global and regional trade, and poverty alleviation.		
+
+GRS IR 706: The Iranian Revolution and Its Impact on the Middle East
+	This course examines the Islamic Revolution in Iran and its impact on the Middle East.  The first third of the seminar focuses on Iran and, subsequently, the Iran/Iraq war. Lebanon, the Persian Gulf, and Israel will be studied as they are affected by Iran's upheavals.		
+
+GRS IR 707: Political Reform in the Middle East
+	Seminar analyzes and rethinks Middle East politics. Authoritarian governments rule most of the Middle East, but internal and external pressures for change are mounting. Given the tenuousness of the status quo, political reform will be hard to avoid. 		
+
+GRS IR 711: Civil Society and The State
+	The relationship between civil society and democracy is a subject of major debate however, and many scholars contest the notion that the existence of civil society is a sufficient condition for democracy.  At best there seems to be a necessary relationship between civil society and democracy, but even this claim is challenged, especially when it is applied to the developing world. 		
+
+GRS IR 718: International Migration and Diaspora in World Politics
+		Explores how the movement of people across borders is reshaping world politics.  Impacts of migration on the economy, domestic politics, regional integration, national identity, and the institution of the sovereign nation state. Historical perspectives and contemporary case studies.		
+
+GRS IR 723: Seminar:  The Political Economy of Advanced Industrialized Societies
+	Meets with CAS PO 528. Surveys forces contributing to national differences in social and economic policy; identifies current challenges to state sovereignty, such as globalization and immigration; and examines  how nations from different welfare state regimes are coping with these threats to the nation state. 		
+
+GRS IR 748: Seminar: Global Sociology
+	(Meets with GRS SO 847.) Examines different sociological perspectives on global social dynamics and  processes.		
+
+GRS IR 758: Comparative Political Economy of China and India
+	(Meets with GRS PO 785.) Compares China and India's economic reform, focusing on their reform policies and government-business relationships. Examines their political development (or lack thereof) during their economic reform. Discusses China and India's rise and implications for the global system.		
+
+GRS IR 759: International Institutions for Finance, Development, and Trade
+	Intensive examination of the roles the IMF, World Bank, and WTO play in the postwar international  economic order-- addressing less the decision-making within these institutions and more the issues in  which they are involved, including their policies and programs.		
+
+GRS IR 760: The Political Economy of the European Union
+	Meets with GRS PO 756. Investigates major issues of European economic integration, including the Single  Market and European Monetary Union. Explores the theoretical and practical problems of integration.   Considers the crisis of the Euro and its consequences for European member-state economies and  democracies.		
+
+GRS IR 766: Contemporary Issues in Latin America
+	Meets with GRS PO 768. Review and analysis of contemporary developments in Latin America from major  print and on-line news sources and journals. Focuses on breaking issues and develops capacity for critical  analysis. Required for LASMA students. 		
+
+GRS IR 778: Problems of Strategic Intelligence
+	Explores major aspects of strategic intelligence; interrelationship of intelligence and other aspects of foreign policy; performance of U.S. intelligence community; and intelligence as a tool in the formulation of foreign policy.		
+
+GRS IR 780: CIA's National Clandestine Service
+	The National Clandestine Service spends 5% of the US Intelligence budget but receives 95% of public and   private scrutiny. Examines the unique legal mandate and culture of the clandestine service: espionage, covert operations, counterintelligence, and special operations.		
+
+GRS IR 786: Conflict and State-Building in Africa
+	Meets with GRS PO 786. Examines conflict in contemporary Africa at both the international and domestic levels. Addresses the dynamics of insurgency and inter-state war, as well as the ways in which these conflicts have affected African state-building. 		
+
+GRS IR 788: International Relations of Asia-Pacific
+	Focuses on the international relations of the Asia-Pacific region.  Analysis of issues that have defined regional relations; the impact of the Cold War and its aftermath, the impact of regional economic growth and dynamism, and the emergence of contention over regional identity and its relationsip to global politics.		
+
+GRS IR 789: Globalization, Development, Governance
+		Covers the latest theory and evidence related to international trade and development policy. Additional focus on how these issues are dealth with by the World Trade Organization (WTO) and international economic agreements.		
+
+GRS MA 675: Statistics Practicum 1
+	First of a two-semester sequence aimed at integrating the quantitative training and other skills required  for doing statistics in practice. Emphasis on statistical consulting throughout, complemented by modules  on speaking, writing, statistical software and programming, and data analysis.		
+
+GRS MA 676: Statistics Practicum 2
+           			Second of a two-semester sequence aimed at integrating the quantitative training and other skills required  for doing statistics in practice. Emphasis on statistical consulting throughout, complemented by modules  on speaking, writing, statistical software and programming, and data analysis.		
+
+GRS MA 681: Accelerated Introduction to Statistical Methods for Quantitative Research
+           			Introduction to statistical methods relevant to research in the computational sciences. Core topics include probability theory, estimation theory, hypothesis testing, linear models, GLMs, and experimental design. Emphasis on developing a firm conceptual understanding of the statistical paradigm through data analyses.		
+
+GRS MA 684: Applied Multiple Regression and Multivariable Methods
+           			Application of multivariate data analytic techniques. Multiple regression and correlation, confounding and  interaction, variable selection, categorical predictors and outcomes, logistic regression, factor analysis,  MANOVA, discriminant analysis, regression with longitudinal data, repeated measures, ANOVA. This course  cannot be taken for credit in addition to the course with the same title that was previously numbered CAS  MA 684.		
+
+GRS MA 685: Advanced Topics in Applied Statistical Analysis
+	Continues topics of GRS MA 684 at a more advanced level. Canonical correlation, multivariate analysis of  variance, multivariate regressions. Categorical dependent variables techniques; discriminant analysis,  logistic regression, log-linear analysis. Factor analysis; principal-axes, rotations, factor scores. Cluster  analysis. Power analysis. Extensive use of statistical software. This course cannot be taken for credit in  addition to the course with the same title that was previously numbered CAS MA 685.		
+
+GRS MA 703: Statistical Analysis of Network Data
+           			Methods and models for the statistical analysis of network data, including network mapping and  characterization, community detection, network sampling and measurement, and the modeling and  inference of network and networked-indexed processes. Balance of theory and concepts, illustrated  through various applications.		
+
+GRS MA 711: Real Analysis
+		Measure theory and integration on measure spaces, specialization to integration on locally compact spaces, and the Haar integral. Lp spaces, duality, and representation theorems. Introduction to Banach and Hilbert spaces, open mapping theorem, spectral theorem for Hermitian operators, and compact and Fredholm operators. 		
+
+GRS MA 713: Functions of a Complex Variable I
+		The theory of analytic functions. Integral theorems, contour integration, conformal mapping, and analytic continuation. 		
+
+GRS MA 717: Functional Analysis I
+		Theory of Banach and Hilbert spaces, and Hahn-Banach and separation theorems. Dual spaces. Banach contraction mapping theorem. Reflexivity and Krein-Milman theorem. Operator theory. Brouwer-Schauder fixed-point theorems. Applications to probability, dynamical systems, and applied mathematics. 		
+
+GRS MA 721: Differential Topology I
+		Differential manifolds, tangent bundles, transversality, winding numbers, and vector bundles. 		
+
+GRS MA 722: Differential Topology II
+		Intersection theory, Lefschetz fixed point theory, integration on manifolds, vector fields and flows, and Frobenius' theorem. 		
+
+GRS MA 725: Differential Geometry I
+		Geometry of surfaces in Euclidean space; geodesics and curvature of Riemannian manifolds; topological restrictions on curvature.		
+
+GRS MA 726: Differential Geometry II
+		Topics include connections on vector bundles, moving frames, Hodge theory, spectral geometry, and characteristic classes. 		
+
+GRS MA 727: Algebraic Topology I
+		Covers singular and simplical homology theory. Cohomology and cup products. Duality  on manifolds. Lefschetz and fixed-point formula.		
+
+GRS MA 731: Lie Groups and Lie Algebras
+		Classical Lie groups, associated Lie algebras, exponential map, closed subgroups and homogeneous spaces, classification of simple Lie algebras, and elementary representation theory of Lie algebras. Selection of applications to analysis, geometry, or algebra. 		
+
+GRS MA 741: Algebra I
+	Basic properties of groups, rings, fields, and modules. Specific topics include the Jordan-Holder and Sylow theorems, local rings, theory of localization, modules over PIDs, and Galois theory. 		
+
+GRS MA 742: Algebra II
+		Advanced topics in algebra. Linear and multilinear algebra, commutative algebra, and an introduction to category theory and homological algebra. Further topics may include representation of groups, completions, real fields, and elementary algebraic number theory and algebraic geometry. 		
+
+GRS MA 745: Algebraic Geometry I
+		Affine and projective varieties, morphisms and rational maps, nonsingular varieties, Bezout's theorem, and an introduction to sheaves and schemes. Further topics are chosen from the advanced theory of schemes, algebraic curves, Riemann-Roch theorem, algebraic surfaces, and sheaf cohomology. 		
+
+GRS MA 746: Algebraic Geometry II
+		Continuation of topics in algebraic geometry begun in GRS MA 745, including sheaves, schemes, sheaf cohomology, and further study of algebraic curves and surfaces.		
+
+GRS MA 750: Advanced Statistical Methods I
+		First course in a two-semester PhD sequence on post-classical statistical methods and their applications. Selection from topics in non- and semi-parametric modeling and inference, such as smoothing, splines, generalized additive models, projection pursuit, and classification and regression trees.		
+

@@ -1,0 +1,60 @@
+GRS AS 757: High-Energy Astrophysics
+		Physics of interactions between high-energy particles and photons. Compton scattering; nuclear collisions; acceleration and energy losses of high-energy particles; neutrino production; physics of cosmic rays; pulsars; accretion onto compact objects; active galactic nuclei and other high-energy phenomena.		
+
+GRS AS 759: Cosmology
+		Modern physical cosmology. The Friedmann equation, expansion of the universe and the Cosmic  Microwave Background Radiation. Determination of fundamental cosmological parameters. Large-scale  structure, galaxy formation, active galaxies, and quasars. Dark matter and dark energy in the universe. The  inflation era.		
+
+GRS AS 781: Planetary Atmospheres
+		Planetary and cometary atmospheres; atmospheric vertical mixing; radiative processes; catalytic ozone destruction; aurorae and airglow; planetary ionospheres; energy budgets. Planetary evolution: solar nebula, outgassing, water loss on Venus and Mars, escape of light gases, greenhouse effect, isotope fractionation, impact theory. 		
+
+GRS AS 786: The Sun and Heliosphere
+		Fundamentals of solar and heliospheric physics, including observational methods and theory from the  sun's interior through interplanetary space and into the local interstellar medium. The sun as a star.  Relation of our heliosphere to astrospheres surrounding other stars.		
+
+GRS AS 791: Special Topics in Astrophysics
+	Lecture course examining special topics of current interest in astrophysics. Offered as a 2- or 4-credit course, depending on the topic.		
+
+GRS AS 793: Special Topics in Space Physics
+	Lecture course examining special topics of current interest in solar system space physics.  Offered as a 2- or 4-credit course, depending on the topic.		
+
+GRS AS 802: Graduate Research and Scholarship
+	An introduction to the methods of research and scholarship required for successful graduate study and the associated ethical issues. Topics include choosing a research advisor, the research topic, the research record, scholarly writing and publishing, intellectual property, and research funding. 		
+
+GRS AS 803: Research Methods in Astronomical Data Analysis
+	Computer programming skills, elementary image and data processing, visualization techniques for astronomical datasets. Flat fielding, bias removal, sky subtraction, median filtering, CLEAN algorithm, point-source extraction. Fitting functions to data, solving linear and nonlinear equations numerically, approximating solutions of differential equations.		
+
+GRS AS 850: Astrophysics Seminar
+	Weekly seminar offering graduate students and advanced undergraduates discussions of current research topics in astrophysics with staff and visiting scientists.		
+
+GRS AS 851: Astrophysics Seminar
+	Weekly seminar offering graduate students and advanced undergraduates discussions of current research topics in astrophysics with staff and visiting scientists.		
+
+GRS AS 865: Space Physics Seminar
+	Weekly seminar offering graduate students and advanced undergraduates discussions of current research topics in space physics with staff and visiting scientists.		
+
+GRS AS 866: Space Physics Seminar
+	Weekly seminar offering graduate students and advanced undergraduates discussions of current research topics in space physics with staff and visiting scientists.		
+
+GRS AS 901: Research in Astronomy
+			
+
+GRS AS 902: Research in Astronomy
+			
+
+GRS AS 911: Directed Study in Astronomy
+			
+
+GRS AS 912: Directed Study in Astronomy
+			
+
+GRS BI 607: Animal Behavior
+	Ethological approach to animal behavior. Physiological, ontogenic, and phylogenic causes and adaptive significance of behavior are examined within an evolutionary framework, minimally including humans. Three hours lecture, three hours laboratory. 		
+
+GRS BI 610: Developmental Biology
+	Comtemporary aspects of development, drawing from current literature. Emphasis on the use of  experimental approaches to address topics such as polarity in the egg, body axis specification, embryonic  patterning and organogenesis. Three hours lecture, one hour discussion.		
+
+GRS BI 614: Ornithology
+	Examines the behavior, ecology, and morphology, physiology, classification, and evolution of birds.  Flight, navigation, migration, territorial courtship, nesting, and parental behavior.  Field trips.  Three hours lecture, one hour discussion and demonstrations.  (Offered alternate years.)		
+
+GRS BI 616: Herpetology
+	Examines the diversity, life history, physiology, behavior, ecology, and evolution of amphibians and  reptiles. Three hours lecture, three hours lab. Field trips (including required Spring Recess trip to Florida).		
+

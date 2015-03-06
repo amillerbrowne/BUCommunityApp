@@ -1,0 +1,60 @@
+GRS CS 931: Drs-Algor Info
+			
+
+GRS CS 932: Drs-Algorithms
+			
+
+GRS CS 933: Drs-Algorithms
+			
+
+GRS CS 935: Drs-Complexity
+			
+
+GRS CS 936: Drs-Complexity
+			
+
+GRS CS 937: Drs-Cryptograph
+			
+
+GRS CS 940: Drs-A/I
+			
+
+GRS CS 941: Drs-A/I
+			
+
+GRS CS 950: Drs-Comp Arch
+			
+
+GRS CS 952: Drs-Op Systems
+			
+
+GRS CS 953: Drs-Op Systems
+			
+
+GRS CS 960: Drs-Database
+			
+
+GRS CS 961: Drs-Database
+			
+
+GRS CS 979: Drs-Img/Vid COM
+			
+
+GRS CS 980: Drs-Graphics
+			
+
+GRS CS 995: Ds Computer Sci
+			
+
+GRS EC 701: Microeconomic Theory
+           			Neoclassical general equilibrium theory. Topics covered include consumption, production, existence of competitive equilibrium, fundamental welfare theorems, externalities, and uncertainty. 		
+
+GRS EC 702: Macroeconomic Theory
+           			Basic Keynesian model: consumption, investment, and money demand functions. Extension to the open economy. Determinants of money supply. Effectiveness of monetary and fiscal policy. Inflation and income policy. Elementary growth models. 		
+
+GRS EC 703: Advanced Microeconomic Theory I
+           			Walrasian equilibrium:  existence, uniqueness and core equivalence. Uncertainty:  Arrow Debreu contigent commodities, Radner equilibrium, incomplete markets.   Economics of information: rational expectations, adverse selection, signaling and screening.  The principal-agent problem.		
+
+GRS EC 704: Advanced Macroeconomic Theory I
+           			Consumption theory and evidence; investment theory and evidence; monetary theory; micro foundations of macro systems; theory of rational expectations; models of fiscal and monetary macroeconomic policy; and employment theory and policy.		
+

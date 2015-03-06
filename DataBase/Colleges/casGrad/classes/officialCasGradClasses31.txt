@@ -1,0 +1,60 @@
+GRS PY 713: Quantum Field Theory I
+		Provides an introduction to the techniques of quantum field theory with applications to high-energy and condensed-matter physics. Topics include field equations and quantization of many-body systems; Green function and linear response theory; S-matrix and scattering theory; path integration; perturbation expansions and the Feynman rules; renormalization and effective field theories; expansion and critical exponents.		
+
+GRS PY 714: Quantum Field Theory II
+		A continutation of GRS PY 713 for particle physicists. Topics include relativistic fields; LSZ formalism; the Lorentz group; quantum electrodynamics; nonabelian gauge symmetry; spontaneous symmetry breaking; Goldstone's theorem; the Higgs mechanism; the Glashow-Weinberg-Salam model.		
+
+GRS PY 731: Theory of Relativity
+		An introduction to general relativity:  the principle of equivalence; Riemannian geometry; Einstein's field  equation; the Schwarzschild solution; the Newtonian limit; experimental tests; black holes; cosmology.		
+
+GRS PY 741: Solid-State Physics I
+		One particle band structure. Electrons: Hartree-Fock and density functional frameworks; Green function,  pseudopotentials and tight binding methods. Linear response, optical properties and optical transitions.  Phonons: lattice dynamics and phenomenological methods. Many-body formalism and second  quantization. Electron-phonon interactions and related phenomena.		
+
+GRS PY 742: Solid-State Physics II
+		Many-body Green function formalism, perturbation theory and Feynman diagrams. Quantum transport  theory and Kubo formula. Fermi liquids; Luttinger liquids and bosonization. Fermi liquid instabilities:  superconductivity, itinerant magnetism, spin-density waves. Magnetic impurities, Anderson model, Kondo  effect. Quantum magnetism and spin-wave theory.		
+
+GRS PY 744: Polymer Physics
+		Introduction to polymer physics, focusing on the structure, phase behavior, and dynamics of isolated chains, polymer solutions, and gels. Development of underlying theoretical formalism and comparison with experimental results. Discussion of applications to novel polymeric materials. 		
+
+GRS PY 745: Experimental Surface Physics and Chemistry
+           			Introduction to the principles and experimental techniques of surface and interface physics and chemistry. Electronic, structural, vibrational, and magnetic properties of solid surfaces and interfaces. Emphasis on how these properties are measured. Also vacuum technology and x-ray generation.		
+
+GRS PY 747: Advanced Statistical Mechanics
+		Advanced topics in statistical physics including non-equilibrium phenomena, randomness, phase transitions. and their applications to materials, biological systems, and social systems. Applications vary with interests of the instructor and students as well as the state of current research.   		
+
+GRS PY 751: High-Energy Physics 1
+		Yearlong course (with GRS PY 752) on phenomenological aspects of modern high-energy physics. Principal  topics are the standard model of strong and electro-weak interactions and the physics of electro-weak  symmetry breaking. Intended for both theoretical and experimental students; emphasis on current  calculational techniques.		
+
+GRS PY 752: High-Energy Physics 2
+		Yearlong course (with GRS PY 751) on phenomenological aspects of modern high-energy physics. Principal  topics are the  standard model of strong and electro-weak interactions and the physics of electro-weak  symmetry  breaking. Intended for both theoretical and experimental students; emphasis on current  calculational techniques.		
+
+GRS PY 771: Systems Biology for Physical Scientists and Engineers
+		Focus is modern work on modeling biochemical networks. Core material includes signaling, genetic  switches, biological oscillators and development. Begins with chemical kinetics in the context of molecular  biology. Simple yet informative models based on physics approaches are emphasized.		
+
+GRS PY 782: Advanced Materials Characterization
+           			Introduction to the principles and applications of advanced materials characterization including study of  atomic structure, electronic structure, defects, mechanical properties, transport properties, and carrier  dynamics.		
+
+GRS PY 811: Advanced Quantum Field Theory
+		Covers advanced methods in quantum field theory. Topics vary with interests of the instructor and  students as well as the state of current research.		
+
+GRS PY 841: Symmetry in Solid-State Physics
+		Theory of finite groups, crystalline point groups, crystal double groups, crystal field theory, selection rules,  perturbation theory, Kramer's theorem, applications to solid-state physics.		
+
+GRS PY 895: Seminar: Special Topics in Theoretical Physics
+		Theoretical research topics include general relativity, quantum field theory, high energy and particle physics, phase transitions, renormalization group, laser physics, kinetic equations, biophysics, computational physics, and selected topics in mathematical physics. 		
+
+GRS PY 896: Seminar: Special Topics in Theoretical Physics
+		Theoretical research topics include general relativity, quantum field theory, high energy and particle physics, phase transitions, renormalization group, laser physics, kinetic equations, biophysics, computational physics, and selected topics in mathematical physics. 		
+
+GRS PY 897: Seminar: Special Topics in Experimental Physics
+	Surface physics; intermediate energy nuclear physics experiments; low temperature techniques; liquid and  solid helium; and magnetism at low temperatures. Raman effect, gels, and biophysics. High-energy  physics experimental techniques.		
+
+GRS PY 901: Research in Physics
+			
+
+GRS PY 902: Research in Physics
+			
+
+GRS PY 909: Directed Study in Physics
+			
+

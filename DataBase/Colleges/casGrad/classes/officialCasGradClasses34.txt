@@ -1,0 +1,60 @@
+GRS PS 734: Psychopharmacology for the Behavioral Scientist
+	Basic principles of pharmacology, drugs used in treatment of mental illness, drugs having abuse potential. Current issues in psychopharmacology. 		
+
+GRS PS 735: Concepts of Motivation
+	Major theories of human motivation (including biological, psychoanalytic, and cognitive) are compared and related to empirical research on important human goals and activities such as achievement, power, and intimacy. Students identify a research focus and design an empirical study. 		
+
+GRS PS 737: Memory Systems of the Brain
+	Survey of investigations into the brain systems and neurobiological mechanisms of memory. Includes experimental studies of amnesia associated with brain damage in humans, experimental models of amnesia in animals, and neurophysiological studies of brain activity that encodes memories in animals and humans. Focus on evidence for multiple forms of memory and distinct brain systems that mediate them. 		
+
+GRS PS 747: Infant Development
+		The origins of human cognition, specifically, how infants come to perceive a unified, stable, and meaningful world despite the ever-changing and fragmentary nature of sensory input. A number of topics bearing on social and nonsocial cognition are examined in the light of major theories of cognitive development		
+
+GRS PS 751: Personality Theory
+		Examines the major contemporary approaches to personality and clinical psychology.  Through a mixture of classic and current research and theory, addresses psychodynamic, cognitive-social, trait, biological, humanistic/existential and cultural approaches.		
+
+GRS PS 754: Forensic Psychology
+		Examines scope, empirical foundations, and ethicl issues of forensic psychology.  Topics include eyewitness testimony; use of hypnosis, polygraphs, and criminal profiling; scientific jury selection; risk assessment; child abuse evaluations; and determinations of insanity, competency, and child custody.		
+
+GRS PS 761: Major Issues in Social Psychology
+	Empirical and theoretical approaches to selected areas of social psychology.  Includes interpersonal behavior, attitude formation and change, social comparison processes, and group behavior.		
+
+GRS PS 770: Ethics in Psychology
+	Designed for graduate students in psychology and related fields who plan to be engaged in some form of the practice of psychology. Topics include ethics of clinical and consulting practice, of teaching, and of psychological research. 		
+
+GRS PS 772: Clinical Psychological Assessment of Adults
+	Theoretical and empirical bases for diagnostic and structured interviews, standardized cognitive tests, psychopathology rating scales, projective methods, and tools for evaluating community systems and epidemiology. Administration, scoring, and general principles of clinical interpretation of representative measures (WAIS, MMPI, Social Networks Inventory, Rorschach).		
+
+GRS PS 773: Clinical Psychological Assessment of Children and Families
+	Clinical applications of and theoretical and empirical bases for structured diagnostic and play interviews, standardized cognitive and personality tests, and projective methods.  Administration and clinical interpretation of representative measures (e.g.WISC-R, Rorschach and Family genograms). 		
+
+GRS PS 774: Clinical Psychological Assessment of Adults Practicum
+	Note: Must co-register for GRS PS 772. This course is the applied practicum course for Clinical Psychological Assessment of Adults (PS 772). It is designed to provide a comprehensive, applied experience in psychological assessment report writing and the administration, scoring, cognitive/intellectual and personality functioning. 		
+
+GRS PS 790: Family Theory and Research
+	Basic and applied issues in family studies. Psychological theory and research are reviewed; problems in studying the family historically and cross-culturally are considered. Applied psychological issues include gender roles, identity and intimacy, and family interaction. 		
+
+GRS PS 791: Psychology of Social Oppression
+		Primary focus on academic research and theoretical models as applied to people of color. The psychologist in minority settings, program development, cross-cultural research issues; alternative models of traditional psychological theories. 		
+
+GRS PS 822: Visual Perception
+	Theory and data relating to contemporary problems in visual perception.		
+
+GRS PS 824: Cognitive Psychology
+	This class provides an in-depth introduction to major contemporary issues related to cognitive psychology and human information processing, including acquisition of information from stimuli, feature integration, and top-down effects on perception and recognition. 		
+
+GRS PS 825: Early Social Cognition
+		This seminar focuses on how infants and young children understand the social world. Topics include recent research on social evaluation (moral babies); theory of mind; actions, intentions, and goals; and social categories. Implications for traditional theories of social development. 		
+
+GRS PS 829: Principles of Neuropsychology
+	Central nervous system processes underlying memory, language, cognition, emotion, sensory functioning, and motor function in normal and pathological conditions. Theory, experimental findings, and reference to clinical cases. 		
+
+GRS PS 840: Developmental Behavioral Genetics
+	This course provides an overview of human behavioral genetic theory, methods, and research as they relate to behavioral development and other psychological issues. Current research examining genetic and environmental contributions to individual differences in behavior will be discussed and critically evaluated. 		
+
+GRS PS 843: Life Span Development
+	Examines human development throughout the life span and focuses on numerous domains of physical,  cognitive, and psychosocial development in order to gain a better understanding of the multifaceted  constructs and transitions between developmental stages that characterize human development.		
+
+GRS PS 844: Theories of Development
+	Comparative examination of theories of psychological development and their usefulness in interpreting behavioral phenomena.  Major consideration  to theories of Freud, Piaget, and Werner.		
+

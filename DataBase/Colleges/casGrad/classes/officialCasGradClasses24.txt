@@ -1,0 +1,60 @@
+GRS MA 751: Advanced Statistical Methods II
+		Second course in a two-semester PhD sequence on post-classical statistical methods and their applications. Selection from topics in statistical learning, such as regularized basis methods, kernel methods, boosting, neural networks, support vector machines, and graphical models.		
+
+GRS MA 770: Mathematical and Statistical Methods of Bioinformatics
+		Mathematical and statistical bases of bioinformatics methods and their applications. Hidden Markov models, kernel methods, mathematics of machine learning approaches, probabilistic sequence alignment, Markov chain Monte Carlo and Gibbs sampling, mathematics of phylogenetic trees, and statistical methods in microarray analysis.		
+
+GRS MA 771: Introduction to Dynamical Systems
+	Diffeomorphisms and flows; periodic points, nonwandering points, and recurrent points; hyperbolicity, topological conjugacy, and structural stability; stable manifold theorem; symbolic dynamics; Axiom A and chaotic systems. 		
+
+GRS MA 775: Ordinary Differential Equations
+	Stable and center manifolds theorem, linearization of vector fields, variational equations, Floquet theory and Poincare; maps for periodic orbits, bifurcation of rest points, averaging theory, topics from singular perturbations, Hamiltonian systems, non-linear oscillations, normal forms, and applications. 		
+
+GRS MA 776: Partial Differential Equations
+		Hyperbolic, elliptic, and parabolic equations. Characteristics and separation of variables. Eigenvalue problems, Fourier techniques, Sobolev spaces, and potential theory. Introduction to pseudodifferential operators.		
+
+GRS MA 779: Probability Theory I
+		Introduction to probability with measure theoretic foundations. Fundamentals of measure theory. Probability space. Measurable functions and random variables. Expectation and conditional expectation. Zero-one laws and Borel-Cantelli lemmas. Chracteristic functions. Modes of convergence. Uniform integrability. Skorokhod representation theorem. Basic limit theorems.		
+
+GRS MA 780: Probability Theory II
+		Probability topics important in applications and research. Laws of large numbers.  Three series theorem. Central limit theorems for independent and non-identically distributed random variables. Speed of convergence. Large deviations. Laws of the iterated logarithm. Stable and infinitely divisible distributions. Discrete time martingales and applications.		
+
+GRS MA 781: Estimation Theory
+		Review of probability, populations, samples, sampling distributions, and delta theorems. Parametric point estimation. Rao-Cramer inequality, sufficient statistics, Rao-Blackwell theorem, maximum likelihood estimation, least squares estimation, and general linear model of full rank. Confidence intervals. Bayesian analysis and decision theory. 		
+
+GRS MA 782: Hypothesis Testing
+		Parametric hypothesis testing, uniformly and locally the most powerful tests, similar tests, invariant tests, likelihood ratio tests, linear model testing, asymptotic theory of likelihood ratio, and chi-squared test. Logit and log-lin analysis of contingency tables. 		
+
+GRS MA 783: Advanced Stochastic Processes
+           			Proof-based approach to stochastic processes. Brownian motion. Continuous martingales. Stochastic  integration. Ito formula. Girsanov's Theorem. Stochastic differential equations. Feynman-Kac formula.  Markov Processes. Local times. Levy processes. Semimartingales and the general stochastic integral. Stable    processes. Fractional Brownian motion.		
+
+GRS MA 791: Recent Advances in Probability and Statistics I
+		Participants discuss ongoing research, as well as important results that have recently appeared in the literature. 		
+
+GRS MA 822: Topics in Geometry and Topology
+		Advanced seminar in topics in differential geometry, topology and mathematical physics of current research interest. 		
+
+GRS MA 841: Seminar: Algebra
+			
+
+GRS MA 842: Seminar: Algebra
+			
+
+GRS MA 843: Topics in Number Theory I
+		Advanced number theory, focusing on such topics as modular forms, special values in L-series, p-adic L-functions, and p-adic variation.		
+
+GRS MA 844: Topics in Number Theory II
+		Advanced number theory, focusing on such topics as Selmer groups, Iwasawa theory, Euler systems, and main conjectures.		
+
+GRS MA 871: Seminar: Dynamical Systems
+			
+
+GRS MA 876: Seminar: Partial Differential Equations
+			
+
+GRS MA 881: Seminar: Statistics
+		Real problems in experimental design and data analysis presented by clients from various other departments. The art of statistical consulting in a variety of applied areas.		
+
+GRS MA 882: Seminar: Statistics
+		Real problems in experimental design and data analysis presented by clients from various other departments. The art of statistical consulting in a variety of applied areas.		
+
