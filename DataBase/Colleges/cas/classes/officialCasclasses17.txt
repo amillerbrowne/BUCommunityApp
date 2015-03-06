@@ -1,0 +1,48 @@
+CAS BI 530: Forest Ecology
+           			The major biotic and abiotic factors influencing forest ecosystem composition, structure, and function. Role of solar radiation, hydrology, soils, succession, and management of forest ecosystems. Includes New England case study. Three hours lecture plus discussion. Meets with CAS GE 530.		
+
+CAS BI 531: Ichthyology: Behavior, Ecology, and Evolution of Fish (EBE)
+           			A comprehensive introduction to fish biology and systematics. Emphasis on phylogenetic relationships, ecology, and behavior. Labs include morphological studies of specimens and behavioral studies of live fishes. This course is a prerequisite for the field course.		
+
+CAS BI 535: Translational Research in AlzheimerÂs Disease
+           			An introduction to translational research focused on Alzheimer's disease, with particular emphasis on the  search for new therapeutic targets, from observations of pathogenic phenotypes in patients to the  development of appropriate animal and cellular models of the disease. Also offered as CAS NE 535.		
+
+CAS BI 539: Coral Reef Dynamics: Shallow Waters, Deep Time
+           			Tropical reefs-- diverse, complex, and ancient-- exhibit lawful cycles of growth, degradation, and  regeneration. Explore these through observations on the Belize Barrier Reef in fossil reef environments and through laboratory experiments. Insights are applied to reef conservation in today's changing world. Also offered as CAS ES 539.		
+
+CAS BI 543: Global Ecology
+           			Explores the many biospheric threads that link and exchange throughout the earth. Themes include life  systems as a geological force, bacteria as a global organism, the major impacts of algae, and climate  change update. Three hours lecture.		
+
+CAS BI 545: Neurobiology of Motivated Behavior
+           			Molecular and neuroendocrine mechanisms controlling reproductive and parental behaviors, ingestive  behaviors and metabolism, and circadian rhythms, pain perception, and reward in vertebrates. Three hours  lecture plus student-led discussions of relevant research papers. Also offered as CAS NE 545.		
+
+CAS BI 546: Marine Megafaunal Ecology: Stellwagen Bank National Marine Sanctuary and Surrounding Waters
+           			Marine macrofauna: whales, seals, seabirds, fishes, turtles, jellies, and people in Stellwagen Bank National Marine Sanctuary. Evolution, food webs, and distributional ecology; physical and human influences on foraging and movement behavior. Student research builds ecosystem-based science for Sanctuary management. 		
+
+CAS BI 550: Marine Genomics
+           			Covers the evolution of genomes, the architecture of gene networks, and the connection between genotype and phenotype in marine organisms, as well as the technical development of modern genomics. Student research projects utilize modern genomics experimental approaches. 		
+
+CAS BI 551: Biology of Stem Cells
+           			Views on stem cell research range from assumptions of a potential cure for most diseases to fears that it will depreciate the value of human life. This course equips students with the science that underlies this discussion, including the biological properties of stem cells and the experimental hurdles to utilization in regenerative medicine.  		
+
+CAS BI 552: Molecular Biology I (CM)
+           			Synthesis, structure, and function of biologically important macromolecules (DNA, RNA, and proteins). Regulation and control of the synthesis of RNA and proteins. Introduction to molecular biology of eukaryotes. Discussion of molecular biological techniques, including genetics and recombinant DNA techniques. Three hours lecture, one hour discussion. 		
+
+CAS BI 553: Molecular Biology II (CM)
+           			Continuation of CAS BI 552 with emphasis on eukaryotes. General areas of focus include genome  organization, mechanisms of gene regulation, and cell signaling. Topics including genomics, mouse  transgenics systems, signal transduction, chromatin structure, and cell cycle.		
+
+CAS BI 554: Neuroendocrinol
+           			This course description is currently under construction.		
+
+CAS BI 560: Systems Biology
+           			Examines critical components of systems biology, including design principles of biological systems (e.g.,  feedback, synergy, cooperativity), and the generation and analysis of large-scale datasets (e.g., protein- protein interaction, mRNA expression).		
+
+CAS BI 563: Sensory Biology of Aquatic Animals
+           			Underwater signals, physics of signal transmission, receptors, sense organs, animal behavior. Focus on  student-generated research projects: design, animal care, data collection, analysis and presentation. A  one-month block course in the BU Marine Semester.		
+
+CAS BI 569: Tropical Marine Invertebrates
+           			Explores the diversity of marine invertebrates, including body plans, feeding biology, reproductive  strategies, and developmental programs. Field biodiversity surveys and behavioral studies in shallow water tropical marine environments, especially seagrass beds and mangrove. Part of the Marine Semester. Cannot  be taken for credit in addition to CAS BI 547. 		
+
+CAS BI 572: Advanced Genetics
+           			An in-depth study of eukaryotic genetics, ranging from the history and basic principles to current topics and modern experimental approaches.  Genetics of Drosophila, C. elegans, mice, and humans are explored in detail, including readings from primary literature. Three hours lecture, one hour discussion.		
+

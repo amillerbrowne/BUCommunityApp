@@ -1,0 +1,48 @@
+CAS NE 338: Neuropsychology
+           			Survey of theoretical aspects and major empirical findings in human neuropsychology, including memory,  language, spatial function, attention, emotion, and abstract thought.  Emphasis is on the relation between  brain disorders (resulting from head injury, stroke, degenerative disease, etc.) and abnormal behavior. Also  offered as CAS PS 338.		
+
+CAS NE 340: Introduction to Computational Models of Skilled Decision and Action
+           			Humans are facile skill learners. What brain circuits and learning mechanisms enable skilled selection of   plans and enactment of the plans chosen? Integrates interdisciplinary efforts to understand brain functions   well enough to allow accurate computer simulations of skill learning.		
+
+CAS NE 360: Introduction to Computational Neuroscience of Speech, Language, and Hearing
+           			Introduces the foundations of auditory perception including the mammalian auditory pathway, speech and  language perception, links with speech production, auditory scene analysis, and music perception from a  computational perspective. Laboratory computer assignments elucidate functional properties of these  systems.		
+
+CAS NE 391: Undergraduate Research in Neuroscience III
+           			Research in neuroscience for students at the junior level. Students design and implement a research project with a faculty member.		
+
+CAS NE 392: Undergraduate Research in Neuroscience III
+           			Research in neuroscience for students at the junior level. Students design and implement a research project with a faculty member.		
+
+CAS NE 401: Senior Independent Work
+           			Laboratory research project chosen and performed under supervision of an affiliated neuroscience faculty member. Research lab must be chosen and the project approved by the program and College by the time of registration. Grade is determined by laboratory participation, written report, and oral presentation.		
+
+CAS NE 402: Senior Independent Work
+           			Laboratory research project chosen and performed under supervision of an affiliated neuroscience faculty member. Research lab must be chosen and the project approved by the program and College by the time of registration. Grade is determined by laboratory participation, written report, and oral presentation.		
+
+CAS NE 444: Neuroethology
+           			Specialized natural behaviors reveal general principles of systems neuroscience. Examples include vocal  learning in songbirds, sensory-motor integration in bats, and pattern generators in lobsters. Three hours  lecture and literature discussion; three hours laboratory, including microchip programming and neural  recordings. Also offered as CAS BI 444.		
+
+CAS NE 445: Cellular and Molecular Neurophysiology
+           			Cellular and molecular basis of neural excitability and synaptic transmission. The molecular understanding of ion channels is extrapolated to higher brain functions such as learning, memory, and sleep. Three hours  lecture, three hours lab. Also offered as CAS BI 445.		
+
+CAS NE 449: Neuroscience Design Lab
+           			Design and build devices for neuroscience experiments. Interface sensors with computers using Arduino  microprocessors. Guided exercises followed by independent design projects to quantify human sensory  and motor performance, or emulate animal sensory-motor circuits. All levels of programming experience  accepted. Also offered as CAS BI 449. 		
+
+CAS NE 455: Developmental Neurobiology
+           			Fundamental principles of developmental neurobiology, stressing molecular mechanisms that underlie early neural development, differentiation, process outgrowth, and behavior. Three hours lecture, one hour  discussion. Also offered as CAS BI 455.		
+
+CAS NE 481: Molecular Biology of the Neuron
+           			Topics include electrical properties of neurons, a survey of neurotransmitters, molecular structure and  function of receptors, synaptic transmission, intracellular signaling, and the molecular biology of sensory  transduction. Three hours lecture, one hour discussion.  Also offered as CAS BI 481.		
+
+CAS NE 491: Undergraduate Research in Neuroscience IV
+           			Research in neuroscience for students at the senior level. Students design and implement a research project with a faculty member. A minimum of 12 hours per week in lab or field work, not including preparation or evaluation time. Research topic must be defined at the time of registration. Course grade is determined by laboratory performance and written report.		
+
+CAS NE 492: Undergraduate Research in Neuroscience IV
+           			Research in neuroscience for students at the senior level. Students design and implement a research project with a faculty member. A minimum of 12 hours per week in lab or field work, not including preparation or evaluation time. Research topic must be defined at the time of registration. Course grade is to be determined by laboratory performance and written report.		
+
+CAS NE 520: Sensory Neurobiology
+           			A broad survey of sensory system function in model organisms and humans, focusing on fundamental  principles of neural processing. Topics include basic cellular transduction, neural coding, and links  between neural activity and sensory perception. Also offered as CAS BI  520.		
+
+CAS NE 525: Biology of Neurodegenerative Diseases
+           			An in-depth look at molecular mechanisms of neurodegenerative diseases and their impact and relevance  in clinical diagnosis and treatment. Topics include the molecular pathways of Alzheimer's, Parkinson's,  Huntington's, and Creuztfeldt-Jacob Disease, and Amyotrophic Lateral Sclerosis. Also offered as CAS BI  525.		
+

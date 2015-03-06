@@ -1,0 +1,51 @@
+CAS PS 561: The Psychology of Poverty, Wealth, and Economic Inequality
+	Explores the impact of poverty, wealth, and economic inequality on individuals, families, and communities  and considers how individuals think about, explain, and experience poverty, wealth, and economic  inequality. Experimental, survey, interview, and epidemiological research considered.		
+
+CAS PS 572: Psychology of Women
+           			Consideration of research topics in the psychology of women. Topics covered include various stages in the  life cycle, women's work and family lives, aspects of victimization, and women's position in the larger  society.		
+
+CAS PY 100: Physics of the Twentieth Century and Beyond
+           			A historical survey of modern physics, focusing on quantum mechanics and relativity as applied to the microworld (subatomic physics) and the macroworld (the early universe). Covers exotic phenomena from quarks to quasars, from neutrinos to neutron stars. For non-science majors. Carries natural science divisional credit (without lab) in CAS.  		
+
+CAS PY 103: Cinema Physica
+	Conceptual introduction to physical law as portrayed in film. Quantitative understanding using simple estimates, elementary physics, and dimensional analysis. Kinematics; forces; conservation laws; heat and temperature; atoms, molecules and materials. Sample films: Speed;  Armageddon; Independence Day; X-Men; The Sixth Sense; Contact. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS PY 105: Elementary Physics 1
+	The CAS PY 105/106 sequence satisfies premedical requirements; presupposes knowledge of algebra and  trigonometry.  Principles of classical and modern physics, mechanics, conservation laws, and heat. Students  must register for three sections: a lecture section, a discussion section, and a laboratory section. Carries  natural science  divisional credit (with lab) in CAS.		
+
+CAS PY 106: Elementary Physics 2
+           			The CAS PY 105/106 sequence satisfies premedical requirements; presupposes knowledge of algebra and  trigonometry.  Principles of classical and modern physics; electricity and magnetism, waves, optics, light,  atomic and nuclear physics. Students must register for three sections: a lecture section, discussion section,  and laboratory section. Carries natural science divisional credit (with lab) in CAS.		
+
+CAS PY 107: Physics of Food/Cooking
+	Physical science concepts of thermal physics, and soft matter physics such as phase transitions, gelation,  viscosity, elasticity illustrated via cooking. Labs and demos using molecular gastronomy methods of sous-vide cooking, pressure cooking, making desserts, cheese, emulsions, foams, gels, ice creams. Carries  natural science divisional credit (with lab) in CAS.		
+
+CAS PY 192: Directed Study in Physics
+           			For freshman and sophomore physics majors.		
+
+CAS PY 195: Freshman Seminar for Physicists
+           			Seminar where freshman physics majors learn successful strategies for studying physics and become familiar with BU's policies, procedures, resources, and extracurricular activities. Exploration of research and career opportunities through invited speakers, book discussions, and laboratory tours.		
+
+CAS PY 211: General Physics
+           			For premedical students who seek a more analytical course than CAS PY 105/106, and for science majors and engineers. Basic principles of physics emphasizing Newtonian  mechanics, conservation laws, and thermal physics. Lectures, discussion, and laboratory. Carries natural science divisional credit (with lab) in CAS.		
+
+CAS PY 212: General Physics
+           			For premedical students who seek a more analytical course than CAS PY 105/106, and for science majors and engineers. Basic principles of physics emphasizing electricity,  magnetism, and geometrical optics. Lectures, discussion, and laboratory. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS PY 231: The Physics in Music
+           			An introduction to musical acoustics, which covers vibrations and waves in musical systems, intervals and the construction of musical scales, tuning and temperament, the percussion instruments, the piano, the string, woodwind and brass instruments, room acoustics, and the human ear and psychoacoustical phenomena important to musical performance. Some aspects of electronic music are also discussed. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS PY 241: Principles of General Physics 1
+           			Calculus-based introduction to principles and methods of physics. Mechanics, heat, light, electricity and magnetism, atomic and nuclear physics, and relativity are treated. Topics relevant to medical science are emphasized. Ideal for premedical students. Lectures, discussions, and laboratory. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS PY 242: Principles of General Physics 2
+           			Calculus-based introduction to principles and methods of physics. Mechanics, heat, light, electricity and magnetism, atomic and nuclear physics, and relativity are treated. Topics relevant to medical science are emphasized. Ideal for premedical students. Lectures, discussions, and laboratory. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS PY 251: Principles of Physics 1
+           			Introduction to mechanics, conservation laws, heat, and thermodynamics. Primarily for physics,  mathematics, and astronomy majors, but open to other students with a strong background in  mathematics. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS PY 252: Principles of Physics 2
+           			Introduction to electromagnetic radiation and geometrical optics. Primarily for physics, mathematics, and  astronomy majors, but open to other students with a strong background in mathematics. Carries natural  science divisional credit (with lab) in CAS.		
+
+CAS PY 313: Waves and Modern Physics
+		Waves and physical optics, relativistic mechanics, experimental foundations of quantum mechanics, atomic structure, physics of molecules and solids, atomic nuclei and elementary particles. Along with CAS PY 211, 212, PY 313 completes a three-semester introductory sequence primarily intended for students of engineering. 		
+

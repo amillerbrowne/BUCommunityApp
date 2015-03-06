@@ -1,0 +1,43 @@
+CAS MA 577: Mathematics of Financial Derivatives
+           			Develops the probabilistic tools used in finance and presents the methodologies that are used in the pricing of financial derivatives. No previous knowledge of finance is required.		
+
+CAS MA 579: Numerical Methods for Biological Sciences
+           			Introduction to the use of numerical methods for studying mathematical models of biological systems. Emphasis on the development of these methods; understanding their accuracy, performance, and stability; and their application to the study of biological systems.		
+
+CAS MA 581: Probability
+		Basic probability, conditional probability, independence. Discrete and continuous random variables, mean and variance, functions of random variables, moment generating function. Jointly distributed random variables, conditional distributions, independent random variables. Methods of transformations, law of large numbers, central limit theorem. Cannot be taken for credit in addition to CAS MA 381.		
+
+CAS MA 582: Mathematical Statistics
+		Point estimation including unbiasedness, efficiency, consistency, sufficiency, minimum variance unbiased estimator, Rao-Blackwell theorem, and Rao-Cramer inequality. Maximum likelihood and method of moment estimations; interval estimation; tests of hypothesis, uniformly most powerful tests, uniformly most powerful unbiased tests, likelihood ratio test, and chi-square test. 		
+
+CAS MA 583: Introduction to Stochastic Processes
+		Basic concepts and techniques of stochastic process as they are most often used to construct models for a variety of problems of practical interest. Topics include Markov chains, Poisson process, birth and death processes, queuing theory, renewal processes, and reliability. 		
+
+CAS MA 585: Time Series and Forecasting
+           			Autocorrelation and partial autocorrelation functions; stationary and nonstationary processes; ARIMA and Seasonal ARIMA model identification, estimation, diagnostics, and forecasting. Modeling financial data via ARCH and GARCH models. Volatility estimation; additional topics, including long-range dependence and state-space models.		
+
+CAS MA 588: Nonparametric Statistics
+		The theory and logic in the development of nonparametric techniques including order statistics, tests based on runs, goodness of fit, rank-order (for location and scale), measures of association, analysis of variance, asymptotic relative efficiency. 		
+
+CAS MA 589: Computational Statistics
+           			Topics from computational statistics that are relevant to modern statistical applications: random number  generation, sampling, Monte Carlo methods, computational inference, MCMC methods, graphical models,  data partitioning, and bootstrapping. Emphasis on developing solid conceptual understanding of the  methods through applications.		
+
+CAS MA 671: Chaotic Dynamical Systems
+		This course is not open to CAS students. For graduate students in disciplines outside of mathematics. Iterations of functions of one or several variables. Periodicity, stability, chaos, fractals, bifurcations. Julia sets and the Mandelbrot set. Students are required to perform several experiments on personal computers. 		
+
+CAS ME 101: Issues in Middle East and North Africa Studies
+           			Mini-seminar to analyze and integrate students' coursework for the Middle East Studies and North Africa  Studies (MENA) major. Student presentations on relevant outside coursework, reading of foundational short  works to introduce competing approaches to MENA studies. Required of all MENA Studies majors.		
+
+CAS MR 291: Undergraduate Marine Science Research
+           			Research in marine science for students at the sophomore level. Students design and implement a research  project with a faculty member. Topic must be defined by time of registration. Course grade  determined by  performance and written report.		
+
+CAS MR 292: Undergraduate Marine Science Research
+           			Research in marine science for students at the sophomore level. Students design and implement a research  project with a faculty member. Topic must be defined by time of registration. Course grade  determined by  performance and written report.		
+
+CAS MR 391: Undergraduate Marine Science Research
+           			Research in marine science for students at the junior or senior level. Students design and implement a  research project with a faculty member. Topic must be defined by time of registration. Course grade  determined by performance and written report.		
+
+CAS MR 392: Undergraduate Marine Science Research
+           			Research in marine science for students at the junior or senior level. Students design and implement a  research project with a faculty member. Topic must be defined by time of registration. Course grade  determined by performance and written report.		
+
+CAS MR 401: Senior Independent Work in Marine Science

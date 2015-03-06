@@ -1,0 +1,55 @@
+CAS AR 506: Regional Archaeology and Geographical Information Systems (GIS)
+		Use of advanced computer (GIS) techniques to address regional archaeological problems.This applied course examines digital encoding and manipulation of archaeological and environmental data, and methods for testing hypotheses, analyzing, and modeling the archaeological record.		
+
+CAS AR 507: Lay of the Land: Surface and Subsurface Mapping in Archaeology
+           			This course integrates classroom, lab, and field instruction to provide students with understanding and  practical field skills in archaeological surface and subsurface mapping. Coverage includes point-based  surveying, ground-based and photogrammetric surface modeling, aerial image digitization, and  archaeogeophysical prospection.		
+
+CAS AR 509: Geoarchaeology
+		Lecture/laboratory course illustrating the use of geological concepts and methods in the study of archaeological problems. Topics include: stratigraphy and stratigraphic principles, geological environments and earth-surface processes, anthropogenic sediments, archaeological materials and their analysis, and the formation of archaeological sites. Field trips in the Boston area. 		
+
+CAS AR 510: Proposal Writing for Social Science Research
+		The purpose of this course is to turn students' intellectual interests into answerable, field-based research   questions. The goal is the production of a project proposal for future research. Also offered as CAS AN  510.		
+
+CAS AR 534: Seminar in Roman Art
+	In-depth examination of varying topics in the study of Roman art and architecture. Topics vary annually.  Also offered as CAS AH 534.		
+
+CAS AR 551: Studies in Mesoamerican Archaeology
+           			Analysis of major events and processes of the Mesoamerican area. Topics include rise of towns, temples,  and urbanism; the origin of state; and the development of empires.		
+
+CAS AR 556: Archaeological Field Research Experience
+           			Supervised original research in excavation, survey, or field laboratory situation, as part of field study  program.		
+
+CAS AR 570: Studies in Historical Archaeology
+	Topics vary. Intensive coverage of particular aspects of historical archaeology as selected by instructor. (Course fulfills department area or technical requirement.)		
+
+CAS AR 577: Pots and Pans: The Material Culture of Cookery &amp; Dining
+	Exploration of food cultures and technologies through utensils for food preparation and consumption;  kitchens from prehistory to present; tradition and fashion in cooking and dining vessels; cooking  technology; utensils as metaphors and symbols. Ranges broadly across cultures, time, and space.		
+
+CAS AR 590: Life Is a Bowl: Ceramic Studies in Archaeology
+           			Before plastic, there was pottery -- pots and pans, cups and dishes, crocks and jars -- in every culture and  in abundance. Research seminar studies pottery across time and space to elucidate personal habits as well as social, economic, and political developments.		
+
+CAS AR 593: Memory in 3-D: Memorials, Then and Now
+           			Societies craft their histories and identities via memorials, thereby firming up the past for the future. In this course, we analyze the historical context, form, and message of important memorials in classical antiquity and modern America. 		
+
+CAS AS 100: Cosmic Controversies
+	From surprise over the need to invoke Dark Matter and Dark Energy, to confusion about Pluto's being reclassified as a non-planet, this course explores how scientists explain our place in the physical universe, by focusing on some of the most current issues in modern astronomy. Topics range from the solar system, to extraterrestrial life, to the fabric of the entire universe. Carries natural science divisional credit (without lab) in CAS. 		
+
+CAS AS 101: The Solar System
+	The historical development of astronomy and the motion of the planets. The formation of the solar system. The sun and its effects on the earth. Description of the planets and the moons of our solar system  including recent results from the space program. Use of the observatory. Cannot be taken for credit in  addition to CAS AS 105. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS AS 102: The Astronomical Universe
+	The birth and death of stars. Red giants, white dwarfs, black holes. Our galaxy, the Milky Way, and other galaxies. The Big Bang and other cosmological theories of our expanding universe. Use of the observatory. Carries natural science divisional credit (with lab) in CAS. 		
+
+CAS AS 105: Alien Worlds
+	Examination of worlds within and outside our solar system. History of NASA and other space exploration  programs. Discovery and properties of hundreds of planets around other stars. Possibility of life on other  worlds. Students use telescopes to observe our solar system. Cannot be taken for credit in addition to CAS AS 101. Carries natural science divisional credit (without lab) in CAS. 		
+
+CAS AS 107: Life Beyond Earth
+	About 10% of the planets in our Milky Way galaxy are like Earth in size and material composition. Physical laws covered in this course operate everywhere, so life may be both common and technologically advanced. Where is everybody? (This course cannot be taken for credit in addition to CAS AS 117.)		
+
+CAS AS 109: Cosmology
+	The evolution of cosmological thought from prehistory to the present: Greek astronomy, Copernicus, Galileo, Newton, and Einstein. Motion, gravity, and the nature of space-time. The expanding universe. The early universe and Big Bang. Carries natural science divisional credit (without lab) in CAS. 		
+
+CAS AS 202: Principles of Astronomy I
+	Astronomical observing and the night sky; optics and telescopes; birth of modern astronomy; atoms, spectra and spectroscopy; planetary motion and orbits; overview of solar system; uses observatory. Intended primarily for astronomy or physics majors. Lectures and laboratories. Carries natural science divisional credit (with lab) in CAS.		
+
+CAS AS 203: Principles of Astronomy II

@@ -1,0 +1,55 @@
+CAS NS 450: Advanced Topics in Biological Oceanography
+           			In-depth treatment of a single topic in biological oceanography. Extensive review of classical and  contemporary literature. Introduction and practice of current laboratory techniques. Oral presentation and research paper required. Topics may include marine plankton ecology, biodiversity, and satellite oceanography.		
+
+CAS NS 460: Advanced Ocean Policy Research
+           			Advanced policy research focusing on a topic of current importance (may include fisheries, biodiversity,  marine spatial planning, and cultural heritage). Emphasis on theoretical concepts, research methods, and  communication skills. Requires critical review paper, original research, final report and presentation.		
+
+CAS NS 540: Concepts in Physics I: Forces and Motion
+           			For teachers. Mastery of Newtonian concepts including rectilinear motion, Newton's Laws, and conservation  of momentum and energy. In order to build pedagogical content knowledge, historical and philosophical  context is provided, and science education research on misconceptions in learning classical mechanics is  introduced. Cannot be taken for credit by CAS and GRS students.		
+
+CAS NS 541: Concepts in Physics II: Rotation and Gravitation
+           			For teachers. Mastery of physics concepts including uniform circular motion, rotational motion, and gravitation. In order to build pedagogical content knowledge, a historical and philosophical context is provided, and related science education research on misconceptions in learning classical mechanics is also introduced. Cannot be taken for credit by CAS and GRS students.		
+
+CAS NS 542: Concepts in Physics III: Fluids and Theormodynamics
+           			For teachers. Mastery of concepts including fluids and thermodynamics. Connections between microscopic and macroscopic behavior as an example of physical science models. Concepts are discussed in historical and philosophical context to build pedagogical content knowledge. Pedagogy rooted in science education research. Cannot be taken for credit by CAS and GRS students. 		
+
+CAS NS 543: Concepts in Physics IV: Electrostatics, Magnetostatics, DC circuits
+           			For teachers. Mastery of concepts including electric charge, electric and magnetic fields, and DC circuits. These topics are placed in historical and philosophical context to build pedagogical content knowledge. Discussion of pedagogy is rooted in science education research. Cannot be taken for credit by CAS and GRS students.		
+
+CAS NS 544: Concepts in Physics V: Waves and Optics
+           			For teachers. Mastery of concepts of the physics of waves and geometric optics. Concepts discussed in historical and philosophical context to build pedagogical content knowledge. Discussion of pedagogy rooted in science education research on students' misconceptions. Cannot be taken for credit by CAS and GRS students.		
+
+CAS NS 545: Concepts in Physics V: Electromagnetism
+           			For teachers. Mastery of concepts of electromagnetic induction, AC circuits, and physical optics. Concepts are discussed in historical and philosophical context to build pedagogical content knowledge. Discussion of pedagogy rooted in science education research on students' misconceptions. Cannot be taken for credit by CAS and GRS students.		
+
+CAS NS 546: Concepts in Physics VI: Quantum Physics
+           			For teachers. Mastery of the foundations of quantum physics, such as blackbody radiation, the photoelectric effect, and wave-particle duality. Concepts are discussed in historical and philosophical context to build pedagogical content knowledge. Discussion of pedagogy is rooted in science education research. Cannot be taken for credit by CAS and GRS students.		
+
+CAS NS 547: Concepts in Modern Physics II: Special Relativity and Related Topics
+           			For teachers. Mastery of the foundations of Einstein's Theory of Special Relativity and applications to nuclear and particle physics, and to astronomy and cosmology. The development of understanding of space and time, and the pedagogical issues that arise are addressed. Cannot be taken for credit by CAS and GRS students.		
+
+CAS NS 548: Computer Modeling of Physical Phenomena
+           			For teachers. Covers use of simulations to model classical physical phenomena and investigations of nonlinear dynamics and chaos. Discussion of education research on the classroom use of computer simulations, and the history and pedagogical challenges of nonlinear dynamics. Cannot be taken for credit by CAS and GRS students.		
+
+CAS PH 100: Introduction to Philosophy
+	Introduces the nature of philosophical activity through careful study of major philosophical topics. Topics  include happiness, knowledge, and God's existence.  How is knowledge acquired? What reasons are there  for supposing that God exists? Carries humanities divisional credit in CAS.  		
+
+CAS PH 110: Great Philosophers
+	An introduction to philosophy through a reading of great figures in western thought. The list may include  Plato, Aristotle, Descartes, Roussesau, Nietzsche, Russell. Carries humanities divisional credit in CAS.  		
+
+CAS PH 150: Introduction to Ethics
+	What is morality? What does morality require of us in our daily lives? We look both at theories that specify  what morality requires of us and at specific moral issues to which these theories apply. Carries humanities  divisional credit in CAS. 		
+
+CAS PH 155: Politics and Philosophy
+	An introduction to major themes and questions in political philosophy. Includes a study of classical and  modern texts, as well as an exploration of contemporary political issues. Carries CAS humanities division  credit.		
+
+CAS PH 159: Philosophy and Film
+	An introduction to philosophy via reflecting on philosophical issues connected with film as a medium.  Topics include general aesthetics, representation, emotion and narrative, genre, fictionalism, and whether film can be immoral. Carries humanities divisional credit in CAS.  		
+
+CAS PH 160: Reasoning and Argumentation
+	A systematic study of the principles of both deductive and informal   reasoning, calculated to enhance students' actual reasoning skills, with   an emphasis on reasoning and argumentation in ordinary discourse. Carries humanities divisional credit in CAS. 		
+
+CAS PH 170: Philosophy of Science and Pseudoscience
+	How do legitimate science and quackery differ? We distinguish legitimate scientific debates from  arguments by dubious sources. We explore how science progresses, and how non-experts can evaluate  surprising arguments that claim to be "scientific." Carries humanities divisional credit in CAS.		
+
+CAS PH 223: Philosophy of Sport

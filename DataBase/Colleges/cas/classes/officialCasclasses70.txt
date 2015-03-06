@@ -1,0 +1,49 @@
+CAS PH 310: History of Modern Philosophy
+           			An examination of seventeenth- and eighteenth-century philosophy from Descartes to Kant, with emphasis on the nature and extent of knowledge. Readings include Descartes, Locke, Spinoza, Berkley, Hume, and Kant.		
+
+CAS PH 350: History of Ethics
+           			A critical and comparative examination of the ideas of representative moral philosophers from Plato to Nietzsche.		
+
+CAS PH 360: Symbolic Logic
+           			Study of methods characteristic of modern deductive logic including use  of truth tables, Boolean normal forms, models, and indirect and  conditional proofs within the theory of truth-functions and quantifiers.		
+
+CAS PH 401: Senior Independent Work
+           			Individual tutorial instruction and directed research at distinction level.		
+
+CAS PH 402: Senior Independent Work
+           			Individual tutorial instruction and directed research at distinction level.		
+
+CAS PH 403: Plato I
+           			(Knowledge of Greek is helpful but not required. Familiarity with Greek philosophy is helpful.) A close reading of the Symposium.		
+
+CAS PH 405: Aristotle I
+           			A careful study of the philosophy of Aristotle conducted primarily through a close reading of several of his major works.		
+
+CAS PH 406: Aristotle II
+           			A close reading of Aristotle's writings on practical philosophy (i.e., the Nicomachean Ethics and the Politics) and of his philosophy of art in the Poetics, focusing on the nature of human happiness and the good life, the question of the best form of political government, and the function of art for life.		
+
+CAS PH 408: History of Medieval Philosophy
+           			Topic for Fall 2014: Mysticism and Philosophy: Jewish and Islamic Perspectives. Thematic introduction to  mysticism and philosophy, with a focus on dynamics of religious experience. Readings from medieval  Jewish and Islamic philosophy; Sufi mysticism and philosophy; Kabbalah, Biblical interpretation, Sufi  poetry, Hebrew poetry from the Golden Age of Muslim Spain.		
+
+CAS PH 409: Maimonides
+           			A study of major aspects of the thought of Maimonides. Primary focus on the Guide of the Perplexed, with attention to its modern reception in works by Baruch Spinoza, Hermann Cohen, Leo Strauss, and others. Also offered as CAS RN 420.		
+
+CAS PH 410: Continental Rationalism
+           			A critical study of major texts of seventeenth-century philosophy. 		
+
+CAS PH 411: British Empiricism
+           			A critical study of major texts of British Empiricists, with emphasis on Locke and Hume. 		
+
+CAS PH 412: Philosophy of the Enlightenment
+	A critical examination of that family of philosophical and political movements that called itself "the  Enlightenment." Students analyze key texts by Descartes, Hobbes, Locke, Smith, Rousseau, Voltaire,  Diderot, Jefferson, Madison, Kant, and Hegel. Also offered as CAS PO 592 and CAS HI 514.		
+
+CAS PH 413: Kant
+           			A study of Kant's critical philosophy, focusing on one or more of his works.		
+
+CAS PH 415: Nineteenth-Century Philosophy
+           			Study of the important themes in the philosophy of Hegel, Marx, Kierkegaard, and Nietzsche. 		
+
+CAS PH 418: Marx and Marxism
+           			Philosophical foundation of Marxism and its development. Critical study of Marx's writings stressing  questions of philosophy, political economy, science, and history. Emphasis on Marx's theory of relation of  praxis to consciousness. Later (including contemporary) Marxists and critics. Also offered as CAS PO 498.		
+
+CAS PH 419: Nietzsche
