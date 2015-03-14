@@ -1,0 +1,16 @@
+DMD I
+DMD II
+DMD III
+DMD IV
+AS I
+AS II
+Dental Public Health (PH)
+Endodontics (EN)
+Operative Dentistry (OP)
+Oral Biology (OB)
+Oral & Maxillofacial Pathology (PA)
+Oral & Maxillofacial Surgery (OS)
+Orthodontics & Dentofacial Orthopedics (OR)
+Pediatric Dentistry (PD)
+Periodontology (PE)
+Prosthodontics (PR)
