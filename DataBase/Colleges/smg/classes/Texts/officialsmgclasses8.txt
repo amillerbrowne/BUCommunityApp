@@ -1,0 +1,58 @@
+SMG FE 445: Investment Analysis and Portfolio Management
+           			Required for Finance concentrators. Introduction to the investment management process. Defining investment objectives and constraints. Introduction to Modern Portfolio Theory, CAPM, APT, Efficient Markets, stock and bond valuation models. Immunizing interest-rate risk. Active vs. passive investment strategies, fundamental vs. technical analysis, trading practices, and performance evaluation. Introduction to the role of futures and options in hedging and speculation. Students are expected to become familiar with current events in the financial news. 		
+
+SMG FE 449: Corporate Financial Management
+           			Required for Finance concentrators. Covers the financial manager's role in obtaining and allocating funds. Includes topics such as cash budgeting, working capital analysis, dividend policy, capital investment analysis and debt policy as well as their associated risks. Valuation of companies, mergers and acquisitions, and bankruptcy are covered. The course requires using financial models and spreadsheets. Applications are made to current events and everyday business finance problems.  		
+
+SMG FE 450: Private Equity: Leveraged Buyouts
+           			Exposes students to, and demystifies, the world of Private Equity (PE). The focus is centered on LBOs and their position in the "alternative asset" class. Students learn about the activities of a PE firm including formation, fund-raising, investing (including deal structure, terms, due diligence, and governance), and exiting. Also discussed are what other industry sectors serve or are affected by PE and who the players are. Case study and class participation will be the primary modes of learning.		
+
+SMG FE 454: Investment Banking
+           			Provides an overview of the  economic functions provided by investment banks including a history of the industry, current events, public policy issues and the difference between large, full service investment banks and smaller, boutique firms.  Topics include: What do investment bankers do?  What are the different types of analyses performed by investment bankers? What are the various types of financial securities?  What is the underwriting process and how are securities priced?   Focuses on the issuing process and pricing for equity, fixed income, and equity-linked securities.  Also focuses on the role of investment banks in mergers, acquisitions, divestitures, and other restructuring.  Additional topics include equity research, capital markets, institutional sales, trading, asset management, securitization, industry regulations, as well as typical career paths and opportunities.		
+
+SMG FE 455: Financing New Ventures
+           			Students will be expected to have mastered key finance concepts including cash flow analysis, NPV, IRR and basic option pricing theory prior to entering the course. Introduction to raising "angel" funding and venture capital financing for start-up firms.  Focus on capital structure analysis, capitalization tables, payoff diagrams, term sheets, equity incentives and negotiating with investors.   Students are expected to prepare case studies for class discussion and become familiar with current events in the financial news about start-up company financings.		
+
+SMG FE 456: Fixed Income Analysis
+           			Covers the analytic techniques used in fixed-income markets to value and measure  risk on traditional fixed-rate bonds, floating-rate notes, bonds having embedded  options (callable and putable bonds), structured notes, and interest rate  derivatives used to manage bond portfolios (primarily interest rate swaps, caps,  and floors). Extensive use is made of Excel spreadsheet analysis, including the  development of a binomial term structure model to value securities. Focus is on  the impact of counterparty and issuer credit risk in fixed-income valuation.  4  cr.		
+
+SMG FE 469: Real Estate Finance
+           			Provides an introduction to and an understanding of real estate finance. Draws  together and considers major functional areas including: structuring, ownership,  finance, taxation, property valuation and analysis. The course provides a  framework for decision making in the real estate investment and finance fields.  The course is specifically designed to offer students interested in real estate  careers a foundation from which to build. 4 cr.		
+
+SMG FE 498: Directed Study: Finance
+           			Directed study in Finance. 2 or 4 cr.  Application available on Undergraduate  Program website.		
+
+SMG IM 345: International Management Environment
+           			Required for International Management concentrators. Deals with international  economic theories and explores the intersection between theory and practice.  Examines the determinants of international trade and payments including  international trade theory and policy and balance-of-payments accounting.  Explores the implications of trade-promoting and trade-inhibiting institutions  and practices: WTO, NAFTA, European Union, etc. Introduces cultural, political,  and demographic issues for international managers. 		
+
+SMG IM 445: International Management Policy
+           			This is heavily case-based course studying the business strategies of multi- national enterprises, particularly in high-growth and developing economies.  Having worldwide operations not only gives companies access to new markets and  diverse resources, it also opens up new sources of information and knowledge  that stimulate innovation and operational strategies. Along with opportunities,  we also look at the challenges to a more complex, diverse, and uncertain  business than those faced by companies who focus primarily in their mature  markets or even their own country. This course helps students to acquire skills  and perspectives that will help them as they pursue careers with multi-national  companies or other opportunities in the global business environment.		
+
+SMG IM 498: Directed Study: International Management
+           			Directed study in International Management. 2 or 4 cr.  Application available on  Undergraduate Program website.		
+
+SMG IS 223: Introduction to Information Systems
+           			Provides students with an understanding of the important role that information and information technology play in supporting the effective operation and management of business. Elaborates on the themes of "place to space" and the implications for business of the digital enterprise. Focuses on learning IS concepts in the context of application to real business problems.		
+
+SMG IS 323: Intro Info Syst
+           			This course description is currently under construction.		
+
+SMG IS 428: Managing Information Security
+           			Combines technical and business approaches to the management of information. It will address technical issues such as cryptography, intrusion detection, and firewalls along with managerial ideas such as overall security policies, managing uncertainty and risk, and organization factors. We will examine different aspects of computer security such as password, virus protection, and managing computer security in dynamic environments. Topics will also include network security and how to secure wireless application and services. These technical details will be placed in a business context. The class will have a practical focus as we examine current "best practices" in area. There will be several guest speakers in the security area. This will be a project-oriented class and students will present their research projects during the last several classes. 4 cr. 		
+
+SMG IS 465: Managing Data Resources
+           			Required for Management Information Systems concentrators. Provides a practical and theoretical introduction to data management focusing on the use of relational database technology and SQL to manage an organization's data and information. Introduces recent topics such as data warehouses and Web databases. Includes a project to design and implement a relational database to manage an organization's data. 4 cr.		
+
+SMG IS 467: Networking and Data Communications
+           			Required for Management Information Systems concentrators. Introduces technologies, policies, and management and organizational concepts critical to understanding the role of data communications in a rapidly changing business and social environment. The materials focus on: the data communications industry; core technologies including mobile technology and the wireless Internet; management and use of communications technologies; policies; and organizational issues.		
+
+SMG IS 469: Designing Information Systems
+           			Required for Management Information Systems concentrators. Studies the process of designing and implementing management information systems. Students will learn to analyze organizational information requirements, develop specifications for information systems, manage systems development projects, and understand implementation issues. Key implementation concepts that affect management decisions will be discussed, and reenforced with programming examples. Design support tools will be used to support the design process. Includes a project to design an information system.		
+
+SMG IS 472: Electronic Commerce
+           			The Internet has brought about significant change in the way business is conducted. The rules and business models, however, for the new economy are still in their infancy. This course provides a grounding in the concepts of electronic commerce, and then moves to an examination of the emergent and emerging business models. The IT/IS infrastructure that supports these various business models is addressed, particularly architecting systems including privacy and security issues. 		
+
+SMG IS 479: Innovating with Information Technology
+           			Surveys the organizational implementation, uses, and impacts of advanced information technology including decision support systems, management support systems, and expert systems. Includes a group project to design and develop a decision support system. 		
+
+SMG IS 498: Directed Study: Management Information Systems

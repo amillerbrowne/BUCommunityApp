@@ -1,0 +1,60 @@
+GMS PH 841: Physiology Seminar
+	Students present seminars on their research and/or review literature related to their research. Students attend the seminars presented by staff and other students. 2 cr, Fall sem. 		
+
+GMS PH 842: Physiology Seminar
+	Students present seminars on their research and/or review literature related to their research. Students attend the seminars presented by staff and other students. 2 cr , Spring sem. 		
+
+GMS PH 941: Research Physiology
+	Var cr		
+
+GMS PH 942: Research Physiology
+	Var cr		
+
+GMS PM 701: Molecular Neurobiology &amp; Pharmacology I
+	This course introduces the student to the principles of Pharmacology in the context of Neurobiology.  Emphasis is placed on the theoretical foundations of pharmacological methods in neurobiology and application of these methods to basic research and drug discovery.  2 cr, Fall sem.		
+
+GMS PM 702: Molecular Neurobiology &amp; Pharmacology II
+	This course introduces the student to the principles of Pharmacology in the context of Neurobiology.  Emphasis is placed on translational pharmacology and the application of pharmacology to therapeutics, particularly to neurological disorders. 2 cr, Spring sem.		
+
+GMS PM 710: Laboratory Techniques in Modern Pharmacology
+		Supervised laboratory rotation emphasizing modern research techniques in molecular, cellular, and behavioral pharmacology. Problems of collection, summary, and interpretation of data are addressed. 2 cr, Fall &amp; Spring sem. 		
+
+GMS PM 730: Introduction to Medical Pharmacology
+		Principles of pharmacology are covered and several major classes of therapeutic agents, with attention to their mechanisms of action. Issues of current and future concern in medical pharmacology are addressed including problems of drug abuse, the ethics of human experimentation, the pricing of new drugs, and new biotechnological approaches to drug design and development. 4 cr, Spring sem. 		
+
+GMS PM 801: Systems Pharmacology and Therapeutics I
+		This course consists of lectures and discussions on the major classes of neuropharmacological agents, with special attention to systems mechanisms of therapeutic and adverse effects, including molecular, cellular, physiologic, psychological, and pathologic phenomenon.  Starting from a basic review of current therapeutics in a particular disease area, students will be encouraged to anticipate new developments in the field and to propose solutions for solving problems with current pharmacologic approaches.  2 cr, Fall sem.		
+
+GMS PM 802: Systems Pharmacology and Therapeutics II
+		This course consists of lectures and discussions on major classes of pharmacological agents, with special attention to systems mechanisms of therapeutic and adverse effects, including molecular, cellular, physiologic, psychological, and pathologic phenomenon.  Starting from a basic review of current therapeutics in a particular disease area, students will be encouraged to anticipate new developments in the field and to propose solutions for solving problems with current pharmacological approaches.  The course focuses on cardiovascular, endocrine, and steroid pharmacology and chemotherapy for inflammation, cancer, and bacterial and viral infections.  2 cr, Spring sem.		
+
+GMS PM 810: Current Topics in Pharmacological Sciences
+		Given in conjunction with the weekly seminar program of the department. Students present and discuss research papers with the visiting scientist working on the cutting edge of pharmacology. 2 cr, Spring sem. 		
+
+GMS PM 820: Behavioral Pharmacology
+	Prereq: consent of instructor. Examines the interaction between behavior and classes of drugs that affect the central nervous system. Emphasis is given to how behavioral studies assist understanding of mental disorders, including addictions, pain syndromes, and dementia. Faculty overview of a topic is followed by student-led discussion of an assigned research paper. Cottone, Kumaresan, Sabino. 2 cr, Spring sem.		
+
+GMS PM 843: Pharmacologic Intervention in Inflammatory Responses
+		Although acute inflammation is a fundamental physiologic response of multicellular organisms to infection and injury, unresolved and chronic inflammation can have significant pathophysiologic consequences.  This course examines the cellular components, inflammatory mediators and their mechanisms of action, and therapeutic modulation of inflammation.  The format includes lectures on inflammatory components of selected diseases and student-led discussions of review and research papers.  2 cr, Spring sem.		
+
+GMS PM 881: Drug Discovery and Development
+		This course will address the discovery and development process for small molecule and protein drug products. Topics will include target identification and validation, lead optimization and selection of drug candidates for clinical testing, and the objectives and design of clinical trials. 2 cr, Spring sem. 		
+
+GMS PM 931: Research in Pharmacology
+	Var cr		
+
+GMS PM 932: Research in Pharmacology
+	Var cr		
+
+GMS PS 700: Anatomy
+	This foundation course prepares the PA student to recognize the cell morphology of specific organs and soft tissues of the human body, identify anatomical structures as they relate to the physical examination, specific diseases and surgical procedures and to employ 3-D spatial reasoning to interpret radiographic studies.  The course utilizes lectures, case-based discussion and the dissection laboratory.		
+
+GMS PS 701: Basic Medical Sciences
+	This course provides a broad foundation for medical sciences study including such topics as biochemistry, cell biology, genetics, and immunology.  This course utilizes lectures as its means of instruction.		
+
+GMS PS 702: Physiology
+	This course prepares the PA student to apply physiological principles to the practice of medicine . The course utilizes lectures, case-based discussion and the laboratory. The course has several modules including but not limited to cardio-vascular, pulmonary, endocrinology, renal, neurologic and gastro-intestinal physiology. The course utilizes traditional lectures and laboratory sessions to reinforce the principles of normal physiology.		
+
+GMS PS 703: Introduction to Research
+	The Introduction to Research course prepares the PA student to search and interpret medical literature as it relates to best practices for clinical care, epidemiology, and disease surveillance.  In addition, the course prepares the students to develop their thesis project. This course utilizes lectures, journal clubs and online learning as means of instruction.		
+

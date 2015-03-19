@@ -1,0 +1,54 @@
+CFA TH 860: Photoshop 2
+	Prereq: Graduate standing consent of instructor; A survey covering the history of social, political and cultural movements and the expressions of those movements through architecture, interior decoration, furniture and dress in major civilizations. Work involves research projects and presentations. 1.0 credits. Fall semester. 		
+
+CFA TH 863: Scene Design Studio 5
+	Prereq: CFA TH 764; Advanced design projects developed in conjunction with other designers and directors; emphasis on complex mechanical solutions.  Readings and projects incorporate all theatre genres, ballet, dance and opera. 3.0 credits. Fall semester. 		
+
+CFA TH 864: Scene Design Studio 6
+	Prereq: CFA TH 863; Advanced design projects developed in conjunction with other designers and directors; emphasis on complex mechanical solutions.  Readings and projects incorporate all theatre genres, ballet, dance and opera. 3.0 credits. Spring semester. 		
+
+CFA TH 869: Technical Production Studio 5
+	Prereq: CFA TH 770; Large scale project planning and drafting using abstract objects and producing them as scenery both on paper and in the shop. 3.0 credits. Fall semester. 		
+
+CFA TH 870: Technical Production Studio 6
+	Prereq: CFA TH 869; Large scale project planning and drafting using abstract objects and producing them as scenery both on paper and in the shop. 3.0 credits. Spring semester. 		
+
+CFA TH 875: Costume Design Studio 5
+	Prereq: CFA TH 776; Advanced theoretical and practical design training; project work weighted toward individual student's needs and realistic preparation for a career in costume design.  Readings and projects incorporate multiple theatre genres, ballet, dance and opera depending on individuals in the class. 3.0 credits. Fall semester. 		
+
+CFA TH 876: Costume Design Studio 6
+	Prereq: CFA TH 875; A continuation of CFA TH 875. Advanced theoretical and practical design training; project work weighted toward individual student's needs and realistic preparation for a career in costume design.  Readings and projects incorporate multiple theatre genres, ballet, dance and opera depending on individuals in the class.  3.0 credits. Spring semester. 		
+
+CFA TH 877: Costume Rendering 1
+	Prereq: Advisor recommended or consent of instructor; Advanced work in figure drawing; specific rendering techniques or costume design. May be repeated for credit. 1.0 credit. Fall semester.		
+
+CFA TH 878: Costume Rendering 2
+	Prereq: Advisor recommended or consent of instructor; Advanced work in figure drawing; specific rendering techniques or costume design. May be repeated for credit. 1.0 credit. Fall semester.		
+
+CFA TH 879: Costume Production Studio 5
+	Prereq: CFA TH 780; Continues the study of flat patterning and draping through individual projects. Silhouette, line, and proportion become essential elements in the development of complete muslin reproductions.  The study of the form and function of period underpinnings is stressed. 3.0 credits. Fall semester. 		
+
+CFA TH 880: Costume Production Studio 6
+	Prereq: CFA TH 879; Continues the study of flat patterning and draping through individual projects. Silhouette, line, and proportion become essential elements in the development of complete muslin reproductions.  The study of the form and function of period underpinnings is stressed. 3.0 credits. Spring semester. 		
+
+CFA TH 881: Millinery 1
+	Prereq: Graduate standing or consent of instructor; Millinery crafts learned through various projects on different styles of design. Skills might include: straw, buckram, wire, paper and felt. Offered in odd numbered AY. 1.0 credit. Fall semester. 		
+
+CFA TH 882: Millinery 2
+	Prereq: CFA TH 881 or consent of instructor Millinery crafts learned through various projects on different styles of design. Skills might include: straw, buckram, wire, paper and felt. Offered in odd numbered AY. 1.0 credit. Spring semester. 		
+
+CFA TH 883: Lighting Design Studio 5
+	Prereq: CFA TH 784; An in-depth look at the functions and qualities of light and how to apply them in complex ways within the lighting design for stage. Focus will be placed on your continuing development as a theatre artist and on expanding your knowledge of lighting design. 3.0 credits. Fall semester. 		
+
+CFA TH 884: Lighting Design Studio 6
+	Prereq: CFA TH 883; An in-depth look at the functions and qualities of light and how to apply them in complex ways within the lighting design for stage. Focus will be placed on your continuing development as a theatre artist and on expanding your knowledge of lighting design. 3.0 credits. Spring semester.  		
+
+CFA TH 897: Production
+	Prereq: Graduate standing; Each semester that a 3rd year graduate student in Design &amp; Production is in residence at SOT, he/she is required to enroll in an appropriate section of Production. Meets late afternoons, evenings and/or weekends. Specific design and shop work in the mounting of student or professional productions. Does not include off-crew design work. Fall semester.		
+
+CFA TH 898: Production
+	Prereq: Graduate standing; Each semester that a 3rd year graduate student in Design &amp; Production is in residence at SOT, he/she is required to enroll in an appropriate section of Production. Meets late afternoons, evenings and/or weekends. Specific design and shop work in the mounting of student or professional productions. Does not include off-crew design work. Spring semester.		
+
+CFA TH 950: Graduate MFA Thesis
+	Prereq: Graduate standing and approval of program advisor and reading committee. 3rd year graduate students who have completed the course work for their MFA must execute a culminating thesis project that requires one year to plan, revise and execute. All projects must have a 3 person reading committee and initial proposal must be approved by faculty prior to registering for Thesis. Variable credit. Fall &amp; Spring semesters.		
+

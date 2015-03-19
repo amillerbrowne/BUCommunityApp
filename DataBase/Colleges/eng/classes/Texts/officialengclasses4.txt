@@ -1,0 +1,59 @@
+           			Analysis of linear feedback systems, their characteristics, performance, and stability. The Routh-Hurwitz, root-locus, Bode, and Nyquist techniques. Design and compensation of feedback control systems. 4 cr.		
+
+ENG EC 410: Introduction to Electronics
+           			Principles of diode, BJT, and MOSFET circuits. Graphical and analytical means of analysis. Piecewise linear modeling; amplifiers; digital inverters and logic gates. Biasing and small-signal analysis, microelectronic design techniques. Time-domain and frequency domain analysis and design. Includes lab. 4 cr.		
+
+ENG EC 412: Analog Electronics
+           			Continuation of ENG EC 410.  Topics include detailed analysis of differential  amplifiers, design and principles of operational amplifier including multistage  circuit structure, BJT, MOSFET, CMOS, and BiCMOS design principles, active  filters and oscillators, negative and positive feedback, and power devices.  Includes lab. 4 cr		
+
+ENG EC 413: Computer Organization
+           			Introduction to the fundamentals and design of computer systems. Topics covered include computer instruction sets, assembly language programming, arithmetic circuits, CPU design (data path and control, pipelining), performance evaluation, memory devices, memory systems including caching and virtual memory, and I/O. Project using design automation tools. Includes lab. 4 cr.		
+
+ENG EC 415: Communication Systems
+           			Signal analysis and transmission: amplitude modulation, angle modulation, pulse-amplitude and pulse-code modulation; amplitude shift-keying, frequency shift-keying, phase-shift keying. Case studies of practical communication systems. Includes lab. 4 cr.		
+
+ENG EC 416: Introduction to Digital Signal Processing
+           			Introduces techniques of digital signal processing and application to deterministic as well as random signals. Topics include representation of discrete-time random signals, A/D conversion, D/A conversion, frequency domain and z-domain analysis of discrete-time signals and systems, discrete-time feedback systems, difference equation and FFT based realizations of digital filters, design of IIR Butterworth filters, window-based FIR filter design, digital filtering of random signals, FFT-based power spectrum analysis. Includes lab. 4 cr.		
+
+ENG EC 417: Electric Energy Systems: Adapting to Renewable Resources
+           			This course will present a detailed perspective of electric power systems from generation, transmission, storage, to distribution to end users.  Significant emphasis will be placed on methodologies for reliable and efficient transmission and distribution of power over the grid including challenges for adapting to  renewable resources such as photovoltaics and wind.  Conventional approaches will be presented with emphasis to future technology such as the "smart grid".  Analysis of 3-phase power will be presented using numerous examples.  Items such as power system stability, security, reliability will be covered.  Optimization methods, models, simulation techniques, monitoring and control, grid storage technologies, and micro-grids will also be discussed.  Power electronics will be introduced specifically in reference to high voltage circuits. Finally, planning for large numbers of electric vehicles will present new challenges to the effective distribution of power which will be discussed from both centralized and decentralized approaches.		
+
+ENG EC 440: Introduction to Operating Systems
+           			Operating system concepts and design objectives. Concurrent processes, process synchronization, and deadlocks. Resource management including virtual memory, CPU scheduling, and secondary storage. File structures, input/output, and distributed systems. Case studies of popular operating systems. 4 cr.		
+
+ENG EC 441: Introduction to Computer Networking
+           			Computer networks, focusing on the Internet. Application protocols (Web, E-mail), basics of socket programming, major Internet protocols (TCP and IP), fundamental aspects of routing and reliable data transfer over networks, medium access protocols, wired and wireless Local Area Networks (LANs) technologies. Hands-on laboratory modules on client-server programming, Internet experiments, and protocol implementation. Includes lab. 4 cr.		
+
+ENG EC 447: Software Design
+           			Object-oriented software design for desktop applications with a graphical user  interface. C# and Microsoft .NET programming assignments. Provides a solid  foundation in modern programming for engineering and other applications. 4 cr		
+
+ENG EC 450: Microprocessors
+           			This course focuses on the interface between the digital world and the physical world. Hardware and software design methodology for embedded microcomputers. Open laboratory and projects and considerable hands-on work. Architecture, hardware, I/O, interrupts, memory organization and decoding. Uses the TI MSP430 family microcontrollers. Peripheral devices including general digital I/O, timers, analog to digital converters, and synchronous serial interfaces SPI and I2C. The course stresses the dependency of hardware and software design on project identification, rationale, and goals. Includes lab.		
+
+ENG EC 451: Directed Study
+	Student may, under the supervision of a faculty member, undertake individual study of a subject relevant to electrical, computer, and systems engineering, if the subject is not covered in a regularly scheduled course. Tangible evidence of achievement must be submitted at the end of the semester. Variable cr.		
+
+ENG EC 455: Electromagnetic Systems I
+           			Time varying electric and magnetic fields. Maxwell equations. Electromagnetic  waves. Propagation, reflection, and transmission. Remote sensing applications.  Radio frequency coaxial cables, microwave waveguides, and optical fibers.  Microwave sources and resonators. Antennas and radiation. Radio links, radar,  and wireless communication systems. Electromagnetic effects in high-speed  digital systems. Includes lab. 4 cr		
+
+ENG EC 456: Electromagnetic Systems II
+           			Electric field, energy, and force. Lorenz force. Dielectric materials. Steady  electric currents. Magnetic field, energy, and force. Magnetic materials.  Applications of electrostatics, magnetostatics, and electrodynamics.  Electromagnetic waves in dielectric and conducting materials. Solution techniques  for electromagnetic fields and waves. 4 cr		
+
+ENG EC 463: Senior Design Project I
+           			Development of the technical, communication, personal, and team skills needed for successful design in electrical and computer engineering. Specifications and standards, information collection, design strategies, modeling, computer-aided design, optimization, system design, failure and reliability, human factors. Oral and written communication of technical information. Team dynamics and ethical issues in design. Design project for a small-scale electrical or computer system. Preparation of detailed proposals for senior design projects in the following semester. Includes lab. 4 cr.		
+
+ENG EC 464: Senior Design Project II
+           			Continuation of a team project in an area of electrical and computer engineering, as proposed in SC 463. Application of technical, communication, personal, and team skills. Oral and written communication of technical information, including progress reports, technical memos, final report, and oral presentations. Includes lab. 4 cr.		
+
+ENG EC 467: Senior Honors Thesis
+           			Well-prepared students may choose to do a formal senior thesis under the direct guidance of a departmental faculty member. Students selecting this option must obtain petitioned approval before the beginning of the semester of thesis registration. 4 cr.		
+
+ENG EC 470: Sensors in Space
+           			This course provides a practical introduction to the development, integration, and deployment of instrumentation on spacecraft platforms.  Students are introduced to the physical concepts and practical designs of sensors that measure particles, magnetic fields, and electric fields over a range of energies and frequencies. Particular attention is given to special constraints presented by the space environment.  In addition to established designs, the course will also cover new and emerging sensor technologies.  The course includes a lab component in which students will learn about small satellite development through design and implementation of a high-altitude balloon ("balloon-sat") experiment. 4 cr.		
+
+ENG EC 471: Physics of Semiconductor Devices
+           			This course addresses the theory of semiconductors and semiconductor electronic  devices. The section on the theory of semiconductor includes their crystal  structure, energy bands, and carrier concentration in thermal equilibrium as  well as carrier transport phenomena (drift, diffusion, generation and  recombination, tunneling, high field effects, and thermionic emission). The  section on electronic devices addresses the theory of p-n junctions and  heterojunctions, of Bipolar Junction Transistors (BJT), Thyristors, Metal Oxide  Semiconductor (MOS) Capacitors and MOS Field Effect Transistors (MOSFETs). 4 cr		
+
+ENG EC 481: Fundamentals of Nanomaterials and Nanotechnology
+	Nanotechnology encompasses the understanding and manipulation of matter with at least one characteristic dimension measured in nanometers with novel size-dependent physical properties as a result. This course  explores the electronic and optical properties of material at the nanoscale and applications of nano-scale devices. The parallels between light and electron confinement are emphasized, e.g. in terms of normal modes, resonances and resonators, and the dispersion of light and electrons as affected by the periodicity of crystals and photonics crystals. Wave-mechanics and electromagnetics are  reviewed and used to understand confinement and energy quantization.  Nano-devices such as carbon nanotube transistors, nano-resonators, nanocavity lasers, nano-biosensor and their applications are discussed.  Fabrication using top-down and bottom-up methods are discussed, as well as characterization using scanning probe methods, electron microscopy, and spectroscopic techniques. 4 cr.		
+

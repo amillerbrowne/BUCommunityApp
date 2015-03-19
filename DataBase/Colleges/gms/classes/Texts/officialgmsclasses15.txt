@@ -1,0 +1,60 @@
+GMS MS 985: Continuing Study-Full Time (no courses)
+	0 cr, Fall sem.		
+
+GMS MS 986: Continuing Study-Full Time (no courses)
+	0 cr, Spring sem.		
+
+GMS NU 620: Research, Clinical and Public Policy Applications in Medical Nutrition Sciences
+		The course will focus on disease states related to nutrition and diet, with a major focus on clinical nutrition research. It will: 1. Acquaint students with current concepts and methods in clinical nutrition research, familiarize students with clinical research and how investigators approach nutrition-related questions in their specific fields to answer questions related to disease states, 3. Evaluate the role of nutrition as it relates to development, prevention and therapy of major diseases, including cardiovascular, diabetes, gastrointestinal, osteoporosis, obesity, and cancer. 4 cr, Fall sem. 		
+
+GMS NU 700: Medical Nutrition Sciences Seminar
+	Students develop and present a research seminar. 2 cr, Fall &amp; Spring sem. 		
+
+GMS NU 755: Molecular, Biochemical and Physiologic Bases of Nutrition I: Energy Balance and Micronutrients
+		This is the first semester of a 2 semester sequence (that can be taken in either order) that focuses on the Physiological, Biochemical and Molecular Bases of Nutrition. This semester will cover concepts of essential nutrients and methods for determining their requirements (DRIs), body composition, nutrition and growth, energy expenditure, regulation of energy intake, vitamins and macro-mineral metabolism (Ca, P) and micronutrients. Functions and roles of micronutrients in signaling from gene to whole organism will be discussed. Implications for nutrient requirements through the life cycle and in health and disease will be addressed. A discussion session will teach students to critically evaluate cutting-edge and seminal papers addressing each topic, and introduce students to state of the art research approaches and methodologies - basic (cell and molecular), clinical and epidemiological. Weekly writing assignments on the papers will provide experience and hone skills with scientific writing. 4 cr, Fall sem. 		
+
+GMS NU 756: Molecular, Biochemical and Physiologic Bases of Nutrition: Macronutrients
+		Regulation of lipid, carbohydrate, and protein digestion, absorption, transport, tissue and cellular metabolism. Integration of macronutrient metabolism in response to alteration in nutritional status (e.g. starvation, obesity) on a whole body and tissue-specific basis. Mechanism regulating macronutrient metabolism in response to stresses such as exercise and aging and disease. A discussion session will teach students to critically evaluate research papers, provide knowledge of seminal papers in the field, and introduce students to research approaches and state of the art methods (e.g. assessment of metabolic flux using stable isotopes, euglycemic clamps, metabolomics). 4 cr, Spring sem. 		
+
+GMS NU 804: Directed Studies in Medical Nutrition
+	4 cr, Spring sem. 		
+
+GMS NU 901: Research in Medical Nutrition Sciences
+	Var cr, Fall sem.		
+
+GMS NU 902: Research in Medical Nutrition Sciences
+	Var cr, Spring sem.		
+
+GMS OB 700: Biostatistics
+	Introduces the concepts and techniques of biostatistics used in dental research. Emphasizes the fundamentals of statistical logic and presents the basic principles of experimental design, statistical inference, and probability. Examples from current basic sciences research, survey research, and clinical trials augment the presentation of statistical theory. 2 cr, Fall sem. 		
+
+GMS OB 761: Oral Microbiology
+	Distribution, ecology, and pathogenic potential of oral microbiota. Pathogenicity of components of bacterial plaque and their role in the development of oral diseases. Mechanisms of local and systematic resistance to pathogenic oral microbiota. 2 cr, Spring sem. 		
+
+GMS OB 763: Basic Processes in Oral Biology
+	An introductory survey course that examines biological processes at the cellular and molecular levels. Provides a basis to understand the events that regulate inflammation; wound healing; bone formation and resorption; salivary proteins and physiology; tooth development, eruption, and movement; and fluoride action. 2 cr, Fall sem. 		
+
+GMS OB 764: Basic Processes in Oral Biology
+	An introductory survey course that examines biological processes at the cellular and molecular levels. Provides a basis to understand the events that regulate inflammation; wound healing; bone formation and resorption; salivary proteins and physiology; tooth development, eruption, and movement; and fluoride action. 2 cr, Spring sem. 		
+
+GMS OB 766: Oral Immunology and Microbiology
+	This course has two modules: oral immunology and oral microbiology. The purpose of this course is to present material relative to the subject of oral immunobiology. The course will deal with the basics of the immune reaction from a subcellular level to an entire host reaction as they pertain to the etiology and pathogenesis of the disease processes in the oral cavity. This course will relate basic science findings to the clinical situations with an emphasis on treatment modalities for delivering clinical care. It is also the purpose of the course to provide an understanding of disease pathogenesis so that an informed basis of therapy can be recommended. The course will examine the complex microbial ecology of the mouth, with focus on the key microbes involved in dental diseases. The lectures will include the basic aspects of oral biofilm formation and microbial pathogenicity, with focus on the microbial diversity involved in caries, periodontal and periapical infections. There will be a short analysis of diagnostic microbial identification, as well as treatment modalities. The overall goal of the second module will be to link microbial clinical problems with basic infectious disease concepts, for a well informed approach to treatment. 		
+
+GMS OB 800: Advanced Oral Biology
+		This advanced course will explore in-depth current topics in oral biology research. The format of the course consists primarily of formal didactic lectures, but students will also be challenged to analyze experimental approaches and methods from current literature in a group-discussion "journal" club format in which papers from current literature are assigned and discussed. This course is designed to provide students with basic knowledge and to develop critical thinking abilities. Topics will include host molecular, cellular, and genetic bases of periodontal diseases; microbiology of periodontal diseases; molecular events in inflammation, wound healing, and periodontal tissue regeneration; molecular components and function of the periodontal ligament, cementum, and attachment structures; extracellular matrix accumulation and turnover in mineralized and non-mineralized tissues; the etiology and complications of diabetes, with emphasis on oral tissue pathology and mechanisms, biosynthesis and functions of oral mucins, endocrine-dependent periodontal changes, effects of growth factors on periodontal tissues and cells, biosynthesis and structure of salivary proteins, and mechanisms of non-immune antibacterial processes in the oral cavity. 4 cr, Fall sem. 		
+
+GMS OB 805: Oral Biology Seminar
+	All PhD candidates will attend a weekly seminar series organized by the Department of Oral Biology. Faculty and invited speakers will give seminars, as will students nearing completion of their thesis research projects. Students will be encouraged to suggest invited speakers. Enrollment in this course will be required for two years (2 credits per semester, for a total of eight credits). All PhD candidates are required to attend all seminars for their entire period of study. 2 cr, Fall sem. 		
+
+GMS OB 806: Oral Biology Seminar
+	All PhD candidates will attend a weekly seminar series organized by the Department of Oral Biology. Faculty and invited speakers will give seminars, as will students nearing completion of their thesis research projects. Students will be encouraged to suggest invited speakers. Enrollment in this course will be required for two years (2 credits per semester, for a total of eight credits). All PhD candidates are required to attend all seminars for their entire period of study. 2 cr, Spring sem. 		
+
+GMS OB 900: Oral Biology Research
+	Var cr		
+
+GMS OB 901: Oral Biology Research
+	Var cr		
+
+GMS OH 730: Physiology A/Dental
+		This course presents the physiology of cells, tissues, organs and integrated body functions, including the physiological basis for the understanding of clinical conditions. An integrated approach is taken to endocrinology and reproduction. Hormonal aberrations and their end results in human are presented in clinical correlations. 6 cr, Fall sem. 		
+

@@ -1,0 +1,60 @@
+SAR RS 991: Rs Scd Diswrite
+			
+
+SAR SH 497: Directed Study in Speech Pathology and Audiology
+	Independent study in selected areas of speech and language disorders, language and learning disabilities, speech and hearing sciences, or audiology. Term paper or other project summary. 2-4 cr, either semester		
+
+SAR SH 505: Introduction to Phonological Disorders
+           			This course provides an overview of current models of normal and disordered phonological development. Students examine and practice evidenced-based principles and practical applications of assessment, analysis, diagnosis, and remediation approaches and procedures to facilitate critical thinking and problem-solving abilities to apply to working with individuals with a variety of phonological disorders. 		
+
+SAR SH 521: Phonetics
+	Application of International Phonetic Alphabet to sounds of American English. Detailed analysis of vowel and consonant sounds. Students learn and practice the skills necessary to analyze and transcribe speech sounds to describe the speech patterns of various American dialects and speech disorders. 		
+
+SAR SH 522: Anatomy and Physiology of the Speech Mechanism
+	Study of the physiological structures and functions that underlie speech production.  Emphasis is placed on the respiratory, phonatory, and articulatory systems. Introduction to neuroanatomy and neural control of the production of speech as well as dysfunction of these normal processes in clinical disorders is included. 		
+
+SAR SH 523: Introduction to Speech Science
+           			Lecture, laboratory, and demonstrations. Introduction to the basic physics of sound, including the decibel scale, spectral analysis, and resonance. Includes speech production, speech perception and suprasegmental effects. 4 credits, 1st semester.    		
+
+SAR SH 524: Language Acquisition
+	This course will focus on first language acquisition in infancy and childhood. We will cover the progression of language development in each of the traditional areas of linguistic analysis: phonology, semantics, syntax, and pragmatics. The course will be focused on experimental research in typical language acquisition and on different theories that strive to explain the underlying cognitive and linguistic mechanisms at work in an early learner.  		
+
+SAR SH 531: Introduction to Communication Disorders
+	Introduction to various speech and language disorders found across linguistically and culturally diverse populations. Characteristics underlying biological systems and methods for evaluation and treating a variety or communication disorders are examined. Exploration of the professions of speech pathology and audiology. 		
+
+SAR SH 535: Diagnostic Audiology
+	Requires both lecture and lab to cover hearing assessment through the use of pure-tone and speech audiometric techniques as well as the measurement of middle-ear function. The course also includes information about the anatomy and physiology of the auditory system, acoustics, and the effect of noise on hearing.		
+
+SAR SH 542: Aural Rehabilitation
+           			An introduction to theory and techniques of audiologic habilitation and rehabilitation in audiology and speech-language pathology. The significance of Deaf world issues in the field of aural rehabilitation is addressed throughout the course.  		
+
+SAR SH 547: Introduction to the Clinical Process I
+           			This course is designed to prepare speech-language pathology students to enter into clinical practicum.  Students will study theories of clinical process through guided observation experiences, culminating to a final mini-practicum experience. As part of this course, students will complete the ASHA requirement of 25 clinical observation hours. 		
+
+SAR SH 548: Introduction to Language Disorders Across the Lifespan
+	Pre-requisite: SH 524. This course will provide a broad overview of language disorders across the life span. Students will learn about the causes and characteristics of a variety of developmental and acquired language disorders. We will discuss assessment of language skills and various evidence-based treatment methodologies using video demonstration, live observation, and simulated practical experiences. 4 credits, 1st semester		
+
+SAR SH 551: Practicum in Speech-Language Pathology and Audiology
+	Qualified seniors will be selected for placement in a clinical or educational setting under the supervision of a certified speech-language pathologist or audiologist. This course is designed to provide students with an opportunity to develop basic clinical skills in a professional setting. 4 credits, both semesters		
+
+SAR SH 605: Speech Sound Disorders
+	Current theoretical models of  phonological development and analysis will be applied to decision making processes in assessment and treatment of speech sound disorders.		
+
+SAR SH 630: Diagnostic Audiology
+	Requires both lecture and lab to cover hearing assessment through the use of pure-tone and speech audiometric techniques as well as the measurement of middle-ear function. The course also includes information about the anatomy and physiology of the auditory system, acoustics, and the effect of noise on hearing. 4 credits, 1st semester		
+
+SAR SH 640: Senior Internship
+           			The goal of this capstone seminar is to provide students with knowledge and skills in the application of different types of evidence as a basis for practice in a variety of clinical and research internships related to the disciplines of speech language and hearing sciences.		
+
+SAR SH 650: Healthcare Seminar
+	MS in Speech-Language Students only. The goal of this seminar is to provide students in medical field placements with knowledge regarding service delivery models, reimbursement issues, documentation requirements, assessment approaches, goal setting, interdisciplinary team approaches, prioritizing treatment concerns and discharge planning. Case study presentations and discussions will be generated from students' field placement experiences. 		
+
+SAR SH 691: Introduction to Augmentative and Alternative Communication
+           			History and theory of non-speech communication. Survey of types of augmentative communication aids, techniques, and symbol systems including sign language, and traditional and nonstandard orthography. Speech, language, and communication assessment and intervention strategies for non-speech communication modes. Funding and advocacy issues and procedures. 		
+
+SAR SH 700: Research Methods in Speech-Language Pathology and Audiology
+	Evidence-based practice in the diagnosis and remediation of speech, language or hearing disorders requires the application of research methods to answering clinical questions. The course includes an introduction to a range of experimental designs, statistical analyses, and measurement approaches in the fields of speech-language pathology and audiology. Contemporary journal articles are evaluated for quality and used as examples for sufficiency of evidence in clinical decision making. 		
+
+SAR SH 702: Public School Programming in Speech-Language Pathology
+	MS Speech-Language Pathology students only.  The goal of this seminar is to provide students in public school practicum     placements with knowledge regarding school-related issues such as service delivery models, assessment approaches, curriculum frameworks, governing laws and regulations, and the consultation process.   		
+

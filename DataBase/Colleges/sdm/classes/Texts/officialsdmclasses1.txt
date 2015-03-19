@@ -1,0 +1,60 @@
+SDM EN 981: Research: Endodontics
+	Approved research in endodontics. Designed as a partial requirement for the CAGS in endodontics. 1st-4th sem.		
+
+SDM EN 982: Research: Endodontics
+	Approved research in endodontics. Designed as a partial requirement for the CAGS in endodontics. 1st-4th sem.		
+
+SDM EN 991: Research: Endodontics
+	Research in endodontics and related fields designed as a partial requirement for the MSD or DScD in endodontics. 1st-4th sem.		
+
+SDM EN 992: Research: Endodontics
+	Research in endodontics and related fields designed as a partial requirement for the MSD or DScD in endodontics. 1st-4th sem.		
+
+SDM EN 993: Research: Endodontics
+	Research in endodontics and related fields designed as a partial requirement for the MSD or DScD in endodontics. 1st-4th sem.		
+
+SDM GD 510: Comprehensive Preclinical Dentistry
+	This comprehensive course integrates content previously taught separately in three courses: Introduction to Dental Practice, Operative Dentistry I &amp; Preclinical Operative Dentistry I. This course is designed to introduce students to basic concepts and skills necessary to the successful practice of dentistry. Concepts include didactic instruction in the following areas: infection control, bacterial plaque formation, etiology and prevention of both dental caries and periodontal disease, and patient education for both individual and group instruction. Clinical instruction is provided in the Predoctoral Treatment Center and Simulation Learning Center and is focused on providing instruction in infection control, patient evaluation, basic instrumentation skills, coronal polishing and sealant placement. Through a Service Learning component, students are also engaged in community service activities at schools in the Boston area that are affiliated with GSDM. This course also presents a comprehensive introduction to direct restorations. The course includes discussion of dental caries, isolation techniques, general tooth preparation principles, simple amalgam restorations, anterior composite resin restorations and adhesive systems.		
+
+SDM GD 630: Comprehensive Clinical Dentistry
+	This course is the major clinical experience in the DMDIII year. Students provide clinical care for patients in a closely supervised and largely ungraded and environment. Students apply the information learned in the curriculum up to this point and begin comprehensive care of assigned patients. The course includes the clinical application of preclinical information, continuous updating and expansion of clinical knowledge, and the correlation and synthesis of these so that students are able to logically and systematically diagnose, treatment plan and treat a patient, and then evaluate the outcomes of that care.		
+
+SDM MB 511: Molecular Genetics
+	This course introduces the emerging science of molecular genetics. The course is designed to complement courses in microbiology and immunology and to prepare the students to understand and assimilate coming knowledge being developed by researchers and the various implications for dental practice.		
+
+SDM MB 652: IREC 2
+	Intensive Research Elective Course (IREC)  IREC provides intensive and structured research experiences throughout the dental school curriculum for predoctoral dental students interested in careers in oral health research. The objectives are: 1) to carry out well-defined research projects under the guidance of research mentors; 2) to enhance critical thinking skills; 3) to participate in the full range of research-related activities, including scientific meetings and journal clubs; 4) to train in the design and execution of scientific studies, gain better understanding of innovative dental techniques, materials and tools, and develop analytical thinking abilities; and 5) to contribute to the discovery of new knowledge and dissemination through the scientific literature.   There are three IREC options:  * IREC1 - Intensive Research DMD year 1 (as part of the APEX program) (3 credits);   * IREC2 - Intensive Research DMD year 2 (2 credits);  * IREC3 - Intensive Research DMD year 3 (2 credits).  The long-range goals of IREC are to produce better informed dental clinicians with improved eligibility for academic appointments. 		
+
+SDM MB 653: IREC 3
+	Intensive Research Elective Course (IREC)   IREC provides intensive and structured research experiences throughout the dental school curriculum for predoctoral dental students interested in careers in oral health research. The objectives are: 1) to carry out well-defined research projects under the guidance of research mentors; 2) to enhance critical thinking skills; 3) to participate in the full range of research-related activities, including scientific meetings and journal clubs; 4) to train in the design and execution of scientific studies, gain better understanding of innovative dental techniques, materials and tools, and develop analytical thinking abilities; and 5) to contribute to the discovery of new knowledge and dissemination through the scientific literature.   There are three IREC options:  * IREC1 - Intensive Research DMD year 1 (as part of the APEX program) (3 credits);   * IREC2 - Intensive Research DMD year 2 (2 credits);  * IREC3 - Intensive Research DMD year 3 (2 credits).  The long-range goals of IREC are to produce better informed dental clinicians with improved eligibility for academic appointments.  		
+
+SDM MD 510: Anatomical Sciences I
+	In the first half of the course microscopic anatomy of cells, tissues, and organs is taught, emphasizing the relationship of structure to function and to macroscopic anatomy. The second half of the course is dedicated to the study of the structure and function of the nervous system. Instructors discuss the specific anatomical structure of the central and peripheral nervous systems and use clinical correlations to show the effects of lesions on various areas of the nervous system.		
+
+SDM MD 511: Anatomical Sciences II
+	This course covers a wide range of topics in human gross anatomy that are relevant to the practice of dentistry. Specifically, lectures will provide in-depth details of the anatomy of the thorax, abdomen, upper extremity, neck, head and brain. In addition, the structure, function and details of bones and joints of the body will be covered. In the lab portion of this course, we have the invaluable opportunity to use cadavers to directly observe the anatomical structures discussed in lecture. 		
+
+SDM MD 512: Biochemistry
+	This course is designed to acquaint the student with the basic principles of modern biochemistry. The topics to be covered include an introduction to biochemistry and its importance to understanding oral health as well as proteins, enzymes, DNA, RNA and protein synthesis, sugar and lipid metabolism, hormones and second messengers and connective tissue biochemistry. In addition to the traditional lecture format, students participate in case-based presentations designed to integrate clinical cases with the material presented in class. 		
+
+SDM MD 514: Physiology
+	This course presents the physiology of cells, tissues, organs, and integrated body functions, including student led discussion of the physiological basis of clinical conditions. An integrated approach is also taken to the endocrine system including extensive discussion of fuel metabolism and reproductive physiology. Hormonal aberrations and their end results are presented in clinical correlations by students.		
+
+SDM MD 515: Microbiology and Immunology
+	The overall goals of this course are to provide students with: (1) a basic background in microbiology, including the nomenclature, structure, physiology, genetics, mechanisms of pathogenesis, and clinical manifestations associated with the major pathogenic microorganisms (bacteria, fungi and viruses); (2) an understanding of how the basic principles of microbiology are integral to effective diagnosis, treatment and prevention of infectious disease, and (3) a basic background in immunology including the functions and disorders of the immune system.		
+
+SDM MD 520: General Pathology
+	This course covers the fundamental concepts of modern pathology and explains how to apply the process of differential diagnosis in the major human diseases. Pathologic mechanisms and principles of most organs and systems of the body are discussed, with emphasis on those most relevant to oral health and care of dental patients. The course includes lectures by the School of Medicine Pathology faculty and Integrated Problem Sessions presented by students.		
+
+SDM MD 530: Pharmacology
+	This course addresses the pharmacologic principles that underlie the appropriate clinical use of therapeutic agents. The efficacy and toxicity of major classes of drugs are covered with emphasis on implications in dentistry, including side effects in the oral cavity and drug interactions. 		
+
+SDM OB 511: Oral Biology I
+	This course is a comprehensive consideration of the embryology, microscopic and macroscopic structure, and functions of the orofacial complex. Material from the other basic sciences is expanded and related to the oral cavity. Emphasis is on the normal state of oral health. 		
+
+SDM OB 520: Oral Biology II
+	The second-year course in oral biology expands on concepts introduced in the first year. Emphasizes specific oral structures and functions and introduces the biology of oral disease states. Includes a section on clinical nutrition as it relates to systemic diseases and oral health.		
+
+SDM OB 761: Oral Microbiology
+	Distribution, ecology, and pathogenic potential of oral microbiota. Pathogenicity of components of bacterial plaque and their role in the development of oral diseases. Mechanisms of local and systematic resistance to pathogenic oral microbiota.		
+

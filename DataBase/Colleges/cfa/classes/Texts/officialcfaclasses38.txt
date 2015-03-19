@@ -1,0 +1,60 @@
+CFA TH 622: Directed Study: Classical Acting
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in classical acting. A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Spring semester.		
+
+CFA TH 623: Directed Study: Scene Study
+	Prereq: Instructor Consent; Collaboration between MFA Directing and BFA Performance students. Exploration of compact projects for in-class presentation (scenes or condensed interpretations of full plays) with feedback from faculty. At times MFA Design students are introduced to the process. Rehearsal hours outside of the presentation meeting time required for participation. Variable credits. Fall semester.  		
+
+CFA TH 624: Directed Study: Scene Study
+	Prereq: Instructor Consent; Collaboration between MFA Directing and BFA Performance students. Exploration of compact projects for in-class presentation (scenes or condensed interpretations of full plays) with feedback from faculty. At times MFA Design students are introduced to the process. Rehearsal hours outside of the presentation meeting time required for participation. Variable credits. Spring semester.		
+
+CFA TH 627: Directed Study: Theatre Education
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in theatre education. A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Fall semester.  		
+
+CFA TH 628: Directed Study: Theatre Education
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in theatre education. A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Spring semester.		
+
+CFA TH 631: Directed Study: Stage Combat
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in theatrical combat. A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Fall semester.		
+
+CFA TH 632: Directed Study: Stage Combat
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in theatrical combat. A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Spring semester.		
+
+CFA TH 641: Directed Study: Directing
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in theatrical directing. A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Fall semester.		
+
+CFA TH 642: Directed Study: Directing
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in theatre directing. A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Spring semester.		
+
+CFA TH 645: Directed Study: Arts Administration
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in arts administration (generally in concert with MET Arts Administration department). A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Fall semester.		
+
+CFA TH 646: Directed Study: Arts Administration
+	Prereq: Instructor Consent with approval from advisor and SOT Director; Special faculty directed study in arts administration (generally in concert with MET Arts Administration department). A statement thoroughly describing the project must be approved by the instructor, advisor and SOT Director prior to registration. May be repeated for credit. Variable credits. Spring semester.		
+
+CFA TH 647: Graduate Rehearsal &amp; Performance
+	Rehearsal/Performance &amp; Production assignment work for graduate students who participate in the School of Theatre Quarter 1 and Quarter 2 productions. Faculty assignment is based on program advising for the student, all students should register for 1.0 credit per quarter of casting. Course for SOT population only. May be repeatable for credit. Variable credits. Fall semester.		
+
+CFA TH 648: Graduate Rehearsal &amp; Performance
+	Rehearsal/Performance &amp; Production assignment work for graduate students who participate in the School of Theatre Quarter 1 and Quarter 2 productions. Faculty assignment is based on program advising for the student, all students should register for 1.0 credit per quarter of casting. Course for SOT population only. May be repeatable for credit. Variable credits. Spring semester.		
+
+CFA TH 651: Introduction to Design
+	Prereq: Grad standing or consent of instructor; Meets with TH151. Meets 1 day/week for 2 hours/day. An introduction to the principles of 2D design through graphic studio exercises involving use of varied media in black and white. (Spring semester works with color). Does not presuppose any artistic skills. Permission required.  Fall only; 2.0 credit. Fall semester. 		
+
+CFA TH 652: Introduction to Design 2
+	Prereq: CFA TH 651; Meets with CFA TH 152. Meets 1 day/week for 2 hours/day. An introduction to the principles of 2D design through graphic studio exercises involving use of varied media. Work is based on fall semester work in black and white, adding color. Spring only; 2.0 credits. Spring semester. 		
+
+CFA TH 653: Master Class: Undergrad
+	Prereq: Graduate standing or consent of instructor; Meets with CFA TH 453. A laboratory/workshop class which created the opportunities to explore individual and collaborative ideas and problem solving in the creation of theatre. Emphasis is placed on the student's personal discovery of their own unique approach to their work and their involvement in the larger community of theatre artists. 2.0 credits. Fall semester. 		
+
+CFA TH 654: Master Class: Undergrad
+	Prereq: Graduate standing or consent of instructor; Meets with CFA TH 453. A laboratory/workshop class which created the opportunities to explore individual and collaborative ideas and problem solving in the creation of theatre. Emphasis is placed on the student's personal discovery of their own unique approach to their work and their involvement in the larger community of theatre artists. 2.0 credits. Spring semester. 		
+
+CFA TH 655: History of Costume 1
+	Prereq: Graduate standing or consent of instructor; Meets with CFA TH 255. An intensive survey covering the history of significant cultural expression in dress of Western Civilization. Work involves research projects with emphasis on color, materials, manufacture and application toward a definition of styles. 2.0 credits. Fall semester. Offered in even number AY only.		
+
+CFA TH 656: History of Costume 2
+	Prereq: Graduate standing or consent of instructor; Meets with CFA TH 256. An intensive survey covering the history of significant cultural expression in dress of Western Civilization. Work involves research projects with emphasis on color, materials, manufacture and application toward a definition of styles. 2.0 credits. Spring semester. Offered in even number AY only.		
+
+CFA TH 660: AutoCad1
+	Prereq: Graduate standing or consent of instructor; Meets with CFA TH 160. Introduction to Computer Aided Drafting program. Basic terminology, plate organization and technical drafting for Technical Production majors.  Requirement variable for Freshman BFA Design &amp; Production and Performance Core. 1.0 credits. Spring semester.		
+

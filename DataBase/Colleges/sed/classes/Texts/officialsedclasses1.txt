@@ -1,0 +1,60 @@
+SED AP 803: Practicum/Apprenticeship/Internship: Principals (5-8)
+		Open only to matriculated graduate students who have completed prerequisites. Supervised field     placement to demonstrate competencies in the principal's role. The internship requires 300 hours of     supervised field placement. Open only to candidates for Massachusetts licensure as principals who have     passed the School of Education Literacy Test. Var cr, either sem.		
+
+SED AP 804: Practicum/Apprenticeship/Internship: Principals (9-12)
+		Open only to matriculated graduate students who have completed prerequisites. Supervised field    placement to demonstrate competencies in the principal's role. The internship requires 300 hours of    supervised field placement. Open only to candidates for Massachusetts licensure as principals who have    passed the School of Education Literacy Test. Var cr, either sem.		
+
+SED AP 805: Practicum/Apprenticeship/Internship: Superintendent/Assistant Superintendent
+		Open only to matriculated graduate students who have completed prerequisites. Supervised field  placement to demonstrate competencies in the superintendent/assistant  superintendent role. Required of  and open only to candidates for Massachusetts licensure as  superintendents/assistant superintendents  who have passed the School of Education Literacy Test. Var cr,  1st sem.		
+
+SED AP 900: Independent Study
+		Outline of proposed study must be submitted in advance of registration on a form obtained from the  department office. Variable cr.		
+
+SED AP 999: Dissertation Advisement
+		Students must obtain approval of their advisors and the faculty member who is to supervise the study.  Variable cr.		
+
+SED BI 504: Seminar: The Student-Teaching Experience--Bilingual (English as a Second Language) and Modern Foreign  Language
+	Discusses and analyzes the student-teaching-experience for those enrolled in bilingual, TESOL, and   modern foreign language studies. Theoretical and methodological issues in bilingual and second language   instruction, includes strategies for immersion classrooms.. 2 cr, 2nd sem.		
+
+SED BI 515: Methods in Bilingual Education and English as a Second Language (ESL)
+	Planning and implememting effective assessment and instruction in language, literacy, and the content   areas in elementary bilingual and English as a second language classrooms. Presents sheltered and   content-based teaching strategies. Students develop an integrated curricular unit and participate in a field   experience at the elementary level. 4cr, 1sr sem.		
+
+SED BI 535: Literacy Development for Bilingual Students: Instruction and Assessment
+	Focus on theory/research/effective instructional practices in literacy instruction and assessment of  bilingual students. Examines the relationships among oral language, reading, writing, and content-area  learning. Examines literacy skill development in first and second languages. 4cr, either sem.		
+
+SED BI 620: Educational Issues in Bilingualism
+	Explores the effect of language diversity on the education of school-aged  students. Examines national and international theory, research, policy,  and practice in teaching students who speak languages other than the  national language. 4cr, 2nd sem.		
+
+SED CE 500: Introduction to Counseling
+	Emphasis on understanding the theoretical basis of counseling. Introduction to learning skills involved in  helping relationships. Selected reading in counseling theory and practice are assigned. As part of the  skill-building process, opportunities are provided for in-class practice and demonstrations. Generally  required for 2-year counseling program students, but senior undergraduates with approval may also  register. 4cr, 1st sem. 		
+
+SED CE 630: Applied Positive Psychology
+	Focuses on the scientific study of psychological aspects of living a fulfilling and flourishing life. Topics   include happiness, empathy, optimism, friendship, goal setting, achievement, emotion, creativity, humor,   and mindfulness. Students become familiar with theory and research in this relatively new subfield and   critically consider application to their teaching, coaching, leadership, and/or counseling. 4cr, Summer   Term.		
+
+SED CE 635: Counseling Skills and Techniques
+	This course acquaints students with the counseling skills essential for working directly with children  and/or adolescents in your pre-practicum setting. Students will complete 100 hours of supervised clinical  work and use the course to develop knowledge and practice with clinical interventions and organizational  dynamics. 3 cr. 1st semester		
+
+SED CE 650: Counseling Skills &amp; Techniques in Sport and Exercise Psychology
+	The goal of this course is for the students to become competent in the understanding and application  of the core mental skills of sport psychology and exercise psychology. The core mental skills include  goal setting, visualization, arousal regulation, and self-talk. The student will learn how to use and teach  these skills in a variety of settings. And finally the students will become aware of the boundaries of the  sport psychology consultant and how to refer for clinical issues.The objectives for achieving these goals  will include extending knowledge through reading relevant and appropriate primary and secondary  sources and practice. 4cr, 1st sem.  		
+
+SED CE 705: Lifespan Development
+	This course addresses human development from the prenatal period to death. Consideration is given to the  interplay between social, cultural, cognitive, and biological influenced on the healthy development of  children, adolescents and adults. Either Sem, var. cr		
+
+SED CE 710: Child and Adolescent Psychopathology
+	This graduate level course will focus on child and adolescent psychopathology from a developmental  framework, with attention to etiology, assessment, and treatment.  Emphasis will be placed on DSM-V  disorders. Case studies will be used to illustrate the text's descriptions and to reflect the influence of  sociocultural factors in symptom manifestation. 3 cr. 2nd sem.		
+
+SED CE 721: Sport &amp; Performance Psychology Practicum
+	This is a two-semester sport/performance psychology clinical practicum. Student will participate in  internships that are specifically focused on developing counseling and applied sport/performance  psychology skills. The course will provide training in the development of conceptual and technical  counseling skills and supervision to the students as the strive to become competent sport/performance  psychology consultants. Either Sem, 3 cr		
+
+SED CE 726: Clinical Assessment: Psychological Testing
+	This course introduces counseling psychology students to the major assessment techniques in the field:   interviews and psychometric tests. Test construction, reliability and validity will be presented. The major   standardized instruments for measuring intellectual abilities and achievement, personality traits and   functioning,  aptitudes and interests, will be surveyed. 4cr, either sem.		
+
+SED CE 735: Issues in School Counseling
+	An examination of issues faced by the developmental school counselor.  Topical areas include the  history, principles, and practices of school  counseling, tenets, and guidelines of developmental  counseling, schools  as institutions, counselor reform, Massachusetts curriculum frameworks,  MCAS  and other forms of school-based appraisal, students with special  needs, school-based prevention and  intervention, legal and ethical  issues, college and career counseling, referral, group counseling in   educational settings, consultation, the deveopment of the school  counselor, and the future of school  counseling. Required for master's-  and CAGS- level school counseling students. Restricted to  matriculated  students or those with permission of instructor. 4cr, 1st sem.		
+
+SED CE 737: Counseling: Philosophy, Theory, and Practice
+	This class is designed to acquaint prospective counselors with those  theorists whose philosophical  persuasions have most influenced the  practice of preventative and curative counseling in the Unites  States. An  historical overview of diverse theories of psychotherapy and derivative  techniques will be  examined with an emphasis on applications to  diagnosis, and developmental counseling philosophy  and practice.  Topics include the relationships among society, family, and individual in  the definition  and development of the healthy personality and abnormal  intellectual, social, and emotional learning  and development. Required for  all counseling students. Permission of the instructor is required. 4cr,  either sem.		
+
+SED CE 739: Psychology of Vocational Development
+	Theories of vocational development and work as a social issue.  Counseling and information are presented as tools to facilitate the  vocational and personal development of diverse populations in a variety of  work settings. Current trends in the world of work. Required for school  counseling students. 4cr, 2nd sem.		
+

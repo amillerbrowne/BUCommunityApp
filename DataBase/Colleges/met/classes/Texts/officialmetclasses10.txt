@@ -1,0 +1,55 @@
+MET AT 731: Actuarial Mathematics I
+           			This course covers the fundamental principals of actuarial science. It begins with a discussion of survival models, including the functions that define them and special cases. A comparison is made between discrete and continuous models. Topics in the actuarial aspects of insurance will be covered, as will determination of annuities. Finally, the course will discuss the methodology of calculation of premiums. For all these topics, a basic framework will be presented, then more sophisticated models will be developed.   		
+
+MET AT 741: Actuarial Statistics I
+MET AT 742: Actuarial Statistics II
+           			This course covers: compound model for aggregate claims; credibility theory, including the Buhlmann-Straub credibility model; and empirical Baysian methods. Also included are process models for insurance, discrete, and finite-time ruin probabilities. The course emphasizes applications of statistical principles in actuarial models and modeling.		
+
+MET AT 743: Regression and Time Series
+	Prereq: CAS MA 582 or MET MA 582 Mathematical Statistics consent of instructor. Part I of this course will cover simple and multiple regressions, serial correlation and heteroscedasticity, analysis of residuals, and stepwise analysis techniques. Part II will cover time series analysis including smoothing and extrapolation of time series, linear time series models, model building procedure, and forecasting, as well as case studies.		
+
+MET AT 751: Individual Insurance Applications of Actuarial Principles
+	This course covers the application of basic actuarial principles to individual life and annuity financial security systems. Material covered will include the purpose of these systems, the development of financial security products, risk classification, actuarial pricing assumptions, the calculation of product cash flows, the purpose of reserves and different reserve methods. Taxation, required capital, profit measurement, and reinsurance considerations will also be studied.		
+
+MET AT 754: Casualty Insurance Principles
+	MET AT 754 is a survey of the Property and Casualty Industry from an actuarial science perspective.  Topics will include the theory of insurance, including what risks are insurable, how to calculate  premiums on them, and pay losses on the inevitable claims;  the history of the insurance industry,  focusing on court cases that shaped the current regulatory structure; the basic policy structures of  homeowners, auto, and liability insurance; and reinsurance.  		
+
+MET AT 761: Mathematics for Investment and Portfolio Theory
+           			This course covers the risk and return characteristics of primary financial products, fundamental principles of modern portfolio theory, term structures and yield curves, Markowitz Portfolio Selection Model, CAPM and its applications to portfolio management, derivative securities, duration, immunization, and interest rate risk management. 		
+
+MET AT 762: Mathematical Finance for Actuarial Science
+		This course covers the analysis of derivative products and their use in insurance and risk management strategies. It covers selected aspects of rational valuation of derivative products like put-call parity, binomial option, and Black Scholes option pricing model. 4cr. 		
+
+MET AT 782: Pension Mathematics and Mortality Tables
+           			This course covers pension actuarial funding methods and the use of life contingencies. Included are analyses of the funding methods allowable under ERISA, their computation, and uses. We will also review the use of mortality tables, and discuss the various actuarial functions that are used in pension actuarial calculations. Finally, the course will review implications for pension funding under the IRS Code.		
+
+MET AT 981: Internship in Actuarial Science I
+	The course is offered to students who seek practical applications of actuarial principles in insurance companies, financial institutions, pension consulting firms, and other related fields.		
+
+MET AT 982: Internship in Actuarial Science II
+		The course is offered to students who seek practical applications of actuarial principles in insurance companies, financial institutions, pension consulting firms, and other related fields. The course requires students to participate in an internship program within the industry. Students need to submit monthly progress reports and a final semester report to the Chairman, Department of Actuarial Science at Boston University.		
+
+MET AT 990: Seminar in Actuarial Science
+	Seminars are offered for special topics related to actuarial science, life insurance, casualty insurance, insurance medicine, mortality and mobility, health outcomes, economics, policy, pension, social insurance, mathematical finance, statistics, and other related fields.  Variable cr.		
+
+MET AT 991: Directed Studies I
+	The course is offered to students who plan to engage in special research topics under the supervision of a faculty advisor. Application is made through the Department of Actuarial Science.		
+
+MET AT 992: Directed Studies II
+	The course is offered to students who plan to engage in special research topics under the supervision of a faculty advisor. Application is made through the Department of Actuarial Science.		
+
+MET BI 105: Introductory Biology for Health Sciences (N)
+	Principles of biology: emphasis on cellular structure, heredity, development, and organic evolution. Intended for nonmajors as well as for those concentrating in the health and paramedical sciences. Laboratory course. Three hours lecture, two hours lab. 		
+
+MET BI 106: Human Anatomy (N)
+           			Gross structure of the human body: skeletal, muscular, nervous, respiratory, circulatory, digestive, urinary, and reproductive systems. Laboratory course. Three hours lecture, two hours lab. 		
+
+MET BI 107: Biology I: Evolution, Ecology, and Behavior
+	Assumes year of high school biology and chemistry. For premedical students and students who plan to concentrate in the natural sciences. Required of biology concentrators. It is recommended that MET CH 101 and CH 102 be taken prior to or concurrently with this sequence. Each course has three hours lecture and three hours lab. 		
+
+MET BI 108: Biology II: Cells, Genetics, Development, and Physiology
+	Assumes year of high school biology and chemistry. For premedical students and students who plan to concentrate in the natural sciences. Required of biology concentrators. It is recommended that MET CH 101 and CH 102 be taken prior to or concurrently with this sequence. Each course has three hours lecture and three hours lab. Course examines cells, genetics, development, physiology, and neurobiology. 		
+
+MET BI 203: Cell Biology (CM)
+           			Principles of cellular organization and function: biological molecules, enzymes, bioenergetics, membranes, motility, regulatory mechanisms. Three hours lecture, one hour discussion. 		
+

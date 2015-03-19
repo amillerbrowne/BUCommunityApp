@@ -1,0 +1,60 @@
+GMS MH 922: Internship
+		This course is a distinctly defined and supervised clinical mental health counseling experience during the 2nd year of the program. Students engage in 720 hours of clinical training over the course of the academic year. Students are placed in a wide variety of clinical settings throughout the greater Boston area. In addition to clinical supervision received on site, students meet for weekly group supervision with a faculty member and other student trainees in the MHBM program. Students also complete a program capstone presentation, for which they present and defend the assessment and treatment of a client in accordance with evidence-based theoretical standards. Var cr, Fall &amp; Spring sem. 		
+
+GMS MH 972: Directed Studies in Mental Health Counseling and Behavioral Medicine
+	Var cr, Fall &amp; Spring sem.		
+
+GMS MI 701: Concepts in Virology
+	This course is designed to provide a fundamental understanding of viruses and their relationship with their host. It will involve an introduction to virus replication cycles and focus in detail on mechanisms that viruses with different genome structures use to transcribe and replicate them. It will also include lectures on the ways that viruses take advantage of the host translation machinery and subvert antiviral defenses. Aspects of virus pathogenesis and epidemiology will be explored with emphasis in HIV pathogenesis, viral persistence, and the emergence of new viruses. The course will be aimed towards first year Ph.D. students in the Division of Graduate Medical Sciences. The classes will be taught by Microbiology Department faculty with expertise in virology. The content will include a combination of traditional lectures and discussion of primary research papers. Reading materials will include primary literature and suggested review articles, as well as handouts provided by the faculty. Students will be evaluated on their discussion of papers and in a final examination designed to test the students' critical thinking and analytical skills. 2 cr, Fall sem.		
+
+GMS MI 702: Concepts in Bacterial Evolution and Genetics
+	This course is designed to provide a fundamental understanding of how bacteria evolve and the mechanisms they use to adapt to changing environments. Course is taught as a combination of traditional and interactive lectures as well as discussion of reading from the primary literature. The emphasis is on what we know and why. Topics to be covered include phenotypic ad phylogenetic classification of bacteria and their viruses, traditional and genomic approaches for analyzing gene expression, and mechanisms of gene transfer and regulation in bacteria. 2 cr, Spring sem. 		
+
+GMS MI 713: Comprehensive Immunology
+		Comprehensive introduction to immunologic principles and applications. This course consists of both interactive lectures and discussion sessions. Emphasis is placed on analysis and interpretation of data from the primary literature. Prior coursework in genetics and biochemistry is strongly recommended. 4 cr, Fall sem.		
+
+GMS MI 715: Immunological Basis of Disease
+	Journal article-based survey of mechanisms underlying diseases caused by abnormal immune system function. Emphasis will be on normal vs. pathological immune system processes towards reinforcing how basic immunological concepts have immediate clinical significance. Var cr, Spring sem.		
+
+GMS MI 718: Virology
+		Journal article based. Survey of current topics in virology are discussed. An emphasis is placed on the regulation of viral gene transcription and other processes of the viral replicative cycle. 4 cr, Fall sem. 		
+
+GMS MI 811: Microbiology Seminar
+	Presentation and discussion of problems of current interest. 2 cr, Fall sem.		
+
+GMS MI 812: Microbiology Seminar
+	Presentation and discussion of problems of current interest. 2 cr, Spring sem. 		
+
+GMS MI 823: Special Topics in Microbiology
+	Var cr, Spring sem. 		
+
+GMS MI 911: Research Microbiology
+	Var cr		
+
+GMS MI 912: Research Microbiology
+	Var cr		
+
+GMS MM 701: Genetics and Epidemiology of Disease
+		Topics include: Human Genome Structure and Function; Population Genetics; Genetic Risk Assessment; Non-Mendelian Inheritance; Approaches for Studying the Genetics of Complex Traits; Chromosomes and Chromosome Abnormalities; Principles of Cancer Genetics and Genetic Diagnostics; Methods of Human Linkage Analysis; Identifying Human Disease Genes; Genotype-Phenotype Correlations; and Applications of the "New Genetics". 2 cr, Fall sem.		
+
+GMS MM 703: Cancer Biology and Genetics
+		This course will begin with an historical perspective; review the major mechanistic pathways relating to oncogenes, antioncogenes, cell cycle control, repair, and apoptosis; discuss standard and experimental principles of cancer treatment; and conclude with a discussion of cancer epidemiology and health policy issues that affect all basic and translational cancer research. 2 cr, Fall sem. 		
+
+GMS MM 705: Immunity and Infection
+		The Immunity and Infection course is designed to highlight the application of basic immunological concepts and molecular mechanisms that underlie conditions of immune dysfunction and immune responses to specific microorganisms and viruses. Measurements of immune system integrity that provide the basis for diagnosis will be examined in detail. Immunotherapies that encompass vaccine strategies, cytokine administration, bone marrow transplantation, peptide administration, oral tolerance, anti-idiotype treatment, and gene therapy will be discussed. 2 cr, Spring sem.		
+
+GMS MM 707: Organ System Diseases
+		The Organ System Diseases block is devoted to an exploration of contemporary research on the molecular basis of diseases that do not clearly fit into the rubrics of the first three blocks. 2 cr, Fall sem. 		
+
+GMS MM 710: Molecules to Molecular Therapeutics
+		This course is designed to provide instruction in all aspects of the translation of basic research observations into clinical applications, using a case study model. The first case study will focus on sickle cell anemia. The second general area for study is diseases of protein folding. Lectures will review the molecular genetics of the disease and explore animal models for study of sickle cell anemia and will include laboratory exercises as appropriate. The course will address treatment strategies for sickle cell disease, including pharmacologic manipulation of globin gene expression, structural biology and rational drug design, and gene therapy. Additional topics related to clinical trials development will be covered including ethical issues, regulatory affairs, statistical considerations in clinical research, and outcome analysis. Required of all molecular medicine graduate students. 4 cr, Spring sem. 		
+
+GMS MM 730: Biological Core Technologies
+		The major goal of this course is to provide an overview of the principles and applications of modern techniques, which are regularly employed in academia and industry as tools for biomolecular and biomedical investigation. This course will focus on technologies which are available at BUSM. Specific technologies include microscopy, FACS, IHC, qPCR, genomic (next gen sequencing and microarrays), proteomics techniques, HTS, fluorescence molecular tomography, ultrasound and metabolic phenotyping techniques. Offered alternate years. 3 cr, Spring sem. 		
+
+GMS MM 901: Molecular Medicine Research
+	Var cr		
+
+GMS MM 902: Molecular Medicine Research
+	Var cr 		
+

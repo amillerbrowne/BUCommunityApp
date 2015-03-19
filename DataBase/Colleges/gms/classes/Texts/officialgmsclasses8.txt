@@ -1,0 +1,60 @@
+GMS FC 707: Physiology of Specialized Cells
+		This course is one of the elective course modules (Module V) of the Foundations in Biomedical Sciences curriculum.  Knowledge of cellular and molecular physiology is critical to understanding the higher order of functioning of tissues, organs, and organs systems.  The objective of the course is to discuss the specialized adaptations of cells that help them to function in their respective tissues and organs.  This course will also provide a framework to bridge the gap between the biochemistry and the molecular and cellular biology that students have acquired in the core modules (I through IV) and organ physiology and pharmacology that will be addressed in the second year.  2 cr, Spring sem.		
+
+GMS FC 708: Professional Development Skills
+	This course introduces basic professional development skills for PhD students in the following areas:communication skills, research compliance/law/bioethics, and personal professional development.		
+
+GMS FC 762: Thinking in Biomedical Research
+	The primary goal of this course is to use the framework of the scientific literature to develop Critical Thinking Skills to generate novel hypotheses with a focus on establishing novel biological mechanisms and pathways. Critical Thinking skills will be used to examine research findings and theories to uncover inconsistencies, bias, or faulty logic. The student will be expected to build on their careful evaluation and analysis of the papers to create a novel hypothesis each week and design a single experiment to address their question. The weekly course discussion will be student led and this will facilitate the development of teaching skills. Generally the papers to be discussed will be an older, classic paper, which established an important new concept and a newer paper that builds on that theme. Grading is based on weekly participation in class discussions, presentations, and a concise final written assignment. 2cr, spring  		
+
+GMS FC 952: Research in Cell &amp; Molecular Biology
+	Var cr		
+
+GMS FS 700: Criminal Law and Ethics
+		An overview of legal, ethical and practical issues of forensic science, the impact of forensic science on the justice system and a discussion of traditional and emerging admissibility standards involving forensic science evidence is given. The curriculum will include a description of the roles law enforcement, attorneys and forensic scientists, professional standards for the practice of criminalistics and ethical issues in forensic pathology, psychiatry and crime scene investigation. 2 cr		
+
+GMS FS 701: Crime Scene Investigation
+		This combination hands-on and lecture-based course will provide students with an in-depth review of crime scene assessment and management. Methods of identifying, documenting, collecting and packaging physical evidence from various types of crime scenes are discussed. A hands-on component will be employed in areas such as crime scene sketching, photography and evidence collection. 3 cr		
+
+GMS FS 702: Forensic Biology
+		This lecture-based course will introduce students to the biological aspects of forensic evidence including biochemical and physical attributes of blood and other body fluids. Common methods of body fluid identification utilized in forensic laboratories will be discussed at length. Other topics include guidelines for thorough evidence examination, screening, documentation and report writing. 3 cr		
+
+GMS FS 703: Forensic Chemistry
+		This lecture-based course will provide an introduction to chemical principles and instrumental techniques associated with the following areas of the field: controlled substances, toxicology, ignitable liquids and explosives. A review of organic and analytical chemistry as they relate to forensic investigations will be discussed. 3 cr		
+
+GMS FS 704: Forensic Biology Laboratory
+		This laboratory-based course will give students an opportunity to apply the principles of forensic biology to actual samples. Techniques utilized will include screening tests, methods used to confirm antibody interactions, gel diffusion and microscopic identification of cellular material. 2 cr		
+
+GMS FS 707: Trace Evidence Analysis
+		This lecture-based course will provide an overview of the principles and concepts on which trace evidence analysis is based. Proper collection, preservation, identification and comparison of items such as glass, paint, hairs and fibers, using standard methods and instruments used in crime scene laboratories will be discussed. 3 cr		
+
+GMS FS 708: Forensic Instrumental Analysis Laboratory
+		This course will provide an introduction to a variety of instrumentation and equipment utilized in the forensic laboratory and detail the methods used by forensic scientists for chemical and trace evidence analysis. 2 cr		
+
+GMS FS 709: Medicolegal Death Investigation
+		This lecture-based course will provide the student with an overview of the basic principles of medicolegal death investigations. Specific lectures will cover the procedures and skills necessary to conduct a thorough medicolegal investigation of death, knowledge of various types of traumatic injuries, the knowledge necessary to understand the characteristics that differentiate the manners of death and the skills to conduct an appropriately directed investigation. The curriculum will prepare the students to take the national certification examinations offered by the American Board of Medicolegal Death Investigators. A general knowledge of anatomy is recommended prior to enrollment. 2 cr		
+
+GMS FS 712: Forensic Pathology
+		This lecture-based course will provide the student with an overview of the role of the medical examiner as it relates to death investigations. Specific lectures will cover autopsy procedures in the investigation of gunshot wounds, sharp and blunt trauma, drowning, asphyxia, child deaths, motor vehicle accidents and time since death determination. A general knowledge of anatomy is recommended prior to enrollment. 3 cr		
+
+GMS FS 720: Molecular Biology of Forensic DNA Analysis
+		This lecture-based course will discuss theory and application of human genetics and molecular biology to testing of biological evidence. DNA structure and organization of the human genome and types of genetic variation occurring in humans will be covered. Other topics include the history of DNA analysis and current PCR based methods for testing of autosomal STR loci, Y chromosome STR loci and mitochondrial DNA. Lecture material will also cover commonly encountered artifacts in PCR testing, DNA profile interpretation and statistical analysis of results. 3 cr		
+
+GMS FS 721: Forensic DNA Analysis Laboratory
+		This lab-based course will provide theory and practice in procedures used in forensic DNA analysis. Sessions will include use of several DNA extraction techniques, clean technique for contamination prevention, real time PCR for human DNA quantitation, PCR amplification of STR loci and DNA profile analysis. 2 cr		
+
+GMS FS 800: Criminal Law II - Mock Court
+		This interactive course builds upon the material discussed in Criminal Law and Ethics regarding the criminal trial process, the role of the forensic witness and the presentation of scientific testimony and physical evidence in court. Students will actively participate in presenting testimony as well as critiquing the performance of others in a mock court setting. Instructors may utilize reports and projects prepared in other courses to provide the subject matter for the students' testimony. 2 cr		
+
+GMS FS 830: Forensic Toxicology
+		This lecture-based course will provide an overview of the pharmacology, pharmacokinetics and toxicology of common drugs of interest to the forensic toxicologist. An emphasis will be placed on applying the principles of pharmacokinetics to the interpretation of drug blood and urine levels, and on developing an understanding of how drugs (including ethanol) interact with the biology and physiology of the human body. Students will also acquire knowledge of the chemical structure of common drugs. 2 cr		
+
+GMS FS 870: Directed Studies in Biomedical Forensic Sciences
+		Students will register for this course in preparation for conducting a library or laboratory based thesis project. With direction from the student's thesis research committee, the student will investigate his/her thesis topic, develop a research plan including an outline of the project, become familiar with quality control and quality assurance issues and begin data collection. 2 cr		
+
+GMS FS 871: Internship in Biomedical Forensic Sciences
+		An internship in a forensic setting is encouraged, and may be approved for academic credit depending on the number of hours and the nature of the work completed during the internship. With prior approval from the student's thesis advisor and the internship site supervisor, work completed at an internship may be used as the basis of the student's thesis. A completed evaluation from the internship supervisor describing the nature of the work completed and the quality of the student's performance will be required. In addition, the student will be required to write a summary of his/her internship experiences and responsibilities. 2 cr		
+
+GMS FS 970: Research in Biomedical Forensic Sciences
+		Each student must complete a program of research that will be incorporated into a thesis of publishable quality. The thesis clearly states a hypothesis or scientific question and presents the author's findings to support the stated proposition. Thesis topics are developed in conjunction with a research committee consisting of faculty members and/or other qualified individuals. Registration for this course should be during the semester in which the student anticipates graduation from the program. 2 cr		
+

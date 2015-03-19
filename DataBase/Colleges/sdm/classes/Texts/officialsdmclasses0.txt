@@ -1,0 +1,60 @@
+SDM EN 521: Endodontics
+	This lecture course provides the dental student with a clear understanding of the biological foundations of pulpal and periapical disease. The causes and progression of these problems are discussed. Diagnostic and therapeutic modalities are introduced.		
+
+SDM EN 522: Preclinical Endodontics
+	This simulated clinic course provides experience and skill development in the clinical therapeutic techniques being presented in the lecture course. 		
+
+SDM EN 640: Clinical Endodontics
+	Clinical experiences consist of the diagnosis and treatment of pulpal and perapical dental pathology requiring endodontic intervention.		
+
+SDM EN 803: Endodontics III: Preclinical Endodontics
+	Prerequisite for the clinical program. Participation in endodontic procedures performed on extracted teeth where the resident gains the clinical skills and the scientific knowledge necessary to treat patients. Lectures and clinical demonstrations by the endodontic faculty cover an extensive range of clinical procedures. 1st sem.		
+
+SDM EN 804: Endodontics IV: Current Concepts in Endodontics
+	Series of lectures presented to the residents enrolled in the Postdoctoral Program in Endodontics The intention of this course is to expose the resident to the most current information pertaining to such topics as: histology and physiology of the pulpodentinal complex, diagnosis and classification of endodontic pathoses, management of endodontic emergencies including traumatic injuries to the dentition, and fascial space infections of odontogenic origin. 2 cr, 1st and 2nd sem.		
+
+SDM EN 805: Endodontics V: Topical Literature
+	A series of 27 seminars based on intensive and comprehensive readings in the literature of endodontics covering all facets pertaining to the science and practice of endodontics. 1st, 2nd, 3rd and 4th sem.		
+
+SDM EN 806: Endodontics VI: Topical Literature
+	A series of 27 seminars based on intensive and comprehensive readings in the literature of endodontics covering all facets pertaining to the science and practice of endodontics. 1st, 2nd, 3rd and 4th sem.		
+
+SDM EN 811: Seminar: Endodontic Diagnosis and Treatment Planning
+	Develops logical approaches to endodontic diagnosis and treatment planning procedures. Includes discussion of a wide range of endodontic problems not usually encountered in clinical courses. 1st, 2nd, 3rd, and 4th sem.		
+
+SDM EN 812: Seminar: Endodontic Diagnosis and Treatment Planning
+	Develops logical approaches to endodontic diagnosis and treatment planning procedures. Includes discussion of a wide range of endodontic problems not usually encountered in clinical courses. 1st, 2nd, 3rd, and 4th sem.		
+
+SDM EN 814: Seminar: Restoration of Endodontically Involved Teeth
+	Presentation of rationale and operative procedures best employed in restoring endodontically treated teeth and in using them as long-term abutments for prosthetic appliances. 1st sem.		
+
+SDM EN 815: Surgical Endodontics
+	Comprehensive series of lectures and laboratory exercises designed to provide the resident with the knowledge and technical skills to perform proficiently surgical endodontic procedures. The most current techniques and state-of-the-art instruments and materials available for endodontic surgery are discussed and used in the laboratory exercises.		
+
+SDM EN 819: Endodontics for Prosthodontists
+	Endodontics course for prosthodontists.		
+
+SDM EN 820: Endodontics and Pulpal Therapy for the General Practitioner
+	Series of lectures and hands on sessions presented to the students enrolled in the advanced education program in general dentistry (AEGD) and the students enrolled in Post Graduate Operative and Esthetic Program (PGOE). Topics include: histology and physiology of the pulpodentinal complex; diagnostic procedures in the practice of endodontics; classification of pulpal and periradicular pathoses; management of endodontic emergencies; management of traumatic injuries to the dentition; lectures and hands-on focusing on the preparation and obturation of the root canal system; 1st sem.		
+
+SDM EN 821: Seminar: Current Literature
+	Monthly seminars that comprehensively review the most recent scientific literature pertaining to the practice of endodontics published in peer reviewed journals. 1st, 2nd, 3rd, and 4th sem.		
+
+SDM EN 822: Seminar: Current Literature
+	Monthly seminars that comprehensively review the most recent scientific literature pertaining to the practice of endodontics published in peer reviewed journals. 1st, 2nd, 3rd, and 4th sem.		
+
+SDM EN 823: Seminar: Case Presentation
+	Weekly (EndoY1) or monthly (EndoY2) seminars that provide the opportunity for the postdoctoral endodontic resident to present and discuss his/her clinical cases. Relative scientific literature along with the clinical experience of the faculty is stressed in justifying the rationale for diagnosis, treatment planning, and management. The cases are discussed using an evidence based dentistry approach. 1st, 2nd, 3rd, and 4th sem.		
+
+SDM EN 824: Seminar: Case Presentation
+	Weekly (EndoY1) or monthly (EndoY2) seminars that provide the opportunity for the postdoctoral endodontic resident to present and discuss his/her clinical cases. Relative scientific literature along with the clinical experience of the faculty is stressed in justifying the rationale for diagnosis, treatment planning, and management. The cases are discussed using an evidence based dentistry approach.  1st, 2nd, 3rd, and 4th sem.		
+
+SDM EN 825: Clinical Endodontics for the General Practitioner
+	Residents are given the opportunity to enhance their diagnostic and manual skills in endodontics. Emphasis is placed on advanced concepts and theories in endodontics through a series of lectures, literature reviews and oral presentations by residents.  The residents also will be guided in diagnosis and treatment for their patients. 		
+
+SDM EN 911: Clinical Endodontics
+	Clinical management of nonsurgical and surgical endodontic cases. Special attention is given to the development of diagnostic skills and clinical endodontic facility and to the application of a therapeutic approach formed in conjunction with other dental specialties. By the end of the program the resident is expected to become proficient in all clinical endodontic procedures using modern technology backed by evidence based knowledge. 1st 2nd 3rd and 4th sem.		
+
+SDM EN 912: Clinical Endodontics
+	Clinical management of nonsurgical and surgical endodontic cases. Special attention is given to the development of diagnostic skills and clinical endodontic facility and to the application of a therapeutic approach formed in conjunction with other dental specialties. By the end of the program the resident is expected to become proficient in all clinical endodontic procedures using modern technology backed by evidence based knowledge. 1st, 2nd, 3rd, and 4th sem.		
+

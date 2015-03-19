@@ -1,0 +1,60 @@
+MET CS 495: Directed Study
+           			Independent study on special projects under faculty guidance. 		
+
+MET CS 496: Directed Study
+           			Independent study on special projects under faculty guidance.		
+
+MET CS 503: Windows .NET Application Programming with C#
+		In-depth exploration of the C# programming language and Visual Studio .NET for development, debugging, and deployment of applications. 4 credits.		
+
+MET CS 504: Green Information Technology
+	This course empowers students to reduce the energy use, waste, and other environmental impacts of IT systems while reducing life cycle costs, thereby improving competitive advantage.  Students learn how to measure computer power usage, minimize power usage, procure sustainable hardware, design green data centers, recycle computer equipment, configure computers to minimize power, use virtualization to reduce the number of servers, and other green technologies. Students also learn how to make green IT an integral part of organizational culture and planning, to foster long-term sustainable information technology. The course is executed through a combination of lectures, guest lectures, field trips, assignments, labs, case studies, and a term project. 		
+
+MET CS 520: Information Structures
+	This course covers the concepts of object-oriented approach to software design and development using   the Java programming language. It includes a detailed discussion of programming concepts starting   with the fundamentals of data types, control structures methods, classes, applets, arrays and strings,   and proceeding to advanced topics such as inheritance and polymorphism, interfaces, creating user   interfaces, exceptions, and streams. Upon completion of this course the students will be able to apply   software engineering criteria to design and implement Java applications that are secure, robust, and   scalable. <br><br> MET CS 200 Fundamentals of Information Technology; recommended to students  with no programming background. Or Instructor's Consent.		
+
+MET CS 532: Computer Graphics
+		This course is primarily the study of design of graphic algorithms. At the end of the course you can expect to be able to write programs to model, transform and display 3-dimensional objects on a 2-dimensional display. The course starts with a brief survey of graphics devices and graphics software. 2-d primitives such as lines and curves in 2-d space are studied and a number of algorithms to draw them on a rectangular surface are introduced, followed by a study of polygons, scan conversion and other fill methods. Attributes of the primitives are studied as well as filtering and aliasing. Geometric transformations in 2 dimensions are introduced in homogeneous coordinates, followed by the viewing pipeline, which includes clipping of lines, polygons and text. Hierarchical graphics modeling is briefly studied. The graphics user interface is introduced and various input functions and interaction modes are examined. 3-d graphics is introduced through object representations through polygonal methods, spline techniques, and octrees. This is followed by 3-d transformations and the 3-d viewing pipeline. The course ends with a study of algorithms to detect the visible surfaces of a 3-d object in both the object space and the image space. Laboratory Course		
+
+MET CS 535: Computer Networks
+           			Overview of data communication and computer networks, including network hardware and software, as well as reference models, example networks, data communication services and network standardization. The OSI and the Internet (TCP/IP) network models are discussed. The course covers each network layer in details, starting from the Physical layer to towards the Application layer, and includes an overview of network security topics. Other topics covered include encoding digital and analog signals, transmission media, protocols. circuit, packet, message, switching techniques, internetworking devices, topologies. LANs/WANs, Ethernet, IP, TCP, UDP, and Web applications. Labs on network analysis. 		
+
+MET CS 544: Foundations of Analytics
+	The goal of this course is to provide students with the mathematical and practical background required in the field of data analytics. Starting with an introduction to probability and statistics,  the R tool is introduced for statistical computing and graphics. Different types of data are investigated along with data summarization techniques and plotting. Data populations using discrete, continuous, and multivariate distributions are explored. Errors during measurements and computations are analyzed in the course. Confidence intervals and hypothesis testing topics are also examined. The concepts covered in the course are demonstrated using R. Laboratory Course. 		
+
+MET CS 546: Quantitative Methods for Information Systems
+           			The goal of this course is to provide Computer Information Systems students with the mathematical fundamentals required for successful quantitative analysis of problems in the field of business computing. The first part of the course introduces the mathematical prerequisites for understanding probability and statistics. Topics include combinatorial mathematics, functions, and the fundamentals of differentiation and integration. The second part of the course concentrates on the study of elementary probability theory, discrete and continuous distributions. 4 cr		
+
+MET CS 555: Data Analysis and Visualization
+	This course provides an overview of the statistical tools most commonly used to process, analyze,  and visualize data. Topics include simple linear regression, multiple regression, logistic  regression, analysis of variance, and survival analysis. These topics are explored using the  statistical package R, with a focus on understanding how to use and interpret output from this  software as well as how to visualize results. In each topic area, the methodology, including  underlying assumptions and the mechanics of how it all works along with appropriate  interpretation of the results, are discussed. Concepts are presented in context of real world  examples.		
+
+MET CS 561: Financial Informatics
+	This course presents financial algorithms used in applications of computer science in financial decision analysis, risk management, data mining and market analysis, and other modern business processes. The course covers theoretical background on probabilistic methods used for financial decision making and their application in number of fields such as financial modeling, venture capital decision making, operational risk measurement and investment science. Number of financial applications and algorithms are being presented for portfolio risk analysis,  modeling real options, venture capital decision making, etc. The course concludes with algorithms for financial risk assessment and presents the security concepts and challenges of financial information systems. 		
+
+MET CS 565: Advanced Java Programming
+           			Comprehensive coverage of object-oriented programming with cooperating classes. Implementation of polymorphism with inheritance and interfaces and in Java library containers. Programming with exceptions, stream input/output and graphical AWT and Swing components. Threads, sockets, datagrams and database connectivity are also covered in this course. Laboratory course.		
+
+MET CS 566: Analysis of Algorithms
+           			Discusses basic methods for designing and analyzing efficient algorithms emphasizing methods used in practice. Topics include sorting, searching, dynamic programming, greedy algorithms, advanced data structures, graph algorithms (shortest path, spanning trees, tree traversals), matrix operations, string matching, NP completeness. 		
+
+MET CS 570: Biomedical Sciences and Health IT
+	This course is designed for IT professionals, and those training to be IT professionals, who are preparing  for careers in healthcare-related IT (Health Informatics). This course provides a high-level introduction  into basic concepts of biomedicine and familiarizes students with the structure and organization of  American healthcare system and the roles played by IT in that system. The course introduces medical  terminology, human anatomy and physiology, disease processes, diagnostic modalities, and treatments  associated with common disease processes. IT case studies demonstrate the key roles of health  informatics and how IT tools and resources help medical professionals integrate multiple sources of  information to make diagnostic and therapeutic decisions. [4 cr.] 		
+
+MET CS 575: Operating Systems
+           			Overview of operating system characteristics, design objectives, and structures. Topics include concurrent processes, coordination of asynchronous events, file systems, resource sharing, memory management, security, scheduling and deadlock problems. 		
+
+MET CS 579: Database Management
+           			This course provides a theoretical yet modern presentation of database topics ranging from Data and Object Modeling, relational algebra and normalization to advanced topics such as how to develop Web-based database applications. Other topics covered - relational data model, SQL and manipulating relational data; applications programming for relational databases; physical characteristics of databases; achieving performance and reliability with database systems; object-oriented database systems.		
+
+MET CS 580: Health Informatics
+           			This course presents the technological fundamentals and integrated clinical applications of modern Biomedical IT.  The first part of the course covers the technological fundamentals and the scientific concepts behind modern medical technologies, such as digital radiography, CT, nuclear medicine, ultrasound imaging, etc. It also presents various medical data and patient records, and focuses on various techniques for processing medical images. This part also covers medical computer networks and systems and data security and protection. The second part of the course focuses on actual medical applications that are used in health care and biomedical research. 		
+
+MET CS 581: Electronic Health Records
+	Electronic Health Records (EHRs) are application systems that automate the activities of healthcare  clinicians including physicians, nurses, physician assistants, and healthcare administrative staff. Use of  EHRs is increasing rapidly due to the systems' benefits and federal government programs to deploy  EHRs. This increased use of EHRs has many challenges including complex data, high security  requirements, integration to multiple application systems, a distributed user base, and broad impact on how these users work.   Prerequisite: CS 570 Biomedical Sciences and Health IT or comparable knowledge of Health Sciences and Fundamentals of IT.  		
+
+MET CS 593: Special Topics
+	Prereq: consent of the instructor.		
+
+MET CS 599: Biometrics
+	In this course we will study the fundamental and design applications of various biometric systems based  on fingerprints, voice, face, hand geometry, palm print, iris, retina, and other modalities. Multimodal  biometric systems that use two or more of the above characteristics will be discussed. Biometric system  performance and issues related to the security and privacy aspects of these systems will also be  addressed. 4 credits.		
+

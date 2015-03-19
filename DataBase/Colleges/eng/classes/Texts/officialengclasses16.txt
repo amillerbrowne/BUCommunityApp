@@ -1,0 +1,59 @@
+		Emphasizes basic methodological tools and recent advances for the solution of scheduling problems in both deterministic and stochastic settings. Models considered include classical scheduling models, DEDS, neural nets, queueing models, flow control models, and linear programming models. Methods of control and analysis include optimal control, dynamic programming, fuzzy control, adaptive control, hierarchical control, genetic algorithms, simulated annealing, Lagrangian relaxation, and heavy traffic approximations. Examples and case studies focus on applications from manufacturing systems, computer and communication networks, and transportation systems.  Meets with ENGSE766.  Students may not receive credit for both.		
+
+ENG ME 778: Micromachined Tranducers
+		The field of micro-electromechanical devices and systems (MEMS) has been growing at an exciting pace in recent years.  The interdisciplinary nature of both micro-machining techniques and their applications can and does lead to exciting synergies.  This course will explore the world of mostly silicon-based micro-machined transducers, i.e., micro-sensors and micro-actuators.  This requires an awareness of material properties, fabrication technologies, basic structural mechanics, sensing and actuation principles, circuit and system issues, packaging, calibration, and testing.  The material will be covered through a combination of lectures, case studies, individual homework assignments, and design projects carried out in teams.  		
+
+ENG ME 780: Perturbation Methods in Mechanics
+		Regular and singular perturbation theory. Topics taught through examples related to solid mechanics, fluid mechanics, and dynamics, and include: matched asymptotic expansions, method of multiple scales, WKB, strained coordinates, asymptotic expansion of integrals, method of averaging, exponential asymptotics, asymptotic summation, perturbation of dimension. 		
+
+ENG ME 781: Electroceramics
+	This course will explore the structure property relationships and phenomena in  ceramic materials used in  electronic, dielectric, ferroelectric, magnetic, and  electrochemical applications.  In particular we will discover how to  functionalize a component for a particular application - a capacitor, a  thermistor, actuator, or a fuel cell. Such a discovery process demands an in- depth understanding of the roles and interrelationships between the crystal  structure, defect chemistry, microstructure, and texture in such materials.   Statistical thermodynamics, quantum mechanics, and solid mechanics principles  will be used as and when necessary in the course. The course is intended to fit  in the space  and act as a bridge between solid state theory where the emphasis  is  largely on theory and a ceramic materials course where the emphasis is  largely on processing. 4 cr		
+
+ENG ME 785: Computer-Integrated Manufacturing
+		Elements of CAD/CAM systems examined with an emphasis on system integration tools, graphical programming of spatially oriented tasks, as well as automatic code generation necessary to provide the voluminous code needed to drive a factory floor. Students gain insight into the interplay between system components, interfaces, and the overall system. (Formerly ENGMN785)		
+
+ENG ME 788: Soft Tissue Biomechanics
+           			This course will introduce students to the mechanics of soft biological tissue.  In particular, the response of the heart, vasculature, and tissue scaffolds to mechanical loads from the perspective of nonlinear solid mechanics will be studied. Constitutive models for hyperelastic materials will be adapted to biomaterials to handle mechanical characteristics such as nonlinearity, viscoelasticity, and orthotropy.  Basic experimental methods, and anatomy and physiology of particular tissue types will also be introduced. Emphasis is placed on integrating the basic analytical, experimental, and computational methods for a  more complete understanding of the underlying mechanobiology.  Meets with ENG BE788.  Students may not receive credit for both.  4 cr.		
+
+ENG ME 801: Teach Pract 1
+			
+
+ENG ME 802: Teach Pract 2
+			
+
+ENG ME 900: Research
+		Participation in a research project under the direction of a faculty advisor. If not leading to an MS thesis or PhD dissertation, a final report is normally required. 		
+
+ENG ME 901: Thesis
+		Preparation of an original thesis under the guidance of a faculty member.		
+
+ENG ME 925: Graduate Project
+		A practical mechanical design, analysis, fabrication, or production project. Written report required. 		
+
+ENG ME 951: Independent Study
+		Graduate students may study, under a faculty member's supervision, subjects not covered in a regularly offered course. Final report and/or written examination normally required.		
+
+ENG ME 991: Dissertation
+		Advisor and hours arranged.		
+
+ENG MS 306: Introduction to Materials Science
+           			Structure and properties of solids; crystalline structure; defect structures; atom movement and diffusion; nucleation and growth; deformation; phase diagrams; strengthening mechanisms; heat treatment; ferrous/nonferrous alloys; ceramics; polymers; composites. Includes lab. Meets with ENGME306.  Students may not receive credit for both. 		
+
+ENG MS 465: Materials Processing
+           			he influence of manufacturing processes on structure and properties of materials. Manufacturing by liquid and solid state processing techniques, material removal processes and bonding and joining processes. Surface modification techniques for enhancing performance and product service life. Includes lab. Meets with ENGME465.  Students may not receive credit for both. 		
+
+ENG MS 500: Special Topics in Materials Science and Engineering
+           			Coverage of a specific topic in materials science and engineering.  Subject varies from year to year and is generally from an area of current or emerging research. 		
+
+ENG MS 503: Kinetic Processes in Materials
+           			Kinetics of mass transport, continuum and atomistic approaches, chemical diffusion; kinetics of chemical reactions, kinetics of adsorption and evaporation; nucleation and growth; solidification; spinodal decomposition; coarsening; martensitic transformations; order-disorder reactions; point defects and their relation to transport kinetics. Meets with ENGME503; students may not receive credit for both. 		
+
+ENG MS 504: Polymers and Soft Materials
+	An introduction to soft matter for students with background in materials science, chemistry, and physics.  This course covers general aspects of structures, properties, and applications of soft materials such as polymers, colloids, liquid crystals, amphiphiles, gels, and biomaterials.  Emphasis on chemistry and forces related to molecular self-assembly.  Topics include forces, energies, kinetics in material synthesis, growth and transformation; methods for preparing synthetic materials; formation, assembly, phase behavior, and molecular ordering of synthetic soft materials; structure, function, and phase transition of natural materials such as nucleic acids, proteins, polysaccharides, and lipids; techniques for characterizing the structure, phase and dynamics of soft materials; application of soft materials in nanotechnology.  Meets with ENG ME 504; students may not receive credit for both. 		
+
+ENG MS 505: Thermodynamics and Statistical Mechanics
+           			The laws of thermodynamics; general formulation and applications to mechanical, electromagnetic and electromechanical systems; thermodynamics of solutions, phase diagrams; thermodynamics of interfaces, adsorption; defect equilibrium in crystals; statistical thermodynamics, including ensembles, gases, crystal lattices, and phase transitions.  Same as ENGME505; students may not receive credit for both.		
+
+ENG MS 507: Process Modeling and Control
+           			An introduction to modeling and control as applied to industrial unit processes providing the basis for process development and improvement.  Major themes include an integrated treatment of modeling multi-domain physical systems (electrical, mechanical, fluid, thermal), application of classical control techniques, and system design.  Topics include modeling techniques, analysis of linear dynamics, control fundamentals in the time and frequency domain, and actuator selection and control structure design.  Examples drawn from a variety of manufacturing processes and case studies. Meets with ENGME507.  Students may not receive credit for both. 		
+

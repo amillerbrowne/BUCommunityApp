@@ -1,0 +1,61 @@
+MET CM 719: Interactive Marketing Communications
+	An overview of the theories, practices, and techniques in the emerging field of interactive marketing communications (IAMC). Students gain an understanding of the strategy and tactics of IAMC and its place in the more comprehensive field of marketing communications. In addition, students review IAMC's relationship to and its effects on society, culture, and the economic system.  The course will explore almost all the ways interactive marketing can be practiced via the Internet: historical introduction, dotcom era, basic principles, database marketing, etail, email, search (SEO &amp; SEM/PPC), display advertising, social networking, gaming, mobile, et al.		
+
+MET CM 721: Advertising Management
+	Prereq: MET CM 708 Administration of a complete advertising program. Case study method used to explore the marketing mix, budgeting, media strategy, planning, coordinating advertising with promotion, working with client or agency, and the social responsibility of advertisers.		
+
+MET CM 726: Strategic Brand Solutions
+	Explores the impact of current advertising/marketing issues from business, economic, political, social, legal, and ethical perspectives. Modified case method, with lectures from experts on selected issues. 		
+
+MET CM 736: New &amp; Traditional Media Strategies
+           			Examines media planning, buying and sales as performed by advertising agencies, clients, and the media. Research sources providing data on media audiences and product usage are evaluated. Examines contemporary trends in communications media and their effects on advertisers. 		
+
+MET CM 737: Social Networks in Strategic Communication Planning
+	The purpose of MET CM737, Social Networks in Strategic Communication Planning, is to help students understand the rapid evolution in marketing and communications brought on by the shift in technology that has forever changed traditional media and launched powerful new communications platforms via social media.  This course will focus on communications strategy -- where it's been, where it's going with a focus on executing strategies through social media platforms that align with overall business (brand) goals and objectives.  To help gain this perspective, students will learn from various experts (guests to class) and hands-on exercises designed to give all students a solid baseline for the dominant and tertiary social media platforms.  I fully believe that the best way to learn and understand social media is to jump in and engage with the different platforms.  This class will encourage and insist that you engage with at least two social media platforms so you can bring this first-hand knowledge to class.		
+
+MET CM 739: Principles of Search Engine Marketing
+	In this course students will become familiar with the basics of Search Engine Optimization and Search Engine Advertising and how these new rapidly growing areas fit into the marketing communications planning process. The course will cover topics such as how search engines work, how users search, how to optimize a website for search engines, how to develop a Search Engine Advertising campaign and how to measure success. The course will also cover Social Media Marketing. At the end of the semester students will present a strategically executed Search Engine Marketing plan. Prerequisite for the course is MET CM 719, Interactive Marketing Communication or permission of the instructor.		
+
+MET CM 744: Design and New Media
+	Provides knowledge and practice for effective graphic design for all media. Develops a foundation in design principles and software skills including Illustrator, Photoshop, and InDesign. Students create projects demonstrating how graphic design is used to engage an audience and enhance comprehension of all forms of mass communication from traditional print to new media.		
+
+MET CS 101: Computers and Their Applications
+	For students with no prior experience with computers. Organization and function of computer systems; application of computers in today's society; social impact of computers. Introduction to algorithms, various types of application packages, and the Internet. Not for computer science majors. Laboratory course. 		
+
+MET CS 200: Fundamentals of Information Technology
+	This course is a technically-oriented introductory survey of information technology. Students learn about  basic computer information, different types of business systems and basic systems analysis, design and  development. Students also study basic mathematics, software development and create simple Java  programs. 4 credits.		
+
+MET CS 201: Introduction to Programming
+	Introduction to problem-solving methods and algorithm development. Includes procedural and data abstractions, program design, debugging, testing, and documentation. Covers data types, control structures, functions, parameter passing, library functions, and arrays. Laboratory exercises in C++. Laboratory course.		
+
+MET CS 231: Programming with C++
+           			Covers the elements of object-oriented programming and the C++ language. Data types, control structures, functions, library functions, classes, inheritance, and multiple inheritance. Use of constructors, destructors, function and operator overloading, reference parameters and default values, friend functions, input and output streams, templates, and exceptions. Laboratory course. 		
+
+MET CS 232: Programming with Java
+           			This course covers the elements of object-oriented programming and the Java Programming Language. Primitive data types, control structures, methods, classes, arrays and strings, inheritance and polymorphism, interfaces, creating user interfaces, applets, exceptions and streams. Laboratory course. 		
+
+MET CS 248: Discrete Mathematics
+	Fundamentals of logic (the laws of logic, rules of inferences, quantifiers, proofs of theorems), Fundamental principles of counting (permutations, combinations), set theory, relations and functions, graphs, trees and sorting, shortest path and minimal spanning trees algorithms. Monoids and Groups. 		
+
+MET CS 341: Data Structures with C++
+           			Covers data structures, using the C++ language. Topics include data abstraction, encapsulation, the use of recursion, creation and manipulation of various data structures; bags, lists, queues, tables, trees, heaps and graphs, and searching and sorting algorithms. Laboratory course. 		
+
+MET CS 342: Data Structures with Java
+           			This course covers data structures using the Java Programming Language. Topics include data abstraction, encapsulation, information hiding, and the use of recursion, creation and manipulation of various data structures: lists, queues, tables, trees, heaps, and graphs, and searching and sorting algorithms. Laboratory course. 		
+
+MET CS 382: Information Systems for Management
+           			Computer-based management information systems. Management's role in development and use of computer systems. Planning for a comprehensive information system; role in decision making, case studies. 		
+
+MET CS 401: Introduction to Web Application Development
+           			This course focuses on building core competencies in web design and development. It begins with a  complete immersion into HTML essentially XHTML and Dynamic HTML (DHTML). Students are exposed to  Cascading Style Sheets (CSS), as well as Dynamic CSS. The fundamentals of JavaScript language including  object-oriented JavaScript is covered comprehensively. AJAX with XML and JSON are covered, as they are  the primary means to transfer data from client and server. 4 credits		
+
+MET CS 425: Introduction to Business Data Communications and Networks
+           			Basic concepts of data communications and computer networks; hardware, software, and reference  models; TCP/IP protocol suit. Overview of voice communication, LAN, network development life cycle,  security, management IT Economic: Total Cost Ownership, Return on investment and IT Project Portfolio  Management. 		
+
+MET CS 469: Introduction to Database Design and Implementation for Business
+	Database concepts, relational and entity-relationship (ER) data models, normalization, object-relational modeling, database lifecycle, the Structured Query Language (SQL). Preview of advanced database concepts, including transaction management, performance tuning, distributed databases, and data warehousing. Meets with CS 669, with undergraduate-level exercises, quizzes, and final and an optional term project. (Lab class)		
+
+MET CS 472: Computer Architecture
+           			Computer organization with emphasis on processors, memory, and input/output. Includes pipelining, ALUs, caches, virtual memory, parallelism, measuring performance, and basic operating systems concepts.  Discussion of assembly language instruction sets and programming as well as internal representation of instructions.  Prerequisite: MET CS231 or CS232		
+
+NOTE: Program information is accurate as of July 2013. Check the <a href="http://www.bu.edu/met/">MET website</a> for important updates.

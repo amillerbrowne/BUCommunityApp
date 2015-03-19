@@ -1,0 +1,20 @@
+MET CS 795: Directed Study
+MET CS 796: Directed Study
+MET CS 799: Advanced Cryptography
+MET CS 810: Master's Thesis in Computer Science
+MET CS 811: Master's Thesis in Computer Science
+MET CS 893: Agile and Advanced Software Engineering Methods
+MET EC 101: Introductory Microeconomic Analysis
+MET EC 102: Introductory Macroeconomic Analysis
+MET EC 201: Intermediate Microeconomic Analysis
+MET EC 202: Intermediate Macroeconomic Analysis
+MET EC 203: Empirical Economics 1
+MET EC 204: Empirical Economics 2
+MET EC 332: Market Structure and Economic Performance
+MET EC 341: Monetary and Banking Institutions
+MET EC 356: Economics of the Labor Market
+MET EC 391: International Economics I
+MET EC 392: International Economics II: Problems and Policy
+MET EN 104: English Composition
+MET EN 125: Readings in Modern Literature
+MET EN 127: Readings in American Literature

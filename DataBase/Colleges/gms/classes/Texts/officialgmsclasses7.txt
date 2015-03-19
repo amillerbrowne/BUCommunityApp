@@ -1,0 +1,60 @@
+GMS FA 716: Expert Witness Testimony for Forensic Anthropologists
+		This course is in expert witness testimony of scientific evidence by forensic anthropologists.  The purpose of this course is to give graduate students in the M.A. in Forensic Program an introduction to the United States criminal justice system, an overview of some of the unique challenges that scientific evidence present in the system and experience with providing expert witness testimony. 2 cr, Spring sem.		
+
+GMS FA 718: Special Topics in Forensic Anthropology: Outdoor Crime Scene
+		This course will provide students with an overview of physical evidence found at outdoor crime scenes of buried or scattered human remains.  Focus will involve the recognition, documentation, and collection of physical evidence and the review of real cases in which human remains have been recovered and how physical evidence was used to help solve the crime. 3 cr, Fall sem.		
+
+GMS FA 720: Forensic Anthropology Internship
+		Students registered in this course will be expected to complete an approved internship in an anthropology or archaeology field school, forensic, or medicolegal setting. 2 cr, on demand.		
+
+GMS FA 755: Directed Studies in Forensic Anthropology
+		Students will have the opportunity to develop a directed study in a specialized area of forensic anthropology or archaeology that is of particular interest. 4 cr, all sem.		
+
+GMS FA 760: Research in Forensic Anthropology
+		This course is designed to facilitate the students' thesis research. Var cr, Fall sem.		
+
+GMS FA 761: Research in Forensic Anthropology
+		This course is designed to facilitate the students' thesis research. Var cr, Spring sem.		
+
+GMS FA 790: History, Method, and Theory in Biological Anthropology
+		This course will cover the theoretical and methodological principles of the major areas of biological anthropology.  Initially focusing on the history of biological anthropology and evolutionary theory, the course will expand to cover skeletal biology, forensic anthropology, and contemporary human variation.  The last section will address the philosophy of science and anthropology and practical issues such as presenting and publishing papers and preparing grant proposals.  It is intended that this course provide students with a thorough understanding of the correlation between the developments of the discipline of biological anthropology, evolutionary theory, and the practice of forensic anthropology in the United States. 3 cr, Fall sem.		
+
+GMS FA 800: Field Methods in Forensic Anthropology
+	This course will provide students with a sound basis for archaeological methods applied to a variety of forensic settings. Students will learn core concepts from academic archaeology and how forensic archaeology differs from traditional methods.  3 cr		
+
+GMS FA 802: Applied Forensic Anthropology
+	Students will gain extensive experience in forensic anthropological casework, to include experience in generating analytical notes and report preparation.  Students will be exposed to a variety of casework situations that forensic anthropologists encounter in medical examiner offices, international realms, government laboratories and field situations. 3 cr		
+
+GMS FA 805: Advanced Crime Scene Investigation
+		This hands-on and lecture-based course will provide students with methods and underlying theories related to specialized aspects of crime scene processing.  Topics will include techniques and principles utilized in search and recovery of human remains.  Forensic entomology, mechanisms of human decomposition, use of ground penetrating radar, soil composition, excavation, telltale disturbances in flora and the presence of animal activity will be examined.  A semester-long practical exercise will include the search and recovery of mock remains and the reconstruction of events. 2 cr		
+
+GMS FA 806: Advanced Human Osteology
+	This course builds on the topics covered in GMS FA 712 Human Osteology by exploring human osteology in greater depth and will include lectures and extensive experience with radiographical material. 4 cr		
+
+GMS FA 807: Taphonomy
+		This course will provide students with an advanced basis for vertebrate taphonomy, both with specific focus upon forensic settings but also with a broader understanding of taphonomic processes covering archaeology, paleoecology, and zooarchaeology. 3 cr, Fall &amp; Spring sem.		
+
+GMS FA 810: Mortuary Archaeology
+	This course will provide students with an advanced theoretical basis for cross-cultural comparison of mortuary behavior and its archaeological interpretation.  The topics will cover the history of archaeological though in this topics, processual and post-processual theoretical frameworks, the prehistory of burial, regional archaeological studies, modern Western burial practices and symbolism, gender and class difference, trophy taking, cannibalism, beliefs in undead and how they affect mortuary practices, military memorialization and warfare, ethical issues involved in the analysis of cemeteries and human remains, repatriation, and modern homicide investigation of serial killings and body movement. 3 cr, Fall &amp; Spring sem.		
+
+GMS FA 812: Forensic Entomo
+			
+
+GMS FC 701: Foundations in Biomedical Sciences I: Protein Structure, Catalysis and Interaction
+	The first module of the Foundations in Biomedical Science course "Protein structure, catalysis and interactions" will provide students with a quantitative understanding of protein structure, function, posttranslational modification and the turnover of proteins in the cell. In addition, students will gain facility with thermodynamics, catalysis, kinetics and binding equilibria as they apply to proteins and also to other molecules in biological systems (e.g. nucleic acids, lipids, vitamins, etc.). This course is part of a series of four core integrated courses and additional elective courses aimed towards first year Ph.D. students in the Division of Graduate Medical Sciences. The four cores will be integrated in content and structure, and therefore are intended to be taken as a complete, progressive sequence. 2 cr, Fall sem. 		
+
+GMS FC 702: Foundations in Biomedical Sciences II: Structure and Function of the Genome
+	The second module of the Foundations in Biomedical Sciences course will focus on the mechanisms of biological processes that influence the inheritance, regulation, and utilization of genes. Genetic and genomic, molecular, cell biological, and biochemical experimental approaches to understanding these processes will be explored. In addition, we will discuss the possibilities of utilizing these technologies in medical treatments. This course is part of a series of four core integrated courses and additional elective courses aimed towards first year Ph.D. students in the Division of Graduate Medical Sciences. The four cores will be integrated in content and structure, and therefore are intended to be taken as a complete, progressive sequence. 2 cr, Fall sem. 		
+
+GMS FC 703: Foundations in Biomedical Sciences III: Architecture &amp; Dynamics of the Cell
+	The third module of the Foundations in Biomedical Sciences course will focus on the movement of proteins and membranes with the cell, the secretory process, the cytoskeletal framework of the cell and the resulting cell-cell interaction and communication with the matrix. Molecular, cell biological, and biochemical experimental approaches to understanding these processes will be explored. In addition, we will discuss the possibilities of utilizing these technologies in medical treatments. This course is part of a series of four core integrated courses and additional elective courses aimed to-wards first year Ph.D. students in the Division of Graduate Medical Science. The four cores will be integrated in content and structure, and therefore are intended to be taken as a complete, progressive sequence. 2 cr, Fall sem. 		
+
+GMS FC 704: Foundations in Biomedical Sciences IV: Mechanisms of Cell Communication
+	The fourth module of the Foundations in Biomedical Sciences course will focus on the mechanisms of cell communication. This module will begin by discussing overarching concepts before examining the specific types of molecules that initiate and transduce signals. Examples of cell signaling and subsequent cellular responses will then be considered in different contexts to provide a framework on which future learning can be applied. As the module progresses, the complexity of the systems explored will increase from individual cells to multicellular environments such as tissues, organs, and organisms. In addition, normal processes as well as the dysregulation of cell-cell communication is disease will be studied. This course is part of a series of four core integrated courses and additional elective courses aimed towards first year Ph.D. students in the Division of Graduate Medical Sciences. The four cores will be integrated in content and structure, and therefore are intended to be taken as a complete progressive sequence. 2 cr, Spring sem.		
+
+GMS FC 705: Translational Genetics and Genomics
+		This course will explore the process by which insights from basic science research ultimately lead to new strategies for patient care with a focus on examples from genetics and more recent genome-wide experimental approaches.  The course will cover examples of translational research using genetic, epigenomic, transcriptomic, proteomic, approaches in human and/or model systems.  Research that leads to new approaches for establishing disease diagnosis, prognosis, therapy, and personalized medicine will be discussed.  The ethical and societal implications of these developments will also be considered.  2cr, Spring sem.		
+
+GMS FC 706: Molecular Metabolism
+		This optional module of the Foundations in Biomedical Sciences curriculum focuses on the biochemical, cellular and molecular mechanisms that regulate cell and tissue-specific fuel metabolism.   The course will present an integrated view of biochemistry and the control of cellular and organismal functions with regard to nutrient utilization.  Classes include small group discussions of key papers.  Mechanisms that allow cells to survive variations in nutrient supply (starvation, feeding, nutrient excess/stress) and how these mechanisms contribute to metabolic derangements contribute to disease pathogenesis (e.g. diabetes, obesity, cancer) will be discussed.  2 cr, Spring sem.		
+

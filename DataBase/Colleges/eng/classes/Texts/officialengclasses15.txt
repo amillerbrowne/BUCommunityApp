@@ -1,0 +1,54 @@
+           			Wave equation in cylindrical and spherical co-ordinate systems.  Propagation in waveguides.  Diffraction: the Rayleigh integral and the Helmholtz-Kirchhoff integral.  Green's function and angular spectrum methods.  Diffraction of sound beams: Guassian beams, unfocused and focused sources, and arrays.  Diffraction by apertures, discs and wedges.  Scattering of sound; Rayleigh scattering, scattering cross-section, elastic scatters.  Propagation in inhomogeneous media: rays, the eikonal equation, the Blokhintzev invariant and the acoustic field near caustics.  Absorption and dispersion of acoustic waves.  Transmission and reflection at a fluid-solid interface.		
+
+ENG ME 721: Acoustic Bubble Dynamics
+           			Bubbles and acoustic cavitation play an important role in many aspects of application of sonic and ultrasonic energy in fluids and biological tissue.  This course will introduce the study of bubble phenomena in sound fields.  The fundamental physical acoustics of bubbles and the fundamental physics which can be illustrated by the study of bubble dynamics will be stressed.  The family of Rayleigh-Plesset equations for time-dependent bubble behavior will be derived from the Navier-Stokes equations.  Analytical approximations to the Rayleigh-Plesset equations in various limiting cases will be derived and studied.  Approximations to the thermodynamic behavior of oscillating bubbles will be considered in detail.  Thermal, acoustic, and viscous contributions to dissipation will be treated.  Numerical solutions will also be studied, specifically in the context of highly nonlinear behavior during acoustically forced oscillations.  Other topics covered will include scattering of sound and acoustic radiation, acoustics of bubbly liquids, bubble-mediated bioeffects, shape instabilities, acoustic levitation, sonoluminescence, heat and mass transfer during bubble oscillations, sonochemistry and cavitation detection and monitoring. 		
+
+ENG ME 723: Waves in Random Media
+           			Systematic development of wave phenomena in weakly inhomogeneous and moving media. Emphasis is on acoustic waves, with selected examples from other branches of wave physics. Both ray-tracing and full-wave methods are discussed. Introduction to the statistical description of random media and of turbulent media. Formulations for relating statistical properties of wave phenomena to the statistical properties of the medium. 		
+
+ENG ME 724: Advanced Optimization Theory and Methods
+		Complements ENGEC524 by introducing advanced optimization techniques. Emphasis on nonlinear optimization and recent developments in the field. Topics include: unconstrained optimization methods such as gradient and incremental gradient, conjugate direction, Newton and quasi-Newton methods; constrained optimization methods such as projection, feasible directions, barrier and interior point methods; duality; and stochastic approximation algorithms.  Introduction to modern convex optimization including semi-definite programming, conic programming, and robust optimization.  Applications drawn from control, production and capacity planning, resource allocation, communication and sensor networks, and bioinformatics.  Meets with ENGEC724 and ENGSE724.  Students may not receive credit for both. 		
+
+ENG ME 725: Queueing Systems
+		Performance modeling using queueing networks, analysis of product form and non-product form networks, numerical methods for performance evaluation, approximate models of queueing systems, optimal design and control of queueing networks. Applications from manufacturing systems, computer systems and communication networks. Meets with ENGEC725 and ENGSE725.  Students may not receive credit for both. 		
+
+ENG ME 726: Fundamentals of Biomaterials
+           			Provides the chemistry and engineering skills needed to solve challenges in the    biomaterials and tissue engineering area, concentrating on the fundamental    principles in biomedical engineering, material science, and chemistry.  Covers    the structure and properties of hard materials (ceramics and metals) and soft    materials (polymers and hydro-gels).  Same as ENG BE 726 and ENG MS 726.   Students  may not  receive credit for both.		
+
+ENG ME 727: Principles and Applications of Tissues
+           			Provides the chemistry and engineering skills needed to solve challenges in the  biomaterials and tissue engineering area, concentrating on cell-biomaterial  interactions, soft tissue mechanics and specific research topics.  Students will  write a NIH-style grant proposal on a specific research topic.  Note that the  laboratory portion is not offered in ENG ME 727. Same as ENG BE 727/ENG MS 727.  Students may not receive credit for both. 		
+
+ENG ME 728: Special Topics in Wave Propagation
+           			Format is similar to that of regular classroom courses, with in-depth coverage of an announced topic of current interest in wave propagation.  Subject matter varies from year to year. 		
+
+ENG ME 729: Non-linear Acoustics and Sonic Booms
+           			Propagation of finite amplitude sound, principles of one-dimensional unsteady compressible flow. Discussion of non-linear distortion, generation of harmonics, weak shocks, N-waves, and of shock profiles. Supersonic aerodynamics, flow around bodies in supersonic flight, generation of sonic booms, non-linear acoustics theory of boom propagation through the atmosphere. Selected additional topics in non-linear acoustics. 		
+
+ENG ME 732: Combinatorial Optimization and Graph Algorithms
+           			Design data structures and efficient algorithms for priority queues, minimum spanning trees, searching in graphs, strongly connected components, shortest paths, maximum matching, and maximum network flow. Some discussion of intractable problems and distributed network algorithms.		
+
+ENG ME 733: Discrete Event and Hybrid Systems
+		Review of system theory fundamentals distinguishing between time-driven and event-driven dynamics.  Modeling of Discrete Event and Hybrid Systems; Automata, Hybrid Automata, Petri Nets, basic queueing models, and stochastic flow models.  Monte Carlo computer simulation:  basic structure and output analysis.  Analysis, control, and optimization techniques based on Markov Decision Process theory with applications to scheduling, resource allocation, and games of chance.  Perturbation Analysis and Rapid Learning methods with applications to communication networks, manufacturing systems, and command-control.  Meets with ENGEC733 and ENGSE733.  Students may not receive credit for both.		
+
+ENG ME 734: Hybrid Systems
+		The course offers a detailed introduction to hybrid systems, which are dynamical systems combining continuous dynamics (modeled by differential equations) with discrete dynamics (modeled by automata). The covered topics include modeling, simulation, stability analysis, verification, and control of such systems. The course contains several applications from both natural and manmade environments, ranging from gene networks in biology, to networked embedded systems in avionics and automotive controls, and to motion planning and control in robotics. Same as ENG ME 734 and ENG SE 734. Students may receive credit for one. 4 cr. 1st sem. 		
+
+ENG ME 736: Biomedical Transport Phenomena
+           			Students are introduced to the analysis and characterization of physiological systems and biomedical devices in which chemical reaction and the transport of mass and momentum play predominant roles. Fundamental scientific issues and analytical techniques are introduced and applied to case studies of specific engineering problems. Some knowledge of a high-level computer programming language is essential. A two-hour computer lab is required. Meets with ENGBE736 and ENGMS736. Students may not receive credit for both.		
+
+ENG ME 740: Vision, Robotics, and Planning
+           			Methodologies required for constructing and operating intelligent mechanisms. Comprehensive introduction to robot kinematics for motion planning. Dynamics and control of mechanical systems. Formal treatment of differential relationships for understanding the control of forces and torques at the end effector. Discussion of robot vision and sensing and advanced topics in robot mechanics, including elastic effects and kinematic redundancy. Meets with ENGSE740. Students may not receive credit for both. 		
+
+ENG ME 741: Fluid-Structure Interaction
+           			Discussion of basic phenomena occurring when the response of a solid structure immersed in or bounding a flow has a significant influence on the flow. Methods are developed and applied to a general range of vibration problems that arise in diverse situations involving the interaction of laminar and turbulent flows with rigid and elastic structures.		
+
+ENG ME 742: Bio-Fluids and Structural Mechanics
+           			Mechanics of biological systems, with emphasis on biological application of fluid mechanics. Topics will be chosen from the following: cardiovascular dynamics--pulsatile flow, vessel elasticity, non-Newtonian behavior, flow in bifurcations, thermodilution; pulmonary dynamics--oscillatory flow, convection-diffusion interactions, surface tension effects, high frequency ventilation, turbulence; clinical applications--urodynamics, bone fracture, dental mechanics, male impotency; mechanics of propulsion--microorganisms in viscous liquids, swimming, flying.		
+
+ENG ME 760: Control of Sound and Vibration
+		Physical principles and multivariable control techniques involved in the active control of sound and vibration. Topics in sound control include reduction of noise in ducts, structural control to reduce acoustic radiation, and sound field control in enclosures. Vibration control for both lumped and distributed parameter systems, with examples from space structure control and active vibration isolation. Control techniques include feedback and feed forward approaches, LMS adaptive algorithms, linear quadratic regulators, and modern robust control techniques. Effects of system modeling errors and simplifications (i.e., modal truncation) are studied. Laboratory experience implementing a vibration-control scheme for a cantilever beam.		
+
+ENG ME 761: Experimental Modal Analysis and System Identification
+		Fundamental concepts of modal testing; analysis of multi-degree-of-freedom systems; viscous and hysteretic damping models; proportional and non-proportional damping; receptance, mobility and inertance frequency response functions; random and transient vibrations; practical issues concerning mobility measurement techniques; modal parameter extraction in frequency domain and time domain; structural modification; effects of non-linearities on modal analysis; engineering applications. 		
+
+ENG ME 762: Nonlinear Systems and Control

@@ -1,0 +1,60 @@
+MET PS 323: Experimental Psychology: Learning
+           			Methodology, results, and interpretation of respondent and operant conditioning. Experimental analyses of selected topics in learning within the context of reinforcement theory. Students write reports of instructor- and student-planned experiments using the albino rat as subject. Laboratory course.		
+
+MET PS 325: Experimental Psychology: Personality
+           			Experimental and observational investigations of selected aspects of personality. Demonstration of experimental procedures; participation in laboratory and field studies. Laboratory course.		
+
+MET PS 326: Exp Psy Social
+			
+
+MET PS 330: Leadership in the Workplace
+           			This class is aimed at students who are eager to develop an understanding of the interplay between psychology, leadership, and workplace dynamics within organizations. The focus of the class is on the practical as well as the applied and theoretical aspects of organization psychology. Investigations will focus on actual work related case studies and leadership and work related issues, as well as an investigation of the dynamic nature of the field. We will use the classroom setting as a laboratory to analyze cases and to discuss solutions for work related problems.  This class is ideal for students preparing to enter the workplace. 		
+
+MET PS 335: How the Brain Works: An Introduction to Neuropsychology
+           			Where do our thoughts, feelings, and behaviors come from?  They all originate in the brain.  The  mysteries of the brain become accessible through the study of tragically commonplace medical events  and conditions such as stroke and dementia and exceptionally rare cases where n = 1 (the amnesic  patient H.M.; the infamous Phineas Gage).  Neuropsychology is the study of the relationship between  the brain and behavior.  This course examines the anatomical structures of the brain including the  cerebral lobes, brain stem and subcortical regions and will explore cognitive processes including  memory, language, attention, and emotion.  Significant emphasis will be placed on the relation  between brain disorders (resulting from head injury, stroke, degenerative disease, etc.) and abnormal  behavior. 		
+
+MET PS 340: Business and Organizational Psychology
+           			The discipline of business and organizational psychology is a fast-growing expert area in the behavioral  sciences. As a whole it concerns itself with the scientific application of psychological principles, research,  theories, methods, and interventions to the world of business and organizations. This course introduces  the undergraduate student to the discipline's theories, methods, and practical applications. 		
+
+MET PS 350: Depression and Disorders of Mood
+           			Examines current theories and research findings on depression and mania. Evaluation of major biological and psychosocial theories and treatments. Attention to personality, psychosocial risk factors, and depression in children. Note: This course cannot be used as one of the principal courses required for the CAS psychology major or minor. 		
+
+MET PS 366: The Psychological Unconscious
+           			The psychological unconscious has been cause for fascination since the dawn of civilization among   philosophers, scientist and artists. In recent years, thanks to swift advances in the neurosciences, many   unconscious phenomena have been studied experimentally and revealed to us. These empirical studies,   when combined with the theoretical work of previous generations, offer sharp insights into how the   psychological unconscious works in generating thoughts, beliefs, and behaviors.		
+
+MET PS 371: Abnormal Psychology
+           			Explores the complex causes, manifestations, and treatment of common behavior disorders. Introduces abnormal behavior in the context of psychological well being to show these behaviors along a continuum from functional to dysfunctional. Interviews with patients and analysis by therapists and other mental health professionals provide students with invaluable perspectives on the suffering of behavioral disorders as well as the multiple approaches to treatment.		
+
+MET PS 401: Psychological Perspectives on Self and Identity
+           			This course explores the manifold ways in which the sense of "who one is" as a person is approached and understood within the field of psychology. The psychological construct of identity will be utilized to survey the varying ways in which the experience and nature of "one's own sense of self" is examined and elucidated across the major sub-fields of psychology, including: developmental psychology; personality psychology, abnormal psychology, humanistic, existential and transpersonal psychology; and the psychology of religion. Particular consideration will be given to the significance of such cultural and contextual factors as race, ethnicity and gender. 		
+
+MET PS 404: Senior Seminar in Psychology and Culture
+           			This class addresses the key role culture plays in shaping the human experience. Emphasis will be put  on key social, affective, and cognitive aspects of group identity and self-identity development. The  historical role psychology has played in understanding these phenomena will be reviewed. Topics that  will be covered include: cross cultural communication and the constant evolution of prejudice and  racism in today's world. The course is taught in seminar format and requires intensive student  motivation and participation.		
+
+MET PS 472: Psychology of Women
+           			This course is designed to introduce undergraduate students to the myriad factors influencing the  development of girls and women in a variety of cultures and societies. Topics that will be covered include  feminist scholarship and research; gender socialization, women's biology, and health; sexuality,  relationships and family; and work, career, and power issues.  		
+
+MET PS 497: Health Psychology
+           			Health Psychology is the branch of psychological science that deals with identifying and understanding factors that help enhance human health and prevent disease.  Through education, research, and treatment, health psychologists intervene in a wide variety of clinical conditions, including addictions, chronic illnesses, cardiovascular diseases, pain management and many others.  		
+
+MET PS 515: Introduction to Forensic Psychology: Methods, Practice, and Theory
+           			The field of forensic psychology lies at the crossroads of psychology, the law, and the criminal justice  system. This course presents upper-level undergraduates and master's level graduate students with the  scope of forensic psychology practice and research. First, the course focuses on the scope of the field:  what forensic psychologists do, the ethical conflicts they encounter, and the field's special  methodology (e.g., assessment of malingering and deception). The use and function of expert witness  testimony is reviewed and critically evaluated. A range of civil and criminal psychological issues is  addressed including eyewitness memory, sexual offenders and battered women. 		
+
+MET PS 592: Positive Psychology
+           			Positive Psychology is the scientific study of what makes it possible for human beings to lead happy, meaningful and productive lives--sometimes despite  formidable odds. This course offers an introduction to the discipline's methods, empirical findings and theory.		
+
+MET PY 105: Elementary Physics (N)
+	Assumes a knowledge of algebra and trigonometry. Satisfies premedical requirements. Principles of classical and modern physics: mechanics, heat, light, electricity and magnetism, and atomic and nuclear physics. Fundamental concepts of energy; conservation laws, energy sources, and transformations. Lectures, discussions, and laboratory. 		
+
+MET PY 106: Elementary Physics (N)
+	Assumes a knowledge of algebra and trigonometry. Satisfies premedical requirements. Principles of classical and modern physics: mechanics, heat, light, electricity and magnetism, and atomic and nuclear physics. Fundamental concepts of energy; conservation laws, energy sources, and transformations. Lectures, discussions, and laboratory. 		
+
+MET PY 211: General Physics (N)
+           			For premedical students desiring a more analytical course than MET PY 105, PY 106, and for science concentrators who require a one-year physics course. Basic principles of physics, emphasizing topics from mechanics, thermal physics, electricity and magnetism, and optics. Lectures, discussions, and laboratory. 		
+
+MET PY 212: General Physics (N)
+           			For premedical students desiring a more analytical course than MET PY 105, PY 106, and for science concentrators who require a one-year physics course. Basic principles of physics, emphasizing topics from mechanics, thermal physics, electricity and magnetism, and optics. Lectures, discussions, and laboratory. 		
+
+MET RN 100: Introduction to Religion
+	Religion matters. It makes meaning and provides structure to life, addressing fundamental questions   about body, spirit, community, and time. But what is it? How does it work in our world? This course   explores religion in ritual, philosophical, experiential, and ethical dimensions.  Carries humanities divisional  credit in CAS.		
+

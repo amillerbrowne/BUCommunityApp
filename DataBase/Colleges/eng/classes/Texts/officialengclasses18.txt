@@ -1,0 +1,59 @@
+           			Provides the chemistry and engineering skills needed to solve challenges in the biomaterials and tissue engineering area, concentrating on the fundamental principles in biomedical engineering, material science, and chemistry.  Covers the structure and properties of hard materials (ceramics and metals) and soft materials (polymers and hydro-gels).    Same as ENG BE 726 and ME 726. Students may not receive credit for both. 		
+
+ENG MS 727: Principles and Applications of Tissue Engineering
+           			Provides the chemistry and engineering skills needed to solve challenges in the biomaterials and tissue engineering area, concentrating on cell-biomaterial interactions, soft tissue mechanics and specific research topics.  Students will write a NIH-style grant proposal on a specific research topic.  Note that the laboratory portion is not offered in MS 727. Same as BE 727/ME 727. Students may not receive credit for both. 		
+
+ENG MS 735: Cmptnl Nanomech
+           			This course description is currently under construction.		
+
+ENG MS 736: Biomedical Transport Phenomena
+           			Students are introduced to the analysis and characterization of physiological systems and biomedical devices in which chemical reaction and the transport of mass and momentum play predominant roles. Fundamental scientific issues and analytical techniques are introduced and applied to case studies of specific engineering problems. Some knowledge of a high-level computer programming language is essential. A two-hour computer lab is required. Meets with ENGBE736 and ENGME736. Students may not receive credit for both.		
+
+ENG MS 742: Bio-Fluids and Structural Mechanics
+		Mechanics of biological systems, with emphasis on biological application of fluid mechanics. Topics will be chosen from the following: cardiovascular dynamics--pulsatile flow, vessel elasticity, non-Newtonian behavior, flow in bifurcations, thermodilution; pulmonary dynamics--oscillatory flow, convection-diffusion interactions, surface tension effects, high frequency ventilation, turbulence; clinical applications--urodynamics, bone fracture, dental mechanics, male impotency; mechanics of propulsion--microorganisms in viscous liquids, swimming, flying.		
+
+ENG MS 764: Optical Measurement
+           			In this course we will start with a review of classical electromagnetic radiation theory and properties of light such as polarization and coherence. In the first part of the course we will look at applications of interference and polarization effects used in different passive application areas such as resonators (e.g. sensors, switching, and detection), visibility and interferometry measurements and the usage both of highly coherent and incoherent light respectively. The second part of the course will consider light-matter interactions in dispersive media and compare classical, semi-classical, and quantum mechanical models with focus on the two-level system. The analysis will be applied to active spectroscopy measurements such as absorption and transmission, Photoluminescence, Raman and IR in time and frequency domain measurements. The emphasis will be on extracting material morphology and material properties, illustrated with classical and current journal papers. Finally, we will also discuss relevant tools such as spectrometers and detectors. 		
+
+ENG MS 774: Semiconductor Quantum Structures and Photonic Devices
+           			Optical properties of semiconductors: interband optical transitions; excitons.  Low-dimensional structures: quantum wells, superlattices, quantum wires, quantum dots, and their optical properties; intersubband transitions.  Lasers: double-heterojunction, quantum-well, quantum-dot, and quantum-cascade lasers; high-speed laser dynamics.  Electro-optical properties of bulk and low-dimensional semiconductors; electroabsorption modulators.  Detectors: photoconductors and photodiodes; quantum-well infrared photodetectors. Same as ENG MS 774. Students may not receive credit for both. 		
+
+ENG MS 778: Micromachined Tranducers
+		The field of micro-electromechanical devices and systems (MEMS) has been growing at an exciting pace in recent years.  The interdisciplinary nature of both micro-machining techniques and their applications can and does lead to exciting synergies.  This course will explore the world of mostly silicon-based micro-machined transducers, i.e., micro-sensors and micro-actuators.  This requires an awareness of material properties, fabrication technologies, basic structural mechanics, sensing and actuation principles, circuit and system issues, packaging, calibration, and testing.  The material will be covered through a combination of lectures, case studies, individual homework assignments, and design projects carried out in teams.		
+
+ENG MS 781: Electroceramics
+	This course will explore the structure property relationships and phenomena in ceramic materials used in electronic, dielectric, ferroelectric, magnetic, and electrochemical applications. In particular we will discover how to functionalize a component for a particular application- a capacitor, a thermistor, actuator, or a fuel cell. Such a discovery process demands an in-depth understanding of the roles and interrelationships between the crystal structure, defect chemistry, microstructure, and texture in such materials. Statistical thermodynamics, quantum mechanics, and solid mechanics principles will be used as and when necessary in the course. The course is intended to fit in the space and act as a bridge between solid state theory where the emphasis is largely on theory and a ceramic materials course where the emphasis is largely on processing.		
+
+ENG MS 782: Advanced Materials Characterization
+	This course will discuss the characterization of materials' atomic and   electronic structure.  Atomic structure evaluation by x-ray diffraction,   selected area- and convergent-beam electron diffraction; microstructure   evaluation by transmission electron microscopy, principles of bright-field,   dark-field and weak-beam imaging; principles of analytical electron microscopy   using EDS, WDS, AES; study of chemical and bonding states by EELS, Raman   spectroscopy and XPS/ESCA; laser-based non-destructive evaluation of mechanical   properties of materials.  Characterization methods for semiconductors include   the study of point defects by electron paramagnetic resonance, of transport   properties by magnetoresistance and Hall effect, of recombination phenomena by   photoluminescennce and of junction properties by capacitance-voltage methods.		
+
+ENG MS 900: Research
+           			Participation in a research project under the direction of a faculty advisor. If not leading to an MS thesis or PhD dissertation, a final report is normally required. 		
+
+ENG MS 901: Thesis
+           			Preparation of an original thesis under the guidance of a faculty member.		
+
+ENG MS 925: Graduate Project
+           			A practical materials design, analysis, fabrication, or production project. Written report required.		
+
+ENG MS 951: Independent Study
+           			Graduate students may study, under a faculty member's supervision, subjects not covered in a regularly offered course. Final report and/or written examination normally required.		
+
+ENG MS 991: Dissertation
+           			Advisor and hours arranged		
+
+ENG SE 501: Dynamic Systems Theory
+           			Introduction to analytical concepts and examples of dynamic systems and control.  Mathematical description and state space formation of dynamic systems; modeling, controllability, and observability.  Eigenvector and transform analysis of linear systems including canonical forms.  Performance specifications.  State feedback:  pole placement and the linear quadratic regulator.  Introduction to MIMO design and system identification using computer tools and laboratory experiments.  Meets with ENGEC501 and ENGME501; students may not receive credit for both. 		
+
+ENG SE 524: Optimization Theory and Methods
+           			Introduction to optimization problems and algorithms emphasizing problem formulation, basic methodologies, and underlying mathematical structures. Classical optimization theory as well as recent advances in the field. Topics include modeling issues and formulations, simplex method, duality theory, sensitivity analysis, large-scale optimization, integer programming, interior-point methods, non-linear programming optimality conditions, gradient methods, and conjugate direction methods. Applications are considered; case studies included. Extensive paradigms from production planning and scheduling in manufacturing systems.  Other illustrative applications include fleet management, air traffic flow management, optimal routing in communication networks, and optimal portfolio selection. Meets with ENGEC524.  Students may not receive credit for both. 		
+
+ENG SE 543: Sustainable Power Systems: Planning, Operation and Markets
+           			Breakthroughs in clean energy generation technologies and the advantage of exploiting efficiently the available work in fossil fuels will render electricity the dominant energy form in a sustainable environment future. We review the key characteristics of Electric Power Transmission and Distribution (T&amp;D) networks and the associated planning and operation requirements that ensure supply adequacy, system security and stability. Capital asset investment and operation cost minimization is discussed in a systems engineering context where the assets as well as the dynamic behavior of generators, T&amp;D networks, and loads interact. Recent developments in the formation of competitive wholesale markets at the High Voltage Transmission system level, the associated market participation and clearing rules and the market clearing optimization algorithms are presented and analyzed in terms of their effectiveness in fostering cost reflective price signals and competitive conditions that encourage optimal distributed/not-centralized investment and operating decisions. Finally, we present T&amp;D congestion and supply-demand imbalance related barriers to the widespread adoption of environmentally friendly and economically efficient technological breakthroughs, and propose a systems engineering and real-time retail-market based coordination of centralized as well as decentralized generation, storage and load management resources that is able to achieve desirable synergies and mitigate these barriers. 4 cr. 		
+
+ENG SE 544: Networking the Physical World
+           			Considers the evolution of embedded network sensing systems with the introduction of wireless network connectivity. Key themes are computing optimized for resource constrained (cost, energy, memory and storage space) applications and sensing interfaces to connect to the physical world. Studies current technology for networked embedded network sensors including protocol standards. A laboratory component of the course introduces students to the unique characteristics of distributed sensor motes including programming, reliable communication, sensing modalities, calibration, and application development. Meets with ENGME544. Students may not receive credit for both. 4 cr.  		
+
+ENG SE 700: Advanced Special Topics
+           			Advanced study of a specific research topic in systems engineering.  Intended primarily for advanced graduate students. On Demand. Var cr. 		
+

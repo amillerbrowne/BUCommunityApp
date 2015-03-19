@@ -1,0 +1,59 @@
+		Fundamental statics of particles, rigid bodies, trusses, frames, and virtual work.  Distributed forces, uni-axial stress and strain, shear and bending moment  diagrams. Application of vector analysis and introduction to engineering design.  Includes design project.		
+
+ENG EK 307: Electric Circuits
+	Introduction to electric circuit analysis and design; voltage, current, and power, circuit laws and theorems; element I-V curves, linear and nonlinear circuit concepts; operational amplifier circuits; transient response of capacitor and inductor circuits, sinusoidal-steady-state response, frequency response, transfer functions; Includes design-oriented laboratory. 4cr.		
+
+ENG EK 335: Introduction to Environmental Engineering
+	This course provides a technical introduction to a wide range of environmental engineering topics to quantitatively understand and analyze environmental problems. Topics covered include mass and energy balance for analyzing environmental engineering concepts, population growth, models for resource consumption and risk analysis, energy systems, air pollution and prevention strategies, water quality assessment and supply issues, drinking and waste water treatment, solid waste treatment and management strategies, and resource recovery and recycling. Relevant existing laws and regulations are also reviewed in the context of the topics covered. 4 cr.		
+
+ENG EK 408: Introduction to Clean energy Generation and Storage Technologies
+           			This course covers a wide variety of modern energy generation and storage technologies. The engineering principles that govern thermomechanical, thermoelectric,photvotaic and elctrochemical energy conversion processes will be discussed along with the challenges of hydrogen storage and hybrid batteries. The consequences of using renewable energy resources such as solar, hydrogen, biomass, geothermal, hydro, and wind versus  non-renewable fossil fuels and nuclear resources will also be covered.		
+
+ENG EK 409: Engineering Economy
+           			Analysis of engineering alternatives for replacement. Present worth analysis. Cost control,budgeting, and indirect costs and their allocation. Company startups, stock ownership, and annual reports. Cost optimization, economic life, taxes,inflation, inventories, and depreciation accounting. Contract negotiations,professional ethics, and cost proposal preparation. Evaluation of public projects. 		
+
+ENG EK 424: Thermodynamics and Statistical Mechanics
+           			Thermodynamic systems. Heat,temperature, and pressure. State variables and equations of state. First and second laws of thermodynamics. Kinetic theory. Entropy. Statistical Thermodynamics. Partition function. Thermodynamic potentials. Equilibrium. Chemical reactions. Phase transitions. Colligative Properties. electrochemical reactions. Applications to problems of biomedical interest will be emphasized.4 cr.		
+
+ENG EK 497: Undergraduate Part-Time Co-op Experience
+           			Students work part-time, as defined by their employing company, while registering for 8-11 credits. Registration for 12 or more credits requires the written approval of the director. Students registered in ENG EK 497E are assessed a fee upon placement. 		
+
+ENG EK 498: Undergraduate Co-op Experience
+           			Students register only upon receiving a cooperative education position. The Cooperative Education Program helps students to integrate classroom theory with actual engineering experience. Under professional supervision, students learn firsthand about the engineering environment by working in a paid, full-time position in a medical or research facility, private business, industry, or governmental agency. Through seminars on topics such as self-assessment, identification of work skills, rÃ©sumé writing, interview skills, and understanding the corporate world, students learn the broad career skills required to obtain co-op and permanent employment. 		
+
+ENG EK 500: Probability with Statistical Applications
+           			A first course in probability, random processes, and statistics for students with a level of mathematical maturity and experience comparable to that normally found in entering graduate students. Sample spaces, probability measures, random variables, expectation, applications of transform methods, stochastic convergence and limit theorems, second order statistics, introduction to random processes, estimation, filtering, and elementary hypothesis testing. May not be taken for credit in addition to ENG EC 381 or ENG ME 308. 4 cr		
+
+ENG EK 501: Mathematical Methods I: Linear Algebra and Complex Analysis
+	Introduction to basic applied mathematics for science and engineering, emphasizing practical methods and unifying geometrical concepts. Topics include linear algebra for real and complex matrices. Quadratic forms,  Lagrange multipliers and elementary properties of the rotation group. Vector differential and integral calculus. Complex function theory, singularities and multi-valued functions, contour integration and series expansions. Fourier and Laplace transforms. Elementary methods for solving ordinary linear differential and systems of differential equations with applications to electrical circuits and mechanical structures. 		
+
+ENG EK 546: Assessment of Sustainable Energy Technologies
+           			Critical to launching new energy ventures and implementing new energy policies is developing a broad understanding of how technically feasible the proposed project/technology in meeting the economic, environmental, and end-use requirements.  This course will provide students with the background needed to assess the potential for energy efficiency and effectiveness of different technologies, the related economics, as well as identify the key technical risks in emerging technologies.  Examples will be drawn from a variety of emerging technologies such as solar photovoltaics, fuel cells, advanced transportation technology, as well as conservation options such as motors, cogeneration, building automation and HVAC.  This course will also address evaluating the life cycle implications of emerging technologies, including manufacturing issues, end-of-life, as well as estimating performance. 4cr. 2nd sem.		
+
+ENG EK 697: Graduate Part-time Engineering Practice
+		Students register upon receiving an internship position. The Engineering Practice   degree option helps students to integrate classroom theory with actual engineering   experience. Under professional supervision, students acquire firsthand knowledge   about the engineering environment by working in a paid, part-time position, while   registering for 4-11 credits. 		
+
+ENG EK 698: Graduate Engineering Practice
+		Students register upon receiving an internship position. The Engineering Practice   degree option helps students to integrate classroom theory with actual engineering   experience. Under professional supervision, students acquire firsthand knowledge   about the engineering environment by working in a paid, full-time position.		
+
+ENG EK 720: Biophotonic System Design and Prototyping
+           			Theory and practice of biophotonic instrument design with application to biomedical devices. Students will work on problems introduced and defined by physicians and clinical researchers, to develop new medical products from concept to prototype design and development.   Students in physics, chemistry, and engineering will learn fundamentals of biophotonics sensors and systems development and prototyping for three end uses:  in vivo platforms, exploring innovative techniques for sub-cellular imaging of biomolecular structure and interactions in living tissue; resonant and interferometric biosensors, exploring resonance-enhanced photonic pathogen detection or disease diagnosis with high sensitivity and specificity; and point-of-care diagnosis, exploring rapid, low-cost spectroscopic and imaging techniques that will add to our understanding biological behavior at the molecular level and will lead to important new tools for biomedicine, particularly in areas where there are currently few means of diagnosis.   The course provides foundational instruction with respect to core photonic and biomedical design principles, and a case-study based instructional approach to technology transfer and prototyping.  Semester-long projects conducted by interdisciplinary teams involve  design and prototyping based on problems introduced by practitioners and researchers identified by a regional health care consortium, CIMIT.  4 cr. 		
+
+ENG EK 731: Bench-to-Bedside: Translating Biomedical Innovation from the Laboratory to the  Marketplace
+	The subject of the course is the translation of medical technologies into new  products and services for the healthcare system. The course begins with a  rigorous study of intellectual property, licensing and the core aspects of  planning, creating, funding and building new entrepreneurial ventures. Concepts  and tools are presented for assessing new technologies and their potential to be  the basis for a new entrepreneurial venture. Comparisons will be made of how  technologies can be sourced and commercialized out of three very different  environments: universities, national laboratories and corporate laboratories.  Cross-disciplinary teams of students will be formed which will evaluate  translational research projects currently being developed at Boston University  and their potential for transformation into a start-up company to commercialize  the technology, providing a unique linkage between the scientific research  activities of the university and the professional schools. Each week there will  be a case study which will discuss examples of both success and failure in  technology commercialization. Some of these case studies examine Boston  University life sciences spin-out companies, and the founders and CEO?s of these  ventures will share their experiences with the class.		
+
+ENG EK 920: Summer Research Experience
+	By department approval only. Research carried out under the guidance of a faculty  member. 		
+
+ENG ME 302: Engineering Mechanics II
+           			Fundamentals of engineering dynamics. Kinetics and kinematics of rigid bodies in two and three dimensions. Newton's Laws.  Lagrangian methods.  Introduction to mechanical vibrations.  4 cr		
+
+ENG ME 303: Fluid Mechanics
+           			Properties of fluids. Fluid statics. Flow kinematics and dynamics. Dimensional analysis. Control volume approach to conservation of mass, momentum, and energy.  Analysis of fluid flow along streamline using the Bernoulli equation. Pipe flow analysis techniques. Discussion of boundary layers, and methods for estimating drag, and lift forces. Course consists of a mixture of lectures and labs. 		
+
+ENG ME 304: Energy and Thermodynamics
+		Macroscopic treatment of the fundamental concepts of thermodynamic systems. Zeroth, first, and second laws; properties of simple compressible substances; entropy; energy availability; ideal gas mixtures and psychometrics; and thermodynamic cycles. Application to engines, refrigeration systems, and energy conversion. Includes lab.  		
+
+ENG ME 305: Mechanics of Materials
+           			Introduction to stress and strain. Axial and shear loading.  Torsion of shafts and thin-walled tubes. Stress within and deflection of bending beams.  Combined loadings.  Stress and strain transformations.  Generalized Hooke's law.  Material failure theories.  Column buckling.  Includes lab and project.  4 cr. either sem. 		
+

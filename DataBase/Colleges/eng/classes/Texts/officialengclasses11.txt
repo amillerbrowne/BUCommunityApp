@@ -1,0 +1,59 @@
+           			Structure and properties of solids; crystalline structure; defect structures; atom movement and diffusion; nucleation and growth; deformation; phase diagrams; strengthening mechanisms; heat treatment; ferrous/nonferrous alloys; ceramics; polymers; composites. Includes lab. Meets with ENGMS306.  Students may not receive credit for both.  		
+
+ENG ME 309: Structural Mechanics
+           			Application of solid mechanics to structures and machine elements. Elementary elasticity. Energy principles. Matrix and finite element methods. Stability phenomena. Modes of structural failure. Introduction to FEM.  Includes design project.  		
+
+ENG ME 310: Instrumentation and Theory of Experiments
+           			Designing, assembling, and operating experiments involving mechanical measurements; analyzing experimental data. Safety considerations in the laboratory. Wind tunnel testing. Mechanical and electrical transducers for flow, pressure, temperature, velocity, strain, and force. Electric circuits for static and dynamic analog signal conditioning. Computer use for digital data acquisition and analysis; instrument control. Introduction to frequency domain analysis.  Professional standards for documenting experiments and preparing reports, including formal uncertainty analysis involving elementary statistics.  Discussion of commercial instrument development. Interpretation of experimental results. Includes lab and design project.		
+
+ENG ME 345: Automation and Manufacturing Methods
+           			  An introduction to the major concepts and practices of modern manufacturing, including production system dynamics, process development, and computer-aided design and manufacturing techniques. Topics include numerically controlled machines, robotic control, real-time process control, computer vision, statistical process control, programmable logic control, production system design, discrete event system models, and computer simulation. Strong emphasis is given on hands-on laboratory experience, with a lecture component covering fundamental concepts and supporting the laboratory exercises and projects. Includes lab. 4 cr.		
+
+ENG ME 359: Introduction to CAD and Machine Components
+           			Technical drawing in two and three dimensions will be covered in detail using advanced CAD tools. Geometrical dimensioning and tolerancing methods and specifications will be taught and applied to a variety of tasks and projects. Topics will include initial aspects of machine components and design, computer numerical control (CNC), computer aided manufacturing (CAM), and relation to machining and various manufacturing processes. Cannot be taken for credit in addition to ME 407. 2 cr.  		
+
+ENG ME 360: Product Design
+           			This course emphasizes the profitable conversion of product ideas to useful and attractive products desired by customers.  This course includes aspects of both engineering design and industrial design.  This course consists of a series of design projects of increasing complexity, including the development of an operations plan for product manufacture and delivery.  Exercises include product manufacturing considerations.  Use is made of SolidWorks CAD software.  Resources for design exercises are presented in working studio sessions.  4 cr. 		
+
+ENG ME 366: Probability and Statistics for Mechanical Engineers
+           			Principles of probability and statistics including events, Bayes' theorem, random variables, joint and marginal distributions, random sequences and series, reliability theory, estimation, and quality control.  Examples drawn from engineering applications. Cannot be taken for credit in addition to CAS MA 381, ENG BE 200, or ENG EC 381.  2 cr. 		
+
+ENG ME 403: Atmospheric Flight Mechanics and Control
+           			Introduction to stability and control of atmospheric flight vehicles. Forces and moments on aircraft. Static and dynamic stability. Equations of motion. Feedback design using root locus. Flying quality standards. Longitudinal and lateral autopilots. Cannot be taken for credit in addition to ME 404. Includes design project and lab.  		
+
+ENG ME 404: Dynamics and Control of Mechanical Systems
+           			Modeling of mechanical systems. Introduction to theory of feedback and control. Performance and stability of linear systems. Design of feedback control systems. Practical applications. Includes lab. Cannot be taken for credit in addition to ME 403.  		
+
+ENG ME 406: Dynamics of Space Vehicles
+           			Orbital mechanics of particles, earth satellite trajectories. Rocket propulsion and atmospheric reentry dynamics. Gravitational and electromagnetic fields of the earth. Effects of the space environment on vehicle performance. Rigid body dynamics and vehicle attitude control. Interplanetary trajectories and mission planning. 		
+
+ENG ME 408: Aircraft Performance and Design
+           			This course covers the fundamental elements of designing and analyzing fixed wing aircraft, including general aviation aircraft, commercial transports and selected military products.  Student teams get to design an airplane from start to finish during the semester as well as compete with other teams for Best-in-Class design.  Topics covered include Initial Sizing, Wing, Fuselage and Empennage Design, Propulsion Selection, Takeoff &amp; Landing Performance, Structural Design, Stability &amp; Control and Cost Assessment.  Emphasis is put on modeling existing competitor aircraft in tandem with the students' design, which helps substantiate design choices.  The use of spreadsheets is a key learning tool for this course.		
+
+ENG ME 419: Heat Transfer
+           			Fundamentals of heat exchange processes and applications to heat exchanger design. Principles of steady and unsteady conduction. Introduction to numerical analysis. Natural and forced convection heat transfer in internal and external flows. Radiant heat exchange. Introduction to boiling and condensation heat transfer. Includes lab and design project. 		
+
+ENG ME 420: Supply Chain Engineering
+           			Emphasizes the integration of product design with the process of delivering products to customers.  Review of manufacturing processes for process automation.  Supply chain configuration and flow balancing.  Seamless introduction of new products.  Process reengineering and lean manufacturing techniques in established supply chains. Design of decision support systems. 		
+
+ENG ME 421: Aerodynamics
+           			Flow kinematics; pathlines, streamlines, streaklines, rate-of-strain, dilation, vorticity, etc. Stream function and velocity potential in two-dimensional flows. Potential flow theory with application of complex variables and conformal maps. Flow past airfoils, lifting line theory, and the Kutta-Joukowski theorem. Differential approach to fluid flow. Stress tensor in a Newtonian viscous fluid. Continuity, Euler, and Navier-Stokes equations. Introduction to turbulence. Fully-developed laminar and turbulent flows. Laminar and turbulent boundary layers. Introduction to computational fluid dynamics. Cannot be taken for credit in addition to AM 422. Includes lab and computer project. 		
+
+ENG ME 425: Compressible Flow and Propulsion
+           			 Fluid mechanics and thermodynamics of compressible fluid flow with application  to external and internal flows as found in propulsion systems. Fluid/thermal  related topics include: normal and oblique shocks, Prandtl-Meyer expansion  waves, variable area duct flow, and wave drag. Propulsion applications include  rocket nozzles, rocket engine staging, supersonic inlets, and exhaust nozzles  for airbreathing propulsion systems. Parametric cycle analysis for ramjet,  turbojet, turbofan, and turboprop engines. 4 cr. 		
+
+ENG ME 441: Mechanical Vibration
+           			One- and multi-degree-of-freedom systems. Natural frequencies and modes of  vibrations, resonance, beat phenomenon, effect of damping, applications to  practical problems, and methods to avoid excessive vibrations. Lagrange's  equations.  		
+
+ENG ME 452: Directed Study in Mechanical Engineering
+           			Under faculty supervision, students may study a subject that is relevant to mechanical engineering and is not covered in a regularly offered course. Term paper and/or written examination required at end of semester. 		
+
+ENG ME 457: Engineering Projects in Mechanical Engineering
+           			Project for seniors in mechanical engineering. Students select, develop, and complete a project and prepare a report. 		
+
+ENG ME 460: Electro-Mechanical Systems Design
+           			This course melds traditional machine component design with the design, instrumentation, and control of high precision, computer-controlled automation systems, using concrete examples drawn from the photonics, biotech, and semi-conductor industries. Topics covered include design strategy, high-precision mechanical components, sensors and measurement, servo control, design for controllability, control software development, controller hardware, as well as automated error detection and recovery. Students will work in teams, both in classroom and out-of-classroom, to integrate and apply the material covered in class to a term-long multi-part design project, using modern CAD tools, culminating in a group presentation at the end of the semester. 4 cr.		
+
+ENG ME 461: Mechanical Engineering Capstone Experience
+           			The main activity in this course is the planning, and execution of a capstone project that represents a culmination of the Mechanical Engineering program. Students work in teams on either a research or design problem in some area of Mechanical Engineering that builds upon previous coursework. Class time will be focused on weekly project meetings with faculty.  The course includes lectures on ethics, entrepreneurship, project management and other professional topics. Oral and written communications will be emphasized. 4 cr.  		
+

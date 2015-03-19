@@ -1,0 +1,60 @@
+SDM PH 803: Biostatistics
+	Designed for master's and doctoral students. Introduces the concepts and techniques of biostatistics used in dental research and referred to in dental literature. Emphasizes the fundamentals of statistical logic and presents the basic principles of experimental design, statistical inference, and probability. Examples from current basic sciences research, survey research, and clinical trials augment the presentation of statistical theory. 1st and 2nd sem.		
+
+SDM PH 804: Advanced Topics in Statistical Analysis Using Computers
+	Prerequisite: SDM PH 803. In-depth coverage of concepts taught in Biostatistics (PH 803). Includes a more detailed discussion of estimation techniques, central limit theorem, analysis of variance, regression and correlation, and analysis of covariance. Multivariate techniques are covered in conjunction with Epi-info and SAS facilities at the Boston University Office of Information Technology. 1st and 2nd sem.		
+
+SDM PH 806: Environmental Health
+	Familiarizes students with issues in environmental health. Topics include environmental health hazards such as air, water, and food quality, human settlement, and industrial activities, including diseases associated with these issues, and assessing, controlling, and preventing these hazards. 1st sem		
+
+SDM PH 808: Health Care Management and Finance
+	Topics include accounting principles, budgetary processes, accounting documentation, and cash flow analysis, with an emphasis on dental care delivery using computer simulation. 1st sem.		
+
+SDM PH 810: Introduction to Dental Public Health
+	This course presents an overview of dental public health. Through lectures, class discussions, and projects, students will learn to apply the principles of dental public health, dental epidemiology, community-based oral health promotion, disease prevention strategies, and outcome assessment. 1st sem.		
+
+SDM PH 812: Oral Epidemiology
+	This course will provide the student with 1) the principles of epidemiology, relating these principles to the diseases of the oral cavity and 2) demonstrate the designs for clinical and community-based studies. Upon completion of the course, the student should be able to understand the strengths and limitations in the design of such studies. 1st sem.		
+
+SDM PH 821: Dental Public Health Literature Review
+	This course will provide the students with the tools to critically evaluate the literature. Students will become familiar with the classical dental literature. 1st and 2nd sem.		
+
+SDM PH 872: Current Issues in Dental Public Health
+	This course provides the student with an overview of current concepts and programs in dental public health and their relationship to the four major dental public health competency areas: health policy and administration, health promotion and disease prevention, delivery systems, and research. The course will familiarize students with various approaches to meeting the oral health needs of high risk populations on the local, national, and international levels.		
+
+SDM PH 890: Seminars in Dental Public Health
+	This course gives the student the opportunity to interact with invited speakers who are leaders in the field of Dental Public Health, Dentistry or affiliated disciplines. The amount of credit awarded will vary depending on the duration of study.  1st and 2nd sem.		
+
+SDM PH 892: Dental Public Health Grand Rounds
+	This course is intended to provide a formal review of current topics of interest to the dental public health field.  Specifically, this course provides a seminar format to update information on the current hot topics in dental public health, with an emphasis on preparation for the DPH Board examinations. In this course, graduate student and faculty participants will review recent topics covered in the published public health literature.  The bi-monthly meeting will consist of a critical discussion of dental public health emerging topics, encompassing policy, health care reform, workforce issues, and updates/review of Oral Epidemiology. Year 1, 1st and 2nd sem.		
+
+SDM PH 900: Directed Study in Dental Public Health
+	Directed study in Dental Public Health.  Variable Credits.		
+
+SDM PH 911: Public Health Project
+	Students attain public health, primary care, or public health policy and administration experience through placement at one of several extramural sites. Experience may be correlated with the student's research topic.		
+
+SDM PH 991: Research in Dental Public Health
+	Investigation necessary to satisfy requirements for the MSD and DScD degrees. May include any aspect of public health dentistry including needs assessment, program planning, public policy, and administration and finance. In most instances, an epidemiologic or biostatistical analysis is required. 		
+
+SDM PR 720: Practice Management
+	This course reviews fundamental principles of risk managing a dental practice with special emphasis on record keeping and risk management. 1st sem.		
+
+SDM PR 750: Preclinical Restorative
+	Laboratory instruction that will introduce new techniques and enhance technical restorative skills. Will provide exposure to procedures not exposed at the pre-doctoral level and give in-depth rationales of all potential clinical procedures that students will be expected to perform during their clinical career. 1st sem.		
+
+SDM PR 761: Occlusion
+	Principles of occlusion. The analysis and management of occlusal problems as related to periodontology and restorative dentistry. 1st sem. 		
+
+SDM PR 801: Fixed Prosthodontics
+	This advanced level course reviews all aspects of fixed prosthodontic therapy with special emphasis on contemporary materials and techniques and the principles of occlusion as they relate to fixed prosthodontics. 1st and 2nd sem.		
+
+SDM PR 803: Complete Denture Prosthodontics
+	This course comprehensively reviews contemporary principles and techniques used for the restoration of totally edentulous jaws with complete dentures, including implant-supported overdentures. 1st and 2nd sem.		
+
+SDM PR 805: Esthetic Dentistry for the Prosthodontist
+	This course reviews the principles of esthetics as they relate to contemporary prosthodontics. Basic materials and methods used to improve the esthetic appearance of patients are described and illustrated in detail. Topics covered include: porcelain laminate veneers, inlays and onlays; all-ceramic complete crowns; principles of color and shade selection; composite resin bonding; the interaction of esthetics and function; esthetic management of the dentogingival unit; tooth whitening; and esthetic control with implant-supported prostheses. 		
+
+SDM PR 806: Removable Partial Dentures
+	Advanced-level course related to the treatment of partially edentulous patients with removable partial dentures. Emphasis is placed on diagnosis, treatment planning, and methods of stress control. 1st and 2nd sem.		
+

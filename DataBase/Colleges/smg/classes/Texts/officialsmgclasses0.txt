@@ -1,0 +1,60 @@
+GSM AC 710: Financial Reporting and Analysis
+		An introduction to financial accounting and how organizations provide financial information to external users (stockholders, creditors, and analysts). The focus is on understanding the impact of business activities and accounting choices on financial statements, and analyzing financial statements to infer the business activities undertaken.  Topics covered include income statement and balance sheet format, purposes, and limitations; statement of cash flows; and analysis of the impact of different business models on financial performance.		
+
+GSM AC 711: Financial Reporting and Control
+	An introduction to accounting, and an examination of how it helps in decision-making.  Financial accounting (information needs of stockholders, creditors, and analysts) and managerial accounting (information needs of managers) are stressed equally.  Topics covered include income statement and balance sheet format, purposes, and limitations; statement of cash flows; analysis of financial statements; cost behavior; use of relevant costs in decision making; budgeting; and divisional performance measurement. 		
+
+GSM AC 814: Financial Statement Analysis &amp; Investor Decisions
+		This course is designed to develop skills in interpreting and analyzing the financial reports prepared by firms for investors and creditors. The following topics are covered: 1) analyzing profitability and risk , (2) understanding the major accounting choices affecting financial statements and managerial incentives that influence these choices, (3) assessing the quality of earnings, (4) using cash-flow based and earnings-based valuation models.  The course also includes a brief review of some important accounting principles, emphasizing areas that were not covered in AC710.  [Lectures, exercises, exams, and project.]		
+
+GSM AC 841: Advanced Accounting
+		Examines accounting principles and practices related to business combinations and foreign operations (accounting for mergers and acquisitions, constructing consolidated financial statements, recording foreign currency transactions and hedging exchange risk, translating foreign subsidiaries' local currency financial statements), business segments, reporting for local governments, and the impact of the SEC and international standards on financial reporting.  Meets w/undergraduate  AC541		
+
+GSM AC 847: Intermediate Accounting 1
+		Topics covered: 1) Review of generally accepted accounting principles, especially  matching concept and revenue recognition rules.  2) Consideration of balance sheet  and income statement classification issues. 3) Accounting and reporting issues  related to cash, accounts receivable, inventories, investments, intangibles, and  plant assets.		
+
+GSM AC 848: Intermediate Accounting 2
+		This course focuses on the recognition and measurement of issues in accounting  related to income taxes, lease obligations, and pension liabilities and equity.   It focuses further on the preparation of, and uses for, statement of cash flows;  calculating, reporting, and interpreting financial measures, including earnings  per share; the nature and purpose of segment and interim reporting; and  accounting for changing prices.  The course also provides a brief overview of  the auditor's opinion.		
+
+GSM AC 865: Auditing Issues &amp; Problems
+		Introduces the basic concepts underlying auditing and assurance services (including materiality, audit risk, and evidence) and demonstrates how to apply those concepts to audit and assurance services through financial statement audits.		
+
+GSM AC 869: Principles of Income Taxation I
+		Federal income tax law common to all taxpayers--individuals, partnerships, corporations. Tax returns for individuals. Topics include tax accounting, income to be included and excluded in returns, tax deductions, ordinary and capital gains and losses, inventories, installment sales, depreciation, bad debts, and other losses.		
+
+GSM AC 901: Introduction to Accounting Research
+	Introduction to basic tools in financial accounting and managerial accounting research; domain of accounting research and research methods employed; using computerized databases in large sample financial accounting studies; basic managerial accounting modeling tools.		
+
+GSM DS 850: Management Internship
+	This course is designed to accommodate students interning with an organization that requires that they receive credit for the internship experience.		
+
+GSM DS 906: Fundamentals of Research and the Philosophies of Science (previously MK912)
+	This course focuses on the philosophy of science and the practice of business academics.  It develops an understanding of where the study of business falls within the philosophy of science.  After reviewing the historical underpinnings of scientific theory development and scientific methodology, it compares and contrasts different approaches to business scholarship from empiricism to post modernism and examines what it is that makes some research interesting and important.  Although some of the examples will be taken from the marketing literature, the inquiry will be broad enough to accommodate all business disciplines. The second half of the course is devoted to an examination of how theory is developed and can be evaluated, as well as an exploration of the many different approaches to empirical research including the requirements of, and threats to, the various forms of validity inherent in each.  A portion of the class includes involvement in research seminars, participation with the Universities seminars on research compliance and participating in ongoing research as a research assistant		
+
+GSM DS 915: Pro Seminar 1
+			
+
+GSM DS 999: Doctoral Dissertation Study
+	This 2-credit course is a requirement to maintain doctoral student status during the completion of your Comprehensive Exam, Dissertation Proposal Defense and ultimately, Dissertation Defense. Each department has its own section which are as follows: Accounting (A1); Finance/Economics (B1); Information Systems (C1); Strategy and Policy (D1); Marketing (E1); Operations and Technology Management (F1); Organizational Behavior (G1); and Mathematical Finance (M1).		
+
+GSM ES 700: Executive Presentation
+	A presenter's delivery skills impact the audience's image of the presenter and the clarity of the message being communicated.  A combination of lecture, discussion, and hands-on practice and simulation, this course is designed to help you exercise leadership through verbal communication.		
+
+GSM ES 701: Executive Written Communication
+	This course is a combination of lecture, discussion, and hands-on practice. It's designed to help you exercise leadership through writing and understand how strategies of written communication are an essential aspect of effective management, working relationships in the network era, and overall business strategy.		
+
+GSM ES 707: Managing Career Growth
+	The MBA is simply a step along the path of a career.  It provides the skills and tools necessary to take many steps forward, but you must manage where those steps lead and how.  Managing Career Growth will provide you the understanding of how to managing your own career going forward.   The class will cover:  -Career self-assessment (interests, values and skills)  -Networking and developmental relationships  -Career management/advancement strategies  -Developing your career marketing plan and professional portfolio.  All with the purpose of providing a foundation to not only manage your next steps but continuously assess, network, market and manage yourself.  You are indeed a business of one and you are the one responsible for managing that business. 		
+
+GSM ES 721: Teaming
+	Teaming is one of the three elements of the Professional Skills course. Delivered through key interactions across the modular MBA core, teaming works to both support student work in teams while also provide an intellectual understanding of how to assess the dynamics by which teams form, develop, change, achieve success and transform or disband.  		
+
+GSM ES 722: Executive Communication
+	Executive Communication is one of the three elements of the Professional Skills course. Beginning in the pre-term and delivered through key interactions across the modular MBA core, Executive Communication will provide students with essential skills in oral communication - including development of a presenter's delivery skills and message clarity - and written communication - including how to exercise leadership through writing and understanding how strategies of written communication are an essential aspect of effective management. Executive Communication skills delivery is also structured to provide supporting content linked to both the career and integrated project activities.		
+
+GSM ES 723: Career Management
+	Career Management is one of the three elements of the Professional Skills course. This professional development course is designed to assist students in transforming interests into professional goals, and these goals into an MBA level, candidate-driven internship and job search. The Career Management course integrates a set of complementary resources and activities: self-assessment, career management tools, skill building opportunities, and active involvement in a career development community. The course will help students to determine professional goals;  develop and implement a plan for achieving them;  acquire the specific skills and experiences needed to become market ready; build a personal brand and professional network.		
+
+GSM ES 724: Professional Skills
+	The Professional Skills Collection consists of three elements integrated into the full time MBA curriculum: Communications; Teaming, and Career Management. First, Communications focuses on both oral elements - including development of a presenter's delivery skills and message clarity - and writing elements - including how to exercise leadership through writing and understanding how strategies of written communication are an essential aspect of effective management. Second, Teaming will support student work on teams while also assessing the dynamics by which teams form, develop, change, achieve success and transform or disband. Third, Career Management will assist students in transforming personal interests into professional goals, and these goals into an MBA level, candidate-driven internship and job search through a set of complementary resources and activities. Each of the three professional skills elements are integrated within, and delivered alongside, the integrated modular MBA core experience.		
+

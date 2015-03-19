@@ -1,0 +1,60 @@
+MET CS 601: Web Application Development
+           			This course focuses on building core competencies in web design and development. It begins with a  complete immersion into HTML essentially XHTML and Dynamic HTML (DHTML). Students are exposed to  Cascading Style Sheets (CSS), as well as Dynamic CSS. The fundamentals of JavaScript language including  object-oriented JavaScript is covered comprehensively. AJAX with XML and JSON are covered, as they are  the primary means to transfer data from client and server. 4 credits.		
+
+MET CS 625: Business Data Communication and Networks
+           			This course presents the foundations of data communications and takes a bottom-up approach to  computer networks. The course concludes with an overview of basic network security and management  concepts. 4 credits.		
+
+MET CS 632: Information Technology Project Management
+	This course provides students with a comprehensive overview of the principles, processes, and practices of software project management. Students learn techniques for planning, organizing, scheduling, and controlling software projects. There is substantial focus on software cost estimation and software risk management. Students will obtain practical project management skills and competencies related to the definition of a software project, establishment of project communications, managing project changes, and managing distributed software teams and projects. 		
+
+MET CS 633: Distributed Software Development and Management
+	This course prepares students to justify, lead, participate in, and maintain geographically distributed  development (GDD) projects. Students study the technical and business implications of GDD. They also  work in geographically dispersed teams to produce documented applications. No programming  background is required. Prerequisites: MET CS 520 or MET CS 601 and MET CS 682. 4 credits.		
+
+MET CS 635: Network Design and Implementation
+		Computer Networks continue to grow and diversify at unprecedented rate.  Much of that diversification is in how the media are utilized.  One can not truly understand networking, analyze alternatives or design good networks without a solid founding in how the media are utilized.  This course will explore current and expected media technologies with the intent of understanding what they offer and the trade-offs they present.  The course will cover both wireline (Ethernet, DOCSIS, MPLS, ATM) and wireless (802.11, Wi-Max, Zigbee, Bluetooth, etc).  The course will analyze the technologies to consider their error characteristics, support for quality of service, congestion control, and security, and their manageability.		
+
+MET CS 651: Web Development with .NET
+           			This course provides a comprehensive introduction to building web applications and web services using the Microsoft .NET (Version 3.5) development platform. The key technologies covered include the C# programming language (Version 3.0), the ASP.NET (Version 3.5) system for developing web applications and web services using C#, and ADO.NET and LINQ (Language INtegrated Query) for data access. In addition to the above topics, we will also cover Windows Communication Framework (WCF) and Windows Presentation Framework (WPF). All programming will be based on Microsoft Visual Studio 2008 available through BU's MSDNAA. A copy of the software will be provided to the students. 		
+
+MET CS 662: Computer Language Theory
+           			Theory of finite automata and regular expressions and properties of regular sets. Context-free grammars, context-free languages, and pushdown automata. Turing machines, undecidability problems, and the Chomsky hierarchy. Introduction to computational complexity theory and the study of NP-complete problems.		
+
+MET CS 664: Artificial Intelligence
+           			Study of the ideas and techniques that enable computers to behave intelligently. Search, constraint propagations, and reasoning. Knowledge representation, natural language, learning, question answering, inference, visual perception, and/or problem solving. Laboratory course. 		
+
+MET CS 665: Software Design and Patterns
+		Software design principles, the object-oriented paradigm, unified modeling language; creational,  structural, and behavioral design patterns; OO analysis and design; implementation of semester project.  Laboratory course.		
+
+MET CS 667: Enterprise Java
+           			The course begins with an overview of advanced Java concepts like databases, networking, and remote method invocation (RMI). The J2EE architecture is explored starting with the presentation layer which includes the servlets and Java Server Pages (JSP). The Struts application framework is presented as a case study. Hibernate and Spring framework will be covered extensively. The business layer is covered using the enterprise java beans (EJB 2.1 and EJB 3.0). Advanced concepts like Java Messaging Service and Java Server Faces will be briefly covered.		
+
+MET CS 669: Database Design and Implementation for Business
+           			Students learn the latest relational and object-relational tools and techniques for persistent data and  object modeling and management. Students gain extensive hands-on experience using Oracle or Microsoft  SQL Server as they learn the Structured Query Language (SQL) and design and implement databases.  Students design and implement a database system as a term project. class. 4 credits.		
+
+MET CS 671: Systems Programming Using UNIX
+		Teaches students how to develop complex applications based on the UNIX/POSIX standard. Topics include UNIX standardization and implementation, shell programming, system calls, library function, process control and relationships, signals, file and terminal input/output, and interprocess communication. Laboratory course. 		
+
+MET CS 673: Software Engineering
+           			Techniques for the construction of reliable, efficient, and cost-effective software. Requirement analysis, software design, programming methodologies, testing procedures, software development tools, and management issues. Students plan, design, implement, and test a system in a group project. Laboratory course. 		
+
+MET CS 674: Database Security
+		The course provides a strong foundation in database security and auditing. This course utilizes Oracle scenarios and step-by-step examples. The following topics are covered: security, profiles, password policies, privileges and roles, Virtual Private Databases, and auditing. The course also covers advanced topics such as SQL injection, database management security issues such as securing the DBMS, enforcing access controls, and related issues.		
+
+MET CS 680: Business Structure and Strategy in the Telecommunication Industry
+	Market structure, market rivalry, regulations, and public policy will be discussed. Merger/acquisition and strategic partnerships, as well as the business structure of the cable, wireless, and satellite industries. E-commerce and Web-related issues will be examined. 		
+
+MET CS 682: Information Systems Analysis and Design
+           			Object-oriented methods of information systems analysis and design for organizations with data- processing needs. System feasibility; requirements analysis; database utilization; Unified Modeling  Language; software system architecture, design, and implementation, management; project control; and  systems-level testing. 		
+
+MET CS 683: Mobile Application Development
+		This course will be divided into two parts. The first part, two thirds of the course, covers the principles and problems associated with mobile device applications, using as examples Google Android, iPhone, and other platforms such as Nokia. The last third is an in depth coverage of the open source Android development platform. Issues covered will include Mobile Hardware and Cell Networks, Architectures, Operating Systems, Languages, Development Environments and Simulators, User Interfaces, Location-based Services, Storing and Retrieving Data.  Students will accomplish the following.  (1) Learn the unique set of problems and challenges in developing mobile applications compared with desktop applications; (2) Learn the platform, tools, technology and process for developing mobile applications using Google Android and the Apple iPhone platforms as the main examples; (3) Write applications for the platforms covered, simulate them, and test them on the mobile hardware where possible; and (4) Work collaboratively with fellow students on their projects.		
+
+MET CS 684: IT Security Policies and Procedures
+	This course enables IT professional leaders to identify emerging security risks and implement highly secure networks to support organizational goals. Discussion of methodologies for identifying, quantifying, mitigating and controlling risks. Students implement a comprehensive IT risk management plans (RMP) that identify alternate sites for processing mission-critical applications, and techniques to recover infrastructure, systems, networks, data and user access. The course also discusses related topics such as: disaster recovery, handling information security; protection of property, personnel and facilities; protection of sensitive and classified information, privacy issues, and criminal terrorist and hostile activities.		
+
+MET CS 685: Network Design and Management
+           			This course covers computer networks management including configuration, fault, performance, as well as security management. Particular focus and emphasis is given to security management. Problem solving techniques and network management tools are discussed and practiced during extensive laboratory sessions. Topics include LAN and WAN network management, fault detection, configuration, security, performance, accounting management. Strong focus on problem-solving techniques and network management tools based on SNMP, detailed discussion of multi-user computer systems security techniques, basics of cryptography, authentication techniques, and Kerberos, Secure operating systems. Software protection. Electronic mail. Web Security, IPsec, e-commerce: payment protocols, electronic cash. Risk assessment.		
+
+MET CS 688: Web Analytics and Mining
+	The Web Analytics and Mining course covers the areas of web analytics, text mining, web mining, and practical application domains. The web analytics part of the course studies the metrics of web sites, their content, user behavior, and reporting. Google analytics tool is used for collection of web site data and doing the analysis. The text mining module covers the analysis of text including content extraction, string matching, clustering, classification, and recommendation systems. The web mining module studies how web crawlers process and index the content of web sites, how search works, and how results are ranked. Application areas mining the social web and game metrics will be extensively investigated. Laboratory Course. 		
+

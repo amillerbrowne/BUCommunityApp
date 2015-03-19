@@ -1,0 +1,59 @@
+           			An introduction to the general theory of solid deformation; small deformation emphasized. Topics include: Cartesian tensors, indicial notation. Introduction to continuum mechanics: deformation of continuous media, deformation gradient, strain definitions. Stress, Cauchy's postulate, Cauchy and Piola-Kirchhoff stress tensors. Balance laws. Constitutive equations, strain energy and Green's postulate. Linear Elasticity: Two dimensional problems, Airy stress function, in plane loading of strips, St. Venant's principle, complex variable methods, Goursat-Muskhelishvili representation, stress concentrations around holes and cracks. Three dimensional problems, Kelvin's solution, the Boussinesq problem, Hertzian contact, Eshelby's energy-momentum tensor. Meets with ENGMS580.  Students may not receive credit for both.		
+
+ENG ME 581: Experimental Techniques in Solid Mechanics
+           			Theory and practice of experimental techniques used in solid mechanics. Topics include ultrasonic NDE, optical strain techniques (e.g., Moire interferometry, spectroscopy), and material strength and stiffness testing (e.g., fracture, fatigue, elastic constants). Also examines the use of computer for data acquisition and control. Some discussion of theory related to filters, sampling theory, uncertainty analysis, and spectra and correlations is incorporated. 		
+
+ENG ME 582: Mechanical Behavior of Materials
+           			Fundamental concepts of modern materials behavior and materials engineering. Emphasis on analytical and numerical methods for predicting material properties and behavior, as well as some discussion of the relationships between solid structure and material properties. Topics include: constitutive relations, fracture, fatigue, plasticity, creep, damping, impact, and deformation. Elastic, plastic, and viscous behavior. Some discussion of the effects of processing--thermodynamics, kinetics--may be addressed. Specific examples from ceramics, metals, polymers, and composites is given, with the emphasis changing for each offering. Meets with ENGMS582.  Students may not receive credit for both. 		
+
+ENG ME 583: Product Management
+           			Planning and execution of the process of bringing new tangible and intangible products to market.  Review of the new product development process.  Establishment of the new product specification.  Setting of financial expectations.  Formation and dynamics of the product implementation team.  Organization of the new product introduction project including matrixed management and financial control.  Contingency planning and risk management.  Taught through case-based discussions, lectures, and readings. 		
+
+ENG ME 584: Manufacturing Strategy
+           			Strategic decision-making for technical people in manufacturing companies.  Provides practice in applying financial, organizational, and operational concepts through analysis and discussion of case situations. Topics include  process alternatives and their implications; interactions among product design, process design, worker skill and worker motivation; supplier relationships; interfaces with marketing and finance; introduction of new technology; capacity planning; and competitive analysis. Taught principally by in-class discussion plus guest lectures. 		
+
+ENG ME 700: Advanced Topics in Mechanical Engineering
+           			Specific prerequisites vary according to research topic. 		
+
+ENG ME 701: Optimal and Robust Control
+           			This course is aimed at an introduction (with rigorous treatment) to the fundamentals of optimal and robust control.  It will be divided roughly into two parts.  The first will cover aspects of robust control including model reduction, H_2 and H_ infinity control, and feedback control of uncertain systems.  The second will delve into optimal control including topics such as the linear quadratic regulator, the calculus of variations, the maximum principle, and the Hamilton-Jacobi-Bellman equation. Meets with ENG EC701 and ENG SE 701; students may not take both for credit. 		
+
+ENG ME 702: Computational Fluid Dynamics
+           			Numerical techniques for solving the Navier-Stokes and related equations. Topics are selected from the following list, although the emphasis may shift from year to year: boundary integral methods for potential and Stokes flows; free surface flow computations; panel methods; finite difference, finite element and finite volume methods; spectral and pseudo-spectral methods; vortex methods; lattice-gas and lattice-Boltzmann techniques; numerical grid generation. 		
+
+ENG ME 703: Managerial Cost Accounting
+           			This course provides an overview of accounting measures important to manufacturing operations for both engineers and managers. It begins with a summary of accounting fundamentals, including financial reporting and performance measurement.  Topics include cost accounting management for job-order, hybrid, and just-in-time operations; activity based costing and management; measuring and managing spoilage; capacity cost; and analysis of new technology investments. 		
+
+ENG ME 704: Adaptive Control
+	This course provides a theoretical foundation for developing adaptive controllers for dynamic systems. Topics include system identification, model reference adaptive control, adaptive pole placement control, and adaptive control of nonlinear systems. Meets with ENG SE 704. Students may not receive credit for both. 		
+
+ENG ME 706: Acoustics and Aerodynamic Sound
+           			Theoretical foundations of fluid and structural acoustics. Solutions of the wave equation; vibrations of plates and membranes; multiple expansions, influence of source motion; reciprocity; compact Green's functions, radiation from vibrating bodies; matched expansions; acoustics energy equation; aerodynamic sound. 		
+
+ENG ME 707: Finite Element Analysis
+           			An introduction to the finite element method with emphasis on fundamental concepts. Variational equations, Galerkin's method. Finite element applications to linear elliptic boundary value problems in structures, solid and fluid mechanics, and heat transfer. Optimality, convergence, function spaces and energy norms. Isoparametric elements. Mixed methods, penalty methods, selective reduced integration; applications may include Kirchoff plate theory, incompressible elasticity, Stokes flow.  Thick and thin beams, plates, and shells.  Implementation: element data structures, numerical integration, assembly of equations, element routines, solvers.  Advanced topics may include dynamic analysis, stabilized methods, eigenvalue problems, and hybrid analytical methods. 		
+
+ENG ME 709: Turbulent Flows
+           			Introduction to turbulence. Deterministic versus statistical descriptions of fluids; kinematics; correlations and spectra; closure of the fluid equations of turbulence. Reynolds stresses; spectral evolution; analysis of scales. Analysis of isotropic turbulence and modeling of turbulent flows. Current topics. 		
+
+ENG ME 710: Dynamic Programming and Stochastic Control
+           			Introduction to sequential decision making via dynamic programming. The principle of optimality as a unified approach to optimal control of dynamic systems and Markovian decision problems. Applications from control theory and operations research include linear-quadratic problems, the discrete Kalman Filter, inventory control, network, investment, and resource allocation models. Adaptive control and numerical solutions through successive approximation and policy iteration, suboptimal control, and neural network applications involving functional approximations and learning. Meets with ENGEC710 and ENGSE710. Students may not receive credit for both. 		
+
+ENG ME 711: Multiscale Methods in Computational Mechanics
+           			This course will cover the state-of-the-art in analytical and (especially) computational techniques for solving problems with multiple spatial and temporal scales. Such problems are now at the forefront of computational mechanics with applications ranging from turbulence and its modeling to the coupling of atomistic and continuum scales in solid mechanics. We will begin with the more traditional methods including multi-scale perturbation techniques and renormalization group theory. Thereafter we will focus on more recent developments with distinct computational focus including: the Optimal Prediction Method of Chorin et al., the Equation Free Method of Kevrekidis et al, the Variational Multiscale Method of Hughes et al. and the Heterogeneous Multiscale Method of Weinan et al. We will also cover an approach to determine unknown parameters in the models derived from these methods. The differences and similarities between these methods will also be discussed and highlighted. 		
+
+ENG ME 713: Viscous Flow
+           			Brief review of the fundamental conservation and constitutive equations, exact solutions of the viscous Navier-Stokes equations, similarity solutions, boundary layer theory; creeping flows, flow in Hele-Shaw cells, lubrication theory, thin shear layer approximations, jets and wakes, hydrodynamic instability and transition to turbulence, Reynolds-averaged Navier-Stokes equations. 		
+
+ENG ME 714: Advanced Stochastic Modeling and Simulation
+		Introduction to Markov chains, point processes, diffusion processes as models of stochastic systems of practical interest. The course focuses on numerical and simulation methods for performance evaluation, optimization, and control of such systems.  Meets with ENGSE714.  Students may not receive credit for both.		
+
+ENG ME 715: Waves in Fluids
+	Analytical methods are developed for studying the propagation and diffraction of waves in uniform and in homogeneous fluid media.  Illustrative applications are made to sound waves, gravity waves, waves in random media, evanescent waves. 		
+
+ENG ME 718: Advanced Topics in Nanotechnology
+           			Nanotechnology is emerging as the technology of the 21st century. There is an ever growing effort by scientists and engineers across disciplines to envision, fabricate and integrate nanoscale devices for countless applications. This course will give a rigorous introduction to the basic concepts and experimental techniques in nanoscience and nanotechnology. The course will review relevant quantum mechanics and solid state physics as a basis for understanding the physical phenomena at the nanoscale. Then, basic issues in nanofabrication, Scanning Probe Microscopy (SPM), nanoelectronics and nanomechanics will be discussed. 		
+
+ENG ME 719: Computational Problem Solving
+		Intensive course in computer problem solving using object-oriented programming and research paradigms. Student learns programming skills required to use computer as a research tool and develops ability to design algorithms and data structures for efficient computation. Problems selected from areas including modeling, simulation, optimization, and computer-aided design. Topics include programming techniques, data representation, data management, searching and sorting, recursion, graph theory, formal language theory, and combinatorial analysis. 		
+

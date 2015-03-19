@@ -1,0 +1,58 @@
+SAR HS 488: Applied Nutrition Counseling
+           			This course focuses on developing communication and counseling skills in preparation for working with nutrition clients. Topics include: Conducting a nutrition counseling session, promoting sustainable behavior change, counseling clients of various age groups and cultural backgrounds and dealing with difficult patients. In addition, students are introduced to different perspectives in nutrition counseling including motivational interviewing, mindful eating and emotion-based-counseling. The emphasis of the course will be classroom discussion, observation of registered dietitians conducting group counseling sessions and application of practical counseling skills with clients in the community. 2 credits, 1st semester		
+
+SAR HS 495: Directed Study
+           			Educational experiences and projects performed outside the standard curricular offerings. Undergraduate student completes a defined project under the supervision of a researcher who is not a BU faculty member. 		
+
+SAR HS 497: Independent Study
+           			Project must be proposed in writing before registration and completed with relative independence under guidance of a supervising faculty member in the human physiology program. Final report submitted before the end of the semester.		
+
+SAR HS 500: Food Science
+           			An in-depth didactic and laboratory review of the physical and chemical properties of carbohydrates, proteins, fats and water. Each macronutrient is discussed from its smallest starting molecule to its complex role in food items. Other related topics include food safety and food-borne illness, food preservation and processing, culinary techniques, food regulations and standards, food additives, food technology, and subjective evaluation of food. The laboratory requirement applies the food science principles through hands-on experiments in the kitchen setting. 4 credits, 2nd semester		
+
+SAR HS 510: Management of Food Service
+           			This course provides the foundational knowledge of food service management viewed as a system. Management of human resources, quantity food production, menu development and financial accountability will be discussed as well as regulatory and other controls that influence the function of the system. 4 credits, 1st semester		
+
+SAR HS 520: Applications of Food Service Management
+           			This course provides students the opportunity to observe the food service management concepts learned in HS310/510 in a variety of "real world" operational settings. Students in this course will also create their own food service operation in written project and presentation format. 4 credits, 2nd semester		
+
+SAR HS 542: Exercise Physiology
+           			Application of physiological principles under different exercise conditions. Integration of the body systems in performance of exercise, work, and sports; immediate and long-range effects of these activities on the body. Laboratory includes the measurement of physiological parameters under extreme conditions.		
+
+SAR HS 551: Human Nutrition Science
+		This course provides an introduction to nutrition and focuses on the relationship between diet and health. Basic scientific information is presented in preparation for a discussion of applied issues such as weight loss, eating disorders, prevention of chronic disease, diet and exercise and vegetarian diets. Emphasis is placed on translation of current advice to actual food choices. 4 credits, either semester		
+
+SAR HS 560: Muscle Biology in Health and Disease
+           			An integrative approach to understanding the biology of muscle in development, exercise, injury, aging, and disease. Students will get a comprehensive overview of muscle biology and muscle disease; develop skills to review and research primary literature; and have an opportunity to develop oral research presentation skills. This class is designed for upper level undergraduates and graduate students.		
+
+SAR HS 561: Nutrition Throughout the Life Cycle
+           			This course focuses on the changing nutritional requirements from infancy, childhood, and adolescence throughout the geriatric years. Nutritional needs specific to pregnancy and lactation will be discussed. Emphasis is placed on understanding the behavioral, socioeconomic, and cultural factors associated with meeting nutrition requirements throughout the life span. 4 credits, 2nd semester		
+
+SAR HS 564: Global Health: Beyond Germs and Genes
+	This course will focus on the social determinants of health--the conditions in which people are born, grow, live, work, age and die. We will examine case studies from around the globe that reveal the ways in which health inequities are shaped by the distribution of resources, money, and power at the local, national and global level, and the critical role played by social policies in reducing or exacerbating these inequities. (Meets with SAR HS 363)		
+
+SAR HS 566: Community Nutrition
+           			This course will cover the dramatic effect of the socioeconomic status, cultural and psychological factors on food choices. Students will learn how to target populations, deliver effective nutrition interventions in the community, and perform a community-based needs assessment. Students will also obtain a working knowledge of federal, state, and local assistance programs. Principles related to nutrition education, program planning, and outcome evaluations will be discussed. A community intervention project will be assigned. 4 credits, 1st semester		
+
+SAR HS 567: Research Methods in Nutrition
+		This course provides an overview of methods used in nutrition research, including dietary assessment methods, indicators of nutritional status, analysis and presentation of dietary data, statistical interpretation, and clinical research methods. The course includes lectures, a field trip to a Boston-area clinical research center, and hands-on experience with nutritional assessment and anthropometrics techniques. Students participate in in-class discussions of published research articles to learn techniques for deriving evidence-based recommendations for clinical practice. upon completion of this course, students will be able to read, interpret, and understand the findings from clinical research studies and understand the fundamental tools that are used by nutrition researchers. 2 credits, 1st semester		
+
+SAR HS 575: Cardiopulmonary Pathophysiology
+           			An overview of anatomy and physiology of the cardiovascular and respiratory systems during normal and pathological conditions. Exercise and other stress in the precipitation, detection, prevention, and rehabilitation of abnormal states.		
+
+SAR HS 581: Gross Human Anatomy
+           			Regional approach to the musculoskeletal, peripheral nervous, and circulatory systems of the human body. Laboratories reinforce the lectures by a study of osteology, prosected cadavers and live anatomy palpations. 		
+
+SAR HS 582: Neuroanatomy and Neurophysiology
+           			Lecture and laboratory related to the detailed study of the development, morphology, internal configuration, functions, and pathological deficits of the peripheral and central nervous system in humans. 		
+
+SAR HS 584: Medical Nutrition Therapy I
+           			This course will cover the pathophysiology of diseases as they relate to nutrition care. Techniques of nutritional assessment will be taught and applied to the assessment of patients with cardiovascular disease, hypertension, diabetes, obesity, disorders of the central nervous system, and pulmonary disorders. Documentation, interpretation of medical terminology, determination of special nutritional needs, and translation to menu and diet plans will be the focus of the course.		
+
+SAR HS 585: Medical Nutrition Therapy II
+           			This course is a continuation of SARHS584. This course focuses on medical nutrition therapy for various disease states, including gastrointestinal disease, kidney disease, cancer, AIDS, cystic fibrosis, and inborn errors of metabolism. This course also covers the metabolic response to trauma and critical illness and the importance of nutritional therapy in these states. The use of parenteral and enteral nutrition, intravenous catheters, and feeding tubes will be covered. Diet and drug interactions as well as alternative medicine and herbal therapy will be discussed. Students will use case studies to learn to apply their knowledge of nutrition care to the treatment of patients with various diseases. 4 credits, 2nd semester		
+
+SAR HS 586: Applied Nutritional Care
+           			This course provides a review of and an opportunity to implement all aspects of the nutritional care process. Through classroom discussion of case studies as well as experiences at in- and out-patient facilities, students will gain expertise in the provision of nutritional care.		
+
+SAR HS 703: Field Experience in Nutrition

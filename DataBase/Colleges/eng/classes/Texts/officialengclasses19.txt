@@ -1,0 +1,59 @@
+           			This course is aimed at an introduction (with rigorous treatment) to the fundamentals of optimal and robust control.  It will be divided roughly into two parts.  The first will cover aspects of robust control including model reduction, H_2 and H_ infinity control, and feedback control of uncertain systems.  The second will delve into optimal control including topics such as the linear quadratic regulator, the calculus of variations, the maximum principle, and the Hamilton-Jacobi-Bellman equation. Meets with ENG EC701 and ME701. Only one of these courses may be taken for credit.		
+
+ENG SE 704: Adaptive Control
+		This course provides a theoretical foundation for developing adaptive controllers for dynamic systems. Topics include system identification, model reference adaptive control, adaptive pole placement control, and adaptive control of nonlinear systems. Meets with ENG ME 704. Students may not receive credit for both. 		
+
+ENG SE 710: Dynamic Programming and Stochastic Control
+           			Introduction to sequential decision making via dynamic programming. The principle of optimality as a unified approach to optimal control of dynamic systems and Markovian decision problems. Applications from control theory and operations research include linear-quadratic problems, the discrete Kalman Filter, inventory control, network, investment, and resource allocation models. Adaptive control and numerical solutions through successive approximation and policy iteration, suboptimal control, and neural network applications involving functional approximations and learning. Meets with ENGEC710 and ENGME710. Students may not receive credit for both.  		
+
+ENG SE 714: Advanced Stochastic Modeling and Simulation
+           			Introduction to Markov chains, point processes, diffusion processes as models of stochastic systems of practical interest. The course focuses on numerical and simulation methods for performance evaluation, optimization, and control of such systems.  Meets with ENGME714.  Students may not receive credit for both.		
+
+ENG SE 724: Advanced Optimization Theory and Methods
+           			Complements ENGEC524 by introducing advanced optimization techniques. Emphasis on nonlinear optimization and recent developments in the field. Topics include: unconstrained optimization methods such as gradient and incremental gradient, conjugate direction, Newton and quasi-Newton methods; constrained optimization methods such as projection, feasible directions, barrier and interior point methods; duality; and stochastic approximation algorithms.  Introduction to modern convex optimization including semi-definite programming, conic programming, and robust optimization.  Applications drawn from control, production and capacity planning, resource allocation, communication and sensor networks, and bioinformatics.  Meets with ENGEC724 and ENGME724.  Students may not receive credit for both. 		
+
+ENG SE 725: Queueing Systems
+           			Performance modeling using queueing networks, analysis of product form and non-product form networks, numerical methods for performance evaluation, approximate models of queueing systems, optimal design and control of queueing networks. Applications from manufacturing systems, computer systems and communication networks. Meets with ENGEC725 and ENGME725.  Students may not receive credit for both. 		
+
+ENG SE 732: Combinatorial Optimization and Graph Algorithms
+           			Design data structures and efficient algorithms for priority queues, minimum spanning trees, searching in graphs, strongly connected components, shortest paths, maximum matching, and maximum network flow. Some discussion of intractable problems and distributed network algorithms. Meets with ENGME732.  Students may not receive credit for both. 		
+
+ENG SE 733: Discrete Event and Hybrid Systems
+           			Review of system theory fundamentals distinguishing between time-driven and event-driven dynamics.  Modeling of Discrete Event and Hybrid Systems; Automata, Hybrid Automata, Petri Nets, basic queueing models, and stochastic flow models.  Monte Carlo computer simulation:  basic structure and output analysis.  Analysis, control, and optimization techniques based on Markov Decision Process theory with applications to scheduling, resource allocation, and games of chance.  Perturbation Analysis and Rapid Learning methods with applications to communication networks, manufacturing systems, and command-control.  Meets with ENGEC733 and ENGME733.  Students may not receive credit for both. 		
+
+ENG SE 734: Hybrid Systems
+           			The course offers a detailed introduction to hybrid systems, which are dynamical systems combining continuous dynamics (modeled by differential equations) with discrete dynamics (modeled by automata). The covered topics include modeling, simulation, stability analysis, verification, and control of such systems. The course contains several applications from both natural and manmade environments, ranging from gene networks in biology, to networked embedded systems in avionics and automotive controls, and to motion planning and control in robotics. Same as ENG ME 734 and ENG SE 734. Students may receive credit for one. 4 cr. 1st sem.		
+
+ENG SE 740: Vision, Robotics, and Planning
+           			Methodologies required for constructing and operating intelligent mechanisms. Comprehensive introduction to robot kinematics for motion planning. Dynamics and control of mechanical systems. Formal treatment of differential relationships for understanding the control of forces and torques at the end effector. Discussion of robot vision and sensing and advanced topics in robot mechanics, including elastic effects and kinematic redundancy. Meets with ENGME740. Students may not receive credit for both. 		
+
+ENG SE 741: Randomized Network Algorithms
+           			Probabilistic techniques and paradigms in the design and evaluation of network algorithms.  Review of basic concepts in probability, graph theory, and algorithms.  Tail inequalities and Chernoff bounds.  Ball and bins and random graph models.  Markov chains and random walks.  The probabilistic method.  Monte Carlo methods.  Introduction to martingales, networking applications: distributed content storage and look-up in P2P networks, IP traceback, fountain codes, universal hash functions, packet routing. Same as EC 741. Students may not receive credit for both.  		
+
+ENG SE 755: Communication Networks Control
+           			Systems and control perspective into communication networks research.  Fundamental systems issues in networking.  Survey of a variety of techniques that have recently been used to address networking issues, including queueing theory, optimization, large deviations, Markov decision theory, stochastic approximation, and game theory.  Topics will vary from year to year, depending on recent developments in the field.  Illustrative topics include: network services and layered architectures, performance analysis in networks, traffic management and congestion control, traffic modeling, admission control, flow control and TCP/IP, routing, network economics and pricing. Meets with ENGME755.  Students may not receive credit for both. 		
+
+ENG SE 762: Nonlinear Systems and Control
+		Introduction to the theory and design methods of non-linear control systems. Application to robotics, vibration and noise control, fluid control, manufacturing processes, and biomedical systems. Mathematical methods based on the theory of differentiable manifolds; non-linear control techniques include feedback linearization, back-stepping, forwarding, and sliding mode control. Additional course topics will include controllability and observability, Lyapunov stability and its applications, limit cycles, input-output stability, zero dynamics, center manifold theory, perturbation theory, and averaging. 		
+
+ENG SE 765: Production Systems Design
+           			Theory and applications related to the design of complex production systems. Simulation theory, stochastic modeling and control, and mathematical decomposition techniques are developed and applied hierarchically to combine production statistics estimation, operations protocol design, and capacity selections in an integrated design of complex manufacturing systems. Meets with ENGME765.  Students may nor receive credit for both. 		
+
+ENG SE 766: Advanced Scheduling Models and Methods
+           			Emphasizes basic methodological tools and recent advances for the solution of scheduling problems in both deterministic and stochastic settings. Models considered include classical scheduling models, DEDS, neural nets, queueing models, flow control models, and linear programming models. Methods of control and analysis include optimal control, dynamic programming, fuzzy control, adaptive control, hierarchical control, genetic algorithms, simulated annealing, Lagrangian relaxation, and heavy traffic approximations. Examples and case studies focus on applications from manufacturing systems, computer and communication networks, and transportation systems.  Meets with ENGME766.  Students may not receive credit for both.		
+
+ENG SE 801: Teaching Practicum I
+	This course cannot be used to meet the structured course requirements. Practical  teaching experience for an assigned course, includes some combination of running discussion sections, managing laboratory sections, providing some lectures, preparing homework and solution sets, exams, and grading. Attend  lectures/seminars on best teaching practices.  Total time commitment: up to 20 hours/week for one semester.  This is a 4 credit course.		
+
+ENG SE 802: Teaching Practicum II
+	This course cannot be used to meet the structured course requirements. Practical teaching experience for an assigned course, including some combination of running discussion sections, managing laboratory sections, providing some lectures, preparing homework and solution sets, exams, and grading. Attend lectures/seminars on best teaching practices. Total Time commitment: up to 20  hours/week for one semester.  This is a 4 credit course.		
+
+ENG SE 803: Teaching Practicum I
+	This course cannot be used to meet the structured course requirements. Practical teaching experience for an assigned course, including some combination of running discussion sections, managing laboratory sections, providing some lectures, preparing homework and solution sets, exams, and grading. Attend lectures/seminars on best teaching practices. Total time commitment: up to 20 hours/week for one semester.  This is a 0 credit course.		
+
+ENG SE 804: Teaching Practicum II
+	This course cannot be used to meet the structured course requirements. Practical teaching experience for an assigned course, including some combination of running discussion sections, managing laboratory sections, providing some lectures, preparing homework and solution sets, exams, and grading. Attend lectures/seminars on best teaching practices. Total Time commitment: up to 20 hours/week for one semester.  This is a 0 credit course.		
+
+ENG SE 900: Research
+           			Participation in a research project under the direction of a faculty advisor. If not leading to an MS thesis or PhD dissertation, a final report is normally required. 		
+

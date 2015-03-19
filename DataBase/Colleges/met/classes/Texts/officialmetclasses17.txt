@@ -1,0 +1,60 @@
+MET CS 689: Designing and Implementing a Data Warehouse
+		This course provides students with the technical skills required to plan, implement, and maintain a data warehouse using a DBMS such as Oracle Warehouse Builder. It describes basic data warehousing concepts. Key topics: Design a data warehousing system; implement a database designed with a star schema, gather data from primary data sources, transform data, and load data in to a DBMS. Students will create a cube using OLAP and analyze cube data using client applications. Upon successful completion, students will be familiar with the typical data warehouse components and architecture, and have an understanding of the practical uses of data warehousing. 		
+
+MET CS 690: Network Security
+           			This course will cover advanced network security issues and solutions. The main focus on the first part  of the course will be on Security basics, i.e. security services, access controls, vulnerabilities, threats  and risk, network architectures and attacks. In the second part of the course, particular focus and  emphasis will be given to network security capabilities and mechanisms (Access Control on wire-line  and wireless networks), IPsec, Firewalls, Deep Packet Inspection and Transport security. The final  portion of the course will address Network Application security (Email, Ad-hoc, XML/SAML and Services  Oriented Architecture security. As part of our course review we will explore a number of Network Use  Cases. 4 credits.		
+
+MET CS 693: Digital Forensics and Investigations
+	Provides a comprehensive understanding of digital forensics and investigation tools and techniques.  Laboratory and hands-on assignments either in solo or in teams. 4 credits.		
+
+MET CS 695: Enterprise Information Security
+           			The course provides an in-depth presentation of security issues in computer systems, networks, and applications. Formal security models are presented and illustrated on operating system security aspects, more specifically memory protection, access control and authentication, file system security, backup and recovery management, intrusion and virus protection mechanisms. Application level security focuses on language level security and various security policies; conventional and public keys encryption, authentication, message digest and digital signatures. Internet and intranet topics include security in IP, routers, proxy servers, and firewalls, application-level gateways, Web servers, file and mail servers. Discussion of remote access issues, such as dial-up servers, modems, VPN gateways and clients.		
+
+MET CS 699: Data Mining and Business Intelligence
+           			Data mining and investigation is a key goal behind any data warehouse effort. The course provides an  introduction to concepts behind data mining, text mining, and web mining. Algorithms will be tested on  data sets using the Weka Data mining software and Microsoft SQL Server 2005 (Business Intelligence  Development Studio). 4 credits.		
+
+MET CS 701: Rich Internet Application Development
+           			The Rich Internet Application (RIA) Development course concentrates primarily on building rich client  web applications in the browser for desktop and mobile devices. The course is divided into various  modules covering in depth the following technologies: HTML5, jQuery UI &amp; Mobile, and AngularJS.  Along with the fundamentals underlying these technologies, several applications will be showcased as  case studies. Students work with these technologies starting with simple applications and then examining real world  complex applications. At the end of this course, students would have mastered the latest  and widely  used RIA methodologies. 		
+
+MET CS 703: Network Forensics
+           			This course provides a comprehensive understanding of network forensic analysis principles. Within the  context of forensics security, network infrastructures, topologies, and protocols are introduced. 4 credits.		
+
+MET CS 713: Advanced Digital Forensics
+		This course provides an introduction to the advanced digital forensic topic relating to malicious software (malware), which represents an increasing information security threat to computer systems and networks. Students will review software engineering design fundamentals and reverse engineering techniques utilized to conduct static and dynamic forensic analysis on computer systems and networks. Students will learn about the importance of forensic principles, legal considerations, digital evidence controls, and documentation of forensic procedures. This course will incorporate demonstrations and laboratory exercises to reinforce practical applications of course instruction and will require an independent research paper related to the course topic.		
+
+MET CS 751: Web Services
+		Architecture of Web Services; review of XML Shemas; SOAP (Simple Object Access Protocol); WSDL (Web Services Description Language); UDDI (Universal Description, Discovery, and Integration); Web Services in .NET; Sun and Apache tools; Company-specific Web Service API?s; Java API?s for XML Messaging; Java Application Servers; review of Security, transactions, and business process languages (e.g. BPEL) among Web Services. 		
+
+MET CS 755: Cloud Computing
+	Cloud computing leverages the World Wide Web to fulfill computing needs. It packages applications, computing power, and storage as a metered service similar to a utility. This model is designed to supplant the traditional mechanism of desktop computing in many cases. This course will cover the origin, theory, enabling technology, and hands-on labs for key concepts in cloud computing. Students will: (1) Learn the unique set of problems and challenges in developing cloud computing applications; (2) Learn the platform, tools, technology and processes for developing cloud computing applications using Hadoop as the main example; and (3) Propose, develop, and run applications for the platforms covered.		
+
+MET CS 767: Fuzzy, Expert, Genetic, and Neural Systems
+		Theories and methods for automating the solution of problems with inexact specifications, input, models, or output (e.g., text checkers, help desks). Expert systems, fuzzy methods, neural net architectures, and genetic algorithms are examined and compared. Algorithms and a term project are implemented using shells and C++ or Java. Laboratory course. 		
+
+MET CS 770: Object-Oriented Analysis and Design
+		The object-oriented paradigm is key to the predictable development of reliable software-intensive systems. Object-oriented methods consist of languages, distribution, analysis and design. Languages change and so does distribution (the manner in which processing is distributed). Basic to Object-Orientation, however, are Analysis and Design, which have remained remarkably stable.  The course emphasizes ways to retain the goals of the object paradigm, the exploitation of use cases, the construction of sequence diagrams, the selection of classes, the relationships among them, and their utilization to implement systems. The course covers the relationship of GUI's to classes, and relates OO Analysis and Design to refactoring. 		
+
+MET CS 773: Software Quality Management
+		Theory and practice of quality assurance and testing for each step of the software development cycle.  Verification vs. validation. Test case design techniques, test coverage criteria, and tools for static and  dynamic analysis. Standards. Test-driven development. QA for maintenance and legacy applications.  Experimental approaches. 4 credits.		
+
+MET CS 775: Advanced Networking
+		In-depth coverage of the architecture, interfaces, protocols, and technologies of high-speed broadband networks. Topics include broadband wide-area network (WAN) technologies such as gigabit routers with IP switching, MPLS, ATM and Frame Relay; broadband LAN technologies: Fast Ethernet and Ethernet Switching, Gigabit Ethernet, and FDDI; broadband access technologies: DSL and Cable modems, as well as discussion of network performance, congestion control and traffic management, provision of different levels of quality of service (QoS),resource reservation, unicast and multicast routing, and multimedia compression and security in broadband networks. Students are required to complete a research project in one of the advanced Internet technologies. Labs on network performance analysis.		
+
+MET CS 779: Advanced Database Management
+		This course covers advanced aspects of database management systems including advanced  normalization and denormalization, query optimization, object-oriented and object-relational  databases, data warehousing, data mining, distributed databases, XML, XSL, and databases for web  applications. There is extensive coverage of SQL and database instance tuning. Students learn about the  advanced object-relational features in DBMS such as Oracle, including navigational query, BLOBs,  abstract data types, and methods. 4 credits.		
+
+MET CS 780: Database Administration
+		This course prepares students to perform the day-to-day administration of a database system. While most  of the examples in this course are based on Oracle database administration, the course also covers the  differences in administering Microsoft SQL Server and MySQL and examples. The course covers  administration on Windows, Linux and Unix platforms. 4 credits. 		
+
+MET CS 781: Advanced Health Informatics
+           			This course presents the details of information processing in hospitals, hospital information systems (HIS), and more broadly health information systems. It presents the architecture, design, and user requirements of information systems in health care environment. It focuses on Information Technology aspects of Health Informatics specifically addressing the design, development, operation, and management of HIS. The first part of this course covers the introductory concepts including information processing needs, and information management in health care environment. The second part covers detailed description of HIS including hospital process modeling, architecture, quality assessment, and applicable tools. The final part of the course covers management of HIS and related issues and extension of this topic to other health care organizations. The course will have a term project providing students a hands-on experience in design and research of HIS. Prerequisite: CS 580 Health Informatics.		
+
+MET CS 782: IT Strategy and Management
+           			This course provides an overview of contemporary I.T. management. It explains the relevant issues of  effectively managing information services. The course highlights areas of greatest current and potential  application of I.T. to business needs and reviews electronic business, enterprise business systems, and  decision support systems. 		
+
+MET CS 783: Enterprise Architecture
+		This course builds upon the strong technical foundation of our MSCIS and MSCS curricula, by providing  students with the CIO-level management perspective and skills of enterprise architecture, in the  context of the technologies that implement those architectures. The course provides students with the  understanding and skills needed to define and implement successful enterprise architectures that  provide real value to organizations, such as substantially reducing IT costs while improving  performance, agility and alignment of information technology to business goals. 4 credits.		
+
+MET CS 789: Cryptography
+		The course covers the main concepts and principles of cryptography with the main emphasis put on public  key cryptography. 4 credits.		
+

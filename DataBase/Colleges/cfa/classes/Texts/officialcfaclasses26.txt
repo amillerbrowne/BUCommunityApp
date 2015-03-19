@@ -1,0 +1,60 @@
+CFA TH 160: AutoCad1
+	Prereq: CFA TH 163; Introduction to Computer Aided Drafting program. Basic terminology, plate organization and technical drafting for Technical Production majors.  Requirement variable for Freshman BFA Design &amp; Production and Performance Core. 1.0 credit. Spring semester. 		
+
+CFA TH 162: Vectorworks
+	Prereq: CFA TH 169; Introduction to Computer Aided Drafting program.   Basic terminology, plate organization and technical drafting for Lighting and Sound designers.  Requirement variable for Freshman BFA Design &amp; Production and Performance Core. 1.0 credit. Spring semester.		
+
+CFA TH 163: Drafting 1
+	Prereq: None; Introduction to theatre space and vocabulary through hand drafting.  Basic techniques, tools and approach to communicating 3 dimensional objects in 2 D including orthographic projections, ground plans and sections. Required for Freshman BFA Design &amp; Production Core. 1.0 credits. Fall semester.		
+
+CFA TH 164: Drafting 2
+	Prereq: CFA TH 163; Continued exercises in theatre space and vocabulary through hand drafting.  Advanced techniques communicating 3 dimensional objects in 2 D including mechanical perspective, detail drafting, package layout and execution.  1.0 credits. Spring semester.		
+
+CFA TH 167: Drawing &amp; Painting Lab 1
+	Prereq: None; An introduction to artistic creation using various media and transfer techniques. Work in the fall includes working with color theory, painting and drawing. Required for Freshman BFA Design &amp; Production Core. 2.0 credits. Fall semester. 		
+
+CFA TH 168: Drawing &amp; Painting Lab 2
+	Prereq: None; An introduction to artistic creation using various media and transfer techniques. Work in the spring focuses on developing a visual vocabulary to execute observed and mechanical perspective drawing. Required for Freshman BFA Design &amp; Production Core. 2.0 credits. Spring semester. 		
+
+CFA TH 169: Introduction to Theatre Practice
+	Prereq: None; Basic training in theatre technology, including scenery, costumes, properties, lighting, and sound. Discussion of basic terminology, shop organization, job descriptions, maintenance procedures, and safety. . Required for Freshman BFA Design &amp; Production and Performance Core. 2.0 credits.  		
+
+CFA TH 170: Scene Construction
+	Prereq: TH169; Methods of Construction focusing on theatrical scenery construction and theatre technology. Further discussion of basic terminology, shop organization, job descriptions, maintenance procedures, and safety.  Requirement variable for Freshman BFA Design &amp; Production and Performance Core. 2.0 credits. Spring semester.		
+
+CFA TH 177: Figure Drawing
+	Prereq: None; Studio work in figure drawing.  Emphasis on drawing techniques and media through observation. May be repeated for credit. 1.0 credits. 		
+
+CFA TH 178: Figure Drawing
+	Prereq: None; Studio work in figure drawing.  Emphasis on drawing techniques and media through observation. Requirement variable for Freshman BFA Design &amp; Production Core. 1.0 credits. Spring semester.		
+
+CFA TH 182: Costume Construction
+	Prereq: CFA TH 169; Methods of Construction focusing on theatrical costume construction and technology. Further discussion of basic terminology, shop organization, job descriptions, maintenance procedures, and safety. Requirement variable for Freshman BFA Design &amp; Production Core. 2.0 credits. Spring semester.    		
+
+CFA TH 186: Lighting Crafts
+	Prereq: CFA TH 169; Methods of Construction focusing on theatrical lighting and technology. Further discussion of basic terminology, shop organization, job descriptions, maintenance procedures, and safety. Requirement variable for Freshman BFA Design &amp; Production Core. 1.0 credits. Spring semester.  		
+
+CFA TH 190: Audio Fundamentals
+	Prereq: CFA TH 169; Methods of Construction focusing on theatrical sound design and technology. Further discussion of basic terminology, shop organization, job descriptions, maintenance procedures, and safety. Requirement variable for Freshman BFA Design &amp; Production Core. 1.0 credits. Fall &amp; Spring semester.		
+
+CFA TH 194: Stage Management Fundamentals
+	Prereq: CFA TH 169; Methods of Construction Functions and responsibilities of stage managing on a professional level. Examination of the job of the stage management team from prep process through rehearsals and opening.  Focusing on relationships with other departments in order to support the creative process in your role as manager.  Work involves developing the paperwork necessary to complete a typical production of a straight play. Requirement variable for Freshman BFA Design &amp; Production Core. 1.0 credits. Spring semester		
+
+CFA TH 197: Production
+	Prereq: CFA TH 169; Practicum for freshman focusing shop experiences in scenery, costume, lighting, sound and stage management procedures, and safety. Run Crew, Wardrobe, Front of House, Board Operator or other duties as necessary in the mounting of student or professional productions. T,W,Th evenings and weekends depending on assignment. Required for Freshman BFA Design &amp; Production Core. 2.0 credits. Fall semester.		
+
+CFA TH 198: Production
+	Prereq: CFA TH 169; Practicum for freshman focusing shop experiences in scenery, costume, lighting, sound and stage management procedures, and safety. Run Crew, Wardrobe, Front of House, Board Operator or other duties as necessary in the mounting of student or professional productions. T,W,Th evenings and weekends depending on assignment. Required for Freshman BFA Design &amp; Production Core. 2.0 credits. Spring semester.		
+
+CFA TH 201: Dramatic Literature 2: 1850 to 1950
+	A survey of important plays and trends of the theatre from 1850 to 1950, with an emphasis on American and European dramatists. Students should expect frequent writing assignments. 3.0 credits. Fall semester.		
+
+CFA TH 202: Dramatic Literature 3: 1950 to 1990
+	A survey of important plays and trends from 1950-1990, with an emphasis on the play's significance within the given culture. We will examine North American, British, European, and African writers, with a balance between recognized canonical works, and plays by writers historically excluded from the canon due to gender, ethnicity, or aesthetic orientation. Students should expect frequent writing assignments. 3.0 credits. Spring semester only. 		
+
+CFA TH 203: Role of the Playwright 1
+	This course description is currently under construction. 3.0 credits. Fall semester.		
+
+CFA TH 204: Role of the Playwright 2
+	This course description is currently under construction. 3.0 credits. Spring semester.		
+

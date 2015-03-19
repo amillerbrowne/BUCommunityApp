@@ -1,0 +1,9 @@
+SMG SM 222: Modeling Business Decisions and Market Outcomes
+           			Sophomore requirement. Examines the use of economic and statistical tools for  making business decisions. Topics include optimization (including linear  programing), multiple regression, demand modeling, cost modeling, industry  analysis (including models of perfect competition, monopoly, and oligopoly), and  game theory. The course emphasizes modeling with spreadsheets.		
+
+SMG SM 321: Analytics
+           			SMG SM 321: Analytics Component of SMG SM 323, The Cross Functional Core.  This course will improve  students' ability to structure and think about complex business problems.  Students will gain hands-on experience with spreadsheet modeling in Excel and  will develop a toolkit of quantitative skills that will help them make informed  decisions in an uncertain world. Students will learn how to build models for  decision-making, how these models are used to identify the best choice from a  range of options, and how the best choice may change in response to changes in  the model's parameters. The course will also provide an introduction to  simulation analysis and the measurement and management of risk. The course will  cover several applications relevant to aspects of the Cross-Functional Core  project. 4 cr. 		
+
+SMG SM 333: Business Plan
+	Taken as part of the Cross-Functional Core.  Pass/Fail.  1 cr.		
+

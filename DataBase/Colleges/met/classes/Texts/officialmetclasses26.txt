@@ -1,0 +1,61 @@
+MET MG 517: Investment Analysis and Portfolio Management
+           			Mechanics of securities markets, types of available investments, and an introduction to determination of securities values. Problems of investment policy are approached through studies of portfolio selection methods, and the valuation of special classes of securities (i.e., growth stocks). 		
+
+MET MG 520: International Business Management
+	Environmental, economic, political, and social constraints on doing business abroad. Examines the effects of overseas business investments on domestic and foreign economics; foreign market analysis and operational strategy of a firm; and development potential of international operations. 		
+
+MET MG 521: Organizational Behavior and Development
+	Understanding relationships between individuals, social interaction patterns, technology, and organizational arrangements and their environmental context. Dimensions of effective organizational environments. Emphasis on analyzing and evaluating related contemporary theories and issues through case studies. 		
+
+MET MG 522: Consumer Behavior
+	A broad view of consumer attitudes, behavior, and decision-making processes. Uses computer and case studies to supplement text readings. 		
+
+MET MG 523: Marketing Research
+           			Discusses marketing management situations as a basis for examining various marketing research techniques. Uses methods of social and behavioral science in gathering, analyzing, and interpreting facts necessary for making decisions. Applications in professional practice. 		
+
+MET MG 530: Business Strategy
+	Policy problems of business organizations. Integrates the areas of marketing, finance, accounting, economics, and personnel into a managerial concept of business decision making. 		
+
+MET MG 541: The Innovation Process: Developing New Products and Services
+	Addresses the specifics of new product and service development and factors such as market research and partnering that add value and bring innovation to commercial reality. 4 cr		
+
+MET MG 545: Introduction to American Management, Culture and Institutions
+	This course is intended primarily for international students to introduce them to American  institutions -- business, educational, and political in particular -- within the context of American  history, popular culture, and society.  Students will learn about the unique features of American  management and enterprise.  The Boston metropolitan area will play an important role in  appreciating the overall historical and cultural context, as will contemporary issues, scholarship,  and unfolding events in illustrating distinctive features of American life and commerce.   		
+
+MET MG 548: Electronic Commerce and Web Design II
+           			The second course in a two course sequence. This course combines: (1) The advanced aspects of Web design through the enhanced use of application software such as fireworks and flash for Dreamweaver to construct a commercial Web site with (2) an in-depth understanding of marketing, supporting services, systems, security and business strategy issues facing commercial enterprises.		
+
+MET MG 550: International Business Law and Regulation
+	This course examines the international business, legal and regulatory environment. Topics include international legal comparisons, the international sale of goods, imports, and exports, technology transfer, intellectual property protection and forms, and regulations of foreign direct investment. 4cr. 		
+
+MET MG 560: Web Technology and Languages
+	This course presents a complete immersion into Web Technology, Internet, World Wide Web architecture, search engines, and Web page creation using the standard HTML language. Other topics include Dynamic HTML; scripting using JavaScript, VBScript and XML; server-side components such as CGI, ASP, and PERL. Develops knowledge and skills for both electronic commerce payment mechanisms and data transactions security of information and information systems within organizations.  Payment options for electronic commerce such as e-cash, SET, credit cards, systems design and methods of dealing with risks are covered. Other topics include: designing, implementing, managing, and auditing security at all levels; techniques for assessing risk associated with accidental and international breaches of security; ethical uses of information and privacy consideration; encryption; and digital certificates. (Not for computer science students).  		
+
+MET MG 570: Business Law
+	Explores the major areas of law as they relate to the business environment. The areas studied include personal injury law, contracts, the Uniform Commercial Code, partnership law, corporate law, transactions, and property law. This course provides a broad background on the legal issues that influence daily business operations. 		
+
+MET ML 565: Food Marketing
+	This course will explore marketing and brand management for food products, components and ingredients in the restaurant and retail industries. Of particular interest will be the convergence of various parts of the food system and the erosion of conceptual distinctions regarding the source and nature of prepared foods. This will include the extension of retail brands into the restaurant channel and vice versa, as well as the supply chain for agricultural and manufactured products consumed in the restaurant channel. The course will cover strategic and tactical marketing issues related to food including new product development, manufacturing and production, packaging, pricing and distribution. It will also cover relevant topics in consumer behavior, such as connoisseurship. Some attention will be give to sustainability, including the marketing dynamics related to the slow and organic foods movements. 4 credits		
+
+MET ML 589: Nature's Past: Histories of Environment and Society
+	Historians? approaches to environmental history, including human elements of technology, demography, local knowledge, political ecology, and social organization. Geographical foci include North America, Atlantic World, Asia, and Africa.		
+
+MET ML 610: Special Topics in Gastronomy
+	ML610 is the designation for "Special Topics in Gastronomy". The subject matter for ML610  courses changes from semester to semester, and more than one ML610 can be offered in a given  semester. Course descriptions for all ML610 sections are listed below. For more information,  please contact the department Graduate Student Advisor.<br> <br> Fall 2014 - MET ML610 A1 -  "The Big, Fat Fat-Controversy" (Dr. Karen Pepper):<br> The word "fat" is charged with many  meanings and associations.  There is the biochemical entity called fat, the stuff that fills our  adipose tissues. Fat, one of the macro-nutrients that constitute our food, is an ingredient in a  myriad of dishes.  Fat is associated with ill-health, particularly Type II diabetes.  Fat gives shape to  the human form, thus contributing to body image.  Effort may be expended, via dieting and  training, to eliminate bodily fat or reconfigure it as muscle.  And fat represents different things in  different cultures. This course will try to circle the girth of this amazingly rich subject.<br><br> Fall  2014 - MET ML610 C1 -"Food and Literature" (Dr. Maximillian Shrem):<br> The Invention of Modern-day Food Writing: Excursions into the Gastronomic Library from the 19th  to 21st Centuries:  Grounded in both literary and sociological approaches, the goals of the course  are threefold: 1) study food and consumption as a literary device; 2) examine the semantic  expansion of the term gourmand through literature (in other words, study the relationship between  the culinary and literary fields from a sociological perspective); 3) trace the origins of gastronomic  writing.  <br><br>Fall 2014 - MET ML610 S1 - "Making Wine" (Bill Nesto):<br> Course meets off-campus at  the Boston Winery Facility in Dorchester. 		
+
+MET ML 611: Archaeology of Food in Ancient Times
+	How people have obtained and processed a wide range of foods through time, beginning with early humans. Food used by hunter/gatherers; changes in diet and nutrition through time to early farmers. Examines archaeological evidence for types of plants and animals exploited for food, as well as human skeletal evidence for ancient nutrition and diseases related to diet and food stress. Consideration of early historical periods, especially in terms of how certain foods such as wine have played a significant role in culture beyond basic dietary needs. 		
+
+MET ML 612: Pots and Pans: Material Culture of Food
+	Exploration of the food cultures and technologies through material culture-  pots, pans, and utensils.    Course will range broadly across cultures, time,  and space with emphasis on medieval and early modern   times. Life histories  of humble, overlooked, everyday objects associated with food preparation  and   consumption; kitchens from prehistory to the present; tradition and  fashion in cooking &amp; dining vessels;   pots and cooking technology; pots as  metaphors &amp; symbols.  		
+
+MET ML 614: Philosophy of Food
+	"Tell me what you eat and I will tell you what you are."-- Anthelme Brillat-Savarin (1755-1826)   In this  course, we will use the tools of the philosopher to study various aspects of food--its classification,  preparation, consumption, and judgments about the practices affected by it.  The focus in this course  will be how philosophers contribute to food studies through engagement with long-standing  philosophical questions--not just in aesthetics, moral and political philosophy, but also in metaphysics  and epistemology.  Topics addressed in the class may include foods as natural (or non-natural) kinds;  cultural knowledge, know-how and food traditions; eating and identity; eating, rationality and norms;  vegetarianism and moral philosophy; and neuroscience, culture and taste.   		
+
+MET ML 621: Researching Food History
+	This research seminar in food history focuses on the markets and marketplaces over centuries and across a wide geographical area. The focus of this seminar is to hone students? research and writing skills. The broad general topic will allow students to pursue their own special research interest within a larger context while working with others engaged in similar research and writing challenges. By the end of the semester, students will have made a start on conference papers in the field of food studies and indentified potential venues for presenting their work. 4 cr		
+
+MET ML 622: History of Food
+	The scope of the course will be global, covering civilizations of Asia, America, Africa, and Europe  and how cultures of these domesticated unique staples, which literally enabled these civilizations  to expand and flourish. The course will cover history of the interaction of humans with food  resources from earliest hunting and gathering societies to the present. The major theme of the  course will be the process of globalization, imperialism and the growth of capitalist enterprise and  the cost of indigenous cultures and traditional farming practices and how these processes were  shaped by trade in food.  Online/blended course, face-to-face meetings TBA.		
+
+NOTE: Program information is accurate as of July 2013. Check the <a href="http://www.bu.edu/met/">MET website</a> for important updates.

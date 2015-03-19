@@ -1,0 +1,60 @@
+CFA TH 684: Lighting Design Studio 2
+	Prereq: CFA TH 683; A continuation of TH683.  Introduction to the art and craft of lighting design for the stage. Explores the lighting design process, how to develop lighting ideas, concepts, and visual images from a text, and how to support those ideas to the point of realization. Required Labs will supplement class work with hands-on activities. 3.0 credits. Spring semester.		
+
+CFA TH 685: Photography 1
+	Prereq: Instructor Consent; Meets with CFA TH 385. A general survey of the art and practices of photography.  Focus is especially strong in aspects of: history of artists and images, history of technology, photographic processes and basics of the camera and technology. 1.0 credits. Fall semester. 		
+
+CFA TH 686: Photography 2
+	Prereq: Instructor Consent; Meets with CFA TH 386. A general survey of the art and practices of photography.  Focus is especially strong in aspects of: history of artists and images, history of technology, photographic processes and basics of the camera and technology. 1.0 credits. Spring semester.   		
+
+CFA TH 687: Sound Design Studio 1
+	Prereq: Graduate standing or consent of instructor; Meets with CFA TH 287. An overview of theatrical sound design, focusing on the process of creating a design. The emphasis is on sound cue creation, establishing mood, emotion and environment with sound, and critical listening. Covers the basics of the tools and technology used to implement a professional sound design. 3.0 credits. Fall semester.		
+
+CFA TH 688: Sound Design Studio 2
+	Prereq: CFA TH 687; A continuation of CFA TH 687. Meets with CFA TH 288. An overview of theatrical sound design, focusing on the process of creating a design. The emphasis is on sound cue creation, establishing mood, emotion and environment with sound, and critical listening. Covers the basics of the tools and technology used to implement a professional sound design. 3.0 credits. Spring semester.		
+
+CFA TH 689: Production Audio 1
+	Prereq: Graduate standing or consent of instructor; Meets with CFA TH 289 . Audio systems, video systems and intercom systems will be examined from input to output in terms of signal flow and interconnection practices and how they are used. 3.0 credits. Fall semester.		
+
+CFA TH 690: Production Audio 2
+	Prereq: CFA TH 689; A continuation of CFA TH689. Meets with CFATH 290. Audio systems, video systems and intercom systems will be examined from input to output in terms of signal flow and interconnection practices and how they are used. 3.0 credits. Spring semester.		
+
+CFA TH 693: Stage Management Studio 1
+	Prereq: Graduate standing or consent of instructor; Addresses common forms of stage management paperwork, computer skills, problem solving, union rules, familiarity with various theaters and forms of theater and beginnings of team management. 3.0 credits. Fall semester.		
+
+CFA TH 694: Stage Management Studio 2
+	Prereq: Graduate standing or consent of instructor; Addresses common forms of stage management paperwork, computer skills, problem solving, union rules, familiarity with various theaters and forms of theater and beginnings of team management. 3.0 credits. Spring semester.		
+
+CFA TH 695: Production Management Studio 1
+	Prereq: Graduate standing or consent of instructor; Roles and responsibilities of Production Managing on a professional level, including scheduling, staffing, budgeting, relationships and time management. Students will get hands-on experience in each of these through the creation of a theoretical theatre company. 3.0 credits. Fall semester.		
+
+CFA TH 696: Production Management Studio 2
+	Prereq: Graduate standing or consent of instructor; Roles and responsibilities of Production Managing on a professional level, including scheduling, staffing, budgeting, relationships and time management. Students will get hands-on experience in each of these through the creation of a theoretical theatre company. 3.0 credits.  Spring semester.		
+
+CFA TH 697: Production
+	Prereq: Graduate standing; Each semester that a 1st year graduate student in Design &amp; Production is in residence at SOT, he/she is required to enroll in an appropriate section of Production.  Meets late afternoons, evenings and/or weekends.  Specific design and shop work in the mounting of student or professional productions. Does not include off-crew design work. Fall semester.		
+
+CFA TH 698: Production
+	Prereq: Graduate standing; Each semester that a 1st year graduate student in Design &amp; Production is in residence at SOT, he/she is required to enroll in an appropriate section of Production.  Meets late afternoons, evenings and/or weekends.  Specific design and shop work in the mounting of student or professional productions. Does not include off-crew design work. Spring semester.		
+
+CFA TH 734: Modern Tailor 2
+			
+
+CFA TH 755: History of Period Styles 1
+	Prereq: Graduate standing or consent of instructor; Meets with CFA TH 355. Survey covering the history of and significant cultural expression through interior decoration and furniture in major civilizations. Work involves research projects with emphasis on historic fabrics and construction. 2.0 credits. Fall semester. 		
+
+CFA TH 756: History of Period Styles 2
+	Prereq: CFA TH 755; A continuation of CFA TH 755. Meets with CFA TH 356. Survey covering the history of and significant cultural expression through interior decoration and furniture in major civilizations. Work involves research projects with emphasis on historic fabrics and construction. 2.0 credits. Spring semester.   		
+
+CFA TH 757: History of Tailoring 1
+	Prereq: Graduate standing or consent of instructor; This is a comprehensive course of historical classic nineteenth and twentieth century tailoring techniques, terminology and fabrics. Fall semester even numbered years. 3.0 credits. Fall semester. 		
+
+CFA TH 758: Hist of Tailr 2
+			
+
+CFA TH 759: AutoCAD 2
+	Prereq: CFA TH 660 or consent of instructor; A continuation of AutoCAd 1 as a more advanced, in-depth study of AutoCad.  Goals will be based on improving the speed of drawing production and learning new tools to help fit the specific needs of the student's area of focus. 1.0 credit. Fall semester.		
+
+CFA TH 761: Vectorworks 2
+	Prereq: CFA TH 662 or consent of instructor; Advanced work in Vectorworks CAD; specific rendering techniques for the individual area of lighting and the light plot. 1.0 credit. Fall semester.		
+

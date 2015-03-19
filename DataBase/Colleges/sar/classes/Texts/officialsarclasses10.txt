@@ -1,0 +1,60 @@
+SAR SH 703: Counseling in Speech-Language Pathology: An Introductory Seminar
+	MS Speech-Language students only. An introduction to the basic principles, theory, skills, and clinician characteristics necessary for counseling clients and their families. Emphasis is placed on the developing self-awareness and clinical presence as foundations for insight into the client's situation and choosing helpful responses. 		
+
+SAR SH 708: Models of Language
+	This course is a comprehensive overview of structure and process in language use and development and includes a review on the structure of language in each of the traditional areas of linguistic analysis. In addition, the course will provide an overview of normal language processing in children by reviewing the stages of typical language acquisition. Finally, experimental methods and analysis tools commonly used in language research will be covered. 		
+
+SAR SH 709: Language Sampling Analysis
+	This course provides students with the knowledge and skills required to elicit, transcribe and analyze conversation, narrative and expository language samples.  Analyses in the areas of syntax, semantics, pragmatics and discourse are presented and the strengths and weaknesses of each of the analyses are discussed.  The course also includes a discussion of theoretical and clinical issues related to the use of language sampling and analysis in the assessment and treatment of language disorders. 		
+
+SAR SH 720: Craniofacial Disorders
+		Ontogenetic, anatomic, and physiologic aspects of orofacial anomalies with an emphasis on cleft lip and palate. Issues involving a team approach to diagnosis and treatment including medical, surgical, prosthetic, and therapeutic procedures. 		
+
+SAR SH 721: Motor Speech Disorders
+	In this course, students will review the neuroanatomy underlying motor speech disorders and will then learn about each type of motor speech disorder in detail.  Most of the classes will cover specific types of dysarthria, but two sessions will focus on apraxia of speech. Clinical assessment protocols will be learned and treatment interventions will be covered.  Each class will devote some time to listening and scoring audiotapes of patients with a dysarthria or apraxia of speech. 		
+
+SAR SH 727: Autism Spectrum Disorders
+	This course provides students with the core features of autism spectrum disorders (ASD) and a description of the fundamental features of associated communication disorders.  Students have the opportunity to examine receptive language, expressive language and pragmatics in individuals with ASD through video presentations and review of the literature.  Students discuss and evaluate issues associated with ASD including early diagnosis, behavioral challenges, treatment techniques, and current issues in the field.		
+
+SAR SH 729: School-Age Language Disorders
+           			This course provides students with a foundation of knowledge about the etiology and characteristics of language disorders in school-age children.  Students will discuss the evolving language demands that children encounter as they progress through school, and will explore the impact of language disorders on academic performance and social interaction in the classroom.   Students will come to appreciate the relationship between oral and written language development, as well as the role of the SLP in the assessment and treatment of written language disorders.  This course gives students the tools necessary to effectively identify, evaluate and treat children with language, reading and writing disorders. 		
+
+SAR SH 732: Fluency Disorders
+	Theories, diagnosis, and approaches to modification of stuttering behavior. Analysis of cases and review of pertinent research. 		
+
+SAR SH 733: Voice Disorders
+	Anatomical and physiological bases of voice production. Diagnosis and therapy for phonatory disorders in children and adults. Function of the team philosophy for speech pathologists in vocal rehabilitation. 		
+
+SAR SH 734: Acquired Cognitive Disorders
+	An introduction to the rehabilitation of individuals with acquired brain injury across the recovery continuum from acute care to post-acute rehabilitation and reintegration into the community. Primary focus is on the role of the speech-language pathologist and the knowledge and skills required for diagnosis and treatment of this population. Formal and informal assessment tools, treatment paradigms, function of the interdisciplinary team, prevention, advocacy, and strategies to address the needs of family members are presented. 		
+
+SAR SH 735: Preschool Language Disorders
+	This course explores communication disorders from infancy through the preschool period.  Topics addressed include theoretical frameworks for the assessment and treatment of childhood language disorders, etiology and characteristics of language/communication disorders in infants and preschool children, principles and methods of assessment and intervention, multicultural issues in assessment and intervention, and current issues in the early childhood language disorders research literature.  Class sessions and assignments are designed to facilitate students' critical thinking and problem solving abilities in the area of infant and preschool communication/language disorders. 		
+
+SAR SH 736: Aphasia
+	This course will cover current theories of language processing and of language breakdown subsequent to neuropathology. Course topics cover neuroanatomy, neuroimaging and psycholinguistic models of language processing. Evaluation, diagnosis, and treatment of adults with aphasia will be covered. Students will learn how to analyze language disorders in relation to current theories using a variety of diagnostic instruments and how to use the results of this analysis to plan for therapy. 		
+
+SAR SH 737: Evaluation and Diagnosis in Speech Pathology
+	Differential diagnosis in speech pathology. Review of pertinent research, interpretation of test results, and discussion of the implications of the diagnostic findings in a total rehabilitation process. 		
+
+SAR SH 738: Dysphagia
+           			This course will provide basic information necessary to understand normal and abnormal swallowing and will impart the knowledge and skills needed to assess and treat patients with dysphagia. Topics include neuroanatomy and physiology of swallowing, the clinical evaluation, instrumental evaluations (fluoroscopy and endoscopy), treatment, swallowing disorders in children, and complications of dysphagia. Videorecorded swallow studies will be shown in most classes to enable the student to become proficient in identifying abnormal findings. 		
+
+SAR SH 739: Advanced Dysphagia
+           			This course will delve more deeply into topics of importance to clinical practice in dysphagia. Topics include evaluation procedures, analysis of FEES and MBS studies, efficacy of novel and established treatments, difficult decision making, dysphagia in head and neck cancer, neurologic disorders, dementia. Lab dissection and hands-on scoping sessions. Case studies to highlight each topic. The size of the class will be limited to encourage class discussion.		
+
+SAR SH 740: Introduction to Clinical Practicum: Speech and Language
+           			Students are assigned to the Boston University Speech, Language and Hearing center for their first practicum experience. Clinical work is accompanied by regular group and individual meetings with the clinical staff. Acceptable hours may be applied to certification. 		
+
+SAR SH 741: Clinical Practicum: Speech and Language
+           			Students are assigned to their first field-based experience from a variety of clinical settings. Upon successful completion of SAR SH737, students are assigned to the Boston University Speech, Language, and Hearing Center Diagnostic Team. Students may also be assigned to Boston University specialty clinics. Acceptable clinical hours may be applied to certification. 		
+
+SAR SH 742: Clinical Practicum: Speech and Language
+	Students are assigned their second field-based experience from a variety of clinical settings. Upon successful completion of SH 741 and SH 737, students are assigned to a Diagnostic Team. Students may also be assigned to Boston University specialty clinics. Acceptable clinical hours may be applied to certification. 		
+
+SAR SH 743: Clinical Practicum: Speech and Language
+	Students are assigned their third field-based experience from a variety of clinical settings. Students may also be assigned to Boston University specialty clinics. Acceptable clinical hours may be applied to certification. 		
+
+SAR SH 748: Hearing Practicum I
+           			Clinical practicum for students in the Masters of Speech-Language Pathology program.  Students conduct hearing screenings for children and adults under the supervision of an audiologist, following protocols established by the American Speech, Language and Hearing Association.  Some clinical sites are in local schools. 		
+

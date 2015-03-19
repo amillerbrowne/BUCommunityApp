@@ -1,0 +1,59 @@
+           			Optical properties of semiconductors: interband optical transitions; excitons.  Low-dimensional structures: quantum wells, superlattices, quantum wires, quantum dots, and their optical properties; intersubband transitions.  Lasers: double-heterojunction, quantum-well, quantum-dot, and quantum-cascade lasers; high-speed laser dynamics.  Electro-optical properties of bulk and low-dimensional semiconductors; electroabsorption modulators.  Detectors: photoconductors and photodiodes; quantum-well infrared photodetectors. Same as ENG MS 774. Students may not receive credit for both. 		
+
+ENG EC 777: Nanostructure Optics
+           			Discussion of the fundamental physical aspects and device applications of optical fields confined and generated in nanoscale environments. Review of classical electrodynamics and angular spectrum representation of optical fields, classical and quantum models for light-matter interaction, light emission from semiconductor quantum dots and wires, surface-plasmon polaritons and sub-wavelength light transport/localization in metal nanostructures, slot waveguide structures, surface-enhanced Raman scattering (SERS) and SERS-based sensors, light scattering in complex photonic structures such as: metal-dielectric photonic crystals, fractal structrures, random lasers.		
+
+ENG EC 782: RF/Analog IC Design - Advanced Applications
+           			Selected topics in advanced RF/Analog integrated circuit design based on high frequency BiCMOS technology.  Topics to be covered include oversampling (Sigma Delta) A/D converters, RF phase-locked loops, low voltage RF frequency synthesizers, printed circuit board design for RF applications, antennas and signal propagation, PCB filters, and other mixed-signal topics.  The course will utilize selected readings from the technical literature, as well as a number of RF measurement and RF design lab assignments.		
+
+ENG EC 892: Seminar: Electro-Physics
+	A weekly two-hour seminar on recent research topics in the area of electro-physics, including solid state materials and devices, photonics, electromagnetics, computers in physics, and other related areas. Speakers include faculty and graduate students in the area. 		
+
+ENG EC 900: Research
+	By petition only. Research carried out under the guidance of a faculty member. Variable cr.		
+
+ENG EC 901: Thesis
+	By petition only. Preparation of an original MS thesis carried out under the guidance of a faculty member. Variable cr.		
+
+ENG EC 902: MS Project
+	MS research project under the supervision of an ECE faculty member. Student must    participate in end-of-semester ECE Research Symposium. Final report required.    Student must submit proposal for ECE Graduate committee approval prior to the    semester in which the MS research project is to be carried out. Variable cr.		
+
+ENG EC 951: Independent Study
+	By petition only. Under faculty supervision, graduate students may study subjects not covered in a regularly scheduled course. A final report and/or written examination is required. Variable cr.		
+
+ENG EC 952: Directed Group Project
+	A semester long engineering project with significant graduate-level design and    implementation elements is carried out by a team of 1 to 4 graduate students    under the supervision of an ECE faculty member. Required deliverables include a    written proposal, an end-of-semester project report, and an end-of-semester    oral/poster presentation. The project proposal must be approved by the faculty    supervisor before project team members may register for this course. Variable  cr.		
+
+ENG EC 991: Dissertation
+	By petition only. Preparation of an original PhD dissertation carried out under the guidance of a faculty member. Variable cr.		
+
+ENG EK 100: Freshman Advising Seminar
+	This first-year experience course introduces students to Boston University,the College of Engineering, and the field of engineering. Students meet with faculty and student advisors and attend lectures to broaden their knowledge of the inner workings of the College and to gain a better understanding of engineering as a discipline and the ethical responsibilities of an engineer. Includes academic policies and special programs along with support services.		
+
+ENG EK 102: Introduction to Linear Algebra for Engineers
+           			Systems of linear equations and matrices. Vector spaces and linear transformation using matrix notation, determinants, and eigenvalues and eigenvectors. Examples drawn from engineering applications. Cannot be taken for credit in addition to CAS MA 142 or MA 242.		
+
+ENG EK 127: Engineering Computation
+	An introduction to engineering problem solving using a modern computational environment. Basic procedural programming concepts include input/output, branching, looping, functions, file input/output, and data structures such as arrays and structures. An introduction to basic linear algebra concepts such as matrix operations and solving sets of equations. Introduction to numerical methods, for example least squares solutions and their use for curve fitting. Programming projects provided by all College of Engineering departments will reinforce these concepts and introduce engineering freshmen to the various disciplines.		
+
+ENG EK 128: EK128 Engineering Computation++
+	An introduction to engineering problem solving, programming, and design for engineering students with strong interest or preparation in computer programming. All topics will be "learned by doing" through studio classes and individual and team projects. Basic procedural programming concepts (such as variables, expressions, input/output, branching, looping, functions, file input/output, and data structures). Introduction to computational environments, linear algeba and numerical methods. Types of development environments and programming language categories:  glue, scripting, web, object-oriented, system and assembly languages.  Students will form design teams and will design, build, test, and demonstrate a final project. Students may receive credit for either ENG EK 127 or ENG EK 128 but not both.		
+
+ENG EK 131: Introduction to Engineering
+	Introduction to engineering analysis and/or design through a sequence of two modules or minicourses chosen from a selection of modules offered by participating engineering faculty. Each module presents students with key concepts and techniques relevant to an applied area of engineering. Limited to freshmen and sophomores (students with less than 64 credits toward degree requirements). 2 cr, either sem. 		
+
+ENG EK 132: Introduction to Engineering
+	Introduction to engineering analysis and/or design through a sequence of two modules or minicourses chosen from a selection of modules offered by participating engineering faculty. Each module presents students with key concepts and techniques relevant to an applied area of engineering. Limited to freshmen and sophomores (students with less than 64 credits toward degree requirements). 2 cr, either sem.  		
+
+ENG EK 156: Design and Manufacture
+	Introduction to design and processing steps required in manufacturing. Specialized project involving the design, scheduling, budgeting, and building a project selected by the student with the consent of the instructor. Includes lab.		
+
+ENG EK 210: Introduction to Engineering Design
+	A two credit introductory course to the principles of engineering  design,  intended to give second-year undergraduates a basic understanding of the   process of converting a product from concept through design and deployment.    Students will work in multi-disciplinary teams with time and budget constraints   on externally sponsored design projects.  Web-based lectures will cover topics   concurrent with specific phases of the projects.  The course will culminate in a   "Design Competition".  		
+
+ENG EK 225: Introduction to Energy Conversion and Environmental Engineering
+	This class examines the existing state of the world's energy use and its impact  on society and the planet. A quantitative framework is provided in order to  evaluate current and potential technologies. Individual energy generation,  conversion, and end use options are evaluated within this framework. Both  renewable energy generation technologies: wind, solar, biomass, and hydro, and  conventional sources such as nuclear and fossil fuels will be compared. Energy  conversion is discussed with regards to batteries and fuel cells, liquid bio- fuels, and grid level storage systems. These technologies are then put into a  social context and their use around the world is discussed. Evaluations are  based on homework and class discussions, midterms, and a final.  4 cr. Cannot be  used for credit towards an engineering degree.		
+
+ENG EK 280: Technology, Society and Policy
+	Examination of technology as a fundamental element of and driving force in our culture. Balanced understanding of the promises, consequences, and dilemmas brought about by specific technologies. Opportunity to improve critical thinking abilities and to broaden perspectives and sense of responsibility of new professionals as they become involved in decisions related to technology. ENG EK 280 (for engineering students) meets with CAS SO 277 (for non-engineering students) and fulfills 4 credit hours of social science elective as a sociology course. The course cannot be used as a core elective. 		
+

@@ -1,0 +1,61 @@
+MET AD 728: Understanding and Managing Heritage Tourism
+	This course will examine the special characteristics of heritage tourism: how it differs from other forms of tourism in terms of product definition, development, audience, management, ethics, and relation to the local, national, and international communities. Topics will include historic preservation, product presentation and interpretation, and issues of sustainability and place-making. 		
+
+MET AD 731: Corporate Finance
+           			Emphasizes issues of accounting, finance, and economics that are important in most management contexts. Stresses understanding financial statements, planning and control, cost and benefit evaluation, cash flow analysis, and capital budgeting. 		
+
+MET AD 733: Leadership in Management
+	What does it mean to be a good leader? Can key elements of good leadership be identified? This dynamic course will start with an exploration of traditional and contemporary models of leadership, leadership development and management training. From there, participants will assess their own personal skills, preferences, aptitude and readiness to confront the challenges of leadership through a series of exercises, simulations and hands-on activities. Key elements of leadership, such as visiting, communicating, decision-making, team building and motivating will be studied and practiced. This course combines a thorough review of the theoretical aspects of leadership with the opportunity for "real world" applications through experiential learning.		
+
+MET AD 735: Marketing in Technology-Based Industries
+	Using case studies and lectures, this course focuses on developing appropriate market mix strategies and sound competitive analysis for the goods and services industries. Emphasis is placed on understanding consumers' needs and wants, the competitive environment, effective market communications, and proper positioning techniques. 		
+
+MET AD 736: Statistical Analysis
+	Statistical and mathematical solutions to business and financial decision-making. Basic concepts of probability theory. Data analysis centers on descriptive and inferential statistics. Sampling estimation, hypothesis testing, regression, and correlation analysis.		
+
+MET AD 737: Innovative Marketing Techniques
+	Marketing approaches have been significantly altered with the advent of the Internet.  This course provides a view of marketing for the twenty-first century.  Special emphasis is provided on the impact of new Internet marketing techniques, research using data mining and metrics, search engine optimization, reaching consumer markets through the new business models associated with social communities, blogs, and other Web 2.0 structures.  4cr.		
+
+MET AD 738: Data Analysis and Operations Management
+	Students are exposed to the statistical and mathematical solutions to business and financial decision-making. The course deals with the basic concepts of probability theory. Data analysis focuses on descriptive and inferential statistics as they apply to gathering and organizing information. It includes modern sampling estimation, hypothesis testing, regression, and correlation analysis. The course examines concepts and applied techniques for managing the operations and projects of the service or manufacturing firm. Operations topics include areas of demand forecasting, quality determination, work flow and control techniques, cost-effective management of both long-term development programs and smaller short-term projects. The course provides an understanding of the important element of operations (service or production) the supply chain management process. Material is presented that relates to the major, and often competing, supply chain challenges concerning the simultaneous standardization and differentiation of consumer preferences for products and the continued minimization emphasis in supply chains and inventory management. The evolution of supply chains is studied, from those that focused on efficiencies and execution to those that use a more competitive, strategy-oriented approach, getting the "right" products to the consumer/marketplace at the right quality/price and quantity.		
+
+MET AD 739: Marketing Management
+	Provides basic marketing knowledge and develops analytical and decision-making skills. Marketing tools, issues, programs, and institutions and their relationship to other management functions. Consumer behavior, promotional tools, pricing, distribution channels, product policy, marketing organization, control, and information systems.		
+
+MET AD 740: Planning and Operating New Ventures
+		Includes opportunity assessment and feasibility analysis, concept development, budgeting and financial operations, financial and human resource management, legal and organizational issues, role of boards and external advisors that lead to the writing of a business plan.		
+
+MET AD 741: The Innovation Process: Developing New Products and Services
+	Addresses the specifics of new product and service development and fostering innovation and technology to increase performance. Topics include generating and screening initial ideas; assessing user needs and interests; forecasting results; launching, and improving products and programs; bringing innovation to commercial reality. 		
+
+MET AD 742: Program and Project Management
+	This survey course provides an integrative approach to project management focusing on the skills that are fundamental to successful completion of projects. The course covers the project management life cycle, project selection and alignment with organizational strategy, project definition, risk analysis, work break down structure, activity scheduling, and resolving scheduling conflicts. The course examines the concepts and applied techniques for cost effective management of both long-term development and short term projects. The content covers planning, scheduling, organizing, and controlling projects, for example, product development, construction, information systems, new businesses, and special events. Management principles and methodology are provided as they apply to projects, with special focus on leadership, teaming, and coordinating individual and group efforts. MS Project will be introduced in this course to provide hands-on practical skills with the above topics. Mastery of key tools and concepts introduced in this course could give you a significant competitive advantage in the marketplace.		
+
+MET AD 743: Managing Employees, Professionals, and Teams
+	The course explores the issues that managers face when attempting to get work accomplished through other individuals or teams as they arise in organizations that employ numerous professionals and that emphasize innovation in their products, services, and internal processes. The relationship between individuals, organizations and the larger social context is studied. Focus Topics include: motivation, incentive systems, team and work flow management. The course discusses management techniques, effective verbal and nonverbal communication methods and negotiation skills as they pertain to the different aspects of managing individuals or teams. Successful managers have developed the ability to understand the nature of conflict and its resolution through persuasion, collaboration, and negotiation. Students will learn theories of interpersonal and organizational conflict and its resolution as applied in personal, corporate, historical, and political contexts.		
+
+MET AD 744: Venture Capital and Financing Innovation
+           			Provides an analysis of the economics of innovation and the means by which firms secure the necessary capital to begin or expand operations. Procedures for raising venture capital through investment institutions and individuals are discussed.		
+
+MET AD 745: Global Competitiveness
+	Reviews the process whereby organizations establish and pursue goals within internal and external  constraints, resources, and opportunities. Topics include strategy and tactics; the process of strategic  choice and adjustment; resource assessment; environmental and competitor analysis; stakeholders  and values; and strategy implementation, control, and valuation. 		
+
+MET AD 746: Business Law and Regulation in a Global Environment
+	Examines legal issues that affect high technology firms. Topics include copyright, reverse engineering, trade secrets, patents, international legal differences, the Uniform Commercial Code, and product liability. Cases drawn from high tech industries are used to emphasize current and future developments. 		
+
+MET AD 747: Service: Quality, Delivery, and Productivity
+	Topics include, the shift toward international service economies, the increasingly large service component in "non-service" industries, integrating service in the development of products and the critical role employees play in delivering service quality. 		
+
+MET AD 748: Business Strategy and Commercialization in Biotech and Medical Companies
+		MET AD 748 Addresses special characteristics of the life science and medical fields that affect the process of turning new technologies and innovative approaches into successful useful products and services, in such areas as gene therapy, diagnostics, and pharmaceuticals, medical imaging systems and artificial hearts, computer/internet based ?health care management information systems?, telemedicine, and bio-informatics/ genomic research tools. Emphasizes development of skills in assessing complex markets and devising useful ?business models? for cost effective commercialization and reduced time to market. Cases, readings, guest lectures, and group projects involving developing original commercialization plans and/or consulting to startup and established companies on these issues. 		
+
+MET AD 749: International Economics
+	This course involves the study of the foundations of the trade theory as well as modern international economics issues.  It utilizes a self-directed approach through computer testing, electronic interaction with the instructor, video-tape series, and a comprehensive research project. 4cr.		
+
+MET AD 750: International Commerce: Central, Eastern, and CIS Nations
+	Investigates the geopolitical environment and its relationship to business activity in this dynamic region of the world. The democratization of political institutions, reforms, and dramatic reorganization of economic institutions are discussed. 		
+
+MET AD 751: International Commerce: European Community
+	Explores the implications of the full economic integration of the European Community for those engaged in international business. Case studies, lectures, and projects addressed to corporations' multinational strategies to adapt to the changing environment of an integrated European market. 		
+
+NOTE: Program information is accurate as of July 2013. Check the <a href="http://www.bu.edu/met/">MET website</a> for important updates.

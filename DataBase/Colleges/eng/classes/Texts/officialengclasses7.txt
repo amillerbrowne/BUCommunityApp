@@ -1,0 +1,59 @@
+           			Anatomy of an operational amplifier using chip design techniques. Applications of op amps in wave-shaping circuits, active filters including capacitive switching. Analog multiplexing and data acquisition circuits, A/D, D/A, S/H are examined. Frequency selective circuits and interface circuits such as optocouplers are analyzed. 4 cr. 		
+
+ENG EC 582: RF/Analog IC Design Fundamentals
+           			Fundamentals related to CMOS and SiGe BICMOS analog circuits for RF applications. Topics include low noise amplifiers, oscillators, mixers, demodulators, phase-locked loop, switched capacitor circuits, A/D and D/A converters, low power design, RF design techniques, and mixed-signal circuitry typical of modern telecommunications technology. VLSI laboratory exercises involving the design, layout, and simulation of RF/analog integrated circuits using Cadence SpectreRF CAD software tools. Real-world examples in advanced mixed-signal integrated circuit applications, such as a single chip radio. 		
+
+ENG EC 583: Power Electronics for Energy systems
+           			Introduction to power electronics with emphasis on conversion circuits for energy systems. DC to DC conversion using buck, boost, and buck-boost converters. DC to AC inverters. Connection to power grid.  Properties of MOS transistors used for high power conversion applications. Properties of magnetic elements and interactions with power circuits.  Applications of power electronic circuits to energy systems, including solar cell installations, wave and wind power, and electric vehicles. High frequency inductors and transformers. 		
+
+ENG EC 591: Photonics Lab I
+	Introduction to optical measurements. Laser safety issues. Laboratory experiments: introduction to lasers and optical alignment; interference; diffraction and Fourier optics; polarization components; fiber optics; optical communications; beam optics; longitudinal laser modes. Optical simulation software tools.		
+
+ENG EC 700: Advanced Topics in Electrical and Computer Engineering
+           			Advanced topics of current interest in electrical and computer engineering.  		
+
+ENG EC 701: Optimal and Robust Control
+           			This course is aimed at an introduction (with rigorous treatment) to the fundamentals of optimal and robust control.  It will be divided roughly into two parts.  The first will cover aspects of robust control including model reduction, H_2 and H_ infinity control, and feedback control of uncertain systems.  The second will delve into optimal control including topics such as the linear quadratic regulator, the calculus of variations, the maximum principle, and the Hamilton-Jacobi-Bellman equation. Meets with ENG ME701 and ENG SE 701; only one of these courses may be taken both for credit. 		
+
+ENG EC 702: Recursive Estimation and Optimal Filtering
+           			State-space theory of dynamic estimation in discrete and continuous time. Linear state-space models driven by white noise, Kalman filtering and its properties, optimal smoothing, non-linear filtering, extended and second-order Kalman filters, and sequential detection. Applications to radar, sonar, and optimal multitarget tracking, parameter identification. 		
+
+ENG EC 707: Radar Remote Sensing
+           			Principles of radar systems and radar signal analysis with emphasis on environmental remote sensing. Topics include antenna fundamentals, wave propagation/scattering in various media, the radar equation, radar cross-section, target characteristics, ambiguity function, radar system components, pulse compression techniques, and aperture synthesis. Highlighted systems include ground-penetrating radars, synthetic aperture radar (SAR), weather radars, and incoherent scatter radars, and LIDAR. 		
+
+ENG EC 710: Dynamic Programming and Stochastic Control
+           			Introduction to sequential decision making via dynamic programming. The principle of optimality as a unified approach to optimal control of dynamic systems and Markovian decision problems. Applications from control theory and operation research include linear-quadratic problems, the discrete Kalman Filter, inventory control, network, investment, and resource allocation models. Adaptive control and numerical solutions through successive approximation and policy iteration, suboptimal control, and neural network applications involving functional approximations and learning. Meets with ENGME710 and ENGSE710. Students may not receive credit for both.		
+
+ENG EC 712: Advanced Software for Computer Engineers
+           			Explores the design of software using state-of-the-art technologies; emphasis on distributed systems, Web-based applications, and the use of the latest application frameworks; project-oriented course.  		
+
+ENG EC 713: Parallel Computer Architecture
+           			Problems in parallel processing, how they are addressed by current parallel computers, and design of future systems. Topics include characteristics of parallel applications; parallel system support; cache coherency protocols; network interfaces; switch and interconnection network design; scalable systems; and hardware-software tradeoffs. Examples of both small-scale and large-scale parallel systems, including web servers, clusters of networked PCs, MPPs, and vector supercomputers. 		
+
+ENG EC 715: Wireless Communications
+           			Design and analysis of robust wireless communication systems. Radio-channel modeling: propagation, path loss, multipath, and fading. Cellular system design. Coding, diversity, and equalization. Multi-antenna channels, Multicarrier modulations, Spread-spectrum and CDMA techniques. Multiuser scheduling. Case studies. Multiple-access, mobility, and networking issues. 		
+
+ENG EC 716: Advanced Digital Signal Processing
+           			Selected topics from time-frequency distributions, parametric signal modeling, high-resolution spectral estimation, multi-rate signal processing, multidimensional signal processing, adaptive signal processing, alternative algorithms for DFT computation, symbolic and knowledge based signal processing. Application examples chosen from speech, image, communication, and biomedical applications. 		
+
+ENG EC 717: Image Reconstruction and Restoration
+           			Principles and methods of reconstructing images and estimating multidimensional fields from indirect and noisy data; general deterministic (variational) and stochastic (Bayesian) techniques of regularizing ill-posed inverse problems; relationship of problem structure (data and models) to computational efficiency; impact of typically large image processing problems on viability of solution methods; problems in imaging and computational vision including tomography and surface reconstruction. Computer assignments. 		
+
+ENG EC 719: Statistical Pattern Recognition
+           			The statistical theory of pattern recognition, including both parametric and nonparametric approaches to classification. Covers classification with likelihood functions and general discriminant function, density estimation, supervised and unsupervised learning, decision trees, feature reduction, performance estimation, and classification using sequential and contextual information, including Markov and hidden Markov models. A project involving computer implementation of a pattern recognition algorithm is required. 		
+
+ENG EC 720: Digital Video Processing
+           			Review of sampling/filtering in multiple dimensions, human visual system, fundamentals of information theory. Motion analysis: detection, estimation, segmentation, tracking. Image sequence segmentation. Spectral analysis of image sequences. Video enhancement: noise reduction, super-resolution. Video compression: transformation, quantization, entropy coding, error resilience. Video compression standards (H.26X and MPEG families). Future trends in image sequence compression and analysis. Homework and project will require MATLAB programming. 		
+
+ENG EC 724: Advanced Optimization Theory and Methods
+           			Introduces advanced optimization techniques. Emphasis on nonlinear optimization and recent developments in the field. Topics include: unconstrained optimization methods such as gradient, conjugate direction, Newton and quasi-Newton methods; constrained optimization methods such as gradient projection, feasible directions, barrier and interior point methods; duality theory and methods; convex duality; and introduction to other advanced topics such as semi-definite programming, incremental gradient methods and stochastic approximation algorithms. Applications drawn from control, production and capacity planning, resource allocation, communication and neural network problems. Meets with ENGME724 and ENGSE724.  Students may not receive credit for both.		
+
+ENG EC 725: Queueing Systems
+           			Performance modeling using queueing networks analysis of product form and nonproduct form networks, numerical methods for performance evaluation, approximate models of queueing systems, optimal design and control of queueing networks. Applications from manufacturing systems, computer systems, and communication networks. Meets with ENGME725 and ENGSE725. Students may not receive credit for both.		
+
+ENG EC 727: Advanced Coding Theory
+           			Advanced topics in the theory of error-correcting codes, with an emphasis on decoding algorithms. Various codes and corresponding decoding algorithms: cyclic (BCH, Reed-Solomon), Reed-Muller, Golay, algebraic-geometry (Goppa, Hermitian), and iteratively-decoded codes (turbo and LDPC), graph-based decoding; trellis construction and decoding (Viterbi algorithm), belief propagation (sum-product, min-sum). Various applications: cryptography, data synchronization, and tiling. 		
+
+ENG EC 730: Information-Theoretical Design of Algorithms
+	Recently developed information-theoretical approach to the analysis and design of computer algorithms. Previous knowledge of information theory or the theory of algorithms is not required, though desirable. Main topics include the complexity of algorithms; P, E, NP, and NP?hard problems; basic concepts of information theory, optimal coding; information-theoretical approach to sorting, order statistics, binary search, decision trees, hashing, minimization of Boolean functions, test, and similar problems; and design of efficient computer algorithms. 		
+

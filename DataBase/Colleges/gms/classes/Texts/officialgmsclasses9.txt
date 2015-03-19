@@ -1,0 +1,60 @@
+GMS FS 971: Research in Biomedical Forensic Sciences
+		Each student must complete a program of research that will be incorporated into a thesis of publishable quality. The thesis clearly states a hypothesis or scientific question and presents the author's findings to support the stated proposition. Thesis topics are developed in conjunction with a research committee consisting of faculty members and/or other qualified individuals. Registration for this course should be during the semester in which the student anticipates graduation from the program. 2 cr		
+
+GMS GC 600: Genetic Diagnosis and Laboratory Methods
+	This interactive course will provide students with the opportunity to learn laboratory techniques and methodologies in a hands-on setting. It will combine didactic lectures with observational rotations in the cytogenetic, molecular, mass spectrometry, maternal serum screening, and research laboratories. 3 cr, Spring sem.		
+
+GMS GC 601: Professional Issues in Genetic Counseling
+	This two-semester course addresses topics related to the development of a competent genetic counselor. Instructional content, combined with group discussions and student presentations, will cover the history and development of the profession, care across the lifespan, and ethical/social issues. 3 cr, Fall &amp; Spring sem. 		
+
+GMS GC 602: Clinical Genetics
+	This course will provide information regarding etiology, features, testing, and treatment for a variety of genetic conditions. The topics are arranged by organ system to expand on the material covered in GMC GC603. Clinical case studies and presentations will supplement. 3 cr, Spring sem. 		
+
+GMS GC 603: Embryology, Teratology, and Prenatal Genetics
+	This course will review human embryology, the teratogenic factors leading to abnormal development, and the common indications for prenatal genetic counseling, including advanced maternal age, abnormal serum screening, ultrasound anomalies, diagnostic procedures, and prenatal complications. 3 cr, Fall sem. 		
+
+GMS GC 604: Cancer Genetic Counseling
+	This course introduces students to the subspecialty of cancer genetics, through topics such as the biology of cancer, current statistics and technology, inherited cancer syndromes, cancer risk assessment, testing for cancer susceptibility genes, treatment options, and ethical/legal issues. 3 cr, Fall sem. 		
+
+GMS GC 605: Clinical Applications in Human Genetics
+	This course will introduce students to the basic concepts and principles of human genetics and their clinical applications. Topics include the chromosomal, molecular, and biochemical basis of disease, prenatal diagnosis, genetic counseling, bioinformatics, and congenital anomalies. 4 cr, Fall sem. 		
+
+GMS GC 606: Gc Seminar 1
+			
+
+GMS GC 607: Gc Seminar 2
+			
+
+GMS GC 700: Genetic Counseling Fieldwork I
+	The clinical rotations will provide student interaction with a wide array of genetic specialists. Direct patient contact in prenatal, pediatric, adult, cancer, and specialty genetics clinics will allow students to acquire cases for ABGC certification. 2 cr, Fall &amp; Spring sem. 		
+
+GMS GC 702: Genetic Counseling Fieldwork II
+	The clinical rotations will provide student interaction with a wide array of genetic specialists. Direct patient contact in prenatal, pediatric, adult, cancer, and specialty genetics clinics will allow students to acquire cases for ABGC certification. 2 cr, SS. 		
+
+GMS GC 703: Genetic Counseling Fieldwork III
+	The clinical rotations will provide student interaction with a wide array of genetic specialists. Direct patient contact in prenatal, pediatric, adult, cancer, and specialty genetics clinics will allow students to acquire cases for ABGC certification. 2 cr, Fall sem. 		
+
+GMS GC 704: Genetic Counseling Fieldwork IV
+	The clinical rotations will provide student interaction with a wide array of genetic specialists. Direct patient contact in prenatal, pediatric, adult, cancer, and specialty genetics clinics will allow students to acquire cases for ABGC certification. 2 cr, Spring sem. 		
+
+GMS GC 711: Advanced Genetic Counseling
+	This two-semester course will cover advanced topics in genetic counseling, including research project design and implementation, personal growth, and professional development. It will build upon the students' previous course work and clinical training to enhance their growing skill set as genetic counselors. 4 cr, Fall &amp; Spring sem. 		
+
+GMS GC 712: Metabolic Genetics/Advanced Risk Assessment
+	Section A covers screening, prevention, diagnosis, recurrence risk, treatment and prognosis for bio-chemical genetic disorders. Section B emphasizes mathematical techniques necessary for accurate genetic counseling, including empiric risk, probability, linkage, mapping, and Bayesian analysis. Flynn, Campion. 		
+
+GMS GC 714: Advanced Topics in Medical Genetics
+	This course will build from the basic genetic concepts covered in GMS GC 605. Some of the topics addressed include mitochondrial disorders, immunogenetics, microdeletions and duplications, trinucleotide repeats, methylation, imprinting, and pharmacogenetics. 3 cr, Spring sem.  		
+
+GMS GC 716: Social, Cultural, and Ethical Issues in Genetics
+	This course will address the social, cultural, and ethical issues encountered in genetics and genetic counseling.  We will review the basic principles of biomedical ethics and discuss different scenarios that a genetic counselor may encounter, as well as legal cases that have impacted the field of genetic counseling and the ethics of emerging genetic technologies and practices including direct-to-consumer testing and gene therapy.  Social and cultural issues in genetic counseling will be explored through case studies, addressing gender, race, religion, social class, disability, and sexual orientation. 3 cr, Spring sem.		
+
+GMS GE 701: Principles of Genetics and Genomics
+		This course will serve as a foundation for understanding the heritable basis of numerous biological traits, the relationships among genes, and the regulation of their expression. Focus on the ability to use genetic systems to probe these problems, and therefore will heavily explore the experimental aspects of these investigations. Includes discussion of the impact of the genome sequences' availability on the practice of modern science. Use of case study approach to investigate the rich variety of scientific insights gained through genetic studies of cell-cell communication, aging, addiction, obesity, and others. 4 cr, Fall sem. 		
+
+GMS GE 703: Genetics and Genomics Colloquium I
+		The Genetics and Genomics Colloquium will be a highly participatory journal club where the students will be asked to give presentations on cutting edge research with the focus on communication skills rather than scientific content. This approach will allow students to become more comfortable with public speaking while developing the skills necessary for effective communication of scientific ideas. 2 cr, Fall sem. 		
+
+GMS GE 704: Genetics and Genomics Colloquium II
+		The Genetics and Genomics Colloquium will be a highly participatory journal club where the students will be asked to give presentations on cutting edge research with the focus on communication skills rather than scientific content. This approach will allow students to become more comfortable with public speaking while developing the skills necessary for effective communication of scientific ideas. 2 cr, Spring sem. 		
+

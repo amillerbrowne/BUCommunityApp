@@ -1,0 +1,60 @@
+CFA TH 762: Vectorworks 3
+	Prereq: CFA TH 761 or consent of instructor; Advanced work in Vectorworks CAD; specific rendering techniques for the individual area of lighting and the light plot. 1.0 credits. Fall semester.		
+
+CFA TH 763: Scene Design Studio 3
+	Prereq: CFA TH 664 or consent of instructor; Intermediate design solutions with an emphasis on conceptual approach; work in a variety of theatre spaces. Students work in collaboration with costume and lighting designers and directors. Readings and projects incorporate all theatre genres, ballet, dance, opera, television, and film. 3.0 credits.  Fall semester. 		
+
+CFA TH 764: Scene Design Studio 4
+	Prereq: CFA TH 763 or consent of instructor; Continuation of intermediate design solutions with an emphasis on conceptual approach; work in a variety of theatre spaces. Students work in collaboration with costume and lighting designers and directors. Readings and projects incorporate all theatre genres, ballet, dance and opera. 3.0 credits.  Spring semester.		
+
+CFA TH 765: Scene Painting 3
+	Prereq: CFA TH 666 or consent of instructor; Studio class. Painting specific architectural detail; projects include stain glass, perspective and trompe l'oeil techniques; special finishes for furniture and constructed projects. 2.0 credits. Fall semester. 		
+
+CFA TH 766: Scene Painting 4
+	Prereq: CFA TH 765 or consent of instructor. Studio class. Continuation in painting specific architectural detail; projects include stain glass, perspective and trompe l'oeil techniques; special finishes for furniture and constructed projects. 2.0 credits. Spring semester.		
+
+CFA TH 767: Scene Painting Studio 1
+	Prereq: Instructor Consent; Studio class. Soft goods and problem solving with advanced scene painting techniques. 1.0 credits. Fall semester. 		
+
+CFA TH 768: Scene Painting Studio 2
+	Prereq: Instructor Consent; Studio class. Soft goods and problem solving with advanced scene painting techniques. 1.0 credits. Spring semester.		
+
+CFA TH 769: Technical Production Studio 3
+	Prereq: CFA TH 670 or consent of instructor; Large scale project planning and drafting, using abstract objects and producing them as scenery both on paper and in the shop.  The class also addresses problem solving for scenery on raked stages and complete design for a modular full-stage rake that can be struck, stored and installed easily. 3.0 credits. Fall semester.   		
+
+CFA TH 770: Technical Production Studio 4
+	Prereq: CFA TH 769 or consent of instructor. A continuation of CFA TH 769. Large scale project planning and drafting, using abstract objects and producing them as scenery both on paper and in the shop.  The class also addresses problem solving for scenery on raked stages and complete design for a modular full-stage rake that can be struck, stored and installed easily. 3.0 credits. Spring semester.		
+
+CFA TH 771: Engineering for the Stage 1
+	Prereq: CFA TH 670 or consent of instructor; An introduction to the classic engineering study of static and strength of materials, specifically with structures and materials typical to technical production of theater in mind. Students learn mathematical and resource methods for calculating structural performance parameters in individual structural members as they interact in a common structure. Discussion of common building practices provides knowledge critical to departing from standard practice. 1.0 credit. Fall semester. 		
+
+CFA TH 772: Engineering for the Stage 2
+	Prereq: CFA TH 771 or consent of instructor; A continuation of CFA TH 771. An introduction to the classic engineering study of static and strength of materials, specifically with structures and materials typical to technical production of theater in mind. Students learn mathematical and resource methods for calculating structural performance parameters in individual structural members as they interact in a common structure. Discussion of common building practices provides knowledge critical to departing from standard practice. 1.0 credit. Spring semester. 		
+
+CFA TH 773: Modern Tailor 1
+			
+
+CFA TH 774: Modern Tailor 2
+			
+
+CFA TH 775: Costume Design Studio 3
+	Prereq: CFA TH 676; For the intermediate design student. Geared toward practical application of design theory. Continued development of script analysis, style, research techniques and rendering skills. Exercises examine the principles of design as applied to historical costume.  Readings and projects incorporate all theatre genres, ballet, dance and opera depending on individuals in the class. 3.0 credits. Fall semester. 		
+
+CFA TH 776: Costume Design 4
+	Prereq: CFA TH 775; Continuation of CFA TH 775. For the intermediate design student. Geared toward practical application of design theory. Continued development of script analysis, style, research techniques and rendering skills. Exercises examine the principles of design as applied to historical costume. Readings and projects incorporate all theatre genres, ballet, dance and opera depending on individuals in the class. 3.0 credits. Spring semester.		
+
+CFA TH 777: Costume Figure Drawing 1
+	Prereq: Advisor recommended or consent of instructor; Advanced work in figure drawing; specific rendering techniques or costume design. May be repeated for credit. 1.0 credit. Fall semester.		
+
+CFA TH 778: Costume Figure Drawing 2
+	Prereq: Advisor recommended or consent of instructor; Advanced work in figure drawing; specific rendering techniques or costume design. May be repeated for credit. 1.0 credit. Spring semester.		
+
+CFA TH 779: Costume Production Studio 3
+	Prereq: CFA TH 679; In this course the student will construct a three-piece men's suit of the nineteenth or twentieth century. It is a comprehensive course employing classic tailoring techniques, terminology and fabrics. 3.0 credits. Fall semester.		
+
+CFA TH 780: Costume Production Studio 4
+	Prereq: CFA TH 779; A continuation of CFA TH 779. In this course the student will construct a three-piece men's suit of the nineteenth or twentieth century. It is a comprehensive course employing classic tailoring techniques, terminology and fabrics. 3.0 credits. Fall semester.		
+
+CFA TH 781: Fabric Dyeing 1
+	Prereq: Graduate standing or consent of instructor; The student learns a variety of crafts associated with fabric painting and dyeing.  Subject matter may include fiber reactive dyeing, distressing and silk screening. Check with instructor for current semester content. 1.0 credit. Fall semester.		
+

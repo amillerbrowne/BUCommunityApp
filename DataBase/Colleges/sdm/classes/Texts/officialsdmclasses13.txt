@@ -1,0 +1,45 @@
+SDM RS 524: Fixed Prosthodontics I
+	This course provides a comprehensive introduction to extracoronal full-coverage tooth restoration systems. The conceptual basis for both single-tooth crowns and multiple-tooth bridgework is presented. 		
+
+SDM RS 525: Preclinical Fixed Prosthodontics
+	This simulated clinic course provides experience and skill development with single-tooth crowns and multiple-tooth bridgework.		
+
+SDM RS 526: Biomaterials II
+	An in-depth study of the physical and chemical properties of materials related to the practice of dentistry. It includes their uses, handling, and effects.		
+
+SDM RS 527: Occlusion
+	This course takes the student from normal dental anatomy and occlusion, through analysis of deviations from normal or natural dentition, to an approach to maintenance of healthy occlusal patterns in restorative dentistry and correction of occlusal patterns and disharmonies. To help emphasize critical concepts, laboratory simulations provide students the opportunity to practice clinical procedures related to occlusal diagnosis and treatment. Concepts from the course are integrated with courses in operative dentistry, prosthodontics, periodontology, and orthodontics.		
+
+SDM RS 529: Operative Dentistry
+	This is a lecture course that addresses all aspects of Operative Dentistry.   Topics include diagnosis and treatment planning, caries prevention &amp; treatment, the concept of  minimally invasive dentistry, simple and complex amalgam restorations, anterior and posterior composite resin restorations, cast gold and ceramic inlays and onlay preparations &amp; temporization , conventional and CAD-CAM scanning &amp; fabrication of inlays &amp; onlays,  try-in and cementation of all types of indirect restorations, direct and indirect veneers,  the restoration of endodontically treated teeth, the concept of pulpal protection and the techniques of pulp-capping.   This course focuses on clinically relevant topics and compliments the preclinical and clinical courses in Operative Dentistry (RS 521, GD 630, and RS 540). 		
+
+SDM RS 532: Removable Prosthodontics II
+	This course discusses the edentulous and partially edentulous patient and the use of removable prostheses. Emphasis is placed on diagnosis, treatment planning and design. Attachments and implant retained prostheses are covered. Correlation is made with comprehensive clinical practice. 		
+
+SDM RS 534: Fixed Prosthodontics II
+	This course provides a detailed study of the diagnosis, treatment plan, and techniques for fixed prosthodontic appliances. Stress is placed on the integration of periodontal and endodontic considerations that may affect the final prosthodontic appliance. 		
+
+SDM RS 540: Implantology
+	This course presents the scientific basis for diagnosis, treatment planning, surgical protocol, and prosthetic options in modern dental Implantology. Students will perform restorative Implantology procedures and CT scan evaluation in a simulated clinic setting. 		
+
+SDM RS 542: Treatment Planning Seminar
+	This seminar course focuses on real-world problem solving. There is a special emphasis on decision-making and patient communication in a private practice setting. It is an interactive course given in small group format. 		
+
+SDM RS 544: Treatment Planning and Patient Management I
+	This clinical course will develop graduates who are competent in the assessment, diagnosis, and treatment planning of patients throughout their lifecycle. Additionally, this course seeks to develop competency in patient management and interpersonal skills. Through the use of faculty supervised clinical experiences, seminars, and a faculty mentoring program, students develop comprehensive programs of patient care including patient education, prevention, and treatment of oral disease.		
+
+SDM RS 545: Clinical Treatment Planning &amp; Patient Management II
+	This clinical course continues the work to develop graduates who are competent in the assessment, diagnosis, and treatment planning of patients throughout their lifecycle that was started in RS544. Additionally, this course seeks to develop competency in patient management and interpersonal skills. Through the use of faculty supervised clinical experiences, seminars, and a faculty mentoring program, students develop comprehensive programs of patient care including patient education, prevention, and treatment of oral disease.		
+
+SDM RS 546: Clinical Treatment Planning &amp; Patient Management
+	This clinical course will develop graduates who are competent in the assessment, diagnosis, and treatment planning of patients throughout their lifecycle. Additionally, this course seeks to develop competency in patient management and interpersonal skills. Through the use of faculty-supervised clinical experiences, seminars, and a faculty mentoring program, students develop comprehensive programs of patient care including patient education, prevention, and treatment of oral disease.		
+
+SDM RS 640: Clinical Operative Dentistry II
+	This clinical course focuses on individual tooth restorations. Students provide comprehensive oral health care for patients, receiving hands-on training in a full range of restorative dentistry including amalgam, gold, porcelain, and composite resin restorative systems. The course explores the use of ceramics, composite material, and bonding techniques in cosmetic dentistry.		
+
+SDM RS 641: Clinical Fixed Prosthodontics II
+	This clinical course focuses on fixed single-unit and fixed multiple-unit prosthesis. Students provide comprehensive oral health care for patients, receiving hands-on training in a full range of porcelain and gold fixed prosthesis.		
+
+SDM RS 642: Clinical Removable Prosthodontics II
+	This clinical course addresses the diagnosis of both fully and partially edentulous mouths as well as the design and fabrication of complete and partial denture appliances.		
+

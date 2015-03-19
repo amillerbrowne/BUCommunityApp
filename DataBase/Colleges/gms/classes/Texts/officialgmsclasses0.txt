@@ -1,0 +1,60 @@
+GMS AN 700: Medical Histology (MED MS 123)
+		Study of cell, tissue, organ, and system histology. Emphasis is on functional morphology at the light and electron microscope levels. Computer-based virtual microscopy in laboratory exercises and discussions supplements companion lectures. This is the BUSM I Medical Histology course and it is designed to coincide with the Medical Physiology, Medical Endocrinology, and the Medical Immunology courses with which it runs concurrently. Two fall semester medical school lectures are included in this course. A laptop computer that meets BUSM standards is required. 6 cr, Spring sem. 		
+
+GMS AN 701: Gross Anatomy
+		Human anatomy in three units: back and limbs; thorax, abdomen and pelvis; and head and neck. Var cr, Fall sem. Begins in August. 		
+
+GMS AN 702: Neurobiology of Learning and Memory
+		This course covers the neurobiological bases of learning and memory from the cellular to the systems level. Initial sessions cover the behavioral aspects of learning and memory--how it is operationally defined and what are the different theoretical concepts from cognitive psychology that are current. Subsequent sessions investigate the neurophysiological, neuroanatomical, and neurochemical mechanisms of memory at the cellular level and then move on to the study of systems that function at the level of the whole organism. Concentration is on studies in mammals, particularly primates. 2 cr, Spring sem.		
+
+GMS AN 704: Experimental Design and Statistical Methods
+		This course provides a working understanding of experimental design and statistical analysis. Each class consists of lectures, examples of problems and discussion of theoretical issues underlying a particular experimental design. Both parametric and non-parametric approaches to data analysis will be explored.  2 cr, Fall and Spring sem. 		
+
+GMS AN 708: Clinical Anatomy
+		An advanced anatomy course consisting of both guided laboratory dissection and related lectures on clinical anatomy by physicians in a variety of clinical specialties. Laboratory dissections are based on actual surgical approaches; whenever possible, and the relationship between gross anatomy radiographic anatomy is continually emphasized. 2 cr, Spring sem. 		
+
+GMS AN 715: Professional Skills for Students in the Biomedical Sciences
+		This course discusses many of the professional skills and ethical issues that are part of an academic biomedical career. Some of the topics include funding mechanisms, determination of authorship, intellectual property, conflict of interest, human and animal subject protection, reviewing responsibilities and mentoring. 2 cr, Spring sem. 		
+
+GMS AN 722: Cellular Organization of Tissues
+	Study of the basic types of tissues, followed by application to understanding the cellular organization of organs, and the anatomical basis for their function. Emphasis is on functional morphology at the light and electron microscope levels. Basic concepts in embryology and pathology are introduced where relevant. Computer-based virtual microscopy in laboratory exercises and discussions supplements companion lectures. This course is an introductory version of MS 123 Medical Histology, specially designed to complement GMS curricula. All students are required to have a laptop computer that meets BUSM standards. 4 cr, Fall sem. 		
+
+GMS AN 777: Fundamentals of Cellular and Molecular Neuroscience
+	The course is designed to impart graduate-level knowledge of molecular biology as it pertains to CNS development, maturation, connectivity, and maintenance.  The course does not have a species-specific emphasis, but rather, draws on knowledge obtained from multiple species ranging from invertebrates to vertebrates.  Students will be exposed to a broad spectrum of molecular neuroscience topics extending from nucleic acid regulation and protein expression to extracellular and intracellular signaling pathways.  How these processes serve as the underlying principles of cell division, differentiation, cell migration, patterning, and cell survival will be presented both in lectures and in readings and presentations of primary research articles. 4 cr, Spring sem.		
+
+GMS AN 801: Seminar: Research Colloquium
+	Oral presentation and discussion by students and staff members of topics of interest in anatomy and allied fields. 2 cr, Fall sem. 		
+
+GMS AN 802: Seminar: Research Colloquium
+	Oral presentation and discussion by students and staff members of topics of interest in anatomy and allied fields. 2 cr, Spring sem. 		
+
+GMS AN 803: Special Topics in Anatomy
+	Presentation of problems of current interest in anatomical science offered to small groups of students at the instigation of either interested faculty or students. Examples of topics that might be discussed are: differentiation; aging in specific areas of the brain; electron microscopy; fine structure of neurons; biology of the lung; and retinal biology. 2 cr, Fall sem. 		
+
+GMS AN 804: Special Topics in Anatomy
+	Presentation of problems of current interest in anatomical science offered to small groups of students at the instigation of either interested faculty or students. Examples of topics that might be discussed are: differentiation; aging in specific areas of the brain; electron microscopy; fine structure of neurons; biology of the lung; and retinal biology. 2 cr, Spring sem. 		
+
+GMS AN 805: Vesalius Module Teaching Practicum
+		Students, putting theory into practice, work in collaboration with a selected faculty mentor in one of the following formats: large lecture, small lecture or seminar, or proposing a new course. Students may enroll in this course multiple times for different mentored experiences. Var cr, Fall &amp; Spring sem. 		
+
+GMS AN 806: Teaching in the Biomedical Sciences (Teaching Methods)
+	This course offers instruction in the theory of teaching, presentation skills, and teaching methods.  Effective teaching practices are taught and refined, and the methods of teaching in different formats (one-on-one, small group, large lecture, etc.) are evaluated.  Lesson plan and support plan construction and the understanding of assessment and evaluation tools are particularly emphasized.  2 cr. Spring sem.		
+
+GMS AN 810: Systems Neurobiology
+		This course will cover the major sensory, motor, regulatory, and associative/integrative neural systems in depth from the basic cellular, neurophysiological, and neurochemical properties of the each to their overall function. 4 cr, Fall sem. 		
+
+GMS AN 811: Cognitive Neuroscience
+		This course will cover topics in the various domains of higher cortical function, including attention, language, visuospatial abilities, memory and executive function. It will also cover topics in learning, sleep, addiction, and behaviors under the influence of circadian rhythms. 4 cr, Spring sem. 		
+
+GMS AN 820: Introduction to Interdisciplinary Systems Science: Dynamic Modeling
+		This course in interdisciplinary science will provide students with a hands-on experience in the development and use of systems dynamic and computer based models to study biological systems in research areas such as neurobiology. 2 cr, SS. 		
+
+GMS AN 901: Anatomy Research
+	Var cr, Fall &amp; Spring sem.		
+
+GMS AN 902: Anatomy Research
+	Var cr, Fall &amp; Spring sem.		
+
+GMS AN 904: Research Practicum
+	Varied topics. 2 cr, Spring sem. 		
+

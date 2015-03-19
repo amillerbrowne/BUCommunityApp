@@ -1,0 +1,60 @@
+GMS BI 951: Research in Biochemistry
+	Var cr		
+
+GMS BI 952: Research in Biochemistry
+	Var cr 		
+
+GMS BN 775: Human Neuropsychology I
+		This course emphasizes the relationship of the field of neuropsychology to other medical and scientific disciplines. Includes electrical activity of the brain, the study of consciousness and emotions, cerebral dominance, pathologies of language, sleep and its disorders, and traumatic brain injuries. 4 cr, Fall sem. 		
+
+GMS BN 776: Human Neuropsychology II
+		Relationship of the field of neuropsychology to other medical and scientific disciplines. Includes psychiatric aspects of neurological disease and the pathologies of memory, intelligence, perception, and motor function. 4 cr, Spring sem. 		
+
+GMS BN 777: Basic Neurosciences
+	Fall Semester: Overview to include neurophysiology, neurochemistry, neuroanatomy, neurobehavior, and neuropsychopharmacology. Processes occurring at the cellular and physiological levels are related to known central nervous system dysfunction. Spring Semester: Review of brain function and selected topics such as Parkinson's disease, schizophrenia, neurotoxicology, aphasia, electrophysiology, and neuroimaging. This course is the same as GMS BN 778 (4 cr) and GMS BN 779 (2 cr), providing students with 32.5 hours of required course time. May not be taken concurrently with GMS BN 778 or 779. 3 cr, Fall or Spring sem. 		
+
+GMS BN 778: Basic Neurosciences Survey
+		Fall Semester: Overview to include neurophysiology, neurochemistry, neuroanatomy, neurobehavior, and neuropsychopharmacology. Processes occurring at the cellular and physiological levels are related to known central nervous system dysfunction. Spring Semester: Review of brain function and selected topics such as Parkinson's disease, schizophrenia, neurotoxicology, aphasia, electrophysiology, and neuroimaging. This course is the same as GMS BN 777 (3 cr) and GMS BN 779 (2 cr), providing students with 50 hours of required course time. May not be taken concurrently with GMS BN 777 or 779. O4 cr, Fall &amp; Spring sem. (2 sem. course) 		
+
+GMS BN 779: Beginning Basic Neurosciences
+	Fall Semester: Overview to include neurophysiology, neurochemistry, neuroanatomy, neurobehavior, and neuropsychopharmacology. Processes occurring at the cellular and physiological levels are related to known central nervous system dysfunction. Spring Semester: Review of brain function and selected topics such as Parkinson's disease, schizophrenia, neurotoxicology, aphasia, electrophysiology, and neuroimaging. This course is the same as GMS BN 777 (3 cr) and GMS BN 778 (4 cr), providing students with 25 hours of required course time. May not be taken concurrently with GMS BN 777 or 778. 2 cr, Fall or Spring sem. 		
+
+GMS BN 780: Behavioral and Biological Aspects of Stress and Trauma
+		This course provides an overview of theory and research on stress and trauma, with attention to biological, psychological, and social factors. Special emphasis placed on gender issues, developmental factors, psychopathology, and physical health. 2 cr, on demand.		
+
+GMS BN 791: Directed Studies in Behavioral Neuroscience
+	Var cr, Fall sem. 		
+
+GMS BN 792: Directed Studies in Behavioral Neuroscience
+	Var cr, Spring sem.		
+
+GMS BN 794: Brain Asymmetry: Functional and Structural Differences Between Hemispheres
+		The distinctive roles of the left and right hemispheres are reviewed; first by examining alterations in language and nonverbal behavior under conditions of brain damage; and second, by examining techniques used to investigate functional asymmetry in the normally intact brain. 2 cr, Spring sem. 		
+
+GMS BN 795: Cognitive Neuroscience of Memory and Perception
+		The study of normal and abnormal perception and memory is related to brain structure and function. This seminar covers theoretical and clinical issues about how abilities change in normal and abnormal (e.g., Alzheimer's disease) conditions, using a variety of methods. 4 cr, Fall sem. on demand. 		
+
+GMS BN 796: Neuropsychological Assessment I
+		Overview of structure and function of the central nervous system. Emphasis on quantitative and qualitative analysis of standardized and experimental tests of cognitive functions useful in differential diagnosis of neurological syndromes with an emphasis on the Boston Process Approach to neuropsychological evaluation. 4 cr, Fall or Spring sem.		
+
+GMS BN 798: Functional Neuroanatomy in Neuropsychology
+		Overview of central nervous system, structure and function; basic understanding of neurobehavioral symptoms and their relationship to neuropathology, neuroepidemiology, including vascular infections, and congenital, degenerative, and toxic insults to the central nervous system, and will include laboratory examination of a specimen of a human brain. Appropriate for psychologists, speech pathologists, or other students in the behavioral sciences. 4 cr, Fall sem. 		
+
+GMS BN 821: Seminar in Neuroimaging
+		Overview of neuroimaging techniques available as adjuncts to neuropsychological measures of human brain damage. Intended for students with limited background in the application of neuroimaging techniques for the study of neuropsychiatric illnesses. Techniques, including PET, SPECT, MEG, MRI, fMRI, DTI and MRS, will be covered with relevance to selected neuropsychiatric diseases. 2 cr, on demand.		
+
+GMS BN 891: Case Studies
+	2 cr, Fall &amp; Spring sem.		
+
+GMS BN 892: Case Studies
+	2 cr, Fall &amp; Spring sem.		
+
+GMS BN 893: Child Clinical Neuropsychology
+		Covers general theoretical issues (e.g., intrauterine and postnatal development of the brain, handedness and lateralization of function, and recovery of function and neurobehavioral plasticity); diagnostic entities (e.g., attention deficit disorder, effects of early brain damage, developmental language disorders, dyslexia, and effects of malnutrition); and assessment and treatment (development of attention, social, spatial abilities, and language). 4 cr, on demand. 		
+
+GMS BN 991: Research in Behavioral Neuroscience
+	Var cr, Fall sem.		
+
+GMS BN 992: Research in Behavioral Neuroscience
+	Var cr, Spring sem.		
+

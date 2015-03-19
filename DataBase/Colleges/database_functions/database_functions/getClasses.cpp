@@ -1,59 +1,35 @@
 //created by Nicholas Maresco 3/5/15
 
-#include <iostream>
-#include <fstream>
-#include <string>
-using namespace std;
+#include "getClasses.h"
 
-void parse(char[] collegeName, int numFiles, int upper, int lower);
-
-int main()
-{
-    int numFiles, upper, lower;
-    string collegeName;
-    char collegeNameArray[5];
-    vector<string> validColleges = {"busm","cgs","cgs","com","eng","gms","khc","law","met","sar","sdm","sed","sha","smg","sph","ssw","sth"};
+void parse(string collegeName, int file_bound1, int file_bound2, int upper, int lower){
     
-    cout << "what college will you be parsing the HTML of? (use abbreviation): " << endl;
-    cin >> collegeNameArray;
-    
-    //convert to string
-    for(int ii = 0; ii < 5; ii++){
-        collegeName.push_back(collegeNameArray[ii]);
-    }
-    
-    //check here that the college exists
-    for(int jj = 0; jj < validColleges.size(); jj++){
-        if(validColleges.at(jj) == collegeName){
-            cout << validColleges.at(jj) << " is a valid college." << endl;
-            break;
-        }
-    }
-    
-    cout << "how many files? ";       //numFiles will do zero to numFiles in the fn
-    cin >> numFiles;
-    cout << "line number lower bound: ";
-    cin >> lower;
-    cout << "line number upper bound: ";
-    cin >> upper;
-    
-    return 0;
-}
-
-
-void parse(string collegeName, int numFiles, int upper, int lower){
-    string line,input,output;
+    string line,input,originalOutputString;
     int name_start, name_end, line_number = 1;
     int description_end;
     string file_num;
     
-    for(int kk = 0; kk <= numFiles; kk++){ //zero to numFile
+    for(int kk = file_bound1; kk <= file_bound2; kk++){ //zero to numFile
         file_num = to_string(kk);
-        input = "/Users/nick102795/Dropbox/Code/repositories/BUCommunityApp/DataBase/Colleges/" + collegeName + "/classes/HTMLs/" + "index\ copy\ " + file_num  + ".html";
-        output = "/Users/nick102795/Dropbox/Code/repositories/BUCommunityApp/DataBase/Colleges/" + collegeName + "/classes/Texts/" + "official" + collegeName + "classes" + file_num + ".txt";
-        cout <<input << endl;
+        
+        
+        cout << file_num << endl;
+        cout << collegeName << endl;
+        
+        
+        input = "/Users/nick102795/Dropbox/Code/repositories/BUCommunityApp/DataBase/Colleges/" + collegeName + "/classes/HTMLs/index\ copy\ " + file_num  + ".html";
+        originalOutputString = "/Users/nick102795/Dropbox/Code/repositories/BUCommunityApp/DataBase/Colleges/" + collegeName + "/classes/Texts/official" + collegeName + "classes" + file_num + ".txt";
+        
+        cout << input << endl;
+        cout << originalOutputString << endl;
+        
         ifstream raw_class_file(input);
-        ofstream official_class_file (output);
+        ofstream official_class_file;
+        official_class_file.open(originalOutputString);
+        
+        string did_open = (official_class_file.is_open())?"opened":"failed to open";
+        cout << "official class file " << did_open << endl;
+        
         //check successful file open
         if(raw_class_file.is_open()){
             cout << "The file " << input << " opened properly." << endl;
@@ -94,13 +70,15 @@ void parse(string collegeName, int numFiles, int upper, int lower){
                     }
                     
                 }
-                else if(line_number > 216){break;}
+                else if(line_number > 216){break;} //this hard code could be a potential problem
                 line_number++;
             }
             raw_class_file.close();
             official_class_file.close();
             line_number = 0;
             cout << "The file " << input << " closed properly." << endl;
+            // don't forget to free the string after finished using it
+            //delete output;
         }
         else	cout << "Unable to open file." << endl;
     }

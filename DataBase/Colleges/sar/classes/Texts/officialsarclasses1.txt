@@ -1,0 +1,60 @@
+SAR HP 804: Practicum: Teaching in the Health Professions
+		Supervised academic teaching in the health professions. Development and implementation of a teaching unit. Critique of teaching styles. Development of a teaching portfolio.		
+
+SAR HP 839: Biomedical Innovation
+	The subject of the course is the translation of medical technologies into new products and services for the healthcare system. The course begins with a rigorous study of intellectual property, licensing and the core aspects of planning, creating, funding and building new entrepreneurial ventures. Concepts and tools are presented for assessing new technologies and their potential to be the basis for a new entrepreneurial venture. Comparisons will be made of how technologies can be sourced and commercialized out of three very different environments: universities, national laboratories and corporate laboratories. Cross-disciplinary teams of students will be formed which will evaluate translational research projects currently being developed at Boston University and their potential for transformation into a start-up company to commercialize the technology, providing a unique linkage between the scientific research activities of the university and the professional schools. Each week there will be a case study which will discuss examples of both success and failure in technology commercialization. Some of these case studies examine Boston University life sciences spin-out companies and the founders and CEO's of these ventures will share their experiences with the class.		
+
+SAR HP 905: Directed Research: MS
+		Professionally significant research study, resulting in thesis presented in full length or journal article format. Thesis should be independent project incorporating rigorous application of scientific inquiry and writing skills. See degree requirements for specific programs. 		
+
+SAR HS 201: Introduction to Nutrition
+	Reviews basic concepts in nutrition including the function of nutrients and the effects of deficiencies and excesses. These basic concepts are then applied to current issues throughout the lifecycle including the role of diet in malnutrition, heart disease, cancer, diabetes,and weight management. Dietary guidelines for prevention of chronic disease are stressed. 		
+
+SAR HS 210: Introduction to Critical Inquiry
+	This course demonstrates access to information resources in the biomedical sciences, including hard copy, on-line databases (e.g., LexisNexis, PubMed, OVID), and web searching and how to critically evaluate these information sources. Classes are hands-on learning using laptops.		
+
+SAR HS 230: Food Science
+           			An in-depth didactic and laboratory review of the physical and chemical properties of carbohydrates, proteins, fats and water. Each macronutrient is discussed from its smallest starting molecule to its complex role in food items. Other related topics include food safety and food-borne illness, food preservation and processing, culinary techniques, food regulations and standards, food additives, food technology, and subjective evaluation of food. The laboratory requirement applies the food science principles through hands-on experiments in the kitchen setting. 4 credits, 2nd semester		
+
+SAR HS 251: Human Nutrition Science
+           			This course provides an introduction to nutrition and focuses on the relationship between diet and health. Basic scientific information is presented in preparation for discussion of applied issues such as weight loss, eating disorders, prevention of chronic disease, diet and exercise and vegetarian diets. Emphasis is placed on translation of current advice to actual food choices. 4 credits, either semester		
+
+SAR HS 281: Nutrition Throughout the Life Cycle
+           			This course focuses on the changing nutritional requirements from infancy, childhood, and adolescence throughout the geriatric years. Nutritional needs specific to pregnancy and lactation will be discussed. Emphasis is placed on understanding the behavioral, socioeconomic, and cultural factors associated with meeting nutrition requirements throughout the life span. 4 credits, 2nd semester		
+
+SAR HS 300: Epidemiology I
+           			Epidemiology examines the distribution of health and diseases across the population, and the factors that impact health. This course covers the principles and methods used in epidemiology, particularly as it relates to public health, including the types of study designs used in health care research and the interpretation of research studies. The final portion of the course focuses on critical evaluation of public health literature (journal articles). 4 credits, either semester		
+
+SAR HS 310: Management of Food Service Systems
+           			This course provides the foundational knowledge of food service management viewed as a system. Management of human resources, quantity food production, menu development and financial accountability will be discussed as well as regulatory and other controls that influence the function of the system. 4 credits, 1st semester.		
+
+SAR HS 320: Genomics in Public Health
+           			This course is focused on studying the impact of the genetics and genomics, and their relationships with behavior, psychosocial factors, and environment on population health and diseases during the post-Human Genome Project era.  Concepts and methods in molecular biology, immunology, and epidemiology will also be further discussed.  The class will examine the effects of the advancement of high-throughput innovations in scientific discoveries on public health policies. Critical analysis of primary research articles, in-class discussion, and team projects will be fundamental mode of class instruction. Prior knowledge of epidemiology and genetics is highly recommended. 2nd semester, 4 credits. 		
+
+SAR HS 325: Introduction to Global Health
+	This course will provide students with an overview of the complex social, economic, political, environmental, and biological factors that structure the origins, consequences, and possible treatments of illness worldwide, as well as the promotion of health. Students will learn about the major themes and concepts shaping the interdisciplinary field of global health, and will gain an understanding of solutions to health challenges that have been successfully implemented in different parts of the world. Major topics will include the linkages between global health and economic development, the global burden of disease, key actors in global health, and lessons learned from the HIV/AIDS pandemic.		
+
+SAR HS 342: Exercise Physiology
+           			Application of physiological principles under different exercise conditions. Integration of the body systems in performance of exercise, work and sports; immediate and long-range effects of these activities on the body. Laboratory includes the measurement of physiological parameters under exercise conditions. 		
+
+SAR HS 345: Global Environmental Public Health
+	Environmental health is associated with recognizing, assessing, understanding and controlling the impacts of people in their environment and the impacts of the environment on the public health. The complexity of the problems requires multidisciplinary approaches.  This course will provide an introduction to the principles, methods, and issues related to global environmental health. This course examines health issues, scientific understanding of causes, and possible future approaches to control of the major environmental health problems internationally. Topics include how the body reacts to environmental pollutants; physical, chemical, and biological agents of environmental contamination; vectors for dissemination (air, water, soil); solid and hazardous waste; susceptible populations; bio-markers and risk analysis; the scientific basis for policy decisions; risk communication; and, emerging global environmental health problems.		
+
+SAR HS 360: Muscle Biology in Health and Disease
+           			An integrative approach to understanding the biology of muscle in development, exercise, injury, aging, and disease. Students will get a comprehensive overview of muscle biology and muscle disease; develop skills to review and research primary literature; and have an opportunity to develop oral research presentation skills. This class is designed for upper level undergraduates and graduate students.		
+
+SAR HS 361: Introduction to Computational Neuroscience of Speech, Language, and Hearing
+           			Introduces the foundations of auditory perception including the mammalian auditory pathway, speech and language perception and links with speech production, auditory scene analysis, and music perception, from a computational perspective. Laboratory computer assignments elucidate functional properties of these systems.		
+
+SAR HS 363: Global Health: Beyond Germs and Genes
+	This course will focus on the social determinants of health--the conditions in which people are born, grow, live, work, age and die. We will examine case studies from around the globe that reveal  the ways in which health inequities are shaped by the distribution of resources, money, and power at the local, national and global level, and the critical role played by social policies in reducing or exacerbating these inequities.  		
+
+SAR HS 366: Community Nutrition
+           			This course will cover the dramatic effect of the socioeconomic status, cultural and psychological factors on food choices. Students will learn how to target populations, deliver effective nutrition interventions in the community, and perform a community-based needs assessment. Students will also obtain a working knowledge of federal, state, and local assistance programs. Principles related to nutrition education, program planning, and outcome evaluations will be discussed. A community intervention project will be assigned. 4 credits, 1st semester		
+
+SAR HS 369: Gross Human Anatomy
+           			Integrative approach to the musculoskeletal, peripheral nervous, and circulatory systems of the human body. Regional approach is used to present lectures with the use of projected drawings, films, slides, and demonstrations. Weekly labs reinforce the lectures by a study of osteology, dissected cadavers, and live anatomy palpations. 		
+
+SAR HS 370: Neuroanatomy and Neurophysiology
+           			Lecture and laboratory related to the detailed study of development, morphology, internal configuration, and functions, and pathological deficits of the peripheral and central nervous system in humans. 		
+

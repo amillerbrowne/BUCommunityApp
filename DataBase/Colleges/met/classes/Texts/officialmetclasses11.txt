@@ -1,0 +1,60 @@
+MET BI 206: Genetics (CM)
+           			MET CH 203 recommended. Principles of heredity as derived from genetic, biochemical, and cytological evidence in animals, plants, and microorganisms. Three hours lecture, one hour discussion. 		
+
+MET BI 211: Human Physiology (N)
+           			Designed for non-biology majors. Introduction to physiology. Principles of physiology with special reference to humans. Laboratory course. Three hours lecture, three hours lab. 		
+
+MET BI 303: Ecology (EBE)
+           			Basic principles of ecology, population dynamics and behavior, interrelationships of plants and animals and their physical and chemical environment. Structure and function of ecosystems and community dynamics. Laboratory course. Three hours lecture, three hours lab. 		
+
+MET BI 315: Systems Physiology (PER/NEURO)
+           			An introduction to the basic physiological principles applied across all levels of organization (cell, tissue, organ system) and intended to prepare the student for more advanced courses in physiology. Topics include homeostasis, neural, muscle, cardiopulmonary, renal, endocrine, and reproductive physiology. Three hours lecture, three hours lab. 		
+
+MET BI 407: Animal Behavior (EBE)
+           			Ethological approach to animal behavior, including humans; physiological, ontogenetic, and phylogenetic causes and adaptive significance of behavior within an evolutionary framework. Laboratory course. Three hours lecture, three hours lab. 		
+
+MET BI 491: Research in Biology
+           			Laboratory or field research projects in biology may be chosen under supervision of Department of Biology. Minimum 12 hours per week in laboratory or fieldwork, not including preparation or evaluation time. Both semesters of research may count toward concentration credit in biology if two semesters of work are completed. 		
+
+MET BI 492: Research in Biology
+           			Laboratory or field research projects in biology may be chosen under supervision of Department of Biology. Minimum 12 hours per week in laboratory or fieldwork, not including preparation or evaluation time. Both semesters of research may count toward concentration credit in biology if two semesters of work are completed. 		
+
+MET BI 552: Molecular Biology (CM)
+		Structure, synthesis, and control of biologically important macromolecules, especially DNA, RNA, and proteins. Biochemistry of transcription and translation of genetic material. Introduction to molecular problems peculiar to eukaryotes. Three hours lecture, one hour discussion. 		
+
+MET BI 607: Animal Behavior (EBE)
+		Ethological approach to animal behavior, including humans; physiological, ontogenetic, and phylogenetic causes and adaptive significance of behavior within an evolutionary framework. Laboratory course. Three hours lecture, three hours lab. 		
+
+MET CH 101: General Chemistry I (N)
+           			For science concentrators, premedical students, and students in related fields. Stoichiometry, states of matter, acids and bases, equilibrium, and selected chemical systems. Laboratory course. Three hours lecture, one hour discussion, three hours lab per week, and one hour postlab discussion per week. 		
+
+MET CH 102: General Chemistry II (N)
+           			For science concentrators, premedical students, and students in related fields. Covers thermodynamics, atomic structure and bonding, electrochemistry, chemical kinetics, and selected chemical systems. Laboratory course. Three hours lecture, one hour discussion, three hours lab, and one hour postlab discussion per week. 		
+
+MET CH 103: General Chemistry I--Lecture (N)
+	Lecture component of MET CH 101. See CH 101 course description. Three hours lecture, one hour discussion per week. 		
+
+MET CH 104: General Chemistry II--Lecture (N)
+	Lecture component of MET CH 102. See CH 102 course description. Three hours lecture, one hour discussion. 		
+
+MET CH 105: General Chemistry I--Laboratory (N)
+           			For students who have already taken the lecture portion of CH 101. Three hours lab, one hour postlab discussion per week. 		
+
+MET CH 106: General Chemistry II--Laboratory (N)
+           			Laboratory component of MET CH 102. For students who have already taken the lecture portion of CH 102. Three hours lab, one hour postlab discussion per week. 		
+
+MET CH 171: Principles of General Chemistry (N)
+	Introduction to chemistry: separation and purification of matter, atomic theory, structure of atoms,  molecules and chemical bonding, chemical formulas, equations, stoichiometry; water, solutions,  concentration, acids, bases, pH and buffers; gases; reaction kinetics and equilibrium, and radioactivity.  Three hours lecture, one hour discussion, one hour prelab lecture, and three hours lab. 		
+
+MET CH 172: Principles of Organic and Biochemistry (NS)
+           			Organic chemistry: structure, stereochemistry, and reactions of carbon compounds; emphasis on   compounds of biochemical interest: polysaccharides, lipids, nucleic acids, and proteins. Biochemistry:   structure and function of molecules of biological importance; metabolism of carbohydrates, lipids, and   amino acids. Three hours lecture, one hour discussion, one hour prelab lecture, and three hours lab. 		
+
+MET CH 174: Principles of Organic and Biochemistry  (NS)
+	Prereq: MET CH 171 or CH 101, 102. Organic chemistry: structure, stereochemistry, and reactions of  carbon compounds; emphasis on compounds of biochemical interest: polysaccharides, lipids, nucleic  acids, and proteins. Biochemistry: structure and function of molecules of biological importance;  metabolism of carbohydrates, lipids, and amino acids. Three hours lecture, one hour discussion.		
+
+MET CH 203: Organic Chemistry
+           			Structure and reactivity of organic compounds. Synthesis, reaction mechanisms, bonding, stereochemistry, laboratory methods. Coverage of the families of organic compounds, including molecules of biological interest. Laboratory course. Three hours lecture, one hour discussion, one hour prelab lecture, and three-and-a-half hours work period alternate weeks. Laboratory course. 		
+
+MET CH 204: Organic Chemistry
+           			Structure and reactivity of organic compounds. Synthesis, reaction mechanisms, bonding, stereochemistry, laboratory methods. Coverage of the families of organic compounds, including molecules of biological interest. Laboratory course. Three hours lecture, one hour discussion, one hour prelab lecture, and three-and-a-half hours work period alternate weeks. Laboratory course. 		
+

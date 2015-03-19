@@ -1,0 +1,60 @@
+MED MS 122: Medical Gross Anatomy
+	The BUSM Medical Gross Anatomy course is organized regionally and the content will follow the course of the dissection. The course will first cover Back and Limbs, then Thorax, Abdomen, and Pelvis, and finally Head and Neck.		
+
+MED MS 123: Medical Histology
+	The Medical Histology course covers the study of cell, tissue, organ, and system histology and provides the foundational vocabulary and understanding of normal microscopic structure and organizational concepts required for pathophysiology and clinical medicine. Emphasis is on functional morphology at the light and electron microscope levels.  Directed self-study laboratory exercises and interactive small-group laboratory discussions using computerized virtual microscopy supplement companion lectures. The course runs concurrently with the Medical Physiology and Endocrinology courses in an integrated manner.		
+
+MED MS 124: Integrated Problems 1A
+	Integrated Problems 1A is a small group problem-based learning course in which medical students progressively learn to systematically dissect clinical cases.  The skills developed in this course include: integration of concurrent course material and application to a clinical case, creation of research questions from a case presentation, research skills, and succinct presentation skills.  In addition, students progressively develop clinical reasoning skills that will allow them to create differential diagnoses for clinical problems.  Students gain experience working with their colleagues and a faculty member in a respectful manner.   		
+
+MED MS 125: Introduction to Clinical Medicine
+	In the fall semester, the Introduction to Clinical Medicine course provides medical students with an opportunity to interview real patients and to observe their peers interviewing patients. Conducting a medical interview is an essential skill for physicians. This course will help medical students learn to develop empathic listening, to establish rapport, and to be able to ask open and closed ended questions. It is also important to learn how to present clinical findings to peers and fourth-year medical students or attending physicians.  In the second semester each first year student spends ten sessions shadowing a clinician-mentor in the ambulatory setting.  The experience is meant to introduce the student to the practice of medicine (broadly defined) and allows the student to practice targeted parts of the medical interview and physical exam. In addition to the clinical sessions, students convene at the medical school for scheduled lectures as well as small group sessions where they focus on more advanced interviewing skills and the introduction to the physical exam.  At the end of the semester they participate in a one case OSCE  (Objective Standardized Clinical Examination)  with a standardized patient where they take a history, do a targeted portion of the physical exam and receive formative feedback. 		
+
+MED MS 126: Human Behavior in Medicine
+	This course is designed to provide knowledge of human behavior important to the treatment of patients and their families. While knowledge of disease and its treatment are integral to medical care, understanding the patient as a person who suffers from an illness with his or her own beliefs about the cause and treatment of the illness is part of being an effective physician. Physicians who have an understanding of the aging and dying process can then help patients and their families deal with medical realities. Medical staff who have an awareness of the dynamics of addictions and domestic violence can hone their intuition as to what might assist the individual and the individual's spouse, children and elderly dependents.  In addition, understanding the patient's sexuality gives a more complete medical understanding of the individual.		
+
+MED MS 127: Biochemistry &amp; Cell Biology
+	Biochemistry and Cell Biology provides a great opportunity to study the underlying cellular, biochemical and molecular reactions in the human body. These disciplines allow students to learn how the body works and how alterations in these reactions can lead to a disease state. Such knowledge is essential to becoming an outstanding physician. From a clinical point of view, Biochemistry and Cell Biology provide not only a description of how the physiological system works, but also a foundation for understanding how to improve its operation and potential development of therapeutic and enhanced patient management strategies.		
+
+MED MS 129: Essentials of Public Health
+	The Essentials of Public Health course recognizes that delivering quality healthcare requires extensive knowledge of the health system in which a physician practices. Being an efficient and effective physician will require knowledge of health services, medical economics and ethical, legal, human rights, political and regulatory constraints. Awareness of the environmental and social factors that influence health in individuals and populations is necessary for the promotion of health and the prevention of disease. Caring for patients requires sensitivity to language, culture, race and ethnicity, as well as familiarity with psychosocial and behavioral models. Knowledge of epidemiology and biostatistics is necessary for evaluating effective medical interventions as well as the population basis for the practice of community medicine. A physician will need all of these skills, plus humanity and character, to empathize and care for and about patients.		
+
+MED MS 130: Medical Genetics
+	The pace of genetic advances during the last century has been unparalleled scientifically, and these discoveries have already made and are poised to make an incredible impact on the practice of medicine. Currently, OMIM (Online Mendelian Inheritance in Man) lists over 3600 identified disease genes, and GeneTests lists over 2900 diseases for which there are molecular tests. Moreover, OMIM lists over 21,000 loci that are associated with particular phenotypes. In this course we will explore the precise molecular determinants of medical conditions and of human phenotypic variation that are being elucidated on a daily basis. Clearly, a detailed understanding of the genetic basis of human disease will lead to more precise molecular assays and diagnostics, better-targeted treatments, and more efficient treatment plans overall. Moreover, these developments will certainly affect all clinical specialties of the medical field since genetic components have a clear influence on a wide variety of human traits and conditions, from height and developmental birth defects to cancer susceptibility and neurological degeneration. In this course, we will prepare students to utilize the knowledge of this rapidly developing field in the context of many clinical specialties. 		
+
+MED MS 131: Medical Immunology
+	The Medical Immunology course covers key immunologic concepts: how the components of the immune system are generated and function; the mechanisms that lead to beneficial immune responses, immune disorders, and immunodeficiencies; methods to identify immune reactions; and ways to manipulate the immune system to benefit the patient. These concepts and related case studies are presented through interactive lectures and small group discussion sessions.		
+
+MED MS 132: Integrated Problems 1B
+	See IP 1A Description.		
+
+MED MS 133: Neurosciences
+	In this course, students will study a wide variety of Neuroscience disciplines, including Neuroanatomy, Neurophysiology, Neurochemistry, Neuropsychology, and Clinical Neurology. This approach reflects the fact that the study of the brain is an extraordinarily broad field, encompassing many issues and disciplines. The goal of this course is to cover, in an integrated fashion, basic information from all of the disciplines needed to gain a comprehensive understanding of the structure and function of the human central nervous system. Neuroanatomy laboratory exercises and neurophysiology discussions supplement lecture material.		
+
+MED MS 214: Introduction to Clinical Medicine II
+	In ICM-2 students learn the parts of the physical examination and hone their interview skills in order to do complete history and physical examinations. Using simulators, models, and standardized patients, students learn to identify heart sounds, perform breast, pelvic, and rectal examinations, and interview patients who have been programmed with substance abuse problems. Along the way they have specialized sessions in diagnostic imaging, cancer screening, and pediatric topics. All students are required to pass the standardized patient physical examination and substance abuse standardized patient exercise, and all must present four complete patient work-ups in standard oral and written format. The course prepares students for the End of Second Year Assessment, a three station clinical OSCE, that takes place in the Clinical Skills and Simulation Center, as well as for the third year clerkships.  		
+
+MED MS 215: Integrated Problems 2A
+	Integrated Problems 2A is a course in which students continue to systematically dissect clinical cases, building upon the skills developed during Integrated Problems IA and IB.  In addition to the learning objectives in the first year, by the end of this semester students should be able to differentiate subjective and objective information, identify further clinical data needed to assess a clinical case, and develop assessments and plans for each case.  Students are continually expected to act in a professional and respectful manner of their classmates and their facilitators.		
+
+MED MS 218: Integrated Problems 2B
+	Integrated Problems 2B continues to build on the skills and structure of Integrated Problems IA, IB, and 2A. In this semester students progress through cases more quickly and replace their independent research with research done during their group time.		
+
+MED MS 220: 221: 223: 224: 225: 226: Disease and Therapy (DRx)
+	MED MS 220 221: 223: 224: 225: 226:  The Disease and Therapy (DRx) course integrates the study of disease, including pathophysiology, infectious etiologies, and pharmacologic management in an organ-based context. DRx begins with an introduction to the fundamental concepts of Microbiology, Pathology and Pharmacology in the Foundations Module and is followed by the Infectious Diseases Module in which the microbiological basis of infectious diseases and their pharmacologic treatment is addressed. Subsequent modules address diseases of the cardiovascular system, lungs, kidneys, joints and connective tissue, gastrointestinal system, endocrine and reproductive organs, BLOOD, skin, and nervous system, and psychiatric disorders. Oncology is taught in conjunction with Hematology. Health Law, Policy, and Management Systems are also covered.  		
+
+MED MS 221: Dis.&amp; Therapy 2
+			
+
+MED MS 223: Dis.&amp; Therapy 3
+			
+
+MED MS 224: Dis.&amp; Therapy 4
+			
+
+MED MS 225: Dis.&amp; Therapy 5
+			
+
+MED MS 226: Dis.&amp; Therapy 6
+			
+

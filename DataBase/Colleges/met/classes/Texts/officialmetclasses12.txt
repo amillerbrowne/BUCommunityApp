@@ -1,0 +1,61 @@
+MET CH 205: Organic Chemistry-Lecture
+           			Lecture component of MET CH 203, 204. Structure and reactivity of organic compounds, synthesis, reaction mechanisms, bonding, and stereochemistry. Coverage of the families of organic compounds, including molecules of biological importance. Three hours lecture, one hour discussion weekly. 		
+
+MET CH 206: Organic Chemistry-Lecture
+           			Lecture component of MET CH 203, 204. Structure and reactivity of organic compounds, synthesis, reaction mechanisms, bonding, and stereochemistry. Coverage of the families of organic compounds, including molecules of biological importance. Three hours lecture, one hour discussion weekly. 		
+
+MET CH 207: Organic Chemistry-Laboratory
+           			Laboratory component of MET CH 203, 204. An introduction to laboratory techniques, including experiments in distillation, extraction, chromatography, purification, derivitization, and synthesis. Laboratory course. One hour prelab lecture and three-and-a-half hours work period alternate weeks. 		
+
+MET CH 208: Organic Chemistry-Laboratory
+           			Laboratory component of MET CH 203, 204. An introduction to laboratory techniques, including experiments in distillation, extraction, chromatography, purification, derivitization, and synthesis. Laboratory course. One hour prelab lecture and three-and-a-half hours work period alternate weeks. 		
+
+MET CH 273: Principles of Biochemistry
+           			Primarily for students in allied health professions. Structure and function of biological macromolecules: polysaccharides, proteins, and nucleic acids; lipids; enzymes and metabolism; bioenergetics, control mechanisms; hormones; body fluids; nutrition; and biochemical pathology. Three hours lecture, one hour discussion. 		
+
+MET CH 351: Physical Chemistry I
+           			Quantum Theory, atomic and molecular structure, molecular spectroscopy, statistical mechanics, solid state chemistry. Three hours lecture, one hour discussion.		
+
+MET CH 352: Physical Chemistry II
+           			Introduction to thermodynamics, and chemical kinetics. Applications include electrochemistry, phase transitions, catalysts, aqueous solutions and polymers. Three hours lecture, one hour discussion.		
+
+MET CH 421: Biochemistry I
+	Prereq: CAS CH 204, CH 212, CH 214, or CH 282. Introductory biochemistry. Protein structure and folding, enzyme mechanisms, kinetics, and allostery; nucleic acid structure; lipids and membrane structure; bioenergetics; vitamins and coenzymes; introduction to intermediary metabolism. Students must register for two sections: lecture and laboratory. Meets with CAS CH 421.		
+
+MET CJ 101: Principles of Criminal Justice
+	This course provides a comprehensive overview of the criminal justice system (law enforcement, the  courts, and corrections) while developing students' critical thinking skills. In addition to class lectures, the  course provides multiple venues for learning, to include group activities, guest lectures, a prison tour, and  carefully selected films that highlight some of the most contentious issues in criminal justice today.		
+
+MET CJ 251: Police and Society
+	This course provides a foundation for understanding the implications of policing in the United States. The  course examines the historical development of policing in the U.S., the role of police in our society, police  organizations and decision-making, policing strategies, as well as issues of authority and accountability.  Throughout the course, several contemporary issues and controversies facing the police will be discussed  including: police discrimination, police use of force practices, and other special topics. 		
+
+MET CJ 271: Corrections: Concepts, Systems, and Issues
+	This course provides an overview of models of punishment and rehabilitation from the perspectives of the humanities and social sciences, including a review of correctional practices and procedures, institutional treatment, probation, parole, prison conditions, programs for juveniles, and comparative systems. Correction administration topics are covered including personnel, legal, operating practices, overcrowding, and planning.		
+
+MET CJ 351: Criminal Law
+	Theory and practice of criminal law, including sanctions, individual liability, limitations on state action, criminal and victim rights, evidence, defense, deterrence, mandatory sentencing, decriminalization, intent, entrapment, vagueness, and capital punishment. Case studies of recent court decisions. 		
+
+MET CJ 352: Courts, Society, and Criminal Procedure
+           			Federal, state, and local criminal courts and their relationship to contemporary social and political issues. Historical background of the current criminal court system. Institutional functions of the courts. Role of the courts in reducing crime. Judicial process and criminal procedure, case studies and court decisions. 		
+
+MET CJ 420: Directed Study
+	Independent study in criminal justice under faculty guidance. Prior approval by program director required.		
+
+MET CJ 510: Special Topics in Criminal Justice
+	CJ510 is the designation for "Special Topics in Criminal Justice". The subject matter for CJ510 courses changes from semester to semester, and more than one CJ510 can be offered in a given semester. For course descriptions, please contact the Department or the Graduate Student Advisor, Professor Cronin, at swcronin@bu.edu.		
+
+MET CJ 601: History of Criminal Justice
+		This course examines the evolution of the criminal justice system in America, emphasizing the period from  the 18th century to contemporary forms of social control. An appreciation of the historical antecedents of  crime and justice will deepen students' understanding of the modern-day institutions of law enforcement,  courts, and corrections.		
+
+MET CJ 602: Criminology
+	This course explores potential answers to complex and important questions about criminal behavior by  drawing on the social science of criminology.  Criminology is the interdisciplinary study of the  development of law, criminal phenomena and societal responses to crime.  The primary emphasis of  this course will be discussing and evaluating major explanations or theories of crime.  Because  criminology is interdisciplinary, we will examine theories that are ground in a range of academic  perspectives, including sociological, biological, political, psychological and economic explanations for  crime.  Course lectures and discussions focus on the historical development of the theories, their major  assumptions and propositions, their relevance for public policy and practice. As we progress through  each explanation for crime, we critically evaluate the validity of different explanations for crime as well  as criminal justice policies and practices that they support.		
+
+MET CJ 610: Special Topics in Criminal Justice: Cybercrime
+	This course is designed to help students understand and apply the nature of computer crime in the  criminal justice field. Several theories (both micro-level and macro-level) will be presented and will be  analyzed in depth and applied to computer crime cases both past and present. Students will see how  major theories have been re-developed to be applied to computer crime, and by using these theories,  students will both develop and explore different strategies for future law enforcement. Students will be  presented with common types of fraudulent schemes, as well as several laws that have been enacted  and developed specifically for computer crime. In addition, causes, victimization, legal issues, control  strategies, and societal costs regarding the "computer-crime" problem will be explored and evaluated. 		
+
+MET CJ 625: Victimology
+	The purpose of this course is to introduce the student to the discipline of victimology, an emerging area of specialization in the field of criminology. Emphasis will focus on crime victims and their plight, the relationships between crime victims and other social groups and institutions, such as the media, business, politicians, special interest groups, and social movements. The issues of Justice and Redress from the perspective of the victim as well as general society will be stressed. An overview of victim prevention programs and victim assistance programs will be presented. Topics such as the Restorative Justice Model, Victim Repayment, and Victim/Offender Mediation will be included in the course content. While the course follows an interdisciplinary approach and is designed for general interest and appeal, it has particular relevance for students drawn from disciplinary interests in the fields of criminal justice, psychology, sociology, education, health care administration, and political science.		
+
+MET CJ 631: Youth Crime Problems
+	Throughout this course, students will analyze the policy issues concerning juvenile justice and youth  crime. Emphasis will be put on the scope and nature of youth crime and the young offender, as well as  juvenile justice procedures, programs and institutional roles. Over the semester, students will also be  asked to consider delinquency prevention programs, violent offenders, dispositional alternatives, and  crimes against youth. 		
+
+NOTE: Program information is accurate as of July 2013. Check the <a href="http://www.bu.edu/met/">MET website</a> for important updates.

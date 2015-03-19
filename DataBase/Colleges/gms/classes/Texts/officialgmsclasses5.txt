@@ -1,0 +1,60 @@
+GMS BT 520: Biology of Cancer
+	Prereq: BT 405 (Biochem) and BT 413 (Mol Bio) or consent of program director. This course focuses on   the cellular and molecular changes that underlie the development and progression of human cancer.   Students examine the pathways and processes that involve oncogenes and tumor suppressor genes to   understand how they can contribute to cancer. Complex interactions including angiogenesis, tumor   immunology, invasion and metastasis are studied as well. In addition,the course covers targeted   approaches to cancer therapy and the latest scientific research including cancer epigenetics, microRNAs   and cancer stem cells.		
+
+GMS BT 530: Introductory Pharmacology
+	Prereq: one semester, biology and 2 semesters of chemistry, BT405 recommended. This course introduces   the basic principles of pharmacology and several major classes of therapeutic agents, with attention to   their mechanisms of action. Issues of current and future directions in pharmacology are addressed   including the source of information about pharmacologic agents, the ethics of human experimentation,   the drug development process, and new biotechnological approaches to drug design.Â&nbsp;		
+
+GMS BT 532: Histopathology
+	Prereq: BT 104 (Med Term) and BT 342 (Cell Bio), or consent of program director. The goal of the course   is to give students a fundamental knowledge and practical experience of human histology, pathology   and the techniques used to study cells and tissues in the normal and diseased state. This course   familiarizes students with biospecimen processing and management at the organ, tissue, cellular and   molecular levels. By studying different organs and organ systems, including: gastrointestinal, breast,   respiratory, neuro-muscular, skin, brain, kidney and liver, students develop an understanding of the   normal and diseased state at the macro and microscopic levels. Furthermore, the course provides   hands-on experience, including: dissection, preservation, processing, microtomy, photomicroscopy,   macro-photography, electron microscopy, and archiving. Students apply their understanding of medical   terminology and cell biology. This course can help prepare a student for graduate work in pathology,   for a Pathologists' Assistant program or for a career as a histotechnologists in a diagnostic or research   laboratory. Â&nbsp;Laboratory course.		
+
+GMS BT 540: Regulatory and Compliance Issues
+	This course explains the regulatory requirements for health care products: drugs, biologics, diagnostics,   and devices. The focus is on U.S. FDA regulations and their impact on product development and marketing   with international requirements. Recommended for students in clinical research concentration.Â&nbsp;		
+
+GMS BT 550: Clinical Data Management
+	Introduces students to the technology, process, and responsibilities of clinical data management.   Students examine study setup, case report form (CRF) design, and the data life cycle, including data   collection, data validation, coding of adverse events using standard dictionaries (such as ICD-9 or   MedDRA), data review, and database lock. Data Management SOP's are discussed within this context.   An industry-leading clinical data management system (CDMS) is utilized. Students also explore how   new technologies, such as electronic data capture (EDC), affect these processes.		
+
+GMS BT 560: Good Clinical Practices (GCP) in Clinical Research
+	This course introduces the regulatory responsibilities of sponsors, monitors, and investigators   conducting clinical trials. Practical information and exercises are designed for the clinical trial   professional on procedures for ensuring GCP compliance from an industry perspective. Topics include   identifying and selecting qualified investigators, obtaining ethical approval to enroll patients, and   initiating sites successfully. The course also covers issues related to collecting required regulatory   documentation, verifying high quality data, maintaining study materials accountability, and reporting   serious adverse events. Group discussions and guest speakers help students learn the practical skills   used in the field.		
+
+GMS BT 575: Design and Conduct of Clinical Trials
+	Prereq: knowledge of biostatistics. This course covers basic principles and current methodologies used in   the design and responsible conduct of clinical trials. Topics include statistical design of clinical trials,   sample selection, data collection and management, patient recruitment strategies, adverse event   reporting, and compliance monitoring. Practical exercises include writing clinical research protocols and   informed consent forms, and designing case report forms. 		
+
+GMS BT 580: Legal and Ethical Issues in Clinical Research
+	This course examines the development and implementation of regulatory as well as ethical issues involved   with conducting clinical trials. Topics include: use of human subjects, privacy and confidentiality, conflicts   of interest, use of stem cells in research, federal laws affecting laboratories, and genetic testing of gene   and therapy trials. Students also participate in discussions on landmark legal cases affecting laboratory   scientists.		
+
+GMS BT 591: Biomedical Externship
+	for Fall and Summer 1 semesters.  Directed study for degree candidates only. Prereq: Consent of   program director. The externship is the capstone project of the Bachelor of Science degree in the BLCS   program.  The externship objectives are for students to apply knowledge gained from coursework, learn   new and challenging biomedical skills and procedures, and understand the purpose for performing   these.  In addition, students are expected to articulate the goals of their project and how their project   fits within the overall mission of the host institution or department.  Students also need to   demonstrate initiative and curiosity, and be proactive in researching and learning the science behind   their project.		
+
+GMS BT 592: Biomedical Externship
+	for Spring and Summer 2 semesters.  Directed study for degree candidates only. Prereq: Consent of   program director. The externship is the capstone project of the Bachelor of Science degree in the BLCS   program.  The externship objectives are for students to apply knowledge gained from coursework, learn   new and challenging biomedical skills and procedures, and understand the purpose for performing   these.  In addition, students are expected to articulate the goals of their project and how their project   fits within the overall mission of the host institution or department.  Students also need to   demonstrate initiative and curiosity, and be proactive in researching and learning the science behind   their project.  		
+
+GMS BT 594: Clinical Research Practicum
+	for Fall and Summer 1 semesters.  Prereq: 16 credits in clinical research and permission of program   director. Directed study offering direct experience with the conduct of a clinical trial. Student will work on   a supervised project within an approved clinical research site. 		
+
+GMS BT 595: Clinical Research Practicum
+	for Spring and Summer 2 semesters. Prereq: 16 credits in clinical research and permission of program   director. Directed study offering direct experience with the conduct of a clinical trial. Student will work on   a supervised project within an approved clinical research site. 		
+
+GMS BY 762: Foundations of Structural Biology I
+		This graduate-level course provides a thorough grounding in the theory and major experimental methods of Structural Biology.  The Fall semester covers x-ray crystallography and electron microscopy.  The Spring semester cover NMR, protein thermodynamics, and spectroscopy.  Semesters are independent and may be taken in either order. 2 cr, Fall sem.		
+
+GMS BY 763: Foundations of Structural Biology II
+		This graduate-level course provides a thorough grounding in the theory and major experimental methods of Structural Biology.  The Fall semester covers x-ray crystallography and electron microscopy.  The Spring semester cover NMR, protein thermodynamics, and spectroscopy.  Semesters are independent and may be taken in either order. 2 cr, Spring sem.		
+
+GMS BY 776: Macromolecular Assemblies I
+		This graduate course covers the concepts of the assembly of biomacromolecules, their structure and stabilizing forces, and biological function as related to structure.  Examples are drawn from assemblies of proteins, lipids, lipoprotein systems, membranes and viruses.  The Fall semester covers protein assemblies, protein-nucleic acid assemblies, and membrane proteins.  The Spring semester covers lipid-protein assemblies.  Semesters are independent and may be taken in either order. 2 cr, Fall sem. 		
+
+GMS BY 777: Macromolecular Assemblies II
+		This graduate course covers the concepts of the assembly of biomacromolecules, their structure and stabilizing forces, and biological function as related to structure.  Examples are drawn from assemblies of proteins, lipids, lipoprotein systems, membranes and viruses.  The Fall semester covers protein assemblies, protein-nucleic acid assemblies, and membrane proteins.  The Spring semester covers lipid-protein assemblies.  Semesters are independent and may be taken in either order. 2 cr, Spring sem.		
+
+GMS BY 871: Biophysics Special Topics/Student Seminar
+	A weekly program in which students present seminars on assigned or selected current scientific literature, and learn grant-writing skills. Emphasis is placed on class participation by all students. 2 cr, Fall &amp; Spring sem.		
+
+GMS BY 872: Biophysics Special Topics/Student Seminar
+	A weekly program in which students present seminars on assigned or selected current scientific literature, and learn grant-writing skills. Emphasis is placed on class participation by all students. 2 cr, Spring sem. 		
+
+GMS BY 945: Research Biophysics
+	Var cr		
+
+GMS BY 946: Research Biophysics
+	Var cr		
+

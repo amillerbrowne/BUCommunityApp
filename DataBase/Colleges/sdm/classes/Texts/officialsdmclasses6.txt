@@ -1,0 +1,60 @@
+SDM OS 876: Advanced Cardiac Life Support
+	This is the standardized course in advanced cardiac life support. Includes diagnosis and advanced management of cardiovascular emergencies, ECG interpretation, management algorithms, and megacode management. P/F. No credit.		
+
+SDM OS 877: Advanced Trauma Life Support
+	This is the standardized course in advanced trauma life support. Includes diagnosis and acute management of the trauma victim. P/F. No credit.		
+
+SDM OS 881: Clinical Oral Maxillofacial Surgery
+	A four-year continuum consisting of clinical rotations on the oral and maxillofacial surgery services of Boston Medical Center and its affiliated training sites including the Boston Veterans Administration Hospital and the Beth Israel Deaconess Medical Center. Pass/Fail.		
+
+SDM OS 883: Clinical Oral Maxillofacial Surgery
+	A four-year continuum consisting of clinical rotations on the oral and maxillofacial surgery services of Boston Medical Center and its affiliated training sites including the Boston Veterans Administration Hospital and the Beth Israel Deaconess Medical Center. Pass/Fail.		
+
+SDM OS 884: Clinical Oral Maxillofacial Surgery
+	A four-year continuum consisting of clinical rotations on the oral and maxillofacial surgery services of Boston Medical Center and its affiliated training sites including the Boston Veterans Administration Hospital and the Beth Israel Deaconess Medical Center. Pass/Fail.		
+
+SDM OS 890: Mock Board ExaminationsÂOral and Written sections
+	This course is designed to prepare the resident for the certification examination of the American Board of Oral and Maxillofacial Surgery. Pass/Fail.		
+
+SDM OS 891: Mock Board ExaminationsÂOral and Written sections
+	This course is designed to prepare the resident for the certification examination of the American Board of Oral and Maxillofacial Surgery. Pass/Fail.		
+
+SDM OS 990: Research: Oral and Maxillofacial Surgery
+	Approved research in Oral and Maxillofacial Surgery.		
+
+SDM OS 991: Research: Oral and Maxillofacial Surgery
+	The OMFS program requires at least one research project be completed during the training program. The research is guided by faculty and entails a critical review of the literature, developing a hypothesis, statistical analysis, and interpretation of data. A written research paper and oral presentation are mandatory requirements for graduation. Pass/Fail.		
+
+SDM OS 993: Research: Oral and Maxillofacial Surgery
+	The OMFS program requires at least one research project be completed during the training program. The research is guided by faculty and entails a critical review of the literature, developing a hypothesis, statistical analysis, and interpretation of data. A written research paper and oral presentation are mandatory requirements for graduation. Pass/Fail.		
+
+SDM OS 994: Research: Oral and Maxillofacial Surgery
+	The OMFS program requires at least one research project be completed during the training program. The research is guided by faculty and entails a critical review of the literature, developing a hypothesis, statistical analysis, and interpretation of data. A written research paper and oral presentation are mandatory requirements for graduation. Pass/Fail.		
+
+SDM PA 530: Oral Pathology
+	This course is focused upon the pathogenesis and differential diagnosis of common diseases affecting the oral and para-oral structures. Students should learn a systematic approach to evaluation and diagnosis of oral diseases. 		
+
+SDM PA 801: Oral Pathology
+	This is an online course designed to provide both a review of oral pathology for students with previous experience and an opportunity for students to turn their knowledge and skills to real case studies. Online interdisciplinary groups are formed for the purpose of the discussion of unfolding cases. Students can present their impressions online so that other group members can profit from comments, advance criticism and appreciate different points of view. Cases are chosen that span the scope of oral pathology in specialty practice. Examinations are also case based and online.		
+
+SDM PD 521: Preclinical Pediatric Dentistry-Orthodontics
+	This course is a comprehensive simulated clinic introduction to the techniques of pediatric dentistry and orthodontic techniques. Includes the technical aspects of restorative dentistry, space maintenance. 		
+
+SDM PD 530: Pediatric Dentistry
+	This course discusses oral health problems during development and growth of the orofacial structures of the child and adolescent. The course focuses on training in patient management, preventive and restorative dentistry, treatment of traumatic dental injuries, and minor tooth movement. 		
+
+SDM PD 640: Clinical Pediatric Dentistry
+	This course includes rotations in the children's dentistry clinics at the dental school, South Boston Community Health Center and South End Community Health Center during the year. Students receive training in preventive and restorative dentistry and in the treatment of traumatic dental injuries. 		
+
+SDM PD 760: Pediatric Dentistry for the General Practitioner
+	A series designed for the AEGD resident to review diagnosis, treatment planning, therapeutic, and preventive procedures for the pediatric patient. 		
+
+SDM PD 802: Fundamentals of Pediatric Dentistry
+	Intensive lecture series covering the fundamental concepts of the practice of pediatric dentistry. The course is intended to familiarize new residents with concepts they will encounter in the various clinical settings. 1st sem.		
+
+SDM PD 808: Orthodontics for Pediatric Dentists
+	Emphasis is placed on growth and development, cephalometrics, diagnosis and treatment planning, and the evaluation of the normal and abnormal conditions in the primary, early mixed, and late mixed dentitions. 1st-4th sem.		
+
+SDM PD 822: Advanced Seminar in Pediatric Dentistry
+	An in-depth course of seminars that review the current literature related to pediatric dentistry. Residents from both the first and second year attend SDM PD 822/823. 1st-4th sem.		
+

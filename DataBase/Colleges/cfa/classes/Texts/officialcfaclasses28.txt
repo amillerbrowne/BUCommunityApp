@@ -1,0 +1,60 @@
+CFA TH 250: Summer Theatre Institute 2.0
+	Prereq: CFA TH 150; The Boston University Summer Theatre Institute 2.0 program is an advanced continuation of the immersive five-week program focused on theatre-making for serious and highly-motivated high school students. For students looking to repeat the summer immersion, the 2.0 program offers a further developed progression of studio training, skill building, and practical application. The program is offered to both advanced high school students as well as those already in the first year of an undergraduate experience. 4.0 credits. Summer Term 2.		
+
+CFA TH 255: History of Costume 1
+	Prereq: None; An intensive survey covering the history of significant cultural expression in dress of Western Civilization. Work involves research projects with emphasis on color, materials, manufacture and application toward a definition of styles. 2.0 credits. Fall semester. Offered in even numbered AY only.		
+
+CFA TH 256: History of Costume 2
+	Prereq: None; An intensive survey covering the history of significant cultural expression in dress of Western Civilization. Work involves research projects with emphasis on color, materials, manufacture and application toward a definition of styles. 2.0 credits. Spring semester. Offered in even numbered AY only.		
+
+CFA TH 259: AutoCad 2
+	Prereq: CFA TH 160 or CFA TH 163 or consent of instructor; A continuation of AutoCAd 1 as a more advanced, in-depth study of AutoCad.  Goals will be based on improving the speed of drawing production and learning new tools ot help fit the specific needs of the student's area of focus. 1.0 credits. Fall semester.		
+
+CFA TH 261: Vectorworks 2
+	Prereq: CFA TH 162 or consent of instructor; Advanced work in Vectorworks CAD; specific rendering techniques for the individual area of lighting and the light plot. 1.0 credits. Fall semester.		
+
+CFA TH 262: Vectorworks 3
+	Prereq: CFA TH 261; Advanced work in Vectorworks CAD; specific rendering techniques for the individual area of lighting and the light plot. 1.0 credits. Spring semester.		
+
+CFA TH 263: Scene Design 1
+	Prereq: None; Fundamentals of set design theory; basic mechanical and conceptual solutions for the proscenium theatre; development of presentational and research skills. Readings and projects incorporate all theatre genres, ballet, dance, opera, television, and film. 3.0 credits. Fall semester. 		
+
+CFA TH 264: Scene Design 2
+	Prereq: CFA TH 263 or consent of instructor; Continuation of set design theory; basic mechanical and conceptual solutions for the proscenium theatre; development of presentational and research skills. Readings and projects incorporate all theatre genres, ballet, dance, opera, television, and film. 3.0 credits.  Spring semester.		
+
+CFA TH 265: Scene Painting 1
+	Prereq: Instructor Consent; Studio class. Exposure to materials and tools used in theatrical scene painting.  Exercises in general lay-in texture techniques and beginning work in nature studies. 2.0 credits. Fall semester. 		
+
+CFA TH 266: Scene Painting 2
+	Prereq: TH265 or consent of instructor; Studio class. Continuation of exposure to materials and tools used in theatrical scene painting.  Exercises in general lay-in texture techniques and beginning work in nature studies. 2.0 credits. Fall semester.   		
+
+CFA TH 267: Scene Painting Intensive
+	Prereq: Instructor Consent; Studio class intensive. Exercises in scene painting ranging from fundamentals to advanced techniques including layout, transferring and executing scenic painting projects. Summer Term Only. Materials costs are extra. 4 cr. Tuition: $TBD/credit		
+
+CFA TH 269: Technical Production 1
+	Prereq: CFA TH160 &amp; CFA TH170 or consent of instructor; The primary focus is on the task of communicating in projection view drafting for construction purposes. The drafting is applied to projects constructed in steel. During the class period, construction decision-making is reviewed. Fundamentals of metal work and the craft of welding are learned. 3.0 credits. Fall semester. 		
+
+CFA TH 270: Technical Production 2
+	Prereq: CFA TH269; A continuation of TP 1. The primary focus is on the task of communicating in projection view drafting for construction purposes. The drafting is applied to projects constructed in steel. During the class period, construction decision-making is reviewed. Fundamentals of metal work and the craft of welding are learned. 3.0 credits. Spring semester.		
+
+CFA TH 271: Theatrical Welding 1
+	Prereq: Instructor Consent; An introduction to welding technology explaining and outlining welding safety and the best welding practices for theatre. Course covers cutting, drilling and assembling mild steel for theatrical scenic construction. 2.0 credits. Fall semester.   		
+
+CFA TH 272: Theatrical Welding 2
+	Prereq: CFA TH 271; Advanced techniques in welding technology explaining and outlining welding safety and the best welding practices for theatre. Course covers cutting, drilling and assembling mild steel for theatrical scenic construction. 2.0 credits. Spring semester. 		
+
+CFA TH 275: Costume Design 1
+	Prereq: Instructor Consent; Fundamentals of costume design. Exercises focus on analysis-designing from the inside out. Covers a range of visual, written, and verbal techniques of communication; script analysis, style, research techniques, and rendering skills. Readings and projects may incorporate all theatre genres. 3.0 credits. Fall semester. 		
+
+CFA TH 276: Costume Design 2
+	Prereq: CFA TH 275; A continuation of CFA TH 275, Costume Design 1. Fundamentals of costume design. Exercises focus on analysis-designing from the inside out. Covers a range of visual, written, and verbal techniques of communication; script analysis, style, research techniques, and rendering skills. Readings and projects may incorporate all theatre genres. 3.0 credits. Spring semester.		
+
+CFA TH 277: Costume Rendering Lab 1
+	Prereq: Advisor Recommendation or Instructor Consent; Advanced work in figure drawing; specific rendering techniques for costume design. May be repeated for credit. 1.0 credit. Fall semester. 		
+
+CFA TH 278: Costume Rendering Lab 2
+	Prereq: CFA TH 277; Continuation of CFA TH 277. Advanced work in figure drawing; specific rendering techniques for costume design. May be repeated for credit. 1.0 credit. Fall semester.		
+
+CFA TH 279: Costume Production 1
+	Prereq: CFA TH 182, advisor recommendation, or consent of instructor. An in depth study of pattern making for the female silhouette. Draping and flat patterning techniques are augmented with historical research in pattern development. The student develops a thorough understanding of the form and function of each element of the female costume. 3.0 credits. Fall semester. 		
+

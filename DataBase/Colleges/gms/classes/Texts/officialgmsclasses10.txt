@@ -1,0 +1,60 @@
+GMS GE 901: Research in Genetics and Genomics
+	Var cr, Fall &amp; Spring sem.		
+
+GMS IM 600: Bioimaging Foundations
+		The physical, mathematical, and experimental foundations of bioimaging are studied with historical context and are presented in the following sequence: bioimaging, principles, bioimaging mathematics, and bioimaging physics, leading to the study of the different bioimage generation techniques (modalities). 4 cr		
+
+GMS IM 610: Magnetic Resonance: Principles, Methods, and Applications in Biomedical Research
+		This course will provide an overview of the underlying principles of nuclear magnetic resonance (NMR) and the various methodologies used in magnetic resonance imaging (MRI) and magnetic resonance spectroscopy (MRS) with emphasis on methods applied in biomedical research. The course will emphasize the connection between the basic manipulation of the spin system via the sequence of RF and gradient pulses (the pulse sequence) and the information that can be retrieved from the observed object, be it a solution of an isolated protein of the human brain. 4 cr		
+
+GMS IM 620: Bioimaging Theory &amp; Imaging Processing
+		The main theoretical aspects of bioimaging are studied, including image meaning, image generation, image quality (analysis, improvement, and limits), image information content (generation and extraction), and image assisted modeling of biologic systems. Mathematical foundations and basic techniques for digital image processing are studied theoretically as well as in a hands-on approach in the Image Processing Laboratory. Studied topics include linear and matrix algebra, calculus, image processing techniques for image enhancement, image manipulation for structural analysis (segmentation, quantification and measurement), and for three-dimensional visualization and exploration. 4 cr		
+
+GMS IM 630: Methods of Functional Imaging of the Brain
+		This course will provide an overview of the various existing methods for detecting and mapping brain function in vivo. A brief introduction will provide the necessary background to brain physiology: electrical activity, synaptic transmission, cell metabolism and haemodynamic response associated with neuronal activity. 2 cr		
+
+GMS IM 650: Bioimaging Practicum
+		Students participate directly in day-to-day imaging activities including clinical (radiology daily noon conferences) as well as research activities (hands-on imaging experiments with phantoms and animals). 4 cr		
+
+GMS IM 651: Statistical Analysis of Neuroimaging Data
+		This course is designed to give the student a working knowledge of the parametric and non-parametric statistical procedures that are commonly used to analyze data generated from in vivo imaging techniques such as CT, MRI, PET and SPECT. 2 cr		
+
+GMS IM 655: Directed Studies in Bioimaging
+	Var cr		
+
+GMS IM 660: Radiation Protection &amp; Ethics
+		Many of the established and state-of-the-art modalities in diagnostic imaging rely upon radiation as the imaging agent. However, radiation in itself is considered a hazard that must be controlled. This course will introduce the fundamentals of understanding radiation, the risks of radiation exposure, and the methods of minimizing its harmful potential while maximizing its beneficial qualities. 2 cr		
+
+GMS IM 670: Special Topics in Bioimaging
+		Imaging has come to increasingly serve as a substrate and necessary ingredient for progressively more complex diagnoses and therapy. The increasing significance of the imaging components has been classically appreciated in fields such as radiation therapy, where planning of treatment based on images is integral to the therapy itself, and has spread beyond the boundaries of such disciplines to numerous surgical fields such as neurosurgery, orthopedics, and ear, nose, and throat surgery. 2 cr, on demand. 		
+
+GMS IM 680: Professional Development
+		This is a preparatory course for students making the transition from a formal academic program into the dynamic work place. It will cover those fundamental skills required to facilitate searching, locating, and qualifying for the job of one's choice. It will cover topics such as building a portfolio, networking, resume writing, and interviewing skills. Speakers in the various fields of imaging will be invited to discuss how he or she made the transition into the workplace and students will have the opportunity to discuss and discover the various pitfalls on the paths of entry into the field of his or her choice. 2 cr		
+
+GMS IM 700: Thesis Research I
+		First phase of a four-semester directed research project, the MBI project in the field, select a faculty member in the greater Boston area who will agree to serve as an thesis advisor, identify a line if research and define the specific objectives of a project to be conducted in the following three semesters. 2 cr		
+
+GMS IM 701: Sectional Anatomy for Imaging Professionals
+		Imaging techniques such as computerized tomography (CT) and magnetic resonance imaging (MRI) have seen rapid rates of growth in the past years.  It is vital that professionals working with these imaging tools have a strong working knowledge of gross anatomy to understand the images they are looking at.  This course is designed to give students in the Masters in Bioimaging program the fundamental knowledge they will need of gross anatomy.  The course is taught from medical images such as CT and MRI rather than more traditional methods since this is the source of information the MBI students are expected to encounter in their future.  2 cr, Fall &amp; Spring sem.		
+
+GMS IM 705: Clinical and MR Pathophysiology
+	This course familiarizes the student with common pathologies found in magnetic resonance imaging and the appearance of these pathologies in various imaging protocols and the imaging appearance of a variety of pathological aberrations affecting patients.  The knowledge of disease processes and their signal characteristics on various imaging sequences is essential to ensure the best practices in patient care and quality imaging.  This course will include a high level review of clinical imaging in various disease states. Lectures are geared toward a practical, problem-solving approach to conditions and a systematic approach to interpretation of diagnostic imaging studies will be utilized. 4 cr		
+
+GMS IM 730: Thesis Research III
+		Third phase of a four-semester thesis project in the field of bioimaging during which students finish data analysis and primarily concentrate on writing a comprehensive technical report describing in detail their work in Phases I and II. 2 cr		
+
+GMS IM 791: Clinical Internship I
+	This course is the first of two structured clinical internship courses designed to provide students with clinical practice and patient management training.  Student progression in competency levels through clinical performance objectives are accomplished through demonstration and observation, after which the student assists in performing specified clinical activities.  When a satisfactory degree of proficiency is apparent, the student performs specific activities under supervision to achieve clinical competency specified under Article II of the American Registry Radiological Technologists (ARRT) Rules and Regulations. 4 cr		
+
+GMS MA 605: Pluralism and Healing in the United States: A History
+	This course explores the history of therapeutic pluralism in the United States, beginning with the colonial period and continuing to the present. We will examine how this therapeutic pluralism necessarily includes the story of American religious pluralism, the rise of biomedicine, and the changing faces of complementary and alternative medicine (CAM), while factoring in the roles of class, race, and gender. We will work with primary source materials, as well as sources from history of medicine, and medical anthropology. 4 cr, Spring sem. 		
+
+GMS MA 610: Reading Ethnography in Medical Anthropology
+	This seminar will read medical anthropological ethnographies analytically. Starting with a review of the debates, going through selected classic ethnographic studies, the seminar will explore ethnographies that address different cultural meanings of human experiences of suffering and affliction, including illness and violence. Students will engage in studying the methodology, theoretical underpinnings, writing, and social positions represented in these ethnographies. 3 cr, Fall sem. 		
+
+GMS MA 620: World Religions and Healing
+	An introduction to approaches to healing integral to Hindu, Buddhist, Jewish, Christian, Muslim, African, African-descended, Latin American, Chinese, Native American traditions, and to some of the outcomes of their interactions, in relation to the experience of affliction and suffering. Draws on source materials from history, religious studies, and medical anthropology. 4 cr, Fall sem. 		
+
+GMS MA 622: Religion, Culture and Public Health
+	This medical anthropology course will explore relationships between religion, culture, and health in the context of public health projects. We will examine historical developments, examples of faith-based public health organizations, and current research on "religious health assets," both locally and internationally. 3 cr, Spring sem.		
+

@@ -1,0 +1,60 @@
+GMS OH 731: Physiology B/Dental
+		This course is a continuation of GMS OH 730. Students will be given the same grade for each course upon completion of both courses. 2 cr, Spring sem. 		
+
+GMS OH 740: Microbiology and Immunology/Dental
+		The overall goals of this course are to provide students with: (1) a basic background in microbiology, including the nomenclature, structure, physiology, genetics, mechanisms of pathogenesis, and clinical manifestations associated with the major pathogenic microorganisms (bacteria, fungi and viruses); (2) an understanding of how the basic principles of microbiology are integral to effective diagnosis, treatment and prevention of infectious disease, and (3) a basic background in immunology including the functions and disorders of the immune system. 4 cr, Spring sem. 		
+
+GMS OH 750: Prevention and Health Promotion in Dentistry
+		This course introduces the concepts and techniques of dental public health, disease prevention and health promotion in dentistry and health. Emphasizes caries, periodontal diseases, and oral cancer prevention in the individual and community. 3 cr, Spring sem. 		
+
+GMS OH 751: Biochemistry/Dental
+		This course is designed to acquaint the student with the basic principles of modern biochemistry. The topics to be covered include an introduction to biochemistry and its importance to understanding oral health as well as proteins, enzymes, DNA, RNA and protein synthesis, sugar and lipid metabolism, hormones and second messengers and connective tissue biochemistry. In addition to the traditional lecture format, students participate in case-based presentations designed to integrate clinical cases with the material presented in class. 6 cr, Fall sem.		
+
+GMS OH 770: Evidence Based Dentistry
+		This course consists of lectures and online modules as well as student presentations and discussion sessions. Topics will range from basic study design, research methodology and statistical analysis to dental ethics and critiques of evidence based research articles.  The focus will be on evidence based dentistry and both reasoning and critical thinking skills will be challenged. 2 cr, Fall sem.		
+
+GMS PA 510: Medical Immunology
+		Basic principles of immunology, with emphasis on their medical relevance, presented through interactive lectures and small group discussion sessions. Course co-taught with that offered to the first-year medical students. 2 cr, Spring sem.		
+
+GMS PA 600: Introduction to Pathology and Pathophysiology of Disease
+		Lectures and interactive auto-tutorial case studies presenting the basic morphologic and functional changes associated with cell injury and death, inflammation, response to microorganisms, atherosclerosis, cancer, and organ system pathology. Christensen, 4 cr, Spring sem.		
+
+GMS PA 700: Basic and Experimental Pathology
+		Basic principles of pathology are presented through lectures (students attend the GMS PA 600 lectures), and computer-assisted instruction. Related research articles and basic histology are discussed in small group session that complement the lectures. 4 cr, Spring sem.		
+
+GMS PA 710: Principles of Basic and Applied Pathology
+	Pathology is the study of disease causes and consequences.  Want more in-depth information about pathology and other faculty research interests?  Invited GMS faculty present their current research projects in class to give you an overview of the breadth and depth of research opportunities on campus.   Students also attend weekly Pathology Department seminars and learn how to write summaries.  Did you know the most important parts of a grant application are summaries?  This course will prepare you for lab rotations and help guide your decisions regarding thesis research directions. Remick &amp; Stearns-Kurosawa, 2 cr, Fall sem.		
+
+GMS PA 800: Pathology Seminar
+		Weekly research seminar presented by faculty, students, and guests. Prior to each seminar, research papers authored by the speaker will be sent to graduate students and faculty to provide additional background material. Slack, 2 cr, Fall &amp; Spring sem.		
+
+GMS PA 801: Special Topics in Pathology
+		Detailed examination of one specific area of research each term, presented in readings, discussions, and lectures. Presents significant background information, current knowledge, research approaches, and laboratory methodology in each area. Special Topics Include: pathology driven by inflammation, protein modification and molecular basis of human diseases, and mechanisms of transmembrane signaling. Varying Pathology Faculty, Course Directors. 2 cr, Fall &amp; Spring sem.		
+
+GMS PA 810: Seminars in Business of Science
+		The objective of this course is to introduce students to the business realities of modern biomedical science which is patent-driven and product-oriented.  Lectures from invited speakers from the biomedical, legal, regulatory and business worlds will provide basic terminology and perspective to give an overview for how an idea in the laboratory is translated into a marketable commodity.  Topics will include explanation and discussion of intellectual property, medical clinical trials, federal and institutional regulatory mechanisms, logistics of creating and sustaining research collaborations, writing a business plan, patent fundamentals and similar. Keystone speakers who have bridged the science and business experiences will present their stories of inspiration, travails and success. 2 cr., Pass/Fail, Fall sem.		
+
+GMS PA 900: Laboratory Rotations in Pathology
+	Var cr		
+
+GMS PA 901: Research in Pathology
+	Var cr		
+
+GMS PA 910: Human Biospecimens for Research
+	The objective of this course is to introduce students to the creation, maintenance and efficient use of an indispensable component of translational research in medicine -- human tissue and its derivatives. Lectures from invited speakers with extensive experience in human bio-specimens generation, maintenance, and utilization, will provide students with knowledge how to successfully obtain and utilize human bio-specimens. Topics will include logistics and legal aspects of creating and sustaining bio-banks, federal and institutional regulatory and funding mechanisms, and concrete examples of human bio-specimens use to generate break-through data in specific field of biomedical research. Special attention will be given to human biospecimens used in neuroscience as four neuropathologists/neuroscientists from Harvard, Yale, Columbia and Boston University are enlisted as speakers to give comprehensive overview of biospecimens utilized in neurodegenerative diseases and brain tumors. 2 cr. Spring sem.		
+
+GMS PH 730: Human Physiology A
+		Cellular and organ physiology. Lectures and discussions examine the function of nerves, muscles, blood and the cardiovascular and digestive systems. Emphasis is placed on the regulation of organ function and on integrative aspects of human physiology. 4 cr, Fall sem. 		
+
+GMS PH 731: Human Physiology B
+		Lectures, laboratories and discussions examine function and regulation of the respiratory , renal, and endocrine systems with emphasis on integrative aspects. 4 cr, Spring sem. 		
+
+GMS PH 740: Medical Physiology
+	(MED MS 134) This course covers transport mechanisms, molecular biology and mechanics of muscle, blood, and the function and regulation of the cardiovascular, gastrointestinal, respiratory and renal systems, with emphasis on integrative aspects. We use a lecture format, a few laboratory sessions and numerous small group discussions of problems and clinical cases that encourage conceptual understanding of course material. 6 cr, Spring sem. 		
+
+GMS PH 745: Special Topics in Physiology
+		Current and classical papers in a given area of physiology are assigned for reading and later discussion with students. Topics include mechanics of muscle, cell motility, membrane transport, sensory physiology, and instrumentation in physiological research. Var cr, Fall &amp; Spring sem. 		
+
+GMS PH 748: Endocrinology
+		(MED MS 128) This is an integrated treatment of human endocrinology: biosynthesis of hormones, regulation, receptor interactions, and physiological effects. The course is presented in lecture format and in small group discussion sessions where clinical cases are used to exemplify the mechanisms of endocrine function. 2 cr, Spring sem. 		
+

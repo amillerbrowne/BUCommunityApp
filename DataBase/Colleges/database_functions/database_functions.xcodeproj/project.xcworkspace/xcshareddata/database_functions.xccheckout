@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CE753615-6D8E-40B1-B106-62BB192A1EB9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>database_functions</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>680E4808D90D282A28F85A4D14C79FA8E86E4656</key>
+		<string>https://github.com/amillerbrowne/BUCommunityApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DataBase/Colleges/database_functions/database_functions.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>680E4808D90D282A28F85A4D14C79FA8E86E4656</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/amillerbrowne/BUCommunityApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>680E4808D90D282A28F85A4D14C79FA8E86E4656</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>680E4808D90D282A28F85A4D14C79FA8E86E4656</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BUCommunityApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

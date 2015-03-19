@@ -1,0 +1,58 @@
+MET MA 113: Elementary Statistics
+           			MA 113 may not be taken for credit by any student who has completed any MA course numbered 300 or higher. Students may receive credit for not more than one of the following courses: MET MA 113, MA 213, or CAS MA 113, MA 115, or MA 213. Basic concepts of estimation and tests of hypotheses, ideas from probability; one-, two-, and multiple-sample problems. Applications in social sciences. Primarily for students in the social sciences who require a one-semester introduction to statistics, others should consider CAS MA 115 or MA 213. 		
+
+MET MA 118: College Algebra and Trigonometry
+           			Intensive one-semester course in algebra and trigonometry. Prepares students to study calculus. Algebraic operations, word problems, linear and quadratic functions, and identities. Analytic geometry. Exponential and logarithmic functions. MET MA 118 may be taken for CAS credit but does not satisfy the CAS mathematics requirement. 		
+
+MET MA 120: Applied Mathematics for Social and Management Sciences
+	Linear equations, systems of linear equations, matrix algebra, exponential functions and logarithms, elements of differential calculus, optimization, probability. Applications in economics, finance, and management. Note: MET MA 120 may be taken for CAS credit. 		
+
+MET MA 121: Calculus for the Life and Social Sciences I
+	Students may receive credit for either MET MA 121 or MA 123 or CAS MA 121 or MA 123, but not both. Differentiation and integration of functions of one variable. Same topics as MA 123, but with less emphasis on mathematical generality and more on application. Especially suitable for students concentrating in the biological and social sciences. 		
+
+MET MA 123: Calculus I
+           			Students may receive credit for either MET MA 121 or MA 123 or CAS MA 121 or MA 123, but not both. Limits; derivatives; differentiation of algebraic functions. Applications to maxima, minima, and convexity of functions. The definite integral; the fundamental theorem of integral calculus; applications of integration. 		
+
+MET MA 124: Calculus II
+           			Students may receive credit for not more than one of the following courses: MA 122, MA 124, MA 127, or MA 129. Logarithmic, exponential, and trigonometric functions. Sequences and series; Taylor's series with the remainder. Methods of integration. Calculus I and II together constitute an introduction to calculus of a function of a single real variable.		
+
+MET MA 213: Basic Statistics and Probability
+           			Elementary treatment of probability densities, means, variances, correlation, independence, the binomial distribution, and the central limit theorem. Stresses understanding and theoretical manipulation of statistical concepts. Note: Credit will be given for only one of the following courses: MET MA 113 or MA 213. 		
+
+MET MA 214: Applied Statistics
+           			Inference about proportions, goodness of fit, student's t-distribution, and tests for normality. Two-sample comparisons, regression and correlation, tests for linearity and outliers, residual analysis, contingency tables, and analysis of variance. 		
+
+MET MA 225: Multivariate Calculus
+           			Vectors, lines, and planes. Multiple integration and cylindrical and spherical coordinates. Partial derivatives, directional derivatives, scalar and vector fields, the gradient, potentials, multivariate Taylor series, approximation, and multivariate minimization. 		
+
+MET MA 581: Probability
+		Basic probability, conditional probability, independence. Discrete and continuous random variables, mean and variance, functions of random variables, moment generating function. Jointly distributed random variables, conditional distributions, independent random variables. Methods of transformations, law of large numbers, central limit theorem. 		
+
+MET MA 582: Mathematical Statistics
+		Interval estimation. Point estimation including sufficiency, Rao-Blackwell theorem, completeness, uniqueness, Rao-Cramer inequality, and maximum likelihood estimation. Tests of hypothesis: uniformly most powerful tests, uniformly most powerful unbiased tests, likelihood ratio test, chi-squared test, comparison of means and variances, ANOVA, regression, and some nonparametric tests. 		
+
+MET MA 603: SAS with Statistical Applications
+           			Offers a unified and in-depth coverage of the statistical computer package SAS, and its statistical applications. Topics include the language of SAS, data formatting, creating and storing SAS data sets, file manipulations, macro procedure, and graphics. Also included are procedures for statistical techniques selected from analysis of variance, regression, factor analysis, scoring, and categorical data analysis. Several large data sets will be used as case studies emphasizing hands-on experience with SAS for Windows. Laboratory course. 		
+
+MET MG 101: Accounting I
+	Basic principles of financial accounting underlying transaction analysis and the preparation of financial statements.		
+
+MET MG 102: Accounting II
+           			Financial accounting in more specialized areas, such as partnerships, corporations, and the statement of cash flows. Managerial accounting topics, including capital budgeting and manufacturing cost systems for planning and control.		
+
+MET MG 202: Personal Financial Planning
+	The development of personal investment strategies using money and credit. Securities and portfolio management, budgeting, insurance, taxes, retirement programs, and estate planning.		
+
+MET MG 205: Information Technologies: Hardware and Software
+	This introductory course provides an introduction to PC, hardware, and software issues. Various types of software-applications and systems-are introduced. Microsoft Excel, Microsoft Word, and Microsoft Access are covered along with DOS and Windows operating systems. Detailed discussions of the latest PC hardware-motherboards, CPUs, memory boards, sound and video cards, CD-ROM drives, DVD drives, Video Capture boards, Zip drives, PCMCIA cards, USB and Firewire ports, and scores of other peripherals and multimedia devices. Instructions on how to use the Internet to upgrade PCs and peripherals. Students will also be able to upgrade/protect notebook computers and laser printers. (If students do not already own a PC, they are required to buy a PC.) Almost all students will buy components for upgrading a PC.		
+
+MET MG 301: Introduction to Management
+	A look at the management of an enterprise from the perspective of the chief executive officer. Covers the functions of organizing for successful management. Survey of theories and techniques. Examination of case studies.		
+
+MET MG 302: Introduction to American Management for International Students
+MET MG 304: Principles of Finance
+           			Introduction to tools of financial analysis and the problems of financial management including cash, profitability, and capital budgeting. Various sources of corporate funds are considered--short-, intermediate-, and long-term arrangements. MA 120, MA 213, EC 101, and EC 102 are strongly recommended before taking this course. 		
+
+MET MG 305: Principles of Marketing
+	The organization and operation of marketing functions within individual firms. A look at methods of product determination, channels of distribution, and advertising and sales promotion. Administration of total marketing program. Readings, class discussions, lectures, and case analyses.		
+

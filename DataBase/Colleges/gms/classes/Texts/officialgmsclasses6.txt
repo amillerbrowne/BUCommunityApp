@@ -1,0 +1,60 @@
+GMS CI 631: The Management of Clinical Research
+		This course is an integrative learning experience, combining a comprehensive review of the good clinical practice core principles with an explanation and analysis of selected portions of the Code of Federal Regulations (CFR), applicable to clinical research during the new drug development process.  The case study approach is used in this course since the drug development industry translates these regulations into both written and unwritten standards, practices, and guidelines.  Each session will use activities to expand the interpretation of the regulations, into an operational and organizational focus, further integrating real-life issues into the classroom.  In order to ensure that classroom learning is linked with the students' work experiences, there will be an outside project required which will incorporate the course work with the simulated on-the-job situations, and a final presentation to share the learning with the entire class. 4 cr, Spring sem.		
+
+GMS CI 640: Regulatory and Compliance Issues
+		This course explains the regulatory requirements for health-care products, that is, drugs, biologics, and devices.  It is intended for those interested in regulatory affairs or the clinical evaluation, development, manufacture, testing and/or commercialization of these products.  Provides an in-depth review of pertinent FDA regulations and guidance and links these to the scientific and logistical activities involved in taking a medical product from research to market.  Content and preparation of regulatory submissions, including an Investigational New Drug Application (IND), an Investigational Device Exemption (IDE), a New Drug Application (NDA), a Biologic License Application (BLA), a Pre-Market Approval Application (PMA), and a 510K Pre-Market Notification are described. 4 cr, Fall sem.		
+
+GMS CI 660: Good Clinical Practices in Clinical Research
+		This course introduces students to the regulatory responsibilities of sponsors, monitors, and investigators conducting clinical trials.  Practical information and exercises are designed to demonstrate GCP compliance from an industry perspective as well as from an academic perspective.  Topics Include: Human protection in clinical trials, institutional review boards, selecting and qualifying investigators, consenting subjects, initiating, monitoring and closing out sites successfully and safety monitoring in clinical trials.  Group discussions and exercises help students learn practical skills. 4 cr, Summer II sem.		
+
+GMS CI 670: Biostatistics with Computing
+		This course is designed for students with no prior experience with statistics who want to utilize computer software in performing statistical analysis.  Topics include the collection, classification, and presentation of descriptive data; the rationale of hypothesis testing; t-tests and chi-square tests; correlation and regression analysis; sample size calculations, and analysis of contingency tables.  Computer Laboratory course. 4 cr, Fall sem.		
+
+GMS CI 671: Intermediate Statistical Analysis and Computing for Clinical Research
+	This course covers analytic and computational methods for modeling and regression analysis in the biomedical sciences.  Emphasis is on fitting exploratory and inferential models to data in epidemiology and clinical trials.  Topics include tabular and graphical summary; the linear, logistic and Poisson regression models; the Kaplan-Meier method and Cox proportional hazards analysis; power calculation; estimation of effect size.  Analyses are presented and completed using R and SAS software packages.  Lecture and laboratory exercises are structured around worked examples from the recent biomedical literature.  Acquired competency in statistical programming is a major focus of this course. 3 cr, Spring sem.		
+
+GMS CI 675: Designing Clinical Research Studies
+		This course covers important scientific and epidemiologic principles necessary for designing clinical research studies.  Topics include bias, confounding, developing the research question, defining an appropriate study population, choosing outcome measures, clinical research ethics and regulation, sample size determination, and statistical analysis issues.  Students will design and present a clinical research study during the course. 4 cr, Fall sem.		
+
+GMS CI 680: Legal and Ethical Issues in Clinical Research
+	This course examines evolving ethical and legal issues in the biosciences.  Students will study the legal and ethical issues pertaining to work with human subjects both existing and historical.  They will go through the historical background that set the standard for today's existing regulations and how those regulations are still in flux.  Each student will do a presentation on a topic that relates to his or her own interest or existing research.  Legal cases that have come from clinical research will also be covered.  The course will  involve class discussions, student presentations, case analyses and in-class lectures. 2 cr, Spring sem.		
+
+GMS CI 691: Directed Studies in Clinical Investigation
+	Directed study provides the opportunity for students to explore a special topic of interest identified by the student under the direction of a MACI faculty member.  Students may register after the MACI faculty member has agreed to work with the student on a specific project.  2-4cr, all sem.		
+
+GMS CI 692: Directed Studies in Clinical Investigation
+	Directed study provides the opportunity for students to explore a special topic of interest identified by the student under the direction of a MACI faculty member.  Students may register after the MACI faculty member has agreed to work with the student on a specific project. 2-4cr, all sem.		
+
+GMS CI 790: Seminar in Clinical Investigation
+		The goal of this course will be to provide students experience in the reading and evaluation of recent basic science literature that may be pertinent to the origination and design of clinical research.  The course will be a seminar format.  It will consist of the evaluation of assigned readings of recent literature which may be relevant to the treatment of human diseases and which might be expected to lead to further animal experiments and to culminate in human trials.  This format will provide an opportunity to learn to critically evaluate basic science literature and to develop oral presentation skills essential to function as a manager of clinical trials. 2 cr, Spring sem.		
+
+GMS CI 791: Clinical Investigation Practicum
+	The goal of the practicum experience is to provide the student hands-on exposure to clinical research.  The student will work with a research mentor and will be actively involved in the development, execution, and evaluation of a clinical research project or project(s).  During the practicum, it is expected that the student will be exposed to: clinical research planning, protocol preparation, interaction with Institutional Review Boards, regulatory requirements, selection of subjects/consent process, data collection, study monitoring, and data analysis.  These various activities will most likely require involvement in more than one research project. 2 cr, Fall sem.		
+
+GMS CI 792: Clinical Investigation Practicum
+	The goal of the practicum experience is to provide the student hands-on exposure to clinical research.  The student will work with a research mentor and will be actively involved in the development, execution, and evaluation of a clinical research project or project(s).  During the practicum, it is expected that the student will be exposed to: clinical research planning, protocol preparation, interaction with Institutional Review Boards, regulatory requirements, selection of subjects/consent process, data collection, study monitoring, and data analysis.  These various activities will most likely require involvement in more than one research project. 2 cr, Spring sem.		
+
+GMS CI 793: Professionalism &amp; Thesis Development
+	The objective of this elective course is to (1) provide CI students with knowledge of and experience in professional standards, and (2) guidance in developing a thesis proposal and writing a masters level thesis. Topics will include professionalism &amp; professional standards including professional communication,formal and scientific writing skills, guidance in developing a research topic, and writing a thesis proposal and thesis.  The primary aim of this course is to help students adjust from an informal writing style to that required for scientific communication, presentations and theses. 2 cr, Summer I		
+
+GMS CI 801: Thesis Research
+	2 cr, Fall.		
+
+GMS CI 802: Thesis Research
+	2 cr, Spring.		
+
+GMS FA 700: Professional Skills and Thesis Research Development for Forensic Anthropology
+	This course is designed to provide students with knowledge and experience in professional skills, including writing skills, professional communication, requesting letter of recommendation, applying to PhD programs, interview skills, and reading and interpreting journal articles.  In addition, considerable class time will be spent on developing a research topic and hypothesis, preparing a thesis proposal and in introduction to data collection, statistical analysis and the use of several instruments and tools commonly used by forensic anthropologists. 3 cr, Fall sem.		
+
+GMS FA 703: Zooarchaeology and Comparative Vertebrate Osteology
+		This course will provide students with an advanced basis for vertebrate zooarchaeological analysis including terminology, data gathering, data analysis, and practical identification skills for both whole and fragmentary vertebrate remains.  These skills will be of direct use in archaeology, paleontology, and forensic anthropology. 4 cr, Fall &amp; Spring sem.		
+
+GMS FA 704: Bioarchaeology
+		This course examines how bioarchaeologists utilize skeletal data to reconstruct patterns of human behavior from diverse geographical and temporal contexts.  This course will survey topics such as age and sex estimation, paleodemography, pathology, and trauma, levels of physical activity and evidence for habitual behavior, paleodietary analyses, identity, and ethics.  The goal of this seminar is to ask what bioarchaeology is, understand how t has developed historically, and recognize how it contributes to our understanding of the past. 2 cr, Spring sem.   		
+
+GMS FA 705: Forensic Anthropology Techniques
+		This course will provide students with a detailed history of forensic anthropology, including pioneers in the field, bone growth and development, and an extensive knowledge of protocols, methods, and procedures used by forensic anthropologists, to include distinguishing osseous from non-osseous material, distinguishing human from non-human remains, and estimating the biological profile.  Students will be provided hands on experience in casework and will prepare several forensic anthropology case. 3 cr, Fall sem.  		
+
+GMS FA 711: Forensic Pathology
+	This lecture based course will provide the student with an overview of the role of the medical examiner as it relates to death investigations.  Specific lectures will cover autopsy procedures in the investigation of gunshot wounds, sharp and blunt trauma, drowning, asphyxia, child deaths, motor vehicle accidents and time since death determination.  A general knowledge of anatomy is strongly suggested.  3 cr		
+

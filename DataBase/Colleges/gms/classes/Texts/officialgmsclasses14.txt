@@ -1,0 +1,60 @@
+GMS MS 506: Clinical Laboratory Genetics I
+		Advanced course designed for those considering a clinical or research career in human genetics. Emphasis is on clinical cytogenetics (chromosome testing). Course will cover types of chromosome abnormalities, methodology, nomenclature and clinical significance in pregnancy, birth defects, and cancer. Laboratory work will include basic blood culture, chromosome preparation, banding, identification and karyotyping. Provides updated review of latest cytogenetic methodology and applications, such as FISH, comparative genomic hybridization (CGH) and array CGH. 4 cr, SS II.		
+
+GMS MS 571: Directed Studies in Medical Sciences
+	Var cr, Fall sem.		
+
+GMS MS 572: Directed Studies in Medical Sciences
+	Var cr, Spring sem.		
+
+GMS MS 585: Infectious Diseases: Agents, Epidemiology, and Clinical Manifestations
+		Infectious Diseases course explores principles of infection, host factors, epidemiology, treatment, prevention, and clinical approach to infection of different organs and systems as well as basic description of medically important infectious agents, i.e. bacteria, viruses, fungi and parasites. Upon successful completion of this course students will understand principles of infection, its epidemiology, treatment and prevention, and will have knowledge of major pathogens, including all the significant etiologic agents of newly emerging infections. 4 cr, Spring sem.		
+
+GMS MS 620: Technology Commercialization
+	The subject of this course is the innovative transformation of knowledge into commercial products and services. Cross-disciplinary teams of students will assess real technologies for their commercial potential in terms of licensing and/or for venture development. Offered in alternate years (not offered in 2012). 4 cr, Fall sem. 		
+
+GMS MS 621: Bench-to-Bedside: Translating Biomedical Innovation from the Laboratory to the Marketplace
+	This course covers intellectual property, licensing, and the core aspects of planning, creating, funding, and building new entrepreneurial ventures. Cross-disciplinary teams are formed to evaluate current BU translational research projects and their potential as the basis for a start-up company. 4 cr, Fall sem. 		
+
+GMS MS 640: Introduction to Biomedical Information
+	(Required course for M.A. in Medical Sciences students). This course teaches how to find, use, and contribute to biomedical literature while supporting the graduate thesis through lectures and hands-on instruction. Topics include the retrieval, evaluation and management of information, Evidence Based Medicine, and the ethical use of research. 2 cr, Spring sem. 		
+
+GMS MS 642: Current Issues in Assisted Reproduction and Infertility
+	A steady rise in infertility has forced medical science to develop Assisted Reproductive techniques. Discussion of cases, media involvement and medical intervention will be part of this course. A comparison of regulations in the US and UK as well as other countries is emphasized. It will look closely at the legal and ethical questions raised by assisted reproduction and infertility as well as look toward the future. Class discussions, student presentations, case analysis and in-class lectures will be supplemented with online activities as well as the composition of a legal brief. Open to all students registered in GMS programs, including health law students. 2 cr, Spring sem. 		
+
+GMS MS 700: Elementary Biostatistics for the Biomedical Sciences
+	Topics include collection, classification, and presentation of descriptive data; the rationale of hypothesis testing; experimental design; t-tests; simple correlation analysis; and analysis of contingency tables. Special attention is directed to the ability to recognize and interpret statistical procedures in articles from current literature. 2 cr, Fall &amp; Spring sem. 		
+
+GMS MS 703: Medical Neurosciences
+		This course will cover, in an integrated fashion, basic information from all of the disciplines needed to gain a comprehensive understanding of the structure and function of the human central nervous system. This course encompasses a wide variety of Neuroscience disciplines, including Neuroanatomy, Neurophysiology, Neurochemistry, Neuropsychology and Clinical Neurology. This reflects the fact that the study of the brain is an extraordinarily broad field, encompassing many issues and disciplines.  The course is comprised of approximately 54 lectures, 7 laboratory sessions and 5 electrophysiology discussion sections. 4 cr, this is a full-time course that runs from the first week in December to the third week in January.  		
+
+GMS MS 710: Transdisciplinary Training Program in Addiction Science
+	This introductory course will cover the broad field of addiction with a focus on drug dependence.  In one segment of the course, students will learn about the spectrum of drug dependence disorders and modalities for diagnosis and treatment.  Another segment will present a wide variety of approaches for studying addiction using the tools of epidemiology, genetics, pharmacology, neurobehavior, and animal models.  Emphasis will be placed on transdisciplinary approaches which are essential for understanding and combating addition disorders.  In addition, students will be exposed to the impact of addiction on the family and society, and public policy issues addressing the prevention of addiction. 2 cr, Fall sem.    		
+
+GMS MS 783: Molecular Basis of Neurologic Diseases
+	Molecular mechanisms of stroke, multiple sclerosis, Huntington's disease, Alzheimer's disease, amyotropic lateral sclerosis, muscular dystrophy, and neoplasia are considered. Fundamentals and current research in molecular biology are reviewed. Current publication seminar discussions are held with student participation. Distinguished guest speakers give keynote lectures monthly. 2 cr, Fall sem. 		
+
+GMS MS 791: Essential Readings in Translational Research
+	The goal of this course is to provide students with tools, skills and experience in critically reading and evaluating current advances in basic and clinical sciences published in the literature which are pertinent to understanding the basis of disease mechanisms and treatment. Acquisition of knowledge and skills in critical analysis, statistical inference and experimental design will provide students with the ability to read the medical and scientific literature and to examine it critically to achieve life-long learning. The course format will be based on presentation of chosen topics. It will consist of evaluation of assigned readings of recently published articles in basic and clinical sciences which are relevant to diseases. This format will provide students an opportunity to learn how to critically read and evaluate basic and clinical  literature and to present their critical analysis for discussion by peers. This is an important skill needed for their future endeavors in medical research and clinical settings. 3 cr, Spring sem. 		
+
+GMS MS 793: Fundamentals of Medical Biotechnology
+		The course will provide students with an historical perspective of the fast emerging medical biotechnology field and the innovative processes that ensure the success of such endeavors. The course will cover a host of topics that will provide students with a springboard to develop their creative thinking and explore a new vision of medical biotechnology. 2 cr, Spring sem. 		
+
+GMS MS 971: Rel MED Sci
+	Var cr		
+
+GMS MS 972: Rel MED Sci
+	Var cr		
+
+GMS MS 981: Certified Full Time-With Courses
+	0 cr, Fall sem.		
+
+GMS MS 982: Certified Full Time-With Courses
+	0 cr, Spring sem.		
+
+GMS MS 983: Continuing Study-Part Time
+	0 cr, Fall sem.		
+
+GMS MS 984: Continuing Study-Part Time
+	0 cr, Spring sem.		
+
