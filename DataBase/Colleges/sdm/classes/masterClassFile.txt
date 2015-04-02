@@ -74,7 +74,7 @@ SDM EN 993: Research: Endodontics
 	Research in endodontics and related fields designed as a partial requirement for the MSD or DScD in endodontics. 1st-4th sem.		
 
 SDM GD 510: Comprehensive Preclinical Dentistry
-	This comprehensive course integrates content previously taught separately in three courses: Introduction to Dental Practice, Operative Dentistry I &amp; Preclinical Operative Dentistry I. This course is designed to introduce students to basic concepts and skills necessary to the successful practice of dentistry. Concepts include didactic instruction in the following areas: infection control, bacterial plaque formation, etiology and prevention of both dental caries and periodontal disease, and patient education for both individual and group instruction. Clinical instruction is provided in the Predoctoral Treatment Center and Simulation Learning Center and is focused on providing instruction in infection control, patient evaluation, basic instrumentation skills, coronal polishing and sealant placement. Through a Service Learning component, students are also engaged in community service activities at schools in the Boston area that are affiliated with GSDM. This course also presents a comprehensive introduction to direct restorations. The course includes discussion of dental caries, isolation techniques, general tooth preparation principles, simple amalgam restorations, anterior composite resin restorations and adhesive systems.		
+	This comprehensive course integrates content previously taught separately in three courses: Introduction to Dental Practice, Operative Dentistry I & Preclinical Operative Dentistry I. This course is designed to introduce students to basic concepts and skills necessary to the successful practice of dentistry. Concepts include didactic instruction in the following areas: infection control, bacterial plaque formation, etiology and prevention of both dental caries and periodontal disease, and patient education for both individual and group instruction. Clinical instruction is provided in the Predoctoral Treatment Center and Simulation Learning Center and is focused on providing instruction in infection control, patient evaluation, basic instrumentation skills, coronal polishing and sealant placement. Through a Service Learning component, students are also engaged in community service activities at schools in the Boston area that are affiliated with GSDM. This course also presents a comprehensive introduction to direct restorations. The course includes discussion of dental caries, isolation techniques, general tooth preparation principles, simple amalgam restorations, anterior composite resin restorations and adhesive systems.		
 
 SDM GD 630: Comprehensive Clinical Dentistry
 	This course is the major clinical experience in the DMDIII year. Students provide clinical care for patients in a closely supervised and largely ungraded and environment. Students apply the information learned in the curriculum up to this point and begin comprehensive care of assigned patients. The course includes the clinical application of preclinical information, continuous updating and expansion of clinical knowledge, and the correlation and synthesis of these so that students are able to logically and systematically diagnose, treatment plan and treat a patient, and then evaluate the outcomes of that care.		
@@ -121,7 +121,7 @@ SDM OB 761: Oral Microbiology
 SDM OB 763: Basic Processes in Oral Biology
 	Examines biological processes at the cellular and molecular levels. Provides a basis to understand the events that regulate inflammation; wound healing; bone formation and resorption; salivary proteins and their relevance to mineral homeostasis.; Oral immunology as it pertains to constructive and destructive oral tissues. 1st and 2nd sem.		
 
-SDM OB 766: Oral Immunology &amp; Microbiology
+SDM OB 766: Oral Immunology & Microbiology
 	Immunology section:  The purpose of this course is to present material relative to the subject of oral immunobiology.  The course will deal with the basics of the immune reaction from a subcellular level to an entire host reaction as they pertain to the etiology and pathogenesis of the disease processes in oral cavity. This course will relate basic science findings to the clinical situations with an emphasis on treatment modalities for delivering clinical care. It is also the purpose of the course to provide an understanding of disease pathogenesis so that an informed basis of therapy can be recommended.  Microbiology section: The purpose of this course is to examine the complex microbial ecology of the mouth, with focus on the key microbes involved in dental diseases. The course will include the basic aspects of oral biofilm formation and microbial pathogenicity, with focus on the microbial diversity involved in caries, periodontal and periapical infections. There will be a short analysis of diagnostic microbial identification, as well as treatment modalities. This course will attempt to link microbial clinical problems with basic infectious disease concepts, for a well informed approach to treatment.   		
 
 SDM OB 830: Research Writing
@@ -157,7 +157,7 @@ SDM OD 522: Oral Diagnosis and Radiology II
 SDM OD 531: Oral Medicine
 	Lectures and case presentations illustrate the diagnosis and treatment of oral mucosal lesions, oral manifestations of systemic diseases and their effects on comprehensive oral health care. 		
 
-SDM OD 640: Clinical Oral Diagnosis &amp; Radiology
+SDM OD 640: Clinical Oral Diagnosis & Radiology
 	This course consists of clinical rotations in the Division of Oral Diagnosis and Radiology in the third and fourth years. Students expose and interpret radiographs for new dental patients, perform initial screening examination, and diagnose incoming patients. Working with faculty comprehensive-care team leaders, students gain the analytical and decision-making skills necessary to develop a comprehensive treatment plan and coordinate patient care. During rotations students are periodically assigned to the dental emergency clinic. Under the supervision of faculty of the respective clinical departments, students have the opportunity to gain experience in diagnosing and managing patients with acute dental emergencies. The experience includes periodic assignments in managing patients returning for follow-up appointments. Emphasis is on preventive dentistry, patient education, and appropriate triage to meet patient requirements.		
 
 SDM OP 803: Seminar: Operative Dentistry
@@ -167,19 +167,19 @@ SDM OP 807: Preclinical Technique
 	Laboratory instruction in instrumentation, development of cavity preparation, and provisional restorations. Cavities fabricated and restorative materials placed with attention to outline form, retention and resistance form, line and point angles, reestablishment of tooth morphology, occlusion contact placement, and function. 1st sem.		
 
 SDM OP 820: Treatment Planning Conferences
-	This series of monthly seminars focuses on student presentation of their clinical cases for group review and discussion with attending faculty. Semester 1 &amp; 2.		
+	This series of monthly seminars focuses on student presentation of their clinical cases for group review and discussion with attending faculty. Semester 1 & 2.		
 
 SDM OP 825: Clinical Case Conferences
-	This series of seminars focuses on developing materials and treatment concepts in the application of digital technology for dental treatment. Semester 1 &amp; 2.		
+	This series of seminars focuses on developing materials and treatment concepts in the application of digital technology for dental treatment. Semester 1 & 2.		
 
 SDM OP 830: Advanced Chairside CAD/CAM Restoration
-	This series of seminars and clinical exercises develop knowledge and skills in the application of chairside CAD/CAM restorations for anterior and implant restorations. Semester 1 &amp; 2.		
+	This series of seminars and clinical exercises develop knowledge and skills in the application of chairside CAD/CAM restorations for anterior and implant restorations. Semester 1 & 2.		
 
 SDM OP 835: Advanced Laboratory CAD/CAM Restoration
-	This series of monthly seminars and clinical exercises develop understanding and skills in applying cone beam computerized tomography (CBCT) and digital technology for the assessment, planning, and treatment with implant restorations and multiple unit fixed partial dentures. Semester 1 &amp; 2.		
+	This series of monthly seminars and clinical exercises develop understanding and skills in applying cone beam computerized tomography (CBCT) and digital technology for the assessment, planning, and treatment with implant restorations and multiple unit fixed partial dentures. Semester 1 & 2.		
 
 SDM OP 911: Clinical Digital Dentistry
-	Clinical participation in all phases of restorative dentistry with special emphasis on the use of digital technology to diagnose, treatment plan, and fabricate restorations and prosthodontic devices for the patient. Semester 1 &amp; 2.		
+	Clinical participation in all phases of restorative dentistry with special emphasis on the use of digital technology to diagnose, treatment plan, and fabricate restorations and prosthodontic devices for the patient. Semester 1 & 2.		
 
 SDM OP 912: Clinical Operative Dentistry I
 	Clinical participation in routine operative dentistry procedures. Special attention is given to diagnosis, treatment planning, and the relationship of restorative dentistry to other disciplines. 		
@@ -218,7 +218,7 @@ SDM OR 803: Clinical Growth and Development
 	This course discusses clinical aspects of craniofacial growth and development for the orthodontist. Topics include normal craniofacial growth, psychosocial development, growth modification during orthodontic treatment, and clefts and craniofacial anomalies. 2 cr, 1st and 2nd sem., 25 hours. 		
 
 SDM OR 805: Orthodontics Seminar I
-	A six-part course for first-year residents comprising the following seminars: OR 805.1 Orthodontic documentation: comprehensively document problems related to orofacial health and malocclusion.  Case write-ups are emphasized using the American Board of Orthodontics case format.  Dr. Dietz and faculty, 1 cr, 1st sem., 20 hours.  OR 805.2 Biomechanics: Theories &amp; principles of orthodontic biomechanics.  Dr. Dietz, 1 cr, 1st sem., 15 hours.  OR 805.3 Diagnosis &amp; Treatment Planning: Developing basic skills in orthodontic diagnosis &amp; treatment planning. Dr. Blau, 3 cr, 1st and 2nd sem.,  60 hours.  OR 805.4 Zen and the Way of Orthodontics: A beginning course about discovery and contemplation.  Dr. Drizen, 4 cr, 1st and 2nd sem., 80 hours.  OR 805.5 Orthognathic Surgery: Diagnosis, treatment planning, and treatment of dentofacial deformities.  Drs. Dietz and Sherwood, 2 cr, 1st and 2nd sem., 35 hours.  OR 805.6 Removable Aligner Treatment: Developing basic skills in Invisalign.  Dr. Blau, 1 cr, 1st and 2nd sem., 20 hours.		
+	A six-part course for first-year residents comprising the following seminars: OR 805.1 Orthodontic documentation: comprehensively document problems related to orofacial health and malocclusion.  Case write-ups are emphasized using the American Board of Orthodontics case format.  Dr. Dietz and faculty, 1 cr, 1st sem., 20 hours.  OR 805.2 Biomechanics: Theories & principles of orthodontic biomechanics.  Dr. Dietz, 1 cr, 1st sem., 15 hours.  OR 805.3 Diagnosis & Treatment Planning: Developing basic skills in orthodontic diagnosis & treatment planning. Dr. Blau, 3 cr, 1st and 2nd sem.,  60 hours.  OR 805.4 Zen and the Way of Orthodontics: A beginning course about discovery and contemplation.  Dr. Drizen, 4 cr, 1st and 2nd sem., 80 hours.  OR 805.5 Orthognathic Surgery: Diagnosis, treatment planning, and treatment of dentofacial deformities.  Drs. Dietz and Sherwood, 2 cr, 1st and 2nd sem., 35 hours.  OR 805.6 Removable Aligner Treatment: Developing basic skills in Invisalign.  Dr. Blau, 1 cr, 1st and 2nd sem., 20 hours.		
 
 SDM OR 811: Orthodontic Clinical Practice
 	Supervised orthodontic clinical practice in the outpatient orthodontic clinic. 15 cr, 1st through 2nd sem.		
@@ -478,20 +478,20 @@ SDM PE 670: Current Topics in Dentistry
 SDM PE 764: Current Concepts in Periodontology
 	Provides an overview of the clinical field of Periodontology. Emphasizes the recognition and diagnosis of periodontal disease states and their classifications. An overview of periodontal therapy is included emphasizing clinical procedures for the nonperiodontology specialist. 1st sem.		
 
-SDM PE 801: Histology &amp; Embryology of the Periodontium
+SDM PE 801: Histology & Embryology of the Periodontium
 	This course includes resident presentations of salient aspects of the origin of periodontal structures. Examples of the importance of oral structures with respect to clinical procedures will be provided. Treatment options will be analyzed in terms of anatomic limitations. 		
 
 SDM PE 803: Periodontology III: Selected Topics in Periodontology
-	Lecture presentations by residents followed by discussion of the relevant components of periodontal anatomy, cell &amp; molecular biology, epidemiology, diagnosis, prevention, treatment, maintenance and outcomes assessment. This course helps prepare residents for the (AAP) In-service examinations given by the American Academy of Periodontology and the American Board of Periodontology certification. For postdoctoral residents in Years 2 &amp; 3 (3rd, 4th, 5th, and 6th sem). 2 cr/yr.		
+	Lecture presentations by residents followed by discussion of the relevant components of periodontal anatomy, cell & molecular biology, epidemiology, diagnosis, prevention, treatment, maintenance and outcomes assessment. This course helps prepare residents for the (AAP) In-service examinations given by the American Academy of Periodontology and the American Board of Periodontology certification. For postdoctoral residents in Years 2 & 3 (3rd, 4th, 5th, and 6th sem). 2 cr/yr.		
 
 SDM PE 804: Periodontology III: Selected Topics in Periodontology
-	Lecture presentations by residents followed by discussion of the relevant components of periodontal anatomy, cell &amp; molecular biology, epidemiology, diagnosis, prevention, treatment, maintenance and outcomes assessment. This course helps prepare residents for the (AAP) In-service examinations given by the American Academy of Periodontology and the American Board of Periodontology certification. For postdoctoral residents in Years 2 &amp; 3 (3rd, 4th, 5th, and 6th sem). 2 cr/yr.		
+	Lecture presentations by residents followed by discussion of the relevant components of periodontal anatomy, cell & molecular biology, epidemiology, diagnosis, prevention, treatment, maintenance and outcomes assessment. This course helps prepare residents for the (AAP) In-service examinations given by the American Academy of Periodontology and the American Board of Periodontology certification. For postdoctoral residents in Years 2 & 3 (3rd, 4th, 5th, and 6th sem). 2 cr/yr.		
 
 SDM PE 807: Periodontology Case Presentation/Treatment Planning
-	Clinical case presentations by residents followed by discussion of the diagnosis, treatment planning, treatment, and outcomes, including alternatives of periodontal therapy and related dental disciplines. This course fosters understanding of clinical decision-making processes and complements individualized instruction that residents receive from faculty in the clinic.  For postdoctoral residents in Years 2 &amp; 3 (3rd, 4th, 5th, and 6th sem). 2 cr/yr.		
+	Clinical case presentations by residents followed by discussion of the diagnosis, treatment planning, treatment, and outcomes, including alternatives of periodontal therapy and related dental disciplines. This course fosters understanding of clinical decision-making processes and complements individualized instruction that residents receive from faculty in the clinic.  For postdoctoral residents in Years 2 & 3 (3rd, 4th, 5th, and 6th sem). 2 cr/yr.		
 
 SDM PE 808: Periodontology Case Presentation/Treatment Planning
-	Clinical case presentations by residents followed by discussion of the diagnosis, treatment planning, treatment, and outcomes, including alternatives of periodontal therapy and related dental disciplines. This course fosters understanding of clinical decision-making processes and complements individualized instruction that residents receive from faculty in the clinic.  For postdoctoral residents in Years 2 &amp; 3 (3rd, 4th, 5th, and 6th sem). 2 cr/yr.		
+	Clinical case presentations by residents followed by discussion of the diagnosis, treatment planning, treatment, and outcomes, including alternatives of periodontal therapy and related dental disciplines. This course fosters understanding of clinical decision-making processes and complements individualized instruction that residents receive from faculty in the clinic.  For postdoctoral residents in Years 2 & 3 (3rd, 4th, 5th, and 6th sem). 2 cr/yr.		
 
 SDM PE 815: Periodontal Literature Review I, II
 	Weekly seminar focusing on critical evaluation of classic and current periodontal literature. Provides the resident with the background necessary to develop and defend rationales for therapy. 4 cr, 3rd, 4th, 5th, and 6th sem.		
@@ -518,10 +518,10 @@ SDM PE 827: Applied Dental Pharmacology
 	Discussion of the major drug classes relevant in the management of the patients in Periodontology and oral medicine. Emphasis will be given also in adverse reactions, including specific contraindications and drug interactions. 4th sem.		
 
 SDM PE 828: Periodontal Literature Review III: Periodontology Current Literature Review
-	Review of current Periodontal literature. This course builds on the knowledge obtained by the residents of Periodontal Literature Review I and II. For postdoctoral students in Years 2 &amp; 3 (3rd, 4th, 5th, and 6th sem). 		
+	Review of current Periodontal literature. This course builds on the knowledge obtained by the residents of Periodontal Literature Review I and II. For postdoctoral students in Years 2 & 3 (3rd, 4th, 5th, and 6th sem). 		
 
 SDM PE 829: Periodontal Literature Review II: Periodontology Current Literature Review
-	Review of current Periodontal literature. This course builds on the knowledge obtained by the residents of Periodontal Literature Review I and II. For postdoctoral students in Years 2 &amp; 3 (3rd, 4th, 5th, and 6th sem).		
+	Review of current Periodontal literature. This course builds on the knowledge obtained by the residents of Periodontal Literature Review I and II. For postdoctoral students in Years 2 & 3 (3rd, 4th, 5th, and 6th sem).		
 
 SDM PE 830: Clinical Applications of Oral Medicine and Oral Pathology
 	Clinical applications in the areas of oral medicine and oral pathology.		
@@ -571,7 +571,7 @@ SDM PH 524: Preventive Dentistry
 SDM PH 530: Health Care Law
 	This course continues to build the student's understanding and consideration of ethical issues in dental practice and introduces related legal principles. Through lecture and case discussion, the student will focus on ethical problem-solving in more complex patient-based cases and introduces legal concepts affecting the practice of dentistry including licensure, contract and tort law, patient abandonment, malpractice, informed consent and refusal, mandatory reporting laws, patient confidentiality and prudent behavior, diversity and discrimination laws. 		
 
-SDM PH 541: Gerontology &amp; Geriatric Dentistry
+SDM PH 541: Gerontology & Geriatric Dentistry
 	A web-based course designed to provide foundational learning about aging, societal implications of aging, and management of oral health across the aging continuum.  		
 
 SDM PH 544: Integrated Problems in Practice Management IV
@@ -791,7 +791,7 @@ SDM RS 527: Occlusion
 	This course takes the student from normal dental anatomy and occlusion, through analysis of deviations from normal or natural dentition, to an approach to maintenance of healthy occlusal patterns in restorative dentistry and correction of occlusal patterns and disharmonies. To help emphasize critical concepts, laboratory simulations provide students the opportunity to practice clinical procedures related to occlusal diagnosis and treatment. Concepts from the course are integrated with courses in operative dentistry, prosthodontics, periodontology, and orthodontics.		
 
 SDM RS 529: Operative Dentistry
-	This is a lecture course that addresses all aspects of Operative Dentistry.   Topics include diagnosis and treatment planning, caries prevention &amp; treatment, the concept of  minimally invasive dentistry, simple and complex amalgam restorations, anterior and posterior composite resin restorations, cast gold and ceramic inlays and onlay preparations &amp; temporization , conventional and CAD-CAM scanning &amp; fabrication of inlays &amp; onlays,  try-in and cementation of all types of indirect restorations, direct and indirect veneers,  the restoration of endodontically treated teeth, the concept of pulpal protection and the techniques of pulp-capping.   This course focuses on clinically relevant topics and compliments the preclinical and clinical courses in Operative Dentistry (RS 521, GD 630, and RS 540). 		
+	This is a lecture course that addresses all aspects of Operative Dentistry.   Topics include diagnosis and treatment planning, caries prevention & treatment, the concept of  minimally invasive dentistry, simple and complex amalgam restorations, anterior and posterior composite resin restorations, cast gold and ceramic inlays and onlay preparations & temporization , conventional and CAD-CAM scanning & fabrication of inlays & onlays,  try-in and cementation of all types of indirect restorations, direct and indirect veneers,  the restoration of endodontically treated teeth, the concept of pulpal protection and the techniques of pulp-capping.   This course focuses on clinically relevant topics and compliments the preclinical and clinical courses in Operative Dentistry (RS 521, GD 630, and RS 540). 		
 
 SDM RS 532: Removable Prosthodontics II
 	This course discusses the edentulous and partially edentulous patient and the use of removable prostheses. Emphasis is placed on diagnosis, treatment planning and design. Attachments and implant retained prostheses are covered. Correlation is made with comprehensive clinical practice. 		
@@ -808,10 +808,10 @@ SDM RS 542: Treatment Planning Seminar
 SDM RS 544: Treatment Planning and Patient Management I
 	This clinical course will develop graduates who are competent in the assessment, diagnosis, and treatment planning of patients throughout their lifecycle. Additionally, this course seeks to develop competency in patient management and interpersonal skills. Through the use of faculty supervised clinical experiences, seminars, and a faculty mentoring program, students develop comprehensive programs of patient care including patient education, prevention, and treatment of oral disease.		
 
-SDM RS 545: Clinical Treatment Planning &amp; Patient Management II
+SDM RS 545: Clinical Treatment Planning & Patient Management II
 	This clinical course continues the work to develop graduates who are competent in the assessment, diagnosis, and treatment planning of patients throughout their lifecycle that was started in RS544. Additionally, this course seeks to develop competency in patient management and interpersonal skills. Through the use of faculty supervised clinical experiences, seminars, and a faculty mentoring program, students develop comprehensive programs of patient care including patient education, prevention, and treatment of oral disease.		
 
-SDM RS 546: Clinical Treatment Planning &amp; Patient Management
+SDM RS 546: Clinical Treatment Planning & Patient Management
 	This clinical course will develop graduates who are competent in the assessment, diagnosis, and treatment planning of patients throughout their lifecycle. Additionally, this course seeks to develop competency in patient management and interpersonal skills. Through the use of faculty-supervised clinical experiences, seminars, and a faculty mentoring program, students develop comprehensive programs of patient care including patient education, prevention, and treatment of oral disease.		
 
 SDM RS 640: Clinical Operative Dentistry II

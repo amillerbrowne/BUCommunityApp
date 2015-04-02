@@ -43,7 +43,7 @@ STH TA 820: The Church and the Arts
 STH TA 826: Seminar in Music of the 20th Century
 		Course not being offered in 2014-2015 School Year.		
 
-STH TA 830: Passions &amp; Requiems
+STH TA 830: Passions & Requiems
 	An examination of the legacy of music written for liturgical and non-liturgical  use, using longer text, tracing the origins, formulary, and development of the  texts (including discussion of the authors). Case studies will form the basis of  further inquiry. Cultural, social and historical context of the first  performance will be discussed, along with an examination of the theology behind  the text setting. There will be comparative analysis of other examples of the  same genre, discussion of post-Reformation changes in text and approach, and  national differences in style and technique.		
 
 STH TC 529: Spiritual Autobiographies
@@ -379,7 +379,7 @@ STH TM 808: Three Missionary Faiths (Buddhism, Christianity, Islam) and Their Im
 STH TM 815: Christian Mission
 	Exploration of biblical, historical, theological, political, and cultural  perspectives on the world mission of the church. This course is a requirement for  United Methodist MDiv students pursuing ordination in the United Methodist  Church.   		
 
-STH TM 853: NGOs &amp; FBOs
+STH TM 853: NGOs & FBOs
 	Explores theoretical and practical issues related to cross-cultural non-governmental and faith-based  service work. 		
 
 STH TM 856: Women in Mission and World Christianity
@@ -406,14 +406,14 @@ STH TM 930: History of Missiology
 STH TM 931: Readings in Contemporary Missiology
 	Readings and discussions of important works in missiology from the 1960's to the  present. This course  begins where TM 930 ends. Required for doctoral students in  mission studies		
 
-STH TM 935: Global Development &amp; Faith
+STH TM 935: Global Development & Faith
 	The academic study of development often overlaps with the practical application of mission and outreach  activities (Churches may participate in efforts to reduce malaria mortality, for example.). Along the way,  though, keen theological analysis and critical cultural perspectives may get lost, resulting in  misunderstandings and missed opportunities. This course aims to equip reflective practitioners with  background and insights they will need to effect more holistic social transformation. 		
 
 STH TM 959: The Future of Ecumenism and the Transformation of World
 	This course focuses on "The Future of Ecumenism and the Transformation of World Christianity in the      21stCentury: Tracking the WCC General Assembly Theme; 'God of Life, lead us to Justice and Peace.'" As      such, it juxtaposes the interests of the ecumenical movement even as it verges with evangelical and      interfaith interests together with the Just Peace initiatives as defined at the International Ecumenical Peace      Convocation in Jamaica (2011). This course is also a part of the World Council of Churches' Global      Ecumenical Theological Institute (GETI) as facilitated internationally and at Busan, Republic of Korea,      location of the 10th General Assembly of the WCC. Participants in this course will have immediate or digital      connection with this assembly. 		
 
 STH TN 721: New Testament Introduction
-	Content of the New Testament writing in its historical setting and special  attention to its relevance today.  This course is a prerequisite for all New  Testament II courses. MDIV &amp; MTS CORE REQUIREMENT.		
+	Content of the New Testament writing in its historical setting and special  attention to its relevance today.  This course is a prerequisite for all New  Testament II courses. MDIV & MTS CORE REQUIREMENT.		
 
 STH TN 723: New Testament Greek I
 	Introduction to the grammar and vocabulary of the Greek New Testament. For students with no training in  Greek. (Credit for STH TN 723 is only given after successful completion of STH TN 724.)		
@@ -470,7 +470,7 @@ STH TN 841: Luke-Acts
 	Luke-Acts as apologetic and missionary instrument in the Roman world. Redefinition of the figure of Jesus,  Paul, and the apostles in the late first century. (Requires TN 721 or equivalent)		
 
 STH TO 704: Hebrew Bible I
-	Introduction to the religion and literature of ancient Israel; development of Hebrew scripture within its  cultural, historical, and social contexts. Required of all students who have not completed a thorough  introduction to the Hebrew Bible. A one-hour study section is also required. This course is prerequisite for  all Hebrew Bible II courses. MDIV &amp; MTS CORE REQUIREMENT.		
+	Introduction to the religion and literature of ancient Israel; development of Hebrew scripture within its  cultural, historical, and social contexts. Required of all students who have not completed a thorough  introduction to the Hebrew Bible. A one-hour study section is also required. This course is prerequisite for  all Hebrew Bible II courses. MDIV & MTS CORE REQUIREMENT.		
 
 STH TO 723: Biblical Hebrew I
 	Hebrew grammar, including exercises in translation and composition, following Lambdin's Introduction to  Biblical Hebrew. Prepares students to read Hebrew prose. (Credit for STH TO 723 is given only after  successful completion of STH TO 724.)		
@@ -670,7 +670,7 @@ STH TS 967: Christianity and Ecology in Community Contexts
 STH TS 999: The Continuing Relevance of Aristotle's Ethics and Politics
 	This seminar will undertake a close reading and a critical inquiry into Aristotle's Nicomacheon Ethics and   Politics  in order to discern how his thought can be a helpful resource for the study and practice of ethics   and politics in our day.		
 
-STH TT 731: Theology &amp; World Religions
+STH TT 731: Theology & World Religions
 	As students, scholars, spiritual seekers and religious leaders we live in a  modern world manifesting many  forms of diversity. One key form of this diversity  is religious pluralism. We become more and more aware  that that, for instance,  all the historical religions of the world now comprise the spiritual mosaic of   spiritual life in North America. This course provides an overview of the  historical development of the  world's religions in order to better understand  the current spiritual pluralism of North America. While the  history of world  religions does not explain everything that is happening in the lives of modern  religious  people, informed understanding of these religions is still essential  for anyone who seeks to dialogue in a  meaningful fashion with a person of  another faith tradition. The course will focus on both the emic (inner   dimensions) and etic (outer dimensions) of the historical and spiritual  development of the world's  religions. We will stress the differences as well as  the similar features of the religions. We will also ask  genuine theological  questions because we live, work, communicate and minister in diverse religious   communities of faith.		
 
 STH TT 732: History of Christian Theology in Philosophical Perspective
@@ -688,7 +688,7 @@ STH TT 805: The Theology and Ethics of Reinhold and H. Richard Niebuhr
 STH TT 806: Theology and Literature
 	This course explores the theological relevance of literature through an examination of contemporary fiction   and examines the benefits and limitations of writing theology in the form of fiction. (Requires TF 701/702  or equivalent)		
 
-STH TT 811: Mysticism &amp; Philosophy: Medieval Jewish
+STH TT 811: Mysticism & Philosophy: Medieval Jewish
 	Thematic introduction to mysticism and philosophy, with a focus on dynamics of religious experience.   Readings from medieval Jewish philosophy, Kabbalah, Biblical interpretation, Sufi-inspired mysticism,   poetry from the Golden Age of Muslim Spain. Attention to interactions with Islamic philosophy and   mysticism. (Requires TF 701/702 or equivalent)		
 
 STH TT 813: Proseminar in Science and Religion
@@ -740,9 +740,9 @@ STH TT 842: Lab Placement
 	This is a course for students in a variety of Boston University School of Theology and Division of Religious  and Theological Studies degree programs who are registered for laboratory placements. It is not available  to students at other schools in the Boston Theological Institute.		
 
 STH TT 844: War and the Human: Theological Responses to 21st century War
-	What motivates us to fight? What are the practices of war saying about who we are, as persons and as a   nation? What is the impact of war? This course brings theological insights to bear on current practices of   war. Beginning with analysis of the dimensions of 21st century war, we will explore perennial human   questions raised within the context of war: love/hate, shame/guilt, conscience, justice, community,   identity, and death. This course aims to deepen theological exploration and also seeks to empower   students to develop constructive theological responses to war. The course focuses on current practices  of  war by the U.S. and features site-visits and engagements with different sectors of society directly  involved  in war/healing work.  Topics addressed include: terror &amp; the role of religion in war post 9/11;  religion in  the military (chaplains, race, class, gender, religious pluralism); the discourse of war - just  war, pacifism;  technology, intelligence, &amp; the media; trauma and war; the function of race, class, and  gender in war;  peace, protest, and religious communities. (Requires TF 701/702 or equivalent)		
+	What motivates us to fight? What are the practices of war saying about who we are, as persons and as a   nation? What is the impact of war? This course brings theological insights to bear on current practices of   war. Beginning with analysis of the dimensions of 21st century war, we will explore perennial human   questions raised within the context of war: love/hate, shame/guilt, conscience, justice, community,   identity, and death. This course aims to deepen theological exploration and also seeks to empower   students to develop constructive theological responses to war. The course focuses on current practices  of  war by the U.S. and features site-visits and engagements with different sectors of society directly  involved  in war/healing work.  Topics addressed include: terror & the role of religion in war post 9/11;  religion in  the military (chaplains, race, class, gender, religious pluralism); the discourse of war - just  war, pacifism;  technology, intelligence, & the media; trauma and war; the function of race, class, and  gender in war;  peace, protest, and religious communities. (Requires TF 701/702 or equivalent)		
 
-STH TT 845: Spirituality, Medicine &amp; Health
+STH TT 845: Spirituality, Medicine & Health
 	The general aim of this science-religion course is to learn about the complex entanglements among  religious traditions and spirituality, medical traditions and healing modalities, and norms for physical and  mental health.  This will involve (i) in Part 1 of the course, gaining a basic grasp on the history of the  medical traditions of China, India, the Middle East, and the West, including the metaphysical frameworks  that inform those traditions; (ii) in Part 2 of the course, studying the complex controversy over spirituality  and health research and attempting to decide whether and how the efficacy of healing modalities is to be  evaluated; (iii) in Part 3 of the course,  understanding how western biomedicine interacts with the array of  medical traditions and spiritually inspired healing modalities that thrive in the West; and (iv) throughout the  course, addressing philosophical, theological,  and ethical questions about norms for mental and physical  health and comparing metaphysical frameworks for health and healing.  The class is intended for advanced  masters students and doctoral candidates interested in the science-religion dialogue, and particularly in  spirituality and health. (Requires TF 701/702 or equivalent)		
 
 STH TT 849: Queer Theology
@@ -809,7 +809,7 @@ STH TT 901: Core Texts and Motifs: Western Traditions
 	An intensive year seminar, in English translation, of key primary texts and  philosophical-theological-religious ideas of Buddhism, Hinduism, Islam, Judaism,  and Taoism. Particularly well suited to doctoral students. Advanced master's  students with permission of instructor only.		
 
 STH TT 902: Core Texts and Motifs of World Religions: East
-	Prereq:(CASCC101 &amp; CASCC102) or two courses in religion or philosophy. *An intensive seminar in primary  texts and key ideas of theology and religious philosophy as developed in representative world religions:  Hinduism, Buddhism, Daoism, Confucianism. Second course in a year-long sequence. Each semester may  be taken independently.  		
+	Prereq:(CASCC101 & CASCC102) or two courses in religion or philosophy. *An intensive seminar in primary  texts and key ideas of theology and religious philosophy as developed in representative world religions:  Hinduism, Buddhism, Daoism, Confucianism. Second course in a year-long sequence. Each semester may  be taken independently.  		
 
 STH TT 913: Science and Religion
 	Quantum entanglement is one of the most remarkable ideas to have emerged from physics in the twentieth    century. Identified as a consequence of quantum theory already in the 1920s, it was not confirmed as a    physical phenomenon until the 1980s. The broader implications of living in an "entangled" world are only    beginning to be felt outside the walls of physics. This course explores the significance of quantum    entanglement for theological reflection on creaturely and divine relationality.		
@@ -841,7 +841,7 @@ STH TT 932: Paul Tillich
 STH TT 934: Schleiermacher
 	The primary aim of this course is read and understand the theology of Friedrich Daniel Ernst  Schleiermacher, one  of the most important and influential European intellectuals of the 19th century, and  known variously as the Father  of Romanticism, the Father of Hermeneutics, the Father of German Plato  studies, the Father of Modern Protestant  Theology, and the Father of Liberal Christian Theology. The  course focuses on The Christian Faith (CF) but also  covers some other of his writings particularly On  Religion: Speeches to Its Cultured Despisers (OR) and Letters  to Locke (LL) and some biographical material.  The secondary aim is to help students develop their own  theological ideas in detailed conversation with  Schleiermacher's, a purpose for which CF is particularly well  suited.  The class has 800-level and 900-level  designations to accommodate both advanced masters and doctoral students,  respectively. 		
 
-STH TT 945: Spirituality, Medicine &amp; Health
+STH TT 945: Spirituality, Medicine & Health
 	The general aim of this science-religion course is to learn about the complex entanglements among religious traditions and spirituality, medical traditions and healing modalities, and norms for physical and mental health. This will involve (i) in Part 1 of the course, gaining a basic grasp on the history of the medical traditions of China, India, the Middle East, and the West, including the metaphysical frameworks that inform those traditions; (ii) in Part 2 of the course, studying the complex controversy over spirituality and health research and attempting to decide whether and how the efficacy of healing modalities is to be evaluated; (iii) in Part 3 of the course, understanding how western biomedicine interacts with the array of medical traditions and spiritually inspired healing modalities that thrive in the West; and (iv) throughout the course, addressing philosophical, theological, and ethical questions about norms for mental and physical health and comparing metaphysical frameworks for health and healing. The class is intended for advanced masters students and doctoral candidates interested in the science-religion dialogue, and particularly in spirituality and health. 		
 
 STH TT 946: Advanced Systematic Theology I: God and Creation

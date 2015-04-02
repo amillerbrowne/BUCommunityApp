@@ -83,3 +83,75 @@ void parse(string collegeName, int file_bound1, int file_bound2, int upper, int 
         else	cout << "Unable to open file." << endl;
     }
 }
+
+void parse_special_case(string collegeName){
+    
+    string line,input,originalOutputString;
+    int name_start, name_end, line_counter = 0;
+    int description_end, description_begining;
+    
+        cout << collegeName << endl;
+    
+        input = "/Users/nick102795/Dropbox/Code/repositories/BUCommunityApp/DataBase/Colleges/" + collegeName + "/classes/HTMLs/special_page_index.html";
+        originalOutputString = "/Users/nick102795/Dropbox/Code/repositories/BUCommunityApp/DataBase/Colleges/" + collegeName + "/classes/Texts/official" + collegeName + "classes0.txt";
+        
+        cout << input << endl;
+        cout << originalOutputString << endl;
+        
+        ifstream raw_class_file(input);
+        ofstream official_class_file;
+        official_class_file.open(originalOutputString);
+        
+        string did_open = (official_class_file.is_open())?"opened":"failed to open";
+        cout << "official class file " << did_open << endl;
+        
+        //check successful file open
+        if(raw_class_file.is_open()){
+            cout << "The file " << input << " opened properly." << endl;
+            //go line by line
+            string className;
+            string classCode;
+            string classDescription;
+            while(getline(raw_class_file,line)){
+               int classNameInitialIndex = line.find("<h4>") + 4;
+               int classNameFinalIndex = line.find("</h4>");
+                
+                if((classNameInitialIndex != -1) && (classNameFinalIndex != -1)){
+                    className = line.substr(classNameInitialIndex,(classNameInitialIndex+classNameFinalIndex-10));
+            //        cout << className << endl;
+                    line_counter++;
+                }
+                else if(line_counter == 1){
+                    int officialClassCodeInitialIndex = line.find("<p class=\"meta\">") + 16;
+                    int officialClassCodeInitialFinal = line.find("</p>");
+       
+                    classCode = line.substr(officialClassCodeInitialIndex, (officialClassCodeInitialFinal - officialClassCodeInitialIndex - 12));
+            //        cout << classCode << endl;
+                    line_counter++;
+                    
+                }
+                else if(line_counter == 2){
+                    
+                    int classDescriptionInitialIndex = line.find("<p>") + 3;
+                    int classDescriptionInitialFinal = line.find("</p>");
+                    classDescription = line.substr(classDescriptionInitialIndex,(classDescriptionInitialFinal - classDescriptionInitialIndex));
+              //      cout << classDescription << endl;
+                    line_counter = 0;
+                    
+                    
+                    string formattedString = classCode + ": " + className;
+                    string formattedString2 = "	" + classDescription;
+                    
+                    official_class_file << endl << formattedString << endl << formattedString2 << endl;
+                }
+            }
+            raw_class_file.close();
+            official_class_file.close();
+            cout << "The file " << input << " closed properly." << endl;
+        }
+        else	cout << "Unable to open file." << endl;
+}
+
+
+
+

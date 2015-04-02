@@ -94,7 +94,7 @@ SED CE 630: Applied Positive Psychology
 SED CE 635: Counseling Skills and Techniques
 	This course acquaints students with the counseling skills essential for working directly with children  and/or adolescents in your pre-practicum setting. Students will complete 100 hours of supervised clinical  work and use the course to develop knowledge and practice with clinical interventions and organizational  dynamics. 3 cr. 1st semester		
 
-SED CE 650: Counseling Skills &amp; Techniques in Sport and Exercise Psychology
+SED CE 650: Counseling Skills & Techniques in Sport and Exercise Psychology
 	The goal of this course is for the students to become competent in the understanding and application  of the core mental skills of sport psychology and exercise psychology. The core mental skills include  goal setting, visualization, arousal regulation, and self-talk. The student will learn how to use and teach  these skills in a variety of settings. And finally the students will become aware of the boundaries of the  sport psychology consultant and how to refer for clinical issues.The objectives for achieving these goals  will include extending knowledge through reading relevant and appropriate primary and secondary  sources and practice. 4cr, 1st sem.  		
 
 SED CE 705: Lifespan Development
@@ -103,7 +103,7 @@ SED CE 705: Lifespan Development
 SED CE 710: Child and Adolescent Psychopathology
 	This graduate level course will focus on child and adolescent psychopathology from a developmental  framework, with attention to etiology, assessment, and treatment.  Emphasis will be placed on DSM-V  disorders. Case studies will be used to illustrate the text's descriptions and to reflect the influence of  sociocultural factors in symptom manifestation. 3 cr. 2nd sem.		
 
-SED CE 721: Sport &amp; Performance Psychology Practicum
+SED CE 721: Sport & Performance Psychology Practicum
 	This is a two-semester sport/performance psychology clinical practicum. Student will participate in  internships that are specifically focused on developing counseling and applied sport/performance  psychology skills. The course will provide training in the development of conceptual and technical  counseling skills and supervision to the students as the strive to become competent sport/performance  psychology consultants. Either Sem, 3 cr		
 
 SED CE 726: Clinical Assessment: Psychological Testing
@@ -191,7 +191,7 @@ SED CT 575: General Methods of Instruction, 5-12
 	Development of teaching skills and classroom strategies common to a variety of teaching matters.   Includes instructional planning, integrating subject matter with learner's age level and educational   environment. Analysis of best practices across all academic areas, learning theories, evaluation, and   specific teaching techniques; 4cr, either sem.		
 
 SED CT 703: Mentored Field Experience
-	Open to matriculated students in Curriculum &amp; Teaching seeking professional licensure in a field and at  the level in which they hold a valid initial license. A minimum of 60 hours of mentored experience beyond  the induction year. Seminar and field consultation with University staff. 2cr.		
+	Open to matriculated students in Curriculum & Teaching seeking professional licensure in a field and at  the level in which they hold a valid initial license. A minimum of 60 hours of mentored experience beyond  the induction year. Seminar and field consultation with University staff. 2cr.		
 
 SED CT 750: Basic Principles for Curriculum and Teaching
 	Analysis of important philosophers (e.g., Plato, Aristotle, Dewey, Whitehead) for insights into principles of  curriculum design and classroom teaching. Focuses on accurate formulation of current and classic  educational problems. Seminar format for doctoral students only. Required for departmental EdD students.  4cr, 2nd sem.		
@@ -410,7 +410,7 @@ SED EN 501: Teaching Classic and Contemporary Texts
 SED EN 502: Student-Teaching Reflective Seminar
 	EN502 offers undergraduate English Education majors engaging in their student-teaching the opportunity  to come together weekly with a faculty member to reflect upon successes, challenges, and questions raised  by the internship. Students will engage in common readings and write short weekly reflections that  synthesize assigned readings and the internship experience. 2cr, 1st sem.		
 
-SED EN 503: Lesson Design &amp; Instruction Delivery in the Humanities
+SED EN 503: Lesson Design & Instruction Delivery in the Humanities
 	This course will introduce students to different models of lesson planning and unit planning as well as  research-based strategies for effective instructional delivery in the secondary humanities classroom. It will  include a 75 hour pre-practicum experience. 4cr, either sem.		
 
 SED EN 504: Student-Teaching Half Practicum: English, 5-8
@@ -530,7 +530,7 @@ SED ME 360: Mathematics for Teaching: Algebra
 SED ME 503: Mathematical Reasoning in the Elementary Grades: Number Systems
 	This four-credit course is a prerequisite for ME 504. It is required for graduate students majoring in   elementary education who are preparing to become teachers of children in kindergarten through grade   five. This course focuses on topics in number systems and operations with an emphasis on number,   operations, mental mathematics, proportionality, number theory, and probability. Students explore the   mathematics from the perspective of a student and a teacher. The emphasis is on making sense of key   ideas of number and operations and on exploring how students? understanding of these topics emerge   and develop. 4cr, 1st sem.		
 
-SED ME 504: Mathematical Reasoning in the Elementary Grades: Algebra, Geometry, &amp; Statistics
+SED ME 504: Mathematical Reasoning in the Elementary Grades: Algebra, Geometry, & Statistics
 		This course is required for graduate students majoring in elementary education who are preparing to  become teachers of children in kindergarten through grade five. This course focuses on topics in algebra,  geometry, measurement and statistics. Students explore mathematics form the perspective of student and  teacher. The emphasis is on making sense of key ideas in algebra and geometry and on exploring how  student's understanding of these topics emerge and develop. 4cr, 2nd sem.		
 
 SED ME 506: Student-Teaching Half Practicum: Mathematics, 5-8

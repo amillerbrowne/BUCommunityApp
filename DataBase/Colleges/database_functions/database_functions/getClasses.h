@@ -16,6 +16,6 @@ using namespace std;
 #define GAI_App_getClasses_h
 
 void parse(string collegeName, int file_bound1, int file_bound2, int upper, int lower);
-
+void parse_special_case(string collegeName);
 
 #endif

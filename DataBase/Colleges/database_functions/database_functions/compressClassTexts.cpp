@@ -29,5 +29,5 @@ void compress(string collegeName, int file_bound1, int file_bound2)
         else	cout << "Unable to open file." << endl;
     }
     official_class_file.close();
-    
 }
+

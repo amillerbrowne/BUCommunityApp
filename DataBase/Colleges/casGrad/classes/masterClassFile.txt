@@ -565,7 +565,7 @@ GRS RN 768: Symbol, Myth, and Rite
 GRS RN 770: Topics in Medieval Religious Culture
 		Topic for Fall 2013: Christian, Muslim, and Jew: Religion, Community, and Culture in Medieval Spain.  Interactions between Muslims, Christians, and Jews in medieval Europe's most religiously diverse region -  from the establishment of an Islamic al-Andalus in 711 CE to the final Christian "reconquest" of the  peninsula and expulsion of the Jews in 1492 CE. Also offered as GRS HI 807.		
 
-GRS RN 794: Magical Texts: Literature &amp; Practice
+GRS RN 794: Magical Texts: Literature & Practice
 	An advanced course in the interpretation of ancient magical texts, emphasizing the use of theoretical models (Malinowksi, Tambiah, J.Z. Smith) for understanding a selection of ritual manuals, amulets, binding tablets, and mystical ascent texts from Greco-Roman, Jewish, and Christian antiquity.		
 
 GRS RN 795: Humanities Approaches to Religion
@@ -661,7 +661,7 @@ GRS PH 612: Philosophy of the Enlightenment
 GRS AN 705: Graduate Proseminar in Anthropology:  the Biological and Historical Past
 	Examination of major contributions and debates in biological anthropology focusing on humanity's place in the natural world.  Topics include evolutionary theory, fossil and living primates, human evolution, historical demography, human life histories, and the relationship between biology and culture.		
 
-GRS AN 707: Turkey &amp; Middle East Perspective (Area)
+GRS AN 707: Turkey & Middle East Perspective (Area)
 	Social and cultural diversity of the modern Middle East with particular attention to Turkey.  Focus on the interplay of traditions and socio-economic changes that have occurred during the 20th century and their implications for the future.		
 
 GRS AN 708: Food, Culture, and Society
@@ -1918,7 +1918,7 @@ GRS AH 820: Seminar: Asian Art
 GRS AH 822: Seminar: African Art
 		In-depth discussion of special topics in the study of African art and architecture. Topic for Fall 2013: Post- Colonial Theory and Visual Culture in Northwestern Africa. This seminar underscores the continuing  importance of post-colonial theory to understanding the history of African art, concentrating on historic  and contemporary visual culture in Morocco, Algeria, Senegal, Mali, and Niger. 		
 
-GRS WS 801: Theories and Methods in WomenÂs, Gender, &amp; Sexuality Studies
+GRS WS 801: Theories and Methods in WomenÂs, Gender, & Sexuality Studies
 	Exploring the variety of theories and methods in the interdisciplinary fields of women's, gender, and  sexuality studies, this seminar is required for the WGS Graduate Certificate. Readings from the humanities,  social sciences, and natural sciences address questions of identity and epistemology.		
 
 GRS XL 742: Travel Writing and the Muslim World

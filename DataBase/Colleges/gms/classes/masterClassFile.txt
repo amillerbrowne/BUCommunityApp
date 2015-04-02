@@ -35,7 +35,7 @@ GMS AN 804: Special Topics in Anatomy
 	Presentation of problems of current interest in anatomical science offered to small groups of students at the instigation of either interested faculty or students. Examples of topics that might be discussed are: differentiation; aging in specific areas of the brain; electron microscopy; fine structure of neurons; biology of the lung; and retinal biology. 2 cr, Spring sem. 		
 
 GMS AN 805: Vesalius Module Teaching Practicum
-		Students, putting theory into practice, work in collaboration with a selected faculty mentor in one of the following formats: large lecture, small lecture or seminar, or proposing a new course. Students may enroll in this course multiple times for different mentored experiences. Var cr, Fall &amp; Spring sem. 		
+		Students, putting theory into practice, work in collaboration with a selected faculty mentor in one of the following formats: large lecture, small lecture or seminar, or proposing a new course. Students may enroll in this course multiple times for different mentored experiences. Var cr, Fall & Spring sem. 		
 
 GMS AN 806: Teaching in the Biomedical Sciences (Teaching Methods)
 	This course offers instruction in the theory of teaching, presentation skills, and teaching methods.  Effective teaching practices are taught and refined, and the methods of teaching in different formats (one-on-one, small group, large lecture, etc.) are evaluated.  Lesson plan and support plan construction and the understanding of assessment and evaluation tools are particularly emphasized.  2 cr. Spring sem.		
@@ -50,10 +50,10 @@ GMS AN 820: Introduction to Interdisciplinary Systems Science: Dynamic Modeling
 		This course in interdisciplinary science will provide students with a hands-on experience in the development and use of systems dynamic and computer based models to study biological systems in research areas such as neurobiology. 2 cr, SS. 		
 
 GMS AN 901: Anatomy Research
-	Var cr, Fall &amp; Spring sem.		
+	Var cr, Fall & Spring sem.		
 
 GMS AN 902: Anatomy Research
-	Var cr, Fall &amp; Spring sem.		
+	Var cr, Fall & Spring sem.		
 
 GMS AN 904: Research Practicum
 	Varied topics. 2 cr, Spring sem. 		
@@ -67,7 +67,7 @@ GMS BC 610: Medical Consequences of Natural and Man-made Hazards
 GMS BC 620: Psychology and Sociology of Disasters and Methods of Risk Communication
 	This course surveys psychological and social factors affecting community and individual responses to disasters. Emphasis is placed on groups who may experience greater impact as a result of disability, social, economic, or racial disparities. This course explores the methods of risk communications to diverse audiences including considerations of subjectivity of risk, translating complex concepts into clear concise informative messages, and recognizing time sensitivity of information. 3 cr		
 
-GMS BC 630: Ethical &amp; Policy Issues in Health and Medical Services Emergency Management
+GMS BC 630: Ethical & Policy Issues in Health and Medical Services Emergency Management
 	This course explores the complex issues surrounding ethical, legal and policy issues concerning health and health care delivery under crisis conditions. Issues evaluated include end-of-life decision making, implications of triage, medical malpractice, insurance company regulation and liability. Additionally, the interrelationships of the various levels, and often competing branches, of government will be evaluated. 3 cr		
 
 GMS BC 650: Community Health and Emergency Management
@@ -116,7 +116,7 @@ GMS BI 793: Mass Spectrometry, Proteomics and Functional Genomics
 		The application of mass spectrometry to protein, glycoconjugate and carbohydrate structures has propelled developments in proteomics and functional genomics. This course describes how to use mass spectrometry to answer structural and functional questions in biomedical research. The course explores the background necessary to effectively design mass spectrometric (MS) experiments and interpret data. Students gain a full understanding of modern MS and its effective use in their research. Lectures are devoted to instrumentation, ionization methods and applications to proteins, lipids, carbohydrates, glycoconjugates, nucleic acids and uses of the technology in proteomics, biotechnology and medicine. 2 cr, Spring sem. 		
 
 GMS BI 854: Biochemistry Student Seminar
-	Required for all Department of Biochemistry MA, PhD and MD/PhD students. Students present and discuss the current literature in molecular and cellular biochemistry. The objective of this course is to develop oral presentation and critical thinking skills. 2 cr, Fall &amp; Spring sem. 		
+	Required for all Department of Biochemistry MA, PhD and MD/PhD students. Students present and discuss the current literature in molecular and cellular biochemistry. The objective of this course is to develop oral presentation and critical thinking skills. 2 cr, Fall & Spring sem. 		
 
 GMS BI 951: Research in Biochemistry
 	Var cr		
@@ -134,7 +134,7 @@ GMS BN 777: Basic Neurosciences
 	Fall Semester: Overview to include neurophysiology, neurochemistry, neuroanatomy, neurobehavior, and neuropsychopharmacology. Processes occurring at the cellular and physiological levels are related to known central nervous system dysfunction. Spring Semester: Review of brain function and selected topics such as Parkinson's disease, schizophrenia, neurotoxicology, aphasia, electrophysiology, and neuroimaging. This course is the same as GMS BN 778 (4 cr) and GMS BN 779 (2 cr), providing students with 32.5 hours of required course time. May not be taken concurrently with GMS BN 778 or 779. 3 cr, Fall or Spring sem. 		
 
 GMS BN 778: Basic Neurosciences Survey
-		Fall Semester: Overview to include neurophysiology, neurochemistry, neuroanatomy, neurobehavior, and neuropsychopharmacology. Processes occurring at the cellular and physiological levels are related to known central nervous system dysfunction. Spring Semester: Review of brain function and selected topics such as Parkinson's disease, schizophrenia, neurotoxicology, aphasia, electrophysiology, and neuroimaging. This course is the same as GMS BN 777 (3 cr) and GMS BN 779 (2 cr), providing students with 50 hours of required course time. May not be taken concurrently with GMS BN 777 or 779. O4 cr, Fall &amp; Spring sem. (2 sem. course) 		
+		Fall Semester: Overview to include neurophysiology, neurochemistry, neuroanatomy, neurobehavior, and neuropsychopharmacology. Processes occurring at the cellular and physiological levels are related to known central nervous system dysfunction. Spring Semester: Review of brain function and selected topics such as Parkinson's disease, schizophrenia, neurotoxicology, aphasia, electrophysiology, and neuroimaging. This course is the same as GMS BN 777 (3 cr) and GMS BN 779 (2 cr), providing students with 50 hours of required course time. May not be taken concurrently with GMS BN 777 or 779. O4 cr, Fall & Spring sem. (2 sem. course) 		
 
 GMS BN 779: Beginning Basic Neurosciences
 	Fall Semester: Overview to include neurophysiology, neurochemistry, neuroanatomy, neurobehavior, and neuropsychopharmacology. Processes occurring at the cellular and physiological levels are related to known central nervous system dysfunction. Spring Semester: Review of brain function and selected topics such as Parkinson's disease, schizophrenia, neurotoxicology, aphasia, electrophysiology, and neuroimaging. This course is the same as GMS BN 777 (3 cr) and GMS BN 778 (4 cr), providing students with 25 hours of required course time. May not be taken concurrently with GMS BN 777 or 778. 2 cr, Fall or Spring sem. 		
@@ -164,10 +164,10 @@ GMS BN 821: Seminar in Neuroimaging
 		Overview of neuroimaging techniques available as adjuncts to neuropsychological measures of human brain damage. Intended for students with limited background in the application of neuroimaging techniques for the study of neuropsychiatric illnesses. Techniques, including PET, SPECT, MEG, MRI, fMRI, DTI and MRS, will be covered with relevance to selected neuropsychiatric diseases. 2 cr, on demand.		
 
 GMS BN 891: Case Studies
-	2 cr, Fall &amp; Spring sem.		
+	2 cr, Fall & Spring sem.		
 
 GMS BN 892: Case Studies
-	2 cr, Fall &amp; Spring sem.		
+	2 cr, Fall & Spring sem.		
 
 GMS BN 893: Child Clinical Neuropsychology
 		Covers general theoretical issues (e.g., intrauterine and postnatal development of the brain, handedness and lateralization of function, and recovery of function and neurobehavioral plasticity); diagnostic entities (e.g., attention deficit disorder, effects of early brain damage, developmental language disorders, dyslexia, and effects of malnutrition); and assessment and treatment (development of attention, social, spatial abilities, and language). 4 cr, on demand. 		
@@ -188,7 +188,7 @@ GMS BT 110: Introduction to Biomedical Laboratory Sciences
 	Prereq: One semester of biology, two semesters of chemistry and BT 208 (Ess. Math for Biotech) or   consent of program director. Provides a theoretical and practical foundation in laboratory science.   Students are introduced to the scientific method, laboratory mathematics, chemistry, biochemistry,   cell and molecular biology, and immunology. Students learn hands-on solution making, electrophoresis,   protein quantitation and other commonly used laboratory methods. Emphasis is placed on lab safety,   proper handling of instruments, careful following of written instructions for lab procedures,   maintenance of lab notebooks, and data collection, presentation and analysis. Laboratory course.		
 
 GMS BT 160: Biotechnology 1
-	This course introduces students to the basic sciences of biotechnology (cell biology, immunology,   DNA/molecular biology) and describes DNA technologies used in gene therapy and microarray technology   and in the production of recombinant protein drugs, antibodies, vaccines, and transgenic animals/plants.   The challenges of bringing protein drugs from R&amp;D through large scale manufacturing and the FDA   approval process are also discussed. First half of spring semester.		
+	This course introduces students to the basic sciences of biotechnology (cell biology, immunology,   DNA/molecular biology) and describes DNA technologies used in gene therapy and microarray technology   and in the production of recombinant protein drugs, antibodies, vaccines, and transgenic animals/plants.   The challenges of bringing protein drugs from R&D through large scale manufacturing and the FDA   approval process are also discussed. First half of spring semester.		
 
 GMS BT 170: Biotechnology 2
 	Prereq: BT 160. Recent innovations in the fields of molecular biology, immunology and cell biology   have provided new insights into the pathogenesis of cancer, infectious diseases, and other intractable   diseases. The biotech industry has contributed immensely to this progress and has furthermore   accelerated the development of cutting-edge technologies that promise to deliver more effective drugs,   vaccines and diagnostics.  Biotechnology 2 explores some of the ways in which biotechnology has   impacted medicine. Students participate in this exploration through readings of recent scientific   articles, class discussions and library/internet research. Second half of spring semester.		
@@ -197,7 +197,7 @@ GMS BT 201: Anatomy and Physiology 1
 	Prereq: One semester of biology. This course provides a practical understanding of anatomic structures   and coordinates this knowledge with the various functions of the human body. Also explored are   regulatory processes that integrate cells, tissues, organs and systems. Topics include: organization of   the body, tissue development, cellular structure and function as well as the integumentary (skin),   skeletal, and muscular systems. The last third of the course focuses on the nervous system. The course   incorporates clinical material throughout, and laboratory exercises correlate with the lecture material.    Laboratory course.		
 
 GMS BT 202: Anatomy and Physiology 2
-	Prereq: GMS BT 201 (A&amp;P 1) or consent of program director. This course is the second half of an intensive   sequence designed to integrate the structure with the function of the human body. The course covers the   endocrine, cardiovascular, lymphatic and immune, respiratory, digestive, urinary and reproductive   systems. Students study these systems as they relate to homeostasis and clinical disorders. Laboratory   exercises on each system are incorporated into the course materials. 		
+	Prereq: GMS BT 201 (A&P 1) or consent of program director. This course is the second half of an intensive   sequence designed to integrate the structure with the function of the human body. The course covers the   endocrine, cardiovascular, lymphatic and immune, respiratory, digestive, urinary and reproductive   systems. Students study these systems as they relate to homeostasis and clinical disorders. Laboratory   exercises on each system are incorporated into the course materials. 		
 
 GMS BT 208: Essential Math for Biotechnology
 	Prereq: BT 108 (Intro Lab Math) or equivalent. This course prepares students for math calculations   commonly used in biotech/biomedical laboratories, and in BLCS courses such as  BT 110 (Intro Biomed   Lab Sci), BT 411 (Protein Purific.), and BT 454 (Cell Culture). Topics include scientific notation, metric   system, solution concentration, dilutions, and logarithmic scales. Some classes are held in the   laboratory so that students can apply math skills to solution making, serial dilutions and standard   curves. Students also develop strategies for solving word problems and explore the essential elements   of data organization, summarization and presentation.   Some laboratory exercises.		
@@ -227,7 +227,7 @@ GMS BT 336: Bioinformatics
 	Prereq: BT 413 (MolBio) and computer proficiency. Bioinformatics is a practical discipline that  informs basic science research as well as pharmaceutical development. The class is designed to  introduce key bioinformatic principles and provide many opportunities to put those principles into  practice on homework assignments and the term project. Key concepts of molecular biology will  be reviewed in the first lecture. Subsequent lectures will introduce bioinformatic techniques in the  context of a disease/application area-including infectious disease control, cancer, and next  generation sequencing. Data from validated public databases will be used to solve real-world  problems in class. At the end of the semester, we will look at exciting, new developments in the  field and grapple with contemporary legal/ethical issues in biomedical informatics.		
 
 GMS BT 342: Cell Biology
-	Prereq: BT 413 (Mol Bio) &amp; BT 405 (Biochem), or consent of program director. This course introduces   students to eukaryotic cell structure and function, and covers various cellular components -- including the   plasma membrane, mitochondria and the cytoskeleton -- and examine their roles in the cell. Additionally,   students explore essential cellular processes including cell communication and the cell cycle. The course   also highlights the unique features of some specialized cell types such as germ and stem cells.		
+	Prereq: BT 413 (Mol Bio) & BT 405 (Biochem), or consent of program director. This course introduces   students to eukaryotic cell structure and function, and covers various cellular components -- including the   plasma membrane, mitochondria and the cytoskeleton -- and examine their roles in the cell. Additionally,   students explore essential cellular processes including cell communication and the cell cycle. The course   also highlights the unique features of some specialized cell types such as germ and stem cells.		
 
 GMS BT 360: Auditing in Clinical Research
 	Clinical research auditing ensures that the rights, safety, and well being of the study subject have been   protected and the clinical study data are credible. Auditing clinical trial activities provides the strict   oversight of performance with the ultimate goal of having a successful submission and identifying   opportunities for improvement. In this practical course, students learn how to prepare and conduct   audits, write audit observations, create an audit report and review audit report responses. In addition,   students learn how to manage audits by an outside agency. Good Clinical Practice (GCP) guidelines and   regulatory requirements are reviewed along with exploring the concept of a quality system and the   writing of audit program Standard Operating Procedure (SOP). Developing an audit plan is emphasized.   Group discussions and role- playing are used to develop practical audit techniques. This class prepares   a student for an introductory auditing position within clinical research.		
@@ -272,28 +272,28 @@ GMS BT 443: Advanced Molecular Biology Lecture
            			Prereq: GMS BT 413 (Mol Bio) or consent of program director. This course evaluates how cutting-edge   technologies in molecular biology contribute to unraveling gene function and biological processes.   Students read, discuss and present original research papers about transcriptional regulation,   intracellular signaling pathways, cell cycling, apoptosis, cancer, and DNA repair. Technologies discussed   include microarrays, RNA silencing, inducible gene expression systems, reporter gene assays,   mutagenesis, use of green fluorescent protein for life cell imaging, the creation of transgenic and   knockout animals, the Cre/Lox system, and the use of biological databases. Great opportunity to   develop and improve your PowerPoint presentation skills. 		
 
 GMS BT 444: The Business of Biotechnology
-	This course provides students with knowledge pertaining to the scientific, political, legal, and ethical   issues that drive the advancement and innovation in biotechnology. Students learn how the various   drivers of medical biotechnology interact with one another and shape the business and finance of this   industry and impact its growth. Students explore intellectual property, R&amp;D, marketing and other   issues including what shapes the public view of biotechnology. In addition, students develop their   creative thinking and analytical skills and explore their ideas of new vision of biotechnology through   discussions, readings, and presentations. 		
+	This course provides students with knowledge pertaining to the scientific, political, legal, and ethical   issues that drive the advancement and innovation in biotechnology. Students learn how the various   drivers of medical biotechnology interact with one another and shape the business and finance of this   industry and impact its growth. Students explore intellectual property, R&D, marketing and other   issues including what shapes the public view of biotechnology. In addition, students develop their   creative thinking and analytical skills and explore their ideas of new vision of biotechnology through   discussions, readings, and presentations. 		
 
 GMS BT 450: Forensic Toxicology
 	Prereq: one semester of biology, two semesters of chemistry, and BT 405 (Biochemistry).  This  course explores the role of toxicology as a safeguard to prevent injury from environmental  chemicals and as a tool in the investigations of suspicious deaths. Case studies, videos showing  how forensic evidence is used in court and group discussions will accompany lectures and  demonstrations. Students also explore the role of legal and medical communities as well as  governmental agencies in dealing with issues. 		
 
 GMS BT 454: Cell Culture Techniques
-	Prereq:  one semester of biology, two semesters of chemistry, BT 110 (Intro Biomed Lab Sci), BT 208   (Essential Math for Biotech) &amp; BT 342 (Cell Bio). This course gives students a foundation in cell culture   techniques used in modern cell culture labs. Topics  include aseptic technique, freezing and thawing of   cell stocks, passage and maintenance of cells, and culture of adherent and suspension cells. Emphasis is   on practical hands-on experience.  Upon completion of this course, students will be able to understand   and follow basic cell culture protocols.  Laboratory course.		
+	Prereq:  one semester of biology, two semesters of chemistry, BT 110 (Intro Biomed Lab Sci), BT 208   (Essential Math for Biotech) & BT 342 (Cell Bio). This course gives students a foundation in cell culture   techniques used in modern cell culture labs. Topics  include aseptic technique, freezing and thawing of   cell stocks, passage and maintenance of cells, and culture of adherent and suspension cells. Emphasis is   on practical hands-on experience.  Upon completion of this course, students will be able to understand   and follow basic cell culture protocols.  Laboratory course.		
 
 GMS BT 456: Endocrinology
-	Prereq: BT 201 (A&amp;P 1) and BT 202 (A&amp;P 2) or consent of program director. This course presents an in-  depth study of the endocrine system, its glands and tissues. Students will examine the mechanisms of   hormone action and the pathophysiology of endocrine diseases.  Topics include: calcium metabolism,   the gastrointestinal hormones, the pancreatic hormones and metabolic regulation, growth hormones,   thyroid hormones, catecholamines and the sympathetic adrenal system, adrenal cortical steroid   hormones, and hormones of male and female reproduction. Laboratory exercises and clinical   correlations will be incorporated into the course.		
+	Prereq: BT 201 (A&P 1) and BT 202 (A&P 2) or consent of program director. This course presents an in-  depth study of the endocrine system, its glands and tissues. Students will examine the mechanisms of   hormone action and the pathophysiology of endocrine diseases.  Topics include: calcium metabolism,   the gastrointestinal hormones, the pancreatic hormones and metabolic regulation, growth hormones,   thyroid hormones, catecholamines and the sympathetic adrenal system, adrenal cortical steroid   hormones, and hormones of male and female reproduction. Laboratory exercises and clinical   correlations will be incorporated into the course.		
 
 GMS BT 460: Drug Discovery
 	Prereq: One semester of biology, two semesters of chemistry and  BT 405 (Biochem).  This course   covers laboratory technologies utilized in the pre-clinical drug development phase with emphasis on   the issues and challenges of molecular targeted therapeutics, a new paradigm in drug discovery. In   addition, DNA, RNA and protein-based therapeutics, and gene and stem cell therapies are discussed.     Students learn about translational technologies used to identify and validate drug targets, as well as   lead optimization and selection of drug candidates.  A hands-on laboratory component reinforces drug   discovery concepts.		
 
 GMS BT 462: Drug Development
-           			Prereq: One semester of biology, two semesters of chemistry, and BT 405 (Biochem). BT 575 (Design &amp;   Conduct of Clin Trials) recommended. This course explores how drugs developed at the bench   transition to clinical testing and subsequently to the market. The translational approach in drug   development is discussed as well as current translational technologies. Topics include the molecular   and pathophysiological basis of select diseases; drug design; pre-clinical testing; clinical evaluation of   drugs; regulatory requirements for drug approval; and the frontiers of translational research. Lectures   are combined with discussions and presentations.		
+           			Prereq: One semester of biology, two semesters of chemistry, and BT 405 (Biochem). BT 575 (Design &   Conduct of Clin Trials) recommended. This course explores how drugs developed at the bench   transition to clinical testing and subsequently to the market. The translational approach in drug   development is discussed as well as current translational technologies. Topics include the molecular   and pathophysiological basis of select diseases; drug design; pre-clinical testing; clinical evaluation of   drugs; regulatory requirements for drug approval; and the frontiers of translational research. Lectures   are combined with discussions and presentations.		
 
 GMS BT 465: Cell Signaling in Health and Disease
 	Prereq: One semester of biology and two semesters of chemistry, BT 342 (Cell Biology) or BT 413  (Molecular Biology). Many pathological conditions such as diabetes and cancer are caused by  perturbations in signal transduction cascades. These cascades convert extracellular signals into  changes in gene expression and alterations in cell physiology. The proteins that participate in  signal transduction cascades interact in a dynamic, regulated fashion to form multi-protein  complexes that allow information processing. This course aims to present in a comprehensive  manner, the major signal transduction pathways, their cross-talk, as well as their contribution in  maintaining cellular homeostasis.  In addition, we will highlight perturbations of these pathways  that could lead to development of different diseases as well as the molecular logic that underlies  current and future therapies.		
 
 GMS BT 470: Technologies in Clinical Research
-	Prereq: 1-2 years clinical research experience or one of the following-- BT 540 (Reg &amp; Compl, BT 560   (GCP), BT 575 (Design &amp; Conduct of Clin Trials). This course explores the multiple technologies that   govern key aspects of clinical trial management and regulatory filings. Students learn how to identify   the various technologies that are used in the conduct of clinical trials, the regulations that govern their   use, and the issues that companies face in deploying the various tools. Students also examine a sample   company with a clinical portfolio and identify the timing, importance, and integration requirements of   the various technologies with emphasis on strengths and weaknesses associated with the conduct of   the trial. The course also includes an introduction to the use of social media in clinical trials.		
+	Prereq: 1-2 years clinical research experience or one of the following-- BT 540 (Reg & Compl, BT 560   (GCP), BT 575 (Design & Conduct of Clin Trials). This course explores the multiple technologies that   govern key aspects of clinical trial management and regulatory filings. Students learn how to identify   the various technologies that are used in the conduct of clinical trials, the regulations that govern their   use, and the issues that companies face in deploying the various tools. Students also examine a sample   company with a clinical portfolio and identify the timing, importance, and integration requirements of   the various technologies with emphasis on strengths and weaknesses associated with the conduct of   the trial. The course also includes an introduction to the use of social media in clinical trials.		
 
 GMS BT 484: Advanced Cell Culture Techniques
 	Prereq: one semester of biology, two semesters of chemistry,Â&nbsp;BT 454 (Cell Culture) and BT 413 (Mol   Bio) or consent of program director. Cell culture has become an indispensable tool for all areas of   biomedical science.Â&nbsp;In the course, students develop the necessary routine for work in a cell culture lab   by passaging cell lines throughout the course and determining growth characteristics under different   conditions. At the same time, students isolate and analyze biomolecules from these cell lines and   perform experiments using advanced techniques, such as transfections, reporter gene assays, as well as   a variety of optical assays (absorbance, luminescence, and fluorescence assays). At the end of the   course, students communicate their work and results during a poster session. Laboratory course.		
@@ -347,7 +347,7 @@ GMS BY 777: Macromolecular Assemblies II
 		This graduate course covers the concepts of the assembly of biomacromolecules, their structure and stabilizing forces, and biological function as related to structure.  Examples are drawn from assemblies of proteins, lipids, lipoprotein systems, membranes and viruses.  The Fall semester covers protein assemblies, protein-nucleic acid assemblies, and membrane proteins.  The Spring semester covers lipid-protein assemblies.  Semesters are independent and may be taken in either order. 2 cr, Spring sem.		
 
 GMS BY 871: Biophysics Special Topics/Student Seminar
-	A weekly program in which students present seminars on assigned or selected current scientific literature, and learn grant-writing skills. Emphasis is placed on class participation by all students. 2 cr, Fall &amp; Spring sem.		
+	A weekly program in which students present seminars on assigned or selected current scientific literature, and learn grant-writing skills. Emphasis is placed on class participation by all students. 2 cr, Fall & Spring sem.		
 
 GMS BY 872: Biophysics Special Topics/Student Seminar
 	A weekly program in which students present seminars on assigned or selected current scientific literature, and learn grant-writing skills. Emphasis is placed on class participation by all students. 2 cr, Spring sem. 		
@@ -394,8 +394,8 @@ GMS CI 791: Clinical Investigation Practicum
 GMS CI 792: Clinical Investigation Practicum
 	The goal of the practicum experience is to provide the student hands-on exposure to clinical research.  The student will work with a research mentor and will be actively involved in the development, execution, and evaluation of a clinical research project or project(s).  During the practicum, it is expected that the student will be exposed to: clinical research planning, protocol preparation, interaction with Institutional Review Boards, regulatory requirements, selection of subjects/consent process, data collection, study monitoring, and data analysis.  These various activities will most likely require involvement in more than one research project. 2 cr, Spring sem.		
 
-GMS CI 793: Professionalism &amp; Thesis Development
-	The objective of this elective course is to (1) provide CI students with knowledge of and experience in professional standards, and (2) guidance in developing a thesis proposal and writing a masters level thesis. Topics will include professionalism &amp; professional standards including professional communication,formal and scientific writing skills, guidance in developing a research topic, and writing a thesis proposal and thesis.  The primary aim of this course is to help students adjust from an informal writing style to that required for scientific communication, presentations and theses. 2 cr, Summer I		
+GMS CI 793: Professionalism & Thesis Development
+	The objective of this elective course is to (1) provide CI students with knowledge of and experience in professional standards, and (2) guidance in developing a thesis proposal and writing a masters level thesis. Topics will include professionalism & professional standards including professional communication,formal and scientific writing skills, guidance in developing a research topic, and writing a thesis proposal and thesis.  The primary aim of this course is to help students adjust from an informal writing style to that required for scientific communication, presentations and theses. 2 cr, Summer I		
 
 GMS CI 801: Thesis Research
 	2 cr, Fall.		
@@ -407,7 +407,7 @@ GMS FA 700: Professional Skills and Thesis Research Development for Forensic Ant
 	This course is designed to provide students with knowledge and experience in professional skills, including writing skills, professional communication, requesting letter of recommendation, applying to PhD programs, interview skills, and reading and interpreting journal articles.  In addition, considerable class time will be spent on developing a research topic and hypothesis, preparing a thesis proposal and in introduction to data collection, statistical analysis and the use of several instruments and tools commonly used by forensic anthropologists. 3 cr, Fall sem.		
 
 GMS FA 703: Zooarchaeology and Comparative Vertebrate Osteology
-		This course will provide students with an advanced basis for vertebrate zooarchaeological analysis including terminology, data gathering, data analysis, and practical identification skills for both whole and fragmentary vertebrate remains.  These skills will be of direct use in archaeology, paleontology, and forensic anthropology. 4 cr, Fall &amp; Spring sem.		
+		This course will provide students with an advanced basis for vertebrate zooarchaeological analysis including terminology, data gathering, data analysis, and practical identification skills for both whole and fragmentary vertebrate remains.  These skills will be of direct use in archaeology, paleontology, and forensic anthropology. 4 cr, Fall & Spring sem.		
 
 GMS FA 704: Bioarchaeology
 		This course examines how bioarchaeologists utilize skeletal data to reconstruct patterns of human behavior from diverse geographical and temporal contexts.  This course will survey topics such as age and sex estimation, paleodemography, pathology, and trauma, levels of physical activity and evidence for habitual behavior, paleodietary analyses, identity, and ethics.  The goal of this seminar is to ask what bioarchaeology is, understand how t has developed historically, and recognize how it contributes to our understanding of the past. 2 cr, Spring sem.   		
@@ -452,10 +452,10 @@ GMS FA 806: Advanced Human Osteology
 	This course builds on the topics covered in GMS FA 712 Human Osteology by exploring human osteology in greater depth and will include lectures and extensive experience with radiographical material. 4 cr		
 
 GMS FA 807: Taphonomy
-		This course will provide students with an advanced basis for vertebrate taphonomy, both with specific focus upon forensic settings but also with a broader understanding of taphonomic processes covering archaeology, paleoecology, and zooarchaeology. 3 cr, Fall &amp; Spring sem.		
+		This course will provide students with an advanced basis for vertebrate taphonomy, both with specific focus upon forensic settings but also with a broader understanding of taphonomic processes covering archaeology, paleoecology, and zooarchaeology. 3 cr, Fall & Spring sem.		
 
 GMS FA 810: Mortuary Archaeology
-	This course will provide students with an advanced theoretical basis for cross-cultural comparison of mortuary behavior and its archaeological interpretation.  The topics will cover the history of archaeological though in this topics, processual and post-processual theoretical frameworks, the prehistory of burial, regional archaeological studies, modern Western burial practices and symbolism, gender and class difference, trophy taking, cannibalism, beliefs in undead and how they affect mortuary practices, military memorialization and warfare, ethical issues involved in the analysis of cemeteries and human remains, repatriation, and modern homicide investigation of serial killings and body movement. 3 cr, Fall &amp; Spring sem.		
+	This course will provide students with an advanced theoretical basis for cross-cultural comparison of mortuary behavior and its archaeological interpretation.  The topics will cover the history of archaeological though in this topics, processual and post-processual theoretical frameworks, the prehistory of burial, regional archaeological studies, modern Western burial practices and symbolism, gender and class difference, trophy taking, cannibalism, beliefs in undead and how they affect mortuary practices, military memorialization and warfare, ethical issues involved in the analysis of cemeteries and human remains, repatriation, and modern homicide investigation of serial killings and body movement. 3 cr, Fall & Spring sem.		
 
 GMS FA 812: Forensic Entomo
 			
@@ -466,7 +466,7 @@ GMS FC 701: Foundations in Biomedical Sciences I: Protein Structure, Catalysis a
 GMS FC 702: Foundations in Biomedical Sciences II: Structure and Function of the Genome
 	The second module of the Foundations in Biomedical Sciences course will focus on the mechanisms of biological processes that influence the inheritance, regulation, and utilization of genes. Genetic and genomic, molecular, cell biological, and biochemical experimental approaches to understanding these processes will be explored. In addition, we will discuss the possibilities of utilizing these technologies in medical treatments. This course is part of a series of four core integrated courses and additional elective courses aimed towards first year Ph.D. students in the Division of Graduate Medical Sciences. The four cores will be integrated in content and structure, and therefore are intended to be taken as a complete, progressive sequence. 2 cr, Fall sem. 		
 
-GMS FC 703: Foundations in Biomedical Sciences III: Architecture &amp; Dynamics of the Cell
+GMS FC 703: Foundations in Biomedical Sciences III: Architecture & Dynamics of the Cell
 	The third module of the Foundations in Biomedical Sciences course will focus on the movement of proteins and membranes with the cell, the secretory process, the cytoskeletal framework of the cell and the resulting cell-cell interaction and communication with the matrix. Molecular, cell biological, and biochemical experimental approaches to understanding these processes will be explored. In addition, we will discuss the possibilities of utilizing these technologies in medical treatments. This course is part of a series of four core integrated courses and additional elective courses aimed to-wards first year Ph.D. students in the Division of Graduate Medical Science. The four cores will be integrated in content and structure, and therefore are intended to be taken as a complete, progressive sequence. 2 cr, Fall sem. 		
 
 GMS FC 704: Foundations in Biomedical Sciences IV: Mechanisms of Cell Communication
@@ -487,7 +487,7 @@ GMS FC 708: Professional Development Skills
 GMS FC 762: Thinking in Biomedical Research
 	The primary goal of this course is to use the framework of the scientific literature to develop Critical Thinking Skills to generate novel hypotheses with a focus on establishing novel biological mechanisms and pathways. Critical Thinking skills will be used to examine research findings and theories to uncover inconsistencies, bias, or faulty logic. The student will be expected to build on their careful evaluation and analysis of the papers to create a novel hypothesis each week and design a single experiment to address their question. The weekly course discussion will be student led and this will facilitate the development of teaching skills. Generally the papers to be discussed will be an older, classic paper, which established an important new concept and a newer paper that builds on that theme. Grading is based on weekly participation in class discussions, presentations, and a concise final written assignment. 2cr, spring  		
 
-GMS FC 952: Research in Cell &amp; Molecular Biology
+GMS FC 952: Research in Cell & Molecular Biology
 	Var cr		
 
 GMS FS 700: Criminal Law and Ethics
@@ -545,7 +545,7 @@ GMS GC 600: Genetic Diagnosis and Laboratory Methods
 	This interactive course will provide students with the opportunity to learn laboratory techniques and methodologies in a hands-on setting. It will combine didactic lectures with observational rotations in the cytogenetic, molecular, mass spectrometry, maternal serum screening, and research laboratories. 3 cr, Spring sem.		
 
 GMS GC 601: Professional Issues in Genetic Counseling
-	This two-semester course addresses topics related to the development of a competent genetic counselor. Instructional content, combined with group discussions and student presentations, will cover the history and development of the profession, care across the lifespan, and ethical/social issues. 3 cr, Fall &amp; Spring sem. 		
+	This two-semester course addresses topics related to the development of a competent genetic counselor. Instructional content, combined with group discussions and student presentations, will cover the history and development of the profession, care across the lifespan, and ethical/social issues. 3 cr, Fall & Spring sem. 		
 
 GMS GC 602: Clinical Genetics
 	This course will provide information regarding etiology, features, testing, and treatment for a variety of genetic conditions. The topics are arranged by organ system to expand on the material covered in GMC GC603. Clinical case studies and presentations will supplement. 3 cr, Spring sem. 		
@@ -566,7 +566,7 @@ GMS GC 607: Gc Seminar 2
 			
 
 GMS GC 700: Genetic Counseling Fieldwork I
-	The clinical rotations will provide student interaction with a wide array of genetic specialists. Direct patient contact in prenatal, pediatric, adult, cancer, and specialty genetics clinics will allow students to acquire cases for ABGC certification. 2 cr, Fall &amp; Spring sem. 		
+	The clinical rotations will provide student interaction with a wide array of genetic specialists. Direct patient contact in prenatal, pediatric, adult, cancer, and specialty genetics clinics will allow students to acquire cases for ABGC certification. 2 cr, Fall & Spring sem. 		
 
 GMS GC 702: Genetic Counseling Fieldwork II
 	The clinical rotations will provide student interaction with a wide array of genetic specialists. Direct patient contact in prenatal, pediatric, adult, cancer, and specialty genetics clinics will allow students to acquire cases for ABGC certification. 2 cr, SS. 		
@@ -578,7 +578,7 @@ GMS GC 704: Genetic Counseling Fieldwork IV
 	The clinical rotations will provide student interaction with a wide array of genetic specialists. Direct patient contact in prenatal, pediatric, adult, cancer, and specialty genetics clinics will allow students to acquire cases for ABGC certification. 2 cr, Spring sem. 		
 
 GMS GC 711: Advanced Genetic Counseling
-	This two-semester course will cover advanced topics in genetic counseling, including research project design and implementation, personal growth, and professional development. It will build upon the students' previous course work and clinical training to enhance their growing skill set as genetic counselors. 4 cr, Fall &amp; Spring sem. 		
+	This two-semester course will cover advanced topics in genetic counseling, including research project design and implementation, personal growth, and professional development. It will build upon the students' previous course work and clinical training to enhance their growing skill set as genetic counselors. 4 cr, Fall & Spring sem. 		
 
 GMS GC 712: Metabolic Genetics/Advanced Risk Assessment
 	Section A covers screening, prevention, diagnosis, recurrence risk, treatment and prognosis for bio-chemical genetic disorders. Section B emphasizes mathematical techniques necessary for accurate genetic counseling, including empiric risk, probability, linkage, mapping, and Bayesian analysis. Flynn, Campion. 		
@@ -599,7 +599,7 @@ GMS GE 704: Genetics and Genomics Colloquium II
 		The Genetics and Genomics Colloquium will be a highly participatory journal club where the students will be asked to give presentations on cutting edge research with the focus on communication skills rather than scientific content. This approach will allow students to become more comfortable with public speaking while developing the skills necessary for effective communication of scientific ideas. 2 cr, Spring sem. 		
 
 GMS GE 901: Research in Genetics and Genomics
-	Var cr, Fall &amp; Spring sem.		
+	Var cr, Fall & Spring sem.		
 
 GMS IM 600: Bioimaging Foundations
 		The physical, mathematical, and experimental foundations of bioimaging are studied with historical context and are presented in the following sequence: bioimaging, principles, bioimaging mathematics, and bioimaging physics, leading to the study of the different bioimage generation techniques (modalities). 4 cr		
@@ -607,7 +607,7 @@ GMS IM 600: Bioimaging Foundations
 GMS IM 610: Magnetic Resonance: Principles, Methods, and Applications in Biomedical Research
 		This course will provide an overview of the underlying principles of nuclear magnetic resonance (NMR) and the various methodologies used in magnetic resonance imaging (MRI) and magnetic resonance spectroscopy (MRS) with emphasis on methods applied in biomedical research. The course will emphasize the connection between the basic manipulation of the spin system via the sequence of RF and gradient pulses (the pulse sequence) and the information that can be retrieved from the observed object, be it a solution of an isolated protein of the human brain. 4 cr		
 
-GMS IM 620: Bioimaging Theory &amp; Imaging Processing
+GMS IM 620: Bioimaging Theory & Imaging Processing
 		The main theoretical aspects of bioimaging are studied, including image meaning, image generation, image quality (analysis, improvement, and limits), image information content (generation and extraction), and image assisted modeling of biologic systems. Mathematical foundations and basic techniques for digital image processing are studied theoretically as well as in a hands-on approach in the Image Processing Laboratory. Studied topics include linear and matrix algebra, calculus, image processing techniques for image enhancement, image manipulation for structural analysis (segmentation, quantification and measurement), and for three-dimensional visualization and exploration. 4 cr		
 
 GMS IM 630: Methods of Functional Imaging of the Brain
@@ -622,7 +622,7 @@ GMS IM 651: Statistical Analysis of Neuroimaging Data
 GMS IM 655: Directed Studies in Bioimaging
 	Var cr		
 
-GMS IM 660: Radiation Protection &amp; Ethics
+GMS IM 660: Radiation Protection & Ethics
 		Many of the established and state-of-the-art modalities in diagnostic imaging rely upon radiation as the imaging agent. However, radiation in itself is considered a hazard that must be controlled. This course will introduce the fundamentals of understanding radiation, the risks of radiation exposure, and the methods of minimizing its harmful potential while maximizing its beneficial qualities. 2 cr		
 
 GMS IM 670: Special Topics in Bioimaging
@@ -635,7 +635,7 @@ GMS IM 700: Thesis Research I
 		First phase of a four-semester directed research project, the MBI project in the field, select a faculty member in the greater Boston area who will agree to serve as an thesis advisor, identify a line if research and define the specific objectives of a project to be conducted in the following three semesters. 2 cr		
 
 GMS IM 701: Sectional Anatomy for Imaging Professionals
-		Imaging techniques such as computerized tomography (CT) and magnetic resonance imaging (MRI) have seen rapid rates of growth in the past years.  It is vital that professionals working with these imaging tools have a strong working knowledge of gross anatomy to understand the images they are looking at.  This course is designed to give students in the Masters in Bioimaging program the fundamental knowledge they will need of gross anatomy.  The course is taught from medical images such as CT and MRI rather than more traditional methods since this is the source of information the MBI students are expected to encounter in their future.  2 cr, Fall &amp; Spring sem.		
+		Imaging techniques such as computerized tomography (CT) and magnetic resonance imaging (MRI) have seen rapid rates of growth in the past years.  It is vital that professionals working with these imaging tools have a strong working knowledge of gross anatomy to understand the images they are looking at.  This course is designed to give students in the Masters in Bioimaging program the fundamental knowledge they will need of gross anatomy.  The course is taught from medical images such as CT and MRI rather than more traditional methods since this is the source of information the MBI students are expected to encounter in their future.  2 cr, Fall & Spring sem.		
 
 GMS IM 705: Clinical and MR Pathophysiology
 	This course familiarizes the student with common pathologies found in magnetic resonance imaging and the appearance of these pathologies in various imaging protocols and the imaging appearance of a variety of pathological aberrations affecting patients.  The knowledge of disease processes and their signal characteristics on various imaging sequences is essential to ensure the best practices in patient care and quality imaging.  This course will include a high level review of clinical imaging in various disease states. Lectures are geared toward a practical, problem-solving approach to conditions and a systematic approach to interpretation of diagnostic imaging studies will be utilized. 4 cr		
@@ -680,10 +680,10 @@ GMS MA 684: Social History of Chinese Medicine and Healing Traditions
 	Explores intersections between the therapeutic, the medical, and the religious, through the study of healing traditions in China. Includes the role of shamans and the persistence of traditions involving gods, ghosts, and ancestors; the emergence of classical medicine and canonical texts, together with the role played by Scholar- Physicians; the influences of Daoist approaches to healing, longevity, and alchemy; the introduction of Buddhist and Indian healing practices; the effects of an emerging biomedical practice brought in from the West; and the meanings of the revival of Traditional Chinese Medicine in the People's Republic of China. 3 cr, Fall sem. 		
 
 GMS MA 691: Directed Study in Medical Anthropology
-		Var cr, Fall &amp; SSI sem.  		
+		Var cr, Fall & SSI sem.  		
 
 GMS MA 692: Directed Study in Medical Anthropology
-		Var cr, Spring &amp; SSII sem. 		
+		Var cr, Spring & SSII sem. 		
 
 GMS MA 700: History and Theory of Medical Anthropology (Part I)
 	This course introduces the history of the field of medical anthropology and of theoretical orientations related to understanding and analyzing health and medicine in society and culture. Readings will exemplify interpretive strategies applied to health-related experiences, discourse, knowledge, and practice. 3 cr, Fall sem. 		
@@ -718,25 +718,25 @@ GMS MA 786: Final Project Writing Seminar
 GMS MH 701: Counseling Theory
 		This course provides an overview of major theoretical approaches to case conceptualization for clinical mental health counseling, including psychoanalytic, person-centered, cognitive-behavioral, and solution-focused theories. Students will begin to develop an understanding of the process for selecting appropriate clinical mental health counseling interventions, consistent with current research standards. 3 cr, Fall sem.		
 
-GMS MH 702: Professional Orientation &amp; Ethics
+GMS MH 702: Professional Orientation & Ethics
 		This course provides an overview of professional ethics governing the field of clinical mental health counseling, to include ethical decision-making, confidentiality and informed consent, competence and supervision, malpractice, self-care, and medical ethics. The course includes a careful review of the American Counseling Association and American Mental Health Counselors Association Codes of Ethics. The emphasis of the course is on application of ethical principles to ethical dilemmas commonly encountered in the field of clinical mental health counseling. 3 cr, Spring sem.		
 
 GMS MH 703: Counseling Techniques
 		This course provides an overview of the skills and styles needed for building healthy and therapeutic helping relationships, as well as techniques specific to a variety of psychological disorders and problems with living. Emphasis is placed on experiential exercises and clinical mental health counseling-related skills-building, including interviewing and behaviors influencing the helping process. 3 cr, Fall sem.		
 
-GMS MH 704: Group Work Dynamics &amp; Process
+GMS MH 704: Group Work Dynamics & Process
 		This course provides an overview of the basic principles of group counseling including the conception and design of group interventions, group dynamics and components, facilitation approaches, methods for recruiting and intervening with group members, and modalities through which groups are often conducted (i.e. psychodynamic, behavioral, support groups, and skills-based groups for special populations). 3 cr, Fall sem.		
 
 GMS MH 705: Psychopathology
 		This course provides students with an introduction to the etiology, presentation, and treatment of major mental health disorders as classified in the Diagnostic and Statistical Manual of Mental Disorders. Students will become familiar with identifying and differentiating diagnoses across a range of clinical presentations. In addition, there will be discussion of clinical mental health strategies that may be applied when working with a variety of clients, beginning with the first contact and including the therapeutic process and treatment planning. 3 cr, Fall sem.		
 
-GMS MH 706: Social &amp; Cultural Foundations
+GMS MH 706: Social & Cultural Foundations
 		This course provides an overview of the cultural context of relationships, issues, and trends in a multicultural society, in order to enable students to work effectively with people from varied racial, cultural and class backgrounds. The course is organized around the ethical responsibility of counselors to provide clients across a wide range of identities with meaningful and relevant clinical services, and the role of counselors in promoting overall health and wellness across cultures. A contemporary body of professional literature is explored, with an emphasis on self-awareness, knowledge of others, experiential learning activities, and multicultural counseling skills acquisition. 3 cr, Spring sem.		
 
 GMS MH 707: Research and Evaluation
 	This course provides an understanding of research methods, statistical analysis, needs assessment, and program evaluation. There is an emphasis on the importance of research in advancing the counseling profession, varied approaches to research method, and the use of research to inform evidence-based practice. Landmark studies and current articles are used to illustrate applications. Students develop critical thinking skills for examining research information and its use for asking questions that extend knowledge, and for planning studies to address new questions. 3 cr, Spring sem.		
 
-GMS MH 708: Human Growth &amp; Development
+GMS MH 708: Human Growth & Development
 		This course provides an overview of biological, psychological, and sociocultural aspects of individual and family development from conception through elder adulthood in a multicultural context. The course is taught from perspectives of cognitive science and behavioral systems as well as sociological, cultural, life span developmental, and comparative approaches. The focus of the course is on normative development; developmental disorders are used to elucidate normative developmental and adaptive processes in language, cognition, and behavioral self-regulation that will serve to introduce students to behaviors and concepts relevant to clinical mental health counseling practice with both children and adults. 3 cr, Fall sem.		
 
 GMS MH 709: Neuroscience for Mental Health Professionals
@@ -767,7 +767,7 @@ GMS MH 812: Addictions
 		The aim of this course is to provide the necessary knowledge base for understanding and treating addiction. This course places emphasis on acquiring clinically useful knowledge and skills for recognizing and treating substance use disorders. Topics covered in this course include: recognizing drug intoxication and withdrawal, assessment of substance use disorders, Community Reinforcement Approach, Family Systems Treatment Models, Motivational, Enhancement Therapy, Cognitive-Behavioral/Skills Building approaches, 12-Step Recovery/Mutual Support Groups, and Addiction Medicine. 3 cr, Fall sem.		
 
 GMS MH 814: Clinical Research Field Work Seminar
-		This course is designed to provide students with knowledge and experience in the conduct of clinical trials. Students enrolled in this practicum will become part of a clinical research team investigating the efficacy of clinical and/or medication management of a discrete mental health and/or medical disorder. Students will choose a clinical research site of interest from a list of sites currently conducting trials and able to supervise students, to include an addictions medicine research clinic, an HIV risk reduction research clinic, and other medical and/or mental health disorders of interest. Training will include readings, presentations, observation, web-based training, and direct experience working with research participants. Var cr, Fall &amp; Spring sem.		
+		This course is designed to provide students with knowledge and experience in the conduct of clinical trials. Students enrolled in this practicum will become part of a clinical research team investigating the efficacy of clinical and/or medication management of a discrete mental health and/or medical disorder. Students will choose a clinical research site of interest from a list of sites currently conducting trials and able to supervise students, to include an addictions medicine research clinic, an HIV risk reduction research clinic, and other medical and/or mental health disorders of interest. Training will include readings, presentations, observation, web-based training, and direct experience working with research participants. Var cr, Fall & Spring sem.		
 
 GMS MH 901: Orientation to Professional Counseling
 		This course provides an orientation to the clinical mental health counseling profession, including the history and foundations of clinical mental health counseling, developing a professional identity, review of the settings and systems where clinical mental health counselors provide services, emergency preparedness, models of clinical supervision, professional organizations and licensure, clinical mental health counselor advocacy, preparations for practicum and internship training, and self-care strategies.  This course will also provide an overview of the clinical training component of the MHCBM program.  3 cr, Fall sem. 		
@@ -776,13 +776,13 @@ GMS MH 902: Practicum Supervision
 		The practicum is a distinctly-defined and supervised clinical mental health counseling experience that provides direct mental health service work. Students are placed in a wide variety of clinical settings throughout the greater Boston area. Students engage in 240 hours of clinical training over the course of an academic semester where they provide clinical mental health counseling services to a diverse range of clients. In addition to clinical supervision received on site, students meet for weekly group supervision with a faculty member and other student trainees in the MHCBM Program. 3 cr, Spring and Summer sem. 		
 
 GMS MH 921: Internship
-		This course is a distinctly defined and supervised clinical mental health counseling experience during the 2nd year of the program. Students engage in 720 hours of clinical training over the course of the academic year and provide clinical mental health counseling services to a diverse range of clients,  Students are placed in a wide variety of clinical settings throughout the greater Boston area. In addition to clinical supervision received on site, students meet for weekly group supervision with a faculty member and other student trainees in the MHCBM program. Var cr, Fall &amp; Spring sem. 		
+		This course is a distinctly defined and supervised clinical mental health counseling experience during the 2nd year of the program. Students engage in 720 hours of clinical training over the course of the academic year and provide clinical mental health counseling services to a diverse range of clients,  Students are placed in a wide variety of clinical settings throughout the greater Boston area. In addition to clinical supervision received on site, students meet for weekly group supervision with a faculty member and other student trainees in the MHCBM program. Var cr, Fall & Spring sem. 		
 
 GMS MH 922: Internship
-		This course is a distinctly defined and supervised clinical mental health counseling experience during the 2nd year of the program. Students engage in 720 hours of clinical training over the course of the academic year. Students are placed in a wide variety of clinical settings throughout the greater Boston area. In addition to clinical supervision received on site, students meet for weekly group supervision with a faculty member and other student trainees in the MHBM program. Students also complete a program capstone presentation, for which they present and defend the assessment and treatment of a client in accordance with evidence-based theoretical standards. Var cr, Fall &amp; Spring sem. 		
+		This course is a distinctly defined and supervised clinical mental health counseling experience during the 2nd year of the program. Students engage in 720 hours of clinical training over the course of the academic year. Students are placed in a wide variety of clinical settings throughout the greater Boston area. In addition to clinical supervision received on site, students meet for weekly group supervision with a faculty member and other student trainees in the MHBM program. Students also complete a program capstone presentation, for which they present and defend the assessment and treatment of a client in accordance with evidence-based theoretical standards. Var cr, Fall & Spring sem. 		
 
 GMS MH 972: Directed Studies in Mental Health Counseling and Behavioral Medicine
-	Var cr, Fall &amp; Spring sem.		
+	Var cr, Fall & Spring sem.		
 
 GMS MI 701: Concepts in Virology
 	This course is designed to provide a fundamental understanding of viruses and their relationship with their host. It will involve an introduction to virus replication cycles and focus in detail on mechanisms that viruses with different genome structures use to transcribe and replicate them. It will also include lectures on the ways that viruses take advantage of the host translation machinery and subvert antiviral defenses. Aspects of virus pathogenesis and epidemiology will be explored with emphasis in HIV pathogenesis, viral persistence, and the emergence of new viruses. The course will be aimed towards first year Ph.D. students in the Division of Graduate Medical Sciences. The classes will be taught by Microbiology Department faculty with expertise in virology. The content will include a combination of traditional lectures and discussion of primary research papers. Reading materials will include primary literature and suggested review articles, as well as handouts provided by the faculty. Students will be evaluated on their discussion of papers and in a final examination designed to test the students' critical thinking and analytical skills. 2 cr, Fall sem.		
@@ -863,7 +863,7 @@ GMS MS 642: Current Issues in Assisted Reproduction and Infertility
 	A steady rise in infertility has forced medical science to develop Assisted Reproductive techniques. Discussion of cases, media involvement and medical intervention will be part of this course. A comparison of regulations in the US and UK as well as other countries is emphasized. It will look closely at the legal and ethical questions raised by assisted reproduction and infertility as well as look toward the future. Class discussions, student presentations, case analysis and in-class lectures will be supplemented with online activities as well as the composition of a legal brief. Open to all students registered in GMS programs, including health law students. 2 cr, Spring sem. 		
 
 GMS MS 700: Elementary Biostatistics for the Biomedical Sciences
-	Topics include collection, classification, and presentation of descriptive data; the rationale of hypothesis testing; experimental design; t-tests; simple correlation analysis; and analysis of contingency tables. Special attention is directed to the ability to recognize and interpret statistical procedures in articles from current literature. 2 cr, Fall &amp; Spring sem. 		
+	Topics include collection, classification, and presentation of descriptive data; the rationale of hypothesis testing; experimental design; t-tests; simple correlation analysis; and analysis of contingency tables. Special attention is directed to the ability to recognize and interpret statistical procedures in articles from current literature. 2 cr, Fall & Spring sem. 		
 
 GMS MS 703: Medical Neurosciences
 		This course will cover, in an integrated fashion, basic information from all of the disciplines needed to gain a comprehensive understanding of the structure and function of the human central nervous system. This course encompasses a wide variety of Neuroscience disciplines, including Neuroanatomy, Neurophysiology, Neurochemistry, Neuropsychology and Clinical Neurology. This reflects the fact that the study of the brain is an extraordinarily broad field, encompassing many issues and disciplines.  The course is comprised of approximately 54 lectures, 7 laboratory sessions and 5 electrophysiology discussion sections. 4 cr, this is a full-time course that runs from the first week in December to the third week in January.  		
@@ -908,7 +908,7 @@ GMS NU 620: Research, Clinical and Public Policy Applications in Medical Nutriti
 		The course will focus on disease states related to nutrition and diet, with a major focus on clinical nutrition research. It will: 1. Acquaint students with current concepts and methods in clinical nutrition research, familiarize students with clinical research and how investigators approach nutrition-related questions in their specific fields to answer questions related to disease states, 3. Evaluate the role of nutrition as it relates to development, prevention and therapy of major diseases, including cardiovascular, diabetes, gastrointestinal, osteoporosis, obesity, and cancer. 4 cr, Fall sem. 		
 
 GMS NU 700: Medical Nutrition Sciences Seminar
-	Students develop and present a research seminar. 2 cr, Fall &amp; Spring sem. 		
+	Students develop and present a research seminar. 2 cr, Fall & Spring sem. 		
 
 GMS NU 755: Molecular, Biochemical and Physiologic Bases of Nutrition I: Energy Balance and Micronutrients
 		This is the first semester of a 2 semester sequence (that can be taken in either order) that focuses on the Physiological, Biochemical and Molecular Bases of Nutrition. This semester will cover concepts of essential nutrients and methods for determining their requirements (DRIs), body composition, nutrition and growth, energy expenditure, regulation of energy intake, vitamins and macro-mineral metabolism (Ca, P) and micronutrients. Functions and roles of micronutrients in signaling from gene to whole organism will be discussed. Implications for nutrient requirements through the life cycle and in health and disease will be addressed. A discussion session will teach students to critically evaluate cutting-edge and seminal papers addressing each topic, and introduce students to state of the art research approaches and methodologies - basic (cell and molecular), clinical and epidemiological. Weekly writing assignments on the papers will provide experience and hone skills with scientific writing. 4 cr, Fall sem. 		
@@ -983,13 +983,13 @@ GMS PA 700: Basic and Experimental Pathology
 		Basic principles of pathology are presented through lectures (students attend the GMS PA 600 lectures), and computer-assisted instruction. Related research articles and basic histology are discussed in small group session that complement the lectures. 4 cr, Spring sem.		
 
 GMS PA 710: Principles of Basic and Applied Pathology
-	Pathology is the study of disease causes and consequences.  Want more in-depth information about pathology and other faculty research interests?  Invited GMS faculty present their current research projects in class to give you an overview of the breadth and depth of research opportunities on campus.   Students also attend weekly Pathology Department seminars and learn how to write summaries.  Did you know the most important parts of a grant application are summaries?  This course will prepare you for lab rotations and help guide your decisions regarding thesis research directions. Remick &amp; Stearns-Kurosawa, 2 cr, Fall sem.		
+	Pathology is the study of disease causes and consequences.  Want more in-depth information about pathology and other faculty research interests?  Invited GMS faculty present their current research projects in class to give you an overview of the breadth and depth of research opportunities on campus.   Students also attend weekly Pathology Department seminars and learn how to write summaries.  Did you know the most important parts of a grant application are summaries?  This course will prepare you for lab rotations and help guide your decisions regarding thesis research directions. Remick & Stearns-Kurosawa, 2 cr, Fall sem.		
 
 GMS PA 800: Pathology Seminar
-		Weekly research seminar presented by faculty, students, and guests. Prior to each seminar, research papers authored by the speaker will be sent to graduate students and faculty to provide additional background material. Slack, 2 cr, Fall &amp; Spring sem.		
+		Weekly research seminar presented by faculty, students, and guests. Prior to each seminar, research papers authored by the speaker will be sent to graduate students and faculty to provide additional background material. Slack, 2 cr, Fall & Spring sem.		
 
 GMS PA 801: Special Topics in Pathology
-		Detailed examination of one specific area of research each term, presented in readings, discussions, and lectures. Presents significant background information, current knowledge, research approaches, and laboratory methodology in each area. Special Topics Include: pathology driven by inflammation, protein modification and molecular basis of human diseases, and mechanisms of transmembrane signaling. Varying Pathology Faculty, Course Directors. 2 cr, Fall &amp; Spring sem.		
+		Detailed examination of one specific area of research each term, presented in readings, discussions, and lectures. Presents significant background information, current knowledge, research approaches, and laboratory methodology in each area. Special Topics Include: pathology driven by inflammation, protein modification and molecular basis of human diseases, and mechanisms of transmembrane signaling. Varying Pathology Faculty, Course Directors. 2 cr, Fall & Spring sem.		
 
 GMS PA 810: Seminars in Business of Science
 		The objective of this course is to introduce students to the business realities of modern biomedical science which is patent-driven and product-oriented.  Lectures from invited speakers from the biomedical, legal, regulatory and business worlds will provide basic terminology and perspective to give an overview for how an idea in the laboratory is translated into a marketable commodity.  Topics will include explanation and discussion of intellectual property, medical clinical trials, federal and institutional regulatory mechanisms, logistics of creating and sustaining research collaborations, writing a business plan, patent fundamentals and similar. Keystone speakers who have bridged the science and business experiences will present their stories of inspiration, travails and success. 2 cr., Pass/Fail, Fall sem.		
@@ -1013,7 +1013,7 @@ GMS PH 740: Medical Physiology
 	(MED MS 134) This course covers transport mechanisms, molecular biology and mechanics of muscle, blood, and the function and regulation of the cardiovascular, gastrointestinal, respiratory and renal systems, with emphasis on integrative aspects. We use a lecture format, a few laboratory sessions and numerous small group discussions of problems and clinical cases that encourage conceptual understanding of course material. 6 cr, Spring sem. 		
 
 GMS PH 745: Special Topics in Physiology
-		Current and classical papers in a given area of physiology are assigned for reading and later discussion with students. Topics include mechanics of muscle, cell motility, membrane transport, sensory physiology, and instrumentation in physiological research. Var cr, Fall &amp; Spring sem. 		
+		Current and classical papers in a given area of physiology are assigned for reading and later discussion with students. Topics include mechanics of muscle, cell motility, membrane transport, sensory physiology, and instrumentation in physiological research. Var cr, Fall & Spring sem. 		
 
 GMS PH 748: Endocrinology
 		(MED MS 128) This is an integrated treatment of human endocrinology: biosynthesis of hormones, regulation, receptor interactions, and physiological effects. The course is presented in lecture format and in small group discussion sessions where clinical cases are used to exemplify the mechanisms of endocrine function. 2 cr, Spring sem. 		
@@ -1030,14 +1030,14 @@ GMS PH 941: Research Physiology
 GMS PH 942: Research Physiology
 	Var cr		
 
-GMS PM 701: Molecular Neurobiology &amp; Pharmacology I
+GMS PM 701: Molecular Neurobiology & Pharmacology I
 	This course introduces the student to the principles of Pharmacology in the context of Neurobiology.  Emphasis is placed on the theoretical foundations of pharmacological methods in neurobiology and application of these methods to basic research and drug discovery.  2 cr, Fall sem.		
 
-GMS PM 702: Molecular Neurobiology &amp; Pharmacology II
+GMS PM 702: Molecular Neurobiology & Pharmacology II
 	This course introduces the student to the principles of Pharmacology in the context of Neurobiology.  Emphasis is placed on translational pharmacology and the application of pharmacology to therapeutics, particularly to neurological disorders. 2 cr, Spring sem.		
 
 GMS PM 710: Laboratory Techniques in Modern Pharmacology
-		Supervised laboratory rotation emphasizing modern research techniques in molecular, cellular, and behavioral pharmacology. Problems of collection, summary, and interpretation of data are addressed. 2 cr, Fall &amp; Spring sem. 		
+		Supervised laboratory rotation emphasizing modern research techniques in molecular, cellular, and behavioral pharmacology. Problems of collection, summary, and interpretation of data are addressed. 2 cr, Fall & Spring sem. 		
 
 GMS PM 730: Introduction to Medical Pharmacology
 		Principles of pharmacology are covered and several major classes of therapeutic agents, with attention to their mechanisms of action. Issues of current and future concern in medical pharmacology are addressed including problems of drug abuse, the ethics of human experimentation, the pricing of new drugs, and new biotechnological approaches to drug design and development. 4 cr, Spring sem. 		

@@ -73,8 +73,8 @@ COM FT 304: Film Industry
 COM FT 307: Media Evolution
 			
 
-COM FT 310: Storytelling for Film &amp; Television
-           			Required of all undergraduate students in Film &amp; Television.  An introduction to the art and craft of storytelling through the moving image.  Particular emphasis will be given to writing short scripts.  Topics covered include character development and narrative structure as it applies to shorts, features and episodic television.		
+COM FT 310: Storytelling for Film & Television
+           			Required of all undergraduate students in Film & Television.  An introduction to the art and craft of storytelling through the moving image.  Particular emphasis will be given to writing short scripts.  Topics covered include character development and narrative structure as it applies to shorts, features and episodic television.		
 
 COM FT 325: Crtve Tv Produc
 	This course description is currently under construction.		
@@ -328,7 +328,7 @@ COM CM 345: Public Relations in Nonprofit Settings
 COM CM 380: Theory and Process of Communication
 	Focuses on the processes and consequences of both interpersonal and mass communication and how they differ. Discussions include the nature of verbal and nonverbal communication and the role of language in cognitive processing. Review of the factors that have shaped the nature of contemporary media, their content, and their audiences. Examines theories of the process and effects of mass communication and how these related to the goals and activities of professional communicators. 		
 
-COM CM 405: New &amp; Traditional Media Strategies
+COM CM 405: New & Traditional Media Strategies
            			Examines media planning, buying, and sales as performed by advertising agencies, clients and the media.  Research sources providing data on media audiences and product usage are evaluated.  Examines contemporary trends in communications media and their effects on advertisers. 4 cr. either sem.		
 
 COM CM 409: Persuasion and Public Opinion
@@ -340,7 +340,7 @@ COM CM 410: NSAC
 COM CM 411: Art Direction
            			A course for students interested in pursuing a creative career as an art director. Through real-world assignments, creative critiques, lectures and case studies, students strengthen conceptual and visual decision-making skills required to create effecive advertising communication. This is a hands-on, idea driven course. Assignment work product will include ideas executed in a range of media as well as package design and corporate identity. Experience using the industry graphics software will be helpful. 4 cr. On Demand		
 
-COM CM 412: Consumer Insight &amp; Account Planning
+COM CM 412: Consumer Insight & Account Planning
            			Explores how to arrive at consumer insights that lead to better advertising and promotion.  The course focuses on the set of skills necessary to create breakthrough advertising, including qualitative research, observation, interviewing skills, mapping, and presentation tools.  Students learn to write effective, creative briefs.  4 cr. 2nd sem		
 
 COM CM 416: Strategic Brand Solutions
@@ -501,7 +501,7 @@ COM FT 573: BUTV
 COM FT 574: BUTV
 	Provides students with the opportunity to develop and produce television programs for closed-circuit and, possibly, cable-access distribution, and to produce low-budget videos for nonprofit organizations. 		
 
-COM FT 575: Renoir&amp;Beunel
+COM FT 575: Renoir&Beunel
 			
 
 COM FT 576: Globalnewwaves
@@ -583,7 +583,7 @@ COM JO 702: Advanced Science Writing
 	Students learn to research, organize, and write a major magazine article of publishable quality. Projects for the course, with appropriate revision, may be submitted in lieu of a separate master's project. 		
 
 COM JO 703: Magazine Writing
-	This is a course in long-form magazine journalism such as appears in the New Yorker, Harpers, Rolling Stone, Outside, and the New York Times Magazine, among other publications. The class reads and analyzes superb examples of the genre and reports, researches and writes long-from pieces of its own. Among the issues addressed in depth are: intensive, in-depth reporting and research; the writing process; the use of fine language and the development of a personal voice; the importance of a point of view; structuring long pieces; digging deeply into subjects in order to truly enlighten readers. Also discussed is a reporting and writing strategy rooted in the methods of anthropology and ethnography.  Other issues: the importance of complexity, the organic development of characters, the nature of narrative, the depiction of otherness and difference; the use of empathy; ?mindful? journalism; and the development of relationships with sources through deep preparation, emotional connectedness, and conversation (instead of Q &amp; A).		
+	This is a course in long-form magazine journalism such as appears in the New Yorker, Harpers, Rolling Stone, Outside, and the New York Times Magazine, among other publications. The class reads and analyzes superb examples of the genre and reports, researches and writes long-from pieces of its own. Among the issues addressed in depth are: intensive, in-depth reporting and research; the writing process; the use of fine language and the development of a personal voice; the importance of a point of view; structuring long pieces; digging deeply into subjects in order to truly enlighten readers. Also discussed is a reporting and writing strategy rooted in the methods of anthropology and ethnography.  Other issues: the importance of complexity, the organic development of characters, the nature of narrative, the depiction of otherness and difference; the use of empathy; ?mindful? journalism; and the development of relationships with sources through deep preparation, emotional connectedness, and conversation (instead of Q & A).		
 
 COM JO 704: Online Journalism for Graduate Students
 	Required of journalism majors. This course introduces students to reporting,     writing and creating multi-platform journalism. Students will gain practical  experience producing and editing news and features for delivery via digital  platforms.  This class will critique and analyze news sites and examine how  multiple elements such as text, photo's audio, video, social media and  interactive graphics are currently used in multimedia reporting. 4 cr, either  sem.		
@@ -666,7 +666,7 @@ COM FT 515: International TV
 COM FT 517: Television Management
 		The responsibilities that television and multi-platform content managers face. Research, programming, revenue, regulatory issues and ethics are all explored. Lectures, readings, case studies, and visits from professionals develop the student's understanding of a variety of managerial functions and the challenges these functions entail. 4 cr. Fall/spring		
 
-COM FT 520: Tv Theor &amp; Crit
+COM FT 520: Tv Theor & Crit
            					
 
 COM FT 522: Writing Television Situation Comedy Scripts
@@ -687,7 +687,7 @@ COM CM 527: Strategic Creative Development
 COM CM 528: Organizational Communication
 	Develops both theoretical understanding and practical knowledge of internal organizational communication. Topics include motivation, leadership, organizational climate, formal and informal channels, management, and relational communication in an organizational context. Organizational communication assessment and change is emphasized. 		
 
-COM CM 529: Design &amp; New Media II
+COM CM 529: Design & New Media II
            			Professional opportunities in the communication industry are constantly evolving and require graduates who are innovative, visually literate, and flexible with technology solutions.  In this course, students develop advanced  design and new media skills while participating in multi-media lectures, critiques, and hands-on software skill building. While implementing idividualized creative processes, students develop strategic projects from concept through to functional new media campaigns. The projects are continually updated to prepare students for emerging opportunities in the communications industry. 		
 
 COM CM 535: Political Campaigning
@@ -729,7 +729,7 @@ COM CM 709: Corporate Public Affairs
 COM CM 710: Communication Theory
 	Examines origins, nature, and consequences of human communication. Reviews nature of verbal, nonverbal, and other types of group communication issues. Traces the development of speech, writing, printing, broadcasting, and digital media. Reviews theories of the process and effects of mass communication and how these theories apply to the work of media professionals. 		
 
-COM CM 712: Consumer Insight &amp; Account Planning
+COM CM 712: Consumer Insight & Account Planning
 		Explores how to arrive at consumer insights that lead to better advertising and promotion.  The course focuses on the set of skills necessary to create breakthrough advertising, including qualitative research, observation, interviewing skills, mapping and presentation tools. Students learn to write effective, creative briefs. 4 cr. 1st sem		
 
 COM CM 713: Law of Communication
@@ -739,8 +739,8 @@ COM CM 714: Oral Presentation
 COM FT 307: Media Evolution
 			
 
-COM FT 310: Storytelling for Film &amp; Television
-           			Required of all undergraduate students in Film &amp; Television.  An introduction to the art and craft of storytelling through the moving image.  Particular emphasis will be given to writing short scripts.  Topics covered include character development and narrative structure as it applies to shorts, features and episodic television.		
+COM FT 310: Storytelling for Film & Television
+           			Required of all undergraduate students in Film & Television.  An introduction to the art and craft of storytelling through the moving image.  Particular emphasis will be given to writing short scripts.  Topics covered include character development and narrative structure as it applies to shorts, features and episodic television.		
 
 COM FT 325: Crtve Tv Produc
 	This course description is currently under construction.		
@@ -824,7 +824,7 @@ COM FT 515: International TV
 COM FT 517: Television Management
 		The responsibilities that television and multi-platform content managers face. Research, programming, revenue, regulatory issues and ethics are all explored. Lectures, readings, case studies, and visits from professionals develop the student's understanding of a variety of managerial functions and the challenges these functions entail. 4 cr. Fall/spring		
 
-COM FT 520: Tv Theor &amp; Crit
+COM FT 520: Tv Theor & Crit
            					
 
 COM FT 522: Writing Television Situation Comedy Scripts
@@ -1082,7 +1082,7 @@ COM JO 881: Science video Production
 COM JO 954: Directed Study: Broadcast Journalism
 		Faculty and students work together in a tutorial situation to produce a project of  mutual interest.		
 
-COM JO 955: Directed Study: General &amp; Online Journalism
+COM JO 955: Directed Study: General & Online Journalism
 		Faculty and students work together in a tutorial situation to produce a project of  mutual interest.		
 
 COM JO 718: Magazine Workshop
@@ -1124,7 +1124,7 @@ COM JO 736: TV News Magazine
 COM JO 737: Journalism Internship
 	Required broadcast, print, magazine, online or photo internship under supervision  of faculty.		
 
-COM JO 738: Business &amp; Economics Internship
+COM JO 738: Business & Economics Internship
 	Required internship under supervision of faculty.		
 
 COM JO 754: Science Journalism Internship
@@ -1139,7 +1139,7 @@ COM JO 881: Science video Production
 COM JO 954: Directed Study: Broadcast Journalism
 		Faculty and students work together in a tutorial situation to produce a project of  mutual interest.		
 
-COM JO 955: Directed Study: General &amp; Online Journalism
+COM JO 955: Directed Study: General & Online Journalism
 		Faculty and students work together in a tutorial situation to produce a project of  mutual interest.		
 
 COM FT 567: Film Styles
@@ -1154,7 +1154,7 @@ COM FT 573: BUTV
 COM FT 574: BUTV
 	Provides students with the opportunity to develop and produce television programs for closed-circuit and, possibly, cable-access distribution, and to produce low-budget videos for nonprofit organizations. 		
 
-COM FT 575: Renoir&amp;Beunel
+COM FT 575: Renoir&Beunel
 			
 
 COM FT 576: Globalnewwaves
@@ -1205,7 +1205,7 @@ COM FT 707: Introduction to Video Production
 COM CM 715: Public Relations in Nonprofit Settings
 		Principles and practices of public relations in social, health, educational, and public service institutions. Analysis of the structure, publics, public relations, communication, and marketing programs unique to nonprofit agencies. Attention to recruitment and management of volunteers, fund-raising, budgeting, and intra- and inter-agency relationships. 		
 
-COM CM 716: New &amp; Traditional Media Strategies
+COM CM 716: New & Traditional Media Strategies
 		Examines media planning, buying and sales as performed by advertising agencies, clients and the media.  Research sources providing data on media audiences and product usuage are evaluated.  Examines contemporary trends in communication media and their effects on advertisers.  4 cr, either sem.		
 
 COM CM 717: Fundamentals of Creative Development
@@ -1244,7 +1244,7 @@ COM CM 734: Governmental Public Affairs
 COM CM 742: Media Relations
 		Students learn publicity techniques used in media of mass communication, including daily and weekly newspapers, magazines, radio, television, and film. Practitioners invited to class to present publicity problems. Case study method and workshop sessions with informal discussion. 		
 
-COM CM 743: New Media &amp; Public Relations
+COM CM 743: New Media & Public Relations
 		Explores the effects of new media on the fundamental theories, models, and practices of public relations.  Studies how websites, blogs, citizen journalism, social media, direct-to-consumer communication, podcasting, viral marketing, and other technology-enabled changes are affecting interpersonal, small group, and mass media relationships.  Also covers and uses the interactive tools that are re-defining the practice of public relations.  The course combines lecture, discussion, guest speakers, case study, and research to help students uncover and appreciate the power and potential of interactive media. 4 cr, both semesters.  (taught with COM CM443)		
 
 COM CM 750: Advanced Writing for Media Professionals
@@ -1315,7 +1315,7 @@ COM JO 431: Video Enterprise Reporting
 
 COM JO 435: Radio Newsroom Online
 COM JO 703: Magazine Writing
-	This is a course in long-form magazine journalism such as appears in the New Yorker, Harpers, Rolling Stone, Outside, and the New York Times Magazine, among other publications. The class reads and analyzes superb examples of the genre and reports, researches and writes long-from pieces of its own. Among the issues addressed in depth are: intensive, in-depth reporting and research; the writing process; the use of fine language and the development of a personal voice; the importance of a point of view; structuring long pieces; digging deeply into subjects in order to truly enlighten readers. Also discussed is a reporting and writing strategy rooted in the methods of anthropology and ethnography.  Other issues: the importance of complexity, the organic development of characters, the nature of narrative, the depiction of otherness and difference; the use of empathy; ?mindful? journalism; and the development of relationships with sources through deep preparation, emotional connectedness, and conversation (instead of Q &amp; A).		
+	This is a course in long-form magazine journalism such as appears in the New Yorker, Harpers, Rolling Stone, Outside, and the New York Times Magazine, among other publications. The class reads and analyzes superb examples of the genre and reports, researches and writes long-from pieces of its own. Among the issues addressed in depth are: intensive, in-depth reporting and research; the writing process; the use of fine language and the development of a personal voice; the importance of a point of view; structuring long pieces; digging deeply into subjects in order to truly enlighten readers. Also discussed is a reporting and writing strategy rooted in the methods of anthropology and ethnography.  Other issues: the importance of complexity, the organic development of characters, the nature of narrative, the depiction of otherness and difference; the use of empathy; ?mindful? journalism; and the development of relationships with sources through deep preparation, emotional connectedness, and conversation (instead of Q & A).		
 
 COM JO 704: Online Journalism for Graduate Students
 	Required of journalism majors. This course introduces students to reporting,     writing and creating multi-platform journalism. Students will gain practical  experience producing and editing news and features for delivery via digital  platforms.  This class will critique and analyze news sites and examine how  multiple elements such as text, photo's audio, video, social media and  interactive graphics are currently used in multimedia reporting. 4 cr, either  sem.		
@@ -1368,7 +1368,7 @@ COM JO 736: TV News Magazine
 COM JO 737: Journalism Internship
 	Required broadcast, print, magazine, online or photo internship under supervision  of faculty.		
 
-COM JO 738: Business &amp; Economics Internship
+COM JO 738: Business & Economics Internship
 	Required internship under supervision of faculty.		
 
 COM JO 754: Science Journalism Internship

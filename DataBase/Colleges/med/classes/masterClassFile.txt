@@ -13,7 +13,7 @@ MED MS 125: Introduction to Clinical Medicine
 MED MS 126: Human Behavior in Medicine
 	This course is designed to provide knowledge of human behavior important to the treatment of patients and their families. While knowledge of disease and its treatment are integral to medical care, understanding the patient as a person who suffers from an illness with his or her own beliefs about the cause and treatment of the illness is part of being an effective physician. Physicians who have an understanding of the aging and dying process can then help patients and their families deal with medical realities. Medical staff who have an awareness of the dynamics of addictions and domestic violence can hone their intuition as to what might assist the individual and the individual's spouse, children and elderly dependents.  In addition, understanding the patient's sexuality gives a more complete medical understanding of the individual.		
 
-MED MS 127: Biochemistry &amp; Cell Biology
+MED MS 127: Biochemistry & Cell Biology
 	Biochemistry and Cell Biology provides a great opportunity to study the underlying cellular, biochemical and molecular reactions in the human body. These disciplines allow students to learn how the body works and how alterations in these reactions can lead to a disease state. Such knowledge is essential to becoming an outstanding physician. From a clinical point of view, Biochemistry and Cell Biology provide not only a description of how the physiological system works, but also a foundation for understanding how to improve its operation and potential development of therapeutic and enhanced patient management strategies.		
 
 MED MS 129: Essentials of Public Health
@@ -43,18 +43,18 @@ MED MS 218: Integrated Problems 2B
 MED MS 220: 221: 223: 224: 225: 226: Disease and Therapy (DRx)
 	MED MS 220 221: 223: 224: 225: 226:  The Disease and Therapy (DRx) course integrates the study of disease, including pathophysiology, infectious etiologies, and pharmacologic management in an organ-based context. DRx begins with an introduction to the fundamental concepts of Microbiology, Pathology and Pharmacology in the Foundations Module and is followed by the Infectious Diseases Module in which the microbiological basis of infectious diseases and their pharmacologic treatment is addressed. Subsequent modules address diseases of the cardiovascular system, lungs, kidneys, joints and connective tissue, gastrointestinal system, endocrine and reproductive organs, BLOOD, skin, and nervous system, and psychiatric disorders. Oncology is taught in conjunction with Hematology. Health Law, Policy, and Management Systems are also covered.  		
 
-MED MS 221: Dis.&amp; Therapy 2
+MED MS 221: Dis.& Therapy 2
 			
 
-MED MS 223: Dis.&amp; Therapy 3
+MED MS 223: Dis.& Therapy 3
 			
 
-MED MS 224: Dis.&amp; Therapy 4
+MED MS 224: Dis.& Therapy 4
 			
 
-MED MS 225: Dis.&amp; Therapy 5
+MED MS 225: Dis.& Therapy 5
 			
 
-MED MS 226: Dis.&amp; Therapy 6
+MED MS 226: Dis.& Therapy 6
 			
 
