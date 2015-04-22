@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Parse
 
 class MapViewController: UIViewController {
 
@@ -14,6 +15,12 @@ class MapViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        let testObject = PFObject(className: "TestObject")
+        testObject["foo"] = "yarn"
+        testObject.saveInBackgroundWithBlock { (success: Bool, error: NSError?) -> Void in
+            println("Object has been saved.")
+        }
         
     }
 

@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import Parse
+import Bolts
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -21,6 +23,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         GMSServices.provideAPIKey(googleMapsApiKey)
         
+        Parse.setApplicationId("sBDQGvCDgvc62yut2HSiCcflMw6D0wDedPrqnSTC",
+            clientKey: "fMg9mwXpzs74oQ8awOGH5Tx0ixm5FtziO98qz6EK")
+    
         // Override point for customization after application launch.
         return true
     }
