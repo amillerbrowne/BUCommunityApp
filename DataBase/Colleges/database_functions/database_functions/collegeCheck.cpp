@@ -13,8 +13,8 @@ string collegeCheck(string action, string file_type){
     string result = "Invalid Input";
     char collegeNameArray[3];
     string collegeName;
-    string v[] = {"med","cfa","cgs","com","eng","gms","khc","law","met","sar","sdm","sed","sha","smg","sph","ssw","sth"};
-    vector <string> validColleges(v,v + 17);
+    string v[] = {"med","cfa","cgs","com","eng","grs","gms","khc","law","met","sar","sdm","sed","sha","smg","sph","ssw","sth"};
+    vector <string> validColleges(v,v + 18);
     
     cout << "what college will you be " + action + " the " + file_type + " of? (use abbreviation): ";
     cin >> collegeNameArray;

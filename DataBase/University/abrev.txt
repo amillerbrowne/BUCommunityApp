@@ -1,0 +1,392 @@
+CAS College of Arts & Sciences
+
+AA African American Studies
+AH Art History
+AL Applied Linguistics
+AM American & New England Studies
+AN Anthropology
+AR Archaeology
+AS Astronomy
+BB Biochemistry & Molecular Biology
+BF Bioinformatics
+BI Biology
+CC Core Curriculum
+CG Modern Greek
+CH Chemistry
+CL Classical Studies
+CS Computer Science
+EC Economics
+EE Environmental Studies (School of Field Studies only)
+EI Editorial Studies
+EN English
+ES Earth Sciences
+FR French Studies (International Programs only)
+FY First Year Experience
+GE Geography & Environment
+HI History
+HU Humanities
+ID Interdisciplinary Studies
+IP International Programs
+IR International Relations
+IT Italian Studies (International Programs only)
+LA Hausa
+LC Chinese
+LD Amharic, Igbo, Mandinka/Bambara, Setswana/Sesotho, isiZulu, Other African Languages and
+LE Linguistics
+LE Swahili
+LF French
+LG German
+LH Hebrew
+LI Italian
+LJ Japanese
+LK Korean
+LL Language Learning
+LM isiXosha
+LN Hindi-Urdu
+LO Yoruba
+LP Portuguese
+LR Russian
+LS Spanish
+LT Turkish
+LU Pulaar
+LW Wolof
+LX Linguistics
+LY Arabic
+LZ Persian
+MA Mathematics & Statistics
+MR Marine Science
+MS Medical Science
+MU Music
+NE Neuroscience
+NG Nigerien Studies (International Programs only)
+NS Natural Sciences
+PH Philosophy
+PO Political Science
+PS Psychology
+PY Physics
+QU Spanish Studies (Quito only)
+RN Religion
+RO Romance Studies
+SO Sociology
+SP Special Programs
+SS Social Sciences
+WR Writing
+WS Women’s, Gender, & Sexuality Studies
+XL Comparative Literature
+
+CFA College of Fine Arts
+
+AR Visual Arts
+TH Theatre
+FA CFA Courses
+ML Applied Lessons
+MU Music
+PS Child Growth & Development
+
+CGS College of General Studies
+
+HU Humanities
+MA Mathematics
+NS Natural Science
+RH Rhetoric
+SS Social Science
+
+COM College of Communication
+
+CM ass Communication, Advertising & Public Relations
+CO Core Courses
+FT Film & Television
+IP International Programs
+JO Journalism
+
+ENG College of Engineering
+
+BE Biomedical Engineering
+BF Bioinformatics
+EC Electrical & Computer Engineering
+EK Engineering Core
+ME Mechanical Engineering
+MS Materials Science & Engineering
+SE Systems Engineering
+
+GMS Graduate Medical Sciences
+
+AN Anatomy and Neurobiology
+BC Healthcare Emergency Management
+BI Biochemistry
+BN Behavioral Neuroscience
+BY Biophysics
+CI Clinical Investigation
+CM Cell & Molecular Biology
+FA Forensic Anthropology
+FS Biomedical Forensic Sciences
+GC Genetic Counseling
+GE Genetics and Genomics
+IM Bioimaging
+MA Medical Anthropology & Cross Cultural Practice
+MH Mental Health Counseling and Behavioral Medicine
+MI Microbiology
+MM Molecular Medicine
+MS Medical Sciences
+NU Nutrition & Metabolism
+OB Oral Biology
+OH Oral Health Sciences
+PA Pathology & Laboratory Medicine
+PH Physiology
+PM Pharmacology & Experimental Therapeutics
+
+GRS Graduate School of Arts & Sciences (see CAS for departmental codes)
+
+AA African American Studies
+AM  American & New England Studies
+AN  Anthropology
+AR  Archaeology
+AS  Astronomy
+BF  Bioinformatics
+BI  Biology
+BS  Biostatistics
+CE  Chemistry
+CL  Classical Studies
+CN  Cognitive & Neural Systems
+CS  Computer Science
+CW  Creative Writing
+ES  Earth & Environment
+EC  Economics
+EI  Editorial Studies
+EN  English
+HI  History
+AH  History of Art & Architecture
+IR  International Relations (See Pardee School)
+LS  Latin American Studies
+LA  Linguistics, Applied
+MA  Mathematics & Statistics
+MB  Molecular Biology, Cell Biology & Biochemistry
+MU  Music
+NE  Neuroscience
+PH  Philosophy
+PY  Physics
+PW  Playwriting
+PO  Political Science
+PS  Psychological & Brain Sciences
+RE  Religious Studies
+RS  Romance Studies
+SO  Sociology
+SW  Sociology & Social Work
+
+GSM Graduate School of Management (see SMG for departmental codes)
+
+LAW School of Law
+
+BK Banking
+JD Juris Doctor
+XB Business Law
+TX Tax Law
+
+MED School of Medicine
+MET Metropolitan College
+
+AD Administrative Sciences
+AH Art History
+AM American & New England Studies
+AN Anthropology
+AR Arts Administration
+AT Actuarial Science
+BI Biology
+BT Biomedical Laboratory & Clinical Sciences
+CH Chemistry
+CJ Criminal Justice
+CM Communications/Advertising
+CS Computer Science
+EC Economics
+EN English
+ES Earth Sciences
+HC Health Communication
+HI History
+HU Humanities
+IS Interdisciplinary Studies
+LD Leadership
+LF French
+LS Spanish
+MA Mathematics, Statistics
+MG Management
+ML Gastronomy
+PH Philosophy
+PO Political Science
+PS Psychology
+PY Physics
+RN Religion
+SO Sociology
+UA Urban Affairs
+
+OTP Officer Training Program (ROTC)
+
+AS Aerospace Studies (Air Force)
+MS Military Science (Army)
+NS Naval Science (Navy)
+
+PDP Physical Education & Recreation
+
+AQ Aquatics
+CS Court Sports
+DA Dance
+ER Emergency Medical Response
+FT Fitness
+GS General Sports
+HE Health Education
+MA Martial Arts
+MB Mind and Body
+NT Nutrition
+OE Outdoor Exercise
+PE Physical Education
+SK Skating
+WF Rowing/Sailing
+
+SAR College of Health & Rehabilitation Sciences: Sargent College
+
+AT Athletic Training
+HP Health Professions
+HS Health Sciences
+OT Occupational Therapy
+PT Physical Therapy
+RS Rehabilitation Sciences
+SH Speech, Language & Hearing Sciences
+
+SDM Henry M. Goldman School of Dental Medicine
+
+EN Endodontics
+GD General Dentistry
+MB Molecular Biology
+MD Dental Medicine
+OB Oral Biology
+OD Oral Diagnosis
+OP Operative Dentistry
+OR Orthodontics & Dentofacial Orthopedics
+OS Oral & Maxillofacial Surgery
+PA Oral & Maxillofacial Pathology
+PD Pediatric Dentistry
+PE Periodontology
+PH Dental Public Health
+PR Prosthodontics
+RS Restorative Dentistry
+
+SED School of Education
+
+AP Policy, Planning & Administration
+BI English as a Second Language
+CE Counseling & Counseling Psychology
+CH Childhood Education
+CL Latin & Classical Studies Education
+CT Curriculum & Teaching
+DE Deaf Studies
+DS Human Development & Education
+EC Early Childhood Education
+ED Required across all programs (undergraduate or graduate level as noted)
+EM Educational Media & Technology
+EN English & Language Arts Education
+HE Health Education
+HR Human Resource Education
+IE International Education
+LC Independent Study
+LR Reading (formerly RE Reading Education)
+LS Language & Literacy Studies
+LW Writing
+ME Mathematics Education
+PE Physical Education & Coaching
+RS Research
+SC Science Education
+SE Special Education
+SO Social Studies Education
+TL Teaching English to Speakers of Other Languages (TESOL) & Modern Foreign Language
+Education
+
+SHA School of Hospitality Administration
+
+HF Hospitality
+
+SMG School of Management
+
+AC Accounting
+DS Doctoral Dissertation Section
+ES Executive Skills
+FE Finance
+FI MSIM
+HM Health Sector
+IM International Management
+IS Management Information Systems
+LA Law
+MF Math Finance
+MK Marketing
+PL Markets, Public Policy & Law
+OB Organizational Behavior
+OM Operations & Technology Management
+QM Quantitative Modeling
+SI Strategy & Innovation
+SM Management Core
+
+SPH School of Public Health
+
+BS Biostatistics
+EH Environmental Health
+EP Epidemiology
+HC International Health Practice (Philippines)
+IH International Health
+LW Health Law, Bioethics & Human Rights
+MC Maternal & Child Health
+PH General Public Health
+PM Health Policy & Management
+SB Social & Behavioral Sciences
+
+SSW School of Social Work
+
+CP Clinical Practice
+FE Field Education
+HB Human Behavior
+MP Macro Practice
+SP Social Work Practice
+SR Social Work Research
+WP Social Welfare Policy
+
+STH School of Theology
+
+TA Sacred Music and the Arts
+TC Preaching, Worship, Administration, Evangelism, and Spirituality
+TE Religious Education
+TF Interdisciplinary Studies
+TH History of Christianity
+TJ Practical Theology
+TM Mission Studies
+TN New Testament
+TO Hebrew Scripture
+TR Sociology of Religion
+TS Ethics
+TT Philosophy and Systematic Theology
+TY Pastoral Psychology and Psychology of Religion
+TZ Research Methods and Professional Development
+
+KHC University Honors College
+
+AS Astronomy
+BI Biology
+EC Economics
+EK Engineering
+EN English
+FT Film & Television
+HC Honors College
+HI History
+HS Health Sciences
+MA Math
+MU Music
+PH Public Health
+PY Physics
+RH Rhetoric
+RN Religion
+RO Romance Studies
+SM Management
+ST UHC Studio
+UC UHC Seminar
+VA Visual Arts
+XL Comparative Literature
+
+MED School of Medicine
+
+MS Medical School 

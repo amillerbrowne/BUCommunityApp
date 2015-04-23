@@ -22,16 +22,12 @@ class MapViewController: UIViewController {
         testObject["classCode"] = "EC330"
         testObject["classTitle"] = "Applied Algorithms for Engineers"
         testObject["classDescription"] = "This class is hard, that's all you need to know."
-        
-        
-        
-        
+
         testObject.saveInBackgroundWithBlock { (success: Bool, error: NSError?) -> Void in
             println("Object has been saved.")
         }
         
     }
-
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.

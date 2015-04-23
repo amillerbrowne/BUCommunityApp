@@ -9,11 +9,14 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <vector>
 using namespace std;
 
 #ifndef GAI_App_compressClassText_h
 #define GAI_App_compressClassText_h
 
 void compress(string,int,int);
+void compressAll();
+void addCommas();
 
 #endif
